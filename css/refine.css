@@ -1,0 +1,316 @@
+/* ==========================================================================
+   Refinements after re-reading the design notes (Apple, Mintlify, Wired, Claude):
+   - the accent colour is only for things you can click and for the active state
+   - flat cards: hairlines instead of shadows
+   - serif headings in the reading view, never heavy
+   - typography and accessibility details
+   - navigation helpers: chapter chooser, page box, citation bar
+   Loaded last.
+   ========================================================================== */
+
+/* --- accent colour only for interactive / active things ------------------------------- */
+.portal-badge, .topic-badge, .proof-badge, .ch-number-badge, .reader-ch-num, .lightbox-badge,
+.res-ch, .verse-badge, .quran-verse-card .verse-badge, .proof-tag {
+  color: var(--ink-muted);
+}
+.portal-title span { color: inherit; }
+.topic-proof-tag, .ch-proofs-tag, .book-pub-badge.primary {
+  color: var(--ink-secondary);
+  background: var(--surface-tertiary);
+  border-color: var(--hairline);
+}
+.drop-cap-paragraph::first-letter { color: var(--ink); }
+.quran-verse-card { border-left-color: var(--ink-subtle); }
+body.show-pages .reader-body .pb::before { color: var(--ink-muted); border-top-color: var(--hairline-strong); }
+@media (max-width: 1239px) {
+  body.show-pages .reader-body .pb::before { color: var(--ink-muted); background: var(--surface-tertiary); }
+}
+
+/* --- flat cards ----------------------------------------------------------------------- */
+.topic-card, .proof-card, .book-pub-card, .about-card, .reader-sidebar, .portal-toolbar,
+.category-group, .reader-table-wrap {
+  box-shadow: none;
+}
+.topic-card:hover, .proof-card:hover {
+  transform: none;
+  box-shadow: none;
+  border-color: var(--ink-subtle);
+}
+button:active:not(:disabled), .btn-primary:active, .btn-primary-pill:active { transform: scale(0.97); }
+
+/* --- serif headings in the reading view (regular weight, like a printed book) ---------- */
+.reader-title {
+  font-family: var(--font-reader);
+  font-weight: 500;
+  font-size: 2.7rem;
+  line-height: 1.12;
+  letter-spacing: -0.02em;
+  font-optical-sizing: auto;
+}
+.reader-body h2.subheading-title {
+  font-family: var(--font-reader);
+  font-weight: 550;
+  font-size: 1.6rem;
+  line-height: 1.25;
+  letter-spacing: -0.01em;
+  font-optical-sizing: auto;
+}
+@media (max-width: 700px) {
+  .reader-title { font-size: 1.85rem; }
+  .reader-body h2.subheading-title { font-size: 1.4rem; }
+}
+
+/* --- typography details --------------------------------------------------------------- */
+.reader-body p, .reader-list-item .li-text, .verse-text, .footnote-text { text-wrap: pretty; }
+.reader-table, .reader-table td, .reader-table th { font-variant-numeric: tabular-nums lining-nums; }
+.reader-body { font-variant-numeric: proportional-nums lining-nums; }
+[data-theme="dark"] .embedded-proof-card img,
+[data-theme="dark"] .proof-card img { filter: brightness(0.9) contrast(1.03); }
+
+/* loose line spacing (setting) */
+body .leading-loose .reader-body { line-height: 1.95; }
+body .leading-loose .reader-body p { margin-bottom: 1.3em; }
+
+/* --- accessibility ---------------------------------------------------------------------- */
+:where(a, button, input, select, textarea, [tabindex]):focus-visible { outline: 2px solid var(--primary); outline-offset: 2px; }
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto !important; }
+  *, *::before, *::after { animation-duration: 0.01ms !important; animation-iteration-count: 1 !important; transition-duration: 0.01ms !important; }
+}
+
+/* --- paragraph links: a target scrolls in below the sticky bars ---------------------------- */
+[data-s] { scroll-margin-top: 130px; }
+
+/* --- chapter chooser + page box (contents column) ------------------------------------------- */
+.rs-goto { padding: 0 0 0.9rem; margin-bottom: 0.9rem; border-bottom: 1px solid var(--hairline); }
+.rs-goto-label { display: block; margin: 0 0 0.3rem; font-size: 0.72rem; font-weight: 500; color: var(--ink-muted); }
+.rs-select, .rs-input {
+  width: 100%;
+  height: 38px;
+  padding: 0 0.6rem;
+  border: 1px solid var(--hairline-strong);
+  border-radius: 8px;
+  background: var(--canvas);
+  color: var(--ink);
+  font: 500 0.85rem var(--font-sans);
+  text-overflow: ellipsis;
+}
+.rs-page-form { margin-top: 0.75rem; }
+.rs-page-row { display: flex; gap: 0.4rem; }
+.rs-go {
+  flex: 0 0 auto;
+  height: 38px;
+  padding: 0 0.95rem;
+  border-radius: 8px;
+  background: var(--ink);
+  color: var(--canvas);
+  font: 600 0.82rem var(--font-sans);
+}
+.rs-action {
+  width: 100%;
+  height: 40px;
+  border: 1px solid var(--hairline-strong);
+  border-radius: 8px;
+  background: var(--canvas);
+  color: var(--ink);
+  font: 500 0.875rem var(--font-sans);
+}
+.rs-action:hover { background: var(--surface-tertiary); }
+.rs-row-last { padding-bottom: 0.25rem; }
+.hide-on-narrow { display: inline-flex; }
+@media (max-width: 899px) { .hide-on-narrow { display: none; } }
+.reader-icon-btn:disabled { opacity: 0.35; cursor: default; }
+.reader-tools-group { gap: 0.4rem; }
+
+/* --- citation bar (shown when text of the book is selected) ---------------------------------- */
+.cite-bar {
+  position: absolute;
+  z-index: 500;
+  display: flex;
+  gap: 0.2rem;
+  padding: 0.3rem;
+  background: var(--ink);
+  border-radius: 10px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.25);
+}
+.cite-bar[hidden] { display: none; }
+.cite-bar button {
+  color: var(--canvas);
+  font: 500 0.8rem var(--font-sans);
+  padding: 0.45rem 0.75rem;
+  border-radius: 7px;
+  white-space: nowrap;
+}
+.cite-bar button:hover { background: rgba(255, 255, 255, 0.16); }
+.cite-bar.cite-bottom {
+  position: fixed;
+  left: 50%;
+  top: auto;
+  transform: translateX(-50%);
+  bottom: calc(1rem + env(safe-area-inset-bottom));
+}
+
+.pb { scroll-margin-top: 140px; }
+.search-result-item .res-ch { color: var(--ink-muted); }
+
+
+/* ==========================================================================
+   Width of the text on a computer (Aa -> Textbreite), two choices:
+   - Normal       : the classic centred column (default, ~70 characters, no class on <body>)
+   - Ganze Breite : left-anchored like a novel: the text runs from the contents column to the
+                    right edge of the screen (very long lines, for a very large monitor).
+                    Pictures stay centred in the text.
+   ========================================================================== */
+@media (min-width: 1101px) {
+  :root {
+    --rl-font: clamp(1.15rem, 0.864rem + 0.4286vw, 1.6rem);
+    --rl-pad: clamp(1.5rem, 3vw, 5rem);
+  }
+  body.reader-full .reader-view .container {
+    max-width: none;
+    margin-left: 0;
+    margin-right: auto;
+    padding-left: var(--rl-pad);
+    padding-right: 2.5rem;
+  }
+  body.reader-full .reader-layout {
+    font-size: calc(var(--rl-font) * var(--reader-scale, 1));
+    grid-template-columns: 16rem minmax(0, 1fr);
+    justify-content: start;
+    gap: 4rem;
+  }
+  body.reader-full .reader-content-wrap { max-width: none; margin: 0; }
+  body.reader-full .reader-body { --base-size: var(--rl-font); line-height: 1.62; }
+  body.reader-full .reader-title { font-size: calc(var(--rl-font) * 2.1); }
+  body.reader-full .reader-body h2.subheading-title { font-size: calc(var(--rl-font) * 1.32); }
+  body.reader-full .embedded-proof-card { width: min(100%, 40em); margin: 1.9rem auto 2.1rem; }
+  body.reader-full .proof-card-media img { max-height: 30em; }
+
+  /* the site menu follows the same left edge while a chapter is open */
+  body.reader-full:has(#reader-view.active) .site-header .container {
+    max-width: none;
+    margin-left: 0;
+    margin-right: auto;
+    padding-left: var(--rl-pad);
+    padding-right: 2.5rem;
+  }
+  /* "Nur Text": only the column */
+  body.reader-full.zen-mode .reader-layout { grid-template-columns: minmax(0, 1fr); }
+}
+
+/* --- footer: list of all chapters (also read by search engines) ---------------------------------- */
+.footer-chapters { margin: 2rem 0 0; padding-top: 1.5rem; border-top: 1px solid var(--hairline); }
+.footer-chapters ol { list-style: none; margin: 0.75rem 0 0; padding: 0; columns: 3 18rem; column-gap: 2rem; }
+.footer-chapters li { break-inside: avoid; margin: 0 0 0.45rem; font-size: 0.82rem; line-height: 1.4; }
+.footer-chapters a { color: var(--ink-secondary); }
+.footer-chapters a:hover { color: var(--ink); text-decoration: underline; }
+
+/* ==========================================================================
+   Reading layout (design basis: the 3-column prose layout of the Mintlify/Claude notes)
+   - from 1200px the text column sits exactly in the middle of the screen
+   - the contents list ("Unterthemen") moves to the right margin, without a white card
+   - the left margin stays free for the printed page numbers
+   - below 1200px the contents list is the "Inhalt" sheet, like on a phone
+   ========================================================================== */
+@media (min-width: 1200px) {
+  body:not(.reader-full):not(.zen-mode) .reader-layout {
+    grid-template-columns: minmax(0, 1fr) minmax(0, 41.5rem) minmax(0, 1fr);
+    column-gap: 2.5rem;
+    justify-content: stretch;
+  }
+  body:not(.reader-full):not(.zen-mode) .reader-content-wrap { grid-column: 2; grid-row: 1; }
+  body:not(.reader-full):not(.zen-mode) .reader-sidebar {
+    grid-column: 3; grid-row: 1;
+    justify-self: start;
+    width: min(15.5rem, 100%);
+  }
+  /* contents list: quiet, no white box */
+  body:not(.zen-mode) .reader-sidebar {
+    background: transparent;
+    border: 0;
+    border-left: 1px solid var(--hairline);
+    border-radius: 0;
+    box-shadow: none;
+    padding: 0 0 0 1.25rem;
+    max-height: calc(100vh - 150px);
+    scrollbar-width: thin;
+    scrollbar-color: var(--hairline-strong) transparent;
+  }
+  .reader-sidebar .subhead-nav-link { color: var(--ink-muted); background: transparent; border-radius: 0; padding: 0.35rem 0.4rem 0.35rem 0.75rem; margin-left: -1.25rem; border-left: 2px solid transparent; padding-left: 1.05rem; }
+  .reader-sidebar .subhead-nav-link:hover { color: var(--ink); background: transparent; font-weight: 400; }
+  .reader-sidebar .subhead-nav-link.active { color: var(--ink); background: transparent; font-weight: 600; border-left-color: var(--primary); }
+  .reader-sidebar .rs-select, .reader-sidebar .rs-input { background: transparent; }
+}
+
+@media (max-width: 1199px) {
+  .reader-layout { grid-template-columns: minmax(0, 41.5rem); gap: 2rem; justify-content: center; }
+  .reader-sidebar { display: none; }
+  .hide-on-wide { display: inline-flex; }
+  body.contents-open .reader-sidebar {
+    display: block !important;
+    position: fixed;
+    top: 7.2rem;
+    left: 0.75rem;
+    right: 0.75rem;
+    max-width: 34rem;
+    margin-inline: auto;
+    max-height: calc(100dvh - 9rem);
+    z-index: 600;
+    background: var(--surface);
+    border: 1px solid var(--hairline-strong);
+    border-radius: var(--radius-lg);
+    padding: 1.1rem 1.25rem;
+    box-shadow: var(--shadow-modal);
+    overflow-y: auto;
+  }
+}
+
+/* --- background "Papier": a warmer, darker page for long reading (Aa -> Hintergrund) ----------------------- */
+html:not([data-theme="dark"]) body.bg-paper {
+  --canvas: #ece2cc;
+  --surface: #f3ead6;
+  --surface-secondary: #eee4cf;
+  --surface-tertiary: #e3d8bf;
+  --nav-glass: rgba(236, 226, 204, 0.88);
+  --hairline: rgba(80, 58, 25, 0.14);
+  --hairline-strong: rgba(80, 58, 25, 0.26);
+  --ink-muted: #6a6254;
+}
+
+/* ==========================================================================
+   Focus mode ("Fokus"): only the book is left - no site menu, no top bar, no contents list, no footer.
+   Only a thin progress line and a quiet "Fokus beenden" button remain.
+   ========================================================================== */
+.reader-tool-btn svg { flex: none; }
+#focus-btn { display: inline-flex; align-items: center; gap: 0.4rem; }
+#focus-btn[aria-pressed="true"] { background: var(--ink); color: var(--canvas); border-color: var(--ink); }
+@media (max-width: 600px) { .hide-on-phone { display: none !important; } }
+
+.focus-exit { display: none; }
+body.zen-mode .site-header,
+body.zen-mode .reader-sidebar,
+body.zen-mode .site-footer,
+body.zen-mode .resume-banner { display: none !important; }
+body.zen-mode .reader-top-bar {
+  position: fixed; top: 0; left: 0; right: 0; height: 3px; padding: 0;
+  background: transparent; border: 0; box-shadow: none; backdrop-filter: none; -webkit-backdrop-filter: none; z-index: 700;
+}
+body.zen-mode .reader-top-bar .reader-bar-inner { display: none; }
+body.zen-mode .reading-progress-bar { top: 0; bottom: auto; height: 3px; }
+body.zen-mode .reader-layout { margin-top: 3.5rem; grid-template-columns: minmax(0, 41.5rem); justify-content: center; }
+body.zen-mode .focus-exit {
+  position: fixed; top: 0.9rem; right: 0.9rem; z-index: 710;
+  display: inline-flex; align-items: center; gap: 0.45rem;
+  min-height: 40px; padding: 0 0.95rem;
+  font: 500 0.8rem var(--font-sans); color: var(--ink-secondary);
+  background: color-mix(in srgb, var(--surface) 88%, transparent);
+  -webkit-backdrop-filter: blur(10px); backdrop-filter: blur(10px);
+  border: 1px solid var(--hairline-strong); border-radius: var(--radius-pill);
+  opacity: 0.55; transition: opacity 0.2s ease; cursor: pointer;
+}
+body.zen-mode .focus-exit:hover, body.zen-mode .focus-exit:focus-visible { opacity: 1; color: var(--ink); }
+@media (max-width: 600px) {
+  body.zen-mode .focus-exit span { display: none; }
+  body.zen-mode .focus-exit { width: 44px; padding: 0; justify-content: center; top: calc(0.7rem + env(safe-area-inset-top)); }
+}
+@media print { .focus-exit { display: none !important; } }

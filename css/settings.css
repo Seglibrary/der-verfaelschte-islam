@@ -1,0 +1,137 @@
+/* ==========================================================================
+   Reading settings ("Aa" panel) and the wide reading mode for desktop screens.
+   Buttons follow the Claude DESIGN.md: 8px corners, 14px/500 type, 36px round icon
+   button with a hairline border; the accent colour stays rare (the switches are ink).
+   ========================================================================== */
+
+.rs-wrap { position: relative; }
+
+.reader-icon-btn {
+  width: 36px;
+  height: 36px;
+  border-radius: 9999px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  background: var(--surface);
+  color: var(--ink);
+  border: 1px solid var(--hairline-strong);
+  font-family: var(--font-reader);
+  font-size: 1rem;
+  font-weight: 600;
+  letter-spacing: -0.02em;
+  transition: background 0.15s ease, border-color 0.15s ease;
+}
+.reader-icon-btn:hover,
+.reader-icon-btn[aria-expanded="true"] { background: var(--surface-tertiary); border-color: var(--ink-muted); }
+.reader-icon-btn:focus-visible { outline: 2px solid var(--primary); outline-offset: 2px; }
+
+.reader-settings {
+  position: absolute;
+  right: 0;
+  top: calc(100% + 0.6rem);
+  width: min(20rem, calc(100vw - 1.5rem));
+  z-index: 350;
+  padding: 0.5rem 1rem 0.75rem;
+  background: var(--surface);
+  border: 1px solid var(--hairline-strong);
+  border-radius: 12px;
+  box-shadow: 0 16px 44px rgba(40, 28, 12, 0.18), 0 2px 6px rgba(40, 28, 12, 0.08);
+  font-family: var(--font-sans);
+  font-size: 0.875rem;
+  font-weight: 500;
+  color: var(--ink);
+}
+.reader-settings[hidden] { display: none; }
+
+.rs-row { padding: 0.75rem 0; border-bottom: 1px solid var(--hairline); }
+.rs-row:last-child { border-bottom: 0; }
+.rs-label { display: block; margin-bottom: 0.5rem; font-size: 0.78rem; font-weight: 500; color: var(--ink-muted); }
+
+/* size: − 100 % + */
+.rs-stepper { display: flex; align-items: center; justify-content: space-between; gap: 0.5rem; }
+.rs-stepper button {
+  width: 4.2rem;
+  height: 36px;
+  border: 1px solid var(--hairline-strong);
+  border-radius: 8px;
+  background: var(--canvas);
+  color: var(--ink);
+  font-family: var(--font-reader);
+  font-size: 1.05rem;
+  font-weight: 600;
+}
+.rs-stepper button small { font-family: var(--font-sans); font-size: 0.7em; margin-left: 1px; }
+.rs-stepper button:hover:not(:disabled) { background: var(--surface-tertiary); }
+.rs-stepper button:disabled { opacity: 0.35; cursor: default; }
+.rs-stepper span { flex: 1; text-align: center; font-variant-numeric: tabular-nums; color: var(--ink-secondary); }
+
+/* two-way choices */
+.rs-seg { display: grid; grid-template-columns: 1fr 1fr; gap: 0.5rem; }
+.rs-opt {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.25rem;
+  padding: 0.55rem 0.4rem 0.5rem;
+  border: 1px solid var(--hairline-strong);
+  border-radius: 8px;
+  background: var(--canvas);
+  color: var(--ink-secondary);
+  font-size: 0.78rem;
+  font-weight: 500;
+  line-height: 1.2;
+  text-align: center;
+}
+.rs-opt:hover { background: var(--surface-tertiary); }
+.rs-opt[aria-pressed="true"] {
+  border-color: var(--ink);
+  box-shadow: inset 0 0 0 1px var(--ink);
+  background: var(--surface-secondary);
+  color: var(--ink);
+}
+.rs-sample { font-size: 1.45rem; line-height: 1.1; color: var(--ink); }
+.rs-serif { font-family: var(--font-reader); font-weight: 500; }
+.rs-sans { font-family: var(--font-sans); font-weight: 500; }
+
+/* width pictograms: a page with short / long lines */
+.rs-icon { width: 2.1rem; height: 1.45rem; display: block; border: 1.5px solid var(--ink-muted); border-radius: 3px; position: relative; }
+.rs-icon::before, .rs-icon::after {
+  content: ""; position: absolute; top: 0.28rem; bottom: 0.28rem; background:
+    repeating-linear-gradient(to bottom, var(--ink-muted) 0 1.5px, transparent 1.5px 4px);
+}
+.rs-icon-normal::before { left: 0.55rem; right: 0.55rem; }
+.rs-icon-normal::after { display: none; }
+.rs-icon-wide::before { left: 0.2rem; right: 0.2rem; }
+.rs-icon-wide::after { display: none; }
+
+/* switches */
+.rs-row-switch { display: flex; align-items: center; justify-content: space-between; gap: 1rem; }
+.rs-row-switch .rs-label { margin: 0; font-size: 0.875rem; color: var(--ink); }
+.rs-switch {
+  flex: 0 0 auto;
+  width: 38px;
+  height: 22px;
+  border-radius: 9999px;
+  background: var(--hairline-strong);
+  position: relative;
+  transition: background 0.15s ease;
+}
+.rs-switch::after {
+  content: "";
+  position: absolute;
+  top: 3px; left: 3px;
+  width: 16px; height: 16px;
+  border-radius: 50%;
+  background: #fff;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.3);
+  transition: transform 0.15s ease;
+}
+.rs-switch[aria-checked="true"] { background: var(--ink); }
+.rs-switch[aria-checked="true"]::after { transform: translateX(16px); }
+.rs-switch:focus-visible, .rs-opt:focus-visible, .rs-stepper button:focus-visible { outline: 2px solid var(--primary); outline-offset: 2px; }
+
+/* pictograms of the two width options */
+.rs-icon-normal::before { left: 0.75rem; right: 0.75rem; }
+.rs-icon-full::before { left: 0.08rem; right: 0.08rem; }
+.rs-icon::after { display: none; }

@@ -1,0 +1,949 @@
+{
+  "number": 21,
+  "title": "Die Frau im Islam des Koran - Die Frau in dem verfälschten Islam",
+  "title_fn": null,
+  "category": {
+    "id": "frau",
+    "title_de": "Die Frau im Islam des Koran"
+  },
+  "word_count": 8236,
+  "reading_time_min": 46,
+  "subheadings": [
+    "Erfundene Hadithe und aus Rechtsschulen stammende Behauptungen über Frauen",
+    "Der Eintritt einer Frau ins Paradies hängt vom Ehemann ab",
+    "Die Rettung von zahnlosen, unattraktiven und alten Ehemännern",
+    "Der akzeptable Typus von Frau ist der Schaf-Typus",
+    "Sprechen mit Kieselstein im Mund",
+    "Eine Frau kann sowohl Vorbeterin (Imamin), Gebetsausruferin (Muezzin) als auch Staatsoberhäuptin sein",
+    "Erfundene Hadithe, um Sex zu sichern",
+    "Einige Missverständnisse über den Koran in Bezug auf Frauen",
+    "Polygamie in der Geschichte",
+    "Verzehr von Hundefleisch und Polygamie",
+    "Die Ehen des Propheten Muhammad",
+    "Die Zeugenaussage von Frauen",
+    "Die Frage des Schlagens von Frauen",
+    "Die Frau und das Erbrecht",
+    "Wir sind die Kleidung des anderen",
+    "Die Stellung der Frau im Islam des Koran"
+  ],
+  "proof_images_count": 10,
+  "proof_images": [
+    {
+      "post_id": 633,
+      "chapter": 21,
+      "post_title": "Kapitel 21: Die Frau im Islam des Koran - Die Frau in dem verfälschten Islam",
+      "slug": "die-frau-im-islam-des-koran-die-frau-in-dem-verfaelschten-islam",
+      "url": "assets/images/proofs/die-herabwuerdigung-der-frau-in-der-tradition.webp",
+      "filename": "die-herabwuerdigung-der-frau-in-der-tradition.webp",
+      "caption": "Die Herabwürdigung der Frau in der Tradition",
+      "local_path": "assets/images/proofs/die-herabwuerdigung-der-frau-in-der-tradition.webp",
+      "caption_de": "Die Herabwürdigung der Frau in der Tradition",
+      "post_title_de": "Kapitel 21: Die Frau im Islam des Koran - Die Frau in dem verfälschten Islam",
+      "after_idx": 0,
+      "after_anchor": "Es wäre keine Übertreibung zu sagen, dass die traditionelle Religionsauslegung d",
+      "placement": "medium",
+      "label": "Die Herabwürdigung der Frau in der Tradition"
+    },
+    {
+      "post_id": 633,
+      "chapter": 21,
+      "post_title": "Kapitel 21: Die Frau im Islam des Koran - Die Frau in dem verfälschten Islam",
+      "slug": "die-frau-im-islam-des-koran-die-frau-in-dem-verfaelschten-islam",
+      "url": "assets/images/proofs/kritik-an-patriarchalen-hadith-konstruktionen.webp",
+      "filename": "kritik-an-patriarchalen-hadith-konstruktionen.webp",
+      "caption": "Kritik an patriarchalen Hadith-Konstruktionen",
+      "local_path": "assets/images/proofs/kritik-an-patriarchalen-hadith-konstruktionen.webp",
+      "caption_de": "Kritik an patriarchalen Hadith-Konstruktionen",
+      "post_title_de": "Kapitel 21: Die Frau im Islam des Koran - Die Frau in dem verfälschten Islam",
+      "after_idx": 8,
+      "after_anchor": "„Ihr verflucht oft und seid euren Männern undankbar. Ich habe keine anderen Wese",
+      "placement": "high",
+      "label": "Kritik an patriarchalen Hadith-Konstruktionen"
+    },
+    {
+      "post_id": 633,
+      "chapter": 21,
+      "post_title": "Kapitel 21: Die Frau im Islam des Koran - Die Frau in dem verfälschten Islam",
+      "slug": "die-frau-im-islam-des-koran-die-frau-in-dem-verfaelschten-islam",
+      "url": "assets/images/proofs/quellenscan-hadithe-die-frauen-zur-mehrheit-der-hoelle-erklaeren.webp",
+      "filename": "quellenscan-hadithe-die-frauen-zur-mehrheit-der-hoelle-erklaeren.webp",
+      "caption": "Quellenscan: Hadithe, die Frauen zur Mehrheit der Hölle erklären",
+      "local_path": "assets/images/proofs/quellenscan-hadithe-die-frauen-zur-mehrheit-der-hoelle-erklaeren.webp",
+      "caption_de": "Quellenscan: Hadithe, die Frauen zur Mehrheit der Hölle erklären",
+      "post_title_de": "Kapitel 21: Die Frau im Islam des Koran - Die Frau in dem verfälschten Islam",
+      "after_idx": 11,
+      "after_anchor": "„Oh Frauen! Gebt Almosen und bittet oft um Vergebung, denn ich sah, dass die mei",
+      "placement": "high",
+      "label": "Hadithe, die Frauen zur Mehrheit der Hölle erklären"
+    },
+    {
+      "post_id": 633,
+      "chapter": 21,
+      "post_title": "Kapitel 21: Die Frau im Islam des Koran - Die Frau in dem verfälschten Islam",
+      "slug": "die-frau-im-islam-des-koran-die-frau-in-dem-verfaelschten-islam",
+      "url": "assets/images/proofs/verurteilung-von-gewalt-gegen-frauen.webp",
+      "filename": "verurteilung-von-gewalt-gegen-frauen.webp",
+      "caption": "Verurteilung von Gewalt gegen Frauen",
+      "local_path": "assets/images/proofs/verurteilung-von-gewalt-gegen-frauen.webp",
+      "caption_de": "Verurteilung von Gewalt gegen Frauen",
+      "post_title_de": "Kapitel 21: Die Frau im Islam des Koran - Die Frau in dem verfälschten Islam",
+      "after_idx": 14,
+      "after_anchor": "„Eine Frau, die stirbt, während ihr Ehemann mit ihr zufrieden ist, wird ins Para",
+      "placement": "high",
+      "label": "Verurteilung von Gewalt gegen Frauen"
+    },
+    {
+      "post_id": 633,
+      "chapter": 21,
+      "post_title": "Kapitel 21: Die Frau im Islam des Koran - Die Frau in dem verfälschten Islam",
+      "slug": "die-frau-im-islam-des-koran-die-frau-in-dem-verfaelschten-islam",
+      "url": "assets/images/proofs/wuerde-des-alters-im-koran.webp",
+      "filename": "wuerde-des-alters-im-koran.webp",
+      "caption": "Würde des Alters im Koran",
+      "local_path": "assets/images/proofs/wuerde-des-alters-im-koran.webp",
+      "caption_de": "Würde des Alters im Koran",
+      "post_title_de": "Kapitel 21: Die Frau im Islam des Koran - Die Frau in dem verfälschten Islam",
+      "after_idx": 20,
+      "after_anchor": "Die Rettung von zahnlosen, unattraktiven und alten Ehemännern",
+      "placement": "high",
+      "label": "Würde des Alters im Koran"
+    },
+    {
+      "post_id": 633,
+      "chapter": 21,
+      "post_title": "Kapitel 21: Die Frau im Islam des Koran - Die Frau in dem verfälschten Islam",
+      "slug": "die-frau-im-islam-des-koran-die-frau-in-dem-verfaelschten-islam",
+      "url": "assets/images/proofs/verurteilung-von-gewalt-gegen-frauen-2.webp",
+      "filename": "verurteilung-von-gewalt-gegen-frauen-2.webp",
+      "caption": "Verurteilung von Gewalt gegen Frauen",
+      "local_path": "assets/images/proofs/verurteilung-von-gewalt-gegen-frauen-2.webp",
+      "caption_de": "Verurteilung von Gewalt gegen Frauen",
+      "post_title_de": "Kapitel 21: Die Frau im Islam des Koran - Die Frau in dem verfälschten Islam",
+      "after_idx": 28,
+      "after_anchor": "„Lasst eure Frauen keine neuen Kleider haben, damit sie nicht an den Türen ihrer",
+      "placement": "high",
+      "label": "Verurteilung von Gewalt gegen Frauen"
+    },
+    {
+      "post_id": 633,
+      "chapter": 21,
+      "post_title": "Kapitel 21: Die Frau im Islam des Koran - Die Frau in dem verfälschten Islam",
+      "slug": "die-frau-im-islam-des-koran-die-frau-in-dem-verfaelschten-islam",
+      "url": "assets/images/proofs/tierhaltung-und-naturordnung.webp",
+      "filename": "tierhaltung-und-naturordnung.webp",
+      "caption": "Tierhaltung und Naturordnung",
+      "local_path": "assets/images/proofs/tierhaltung-und-naturordnung.webp",
+      "caption_de": "Tierhaltung und Naturordnung",
+      "post_title_de": "Kapitel 21: Die Frau im Islam des Koran - Die Frau in dem verfälschten Islam",
+      "after_idx": 32,
+      "after_anchor": "Der akzeptable Typus von Frau ist der Schaf-Typus",
+      "placement": "high",
+      "label": "Tierhaltung und Naturordnung"
+    },
+    {
+      "post_id": 633,
+      "chapter": 21,
+      "post_title": "Kapitel 21: Die Frau im Islam des Koran - Die Frau in dem verfälschten Islam",
+      "slug": "die-frau-im-islam-des-koran-die-frau-in-dem-verfaelschten-islam",
+      "url": "assets/images/proofs/steinigungsmythen.webp",
+      "filename": "steinigungsmythen.webp",
+      "caption": "Steinigungsmythen",
+      "local_path": "assets/images/proofs/steinigungsmythen.webp",
+      "caption_de": "Steinigungsmythen",
+      "post_title_de": "Kapitel 21: Die Frau im Islam des Koran - Die Frau in dem verfälschten Islam",
+      "after_idx": 42,
+      "after_anchor": "Nicht nur wurden muslimische Frauen von Männern isoliert – durch Praktiken wie d",
+      "placement": "medium",
+      "label": "Steinigungsmythen"
+    },
+    {
+      "post_id": 633,
+      "chapter": 21,
+      "post_title": "Kapitel 21: Die Frau im Islam des Koran - Die Frau in dem verfälschten Islam",
+      "slug": "die-frau-im-islam-des-koran-die-frau-in-dem-verfaelschten-islam",
+      "url": "assets/images/proofs/frauen-in-der-islamischen-kunstgeschichte.webp",
+      "filename": "frauen-in-der-islamischen-kunstgeschichte.webp",
+      "caption": "Frauen in der islamischen Kunstgeschichte",
+      "local_path": "assets/images/proofs/frauen-in-der-islamischen-kunstgeschichte.webp",
+      "caption_de": "Frauen in der islamischen Kunstgeschichte",
+      "post_title_de": "Kapitel 21: Die Frau im Islam des Koran - Die Frau in dem verfälschten Islam",
+      "after_idx": 53,
+      "after_anchor": "„Bringt Frauen das Schreiben nicht bei, lehrt sie Nähen und die Sure Nur.“",
+      "placement": "high",
+      "label": "Frauen in der islamischen Kunstgeschichte"
+    },
+    {
+      "post_id": 633,
+      "chapter": 21,
+      "post_title": "Kapitel 21: Die Frau im Islam des Koran - Die Frau in dem verfälschten Islam",
+      "slug": "die-frau-im-islam-des-koran-die-frau-in-dem-verfaelschten-islam",
+      "url": "assets/images/proofs/erfundene-intime-vorschriften-in-hadithen.webp",
+      "filename": "erfundene-intime-vorschriften-in-hadithen.webp",
+      "caption": "Erfundene intime Vorschriften in Hadithen",
+      "local_path": "assets/images/proofs/erfundene-intime-vorschriften-in-hadithen.webp",
+      "caption_de": "Erfundene intime Vorschriften in Hadithen",
+      "post_title_de": "Kapitel 21: Die Frau im Islam des Koran - Die Frau in dem verfälschten Islam",
+      "after_idx": 56,
+      "after_anchor": "„Wenn ein Mann seine Frau ins Bett ruft und sie es ablehnt, und der Mann verärge",
+      "placement": "high",
+      "label": "Erfundene intime Vorschriften in Hadithen"
+    }
+  ],
+  "pdf_pages": [
+    307,
+    344
+  ],
+  "sections_count": 114,
+  "sections": [
+    {
+      "type": "paragraph",
+      "text": "<span class=\"pb\" data-p=\"307\"></span>Es wäre keine Übertreibung zu sagen, dass die traditionelle Religionsauslegung die meisten Ergänzungen und Verzerrungen des Islam in Bezug auf Frauen vorgenommen hat. Erläuterungen, die Frauen schlimmer als Sklavinnen degradierten, ihnen jegliche Rechte verweigerten und sie auf Hausarbeit und Sexualität reduzierten, wurden mit erfundenen Hadithen und Auslegungen der Rechtsschulen gerechtfertigt, um diese Ansichten als „Islam“ zu verkaufen. Viele gläubige, gutgläubige Frauen, die den Unterschied zwischen dem im Koran beschriebenen Islam und diesen erfundenen Vorschriften nicht erkennen konnten, versuchten in der Hoffnung auf Gottes Wohlgefallen nach diesen Vorgaben zu leben. Dabei fanden sie sich in einer düsteren Welt wieder, deren Grenzen von männerdominierten, traditionalistischen Sichtweisen gezogen wurden. Anhänger der traditionell-rechtsschulischen Denkweise versuchen oft, ihre Haltung gegenüber Frauen zu beschönigen, indem sie Sätze wie „<em>Der Prophet hat gesagt, das Paradies liege zu den Füßen der Mütter.</em><sup class=\"fn-ref\"><a href=\"#fn-379\" id=\"fnref-379\">379</a></sup><em> Frauen sind unsere Mütter und Schwestern…</em>„ verwenden. Doch wenn wir gleich die Erläuterungen der rechtsschulischen Quellen in Bezug auf Frauen betrachten, werden wir das tatsächliche Maß der „Wertschätzung“ für Frauen in dieser Denkweise klar erkennen."
+    },
+    {
+      "type": "heading",
+      "text": "<span class=\"pb\" data-p=\"308\"></span>Erfundene Hadithe und aus Rechtsschulen stammende Behauptungen über Frauen",
+      "plain": "Erfundene Hadithe und aus Rechtsschulen stammende Behauptungen über Frauen",
+      "slug": "erfundene-hadithe-und-aus-rechtsschulen-stammende-behauptungen"
+    },
+    {
+      "type": "paragraph",
+      "text": "Das Hauptziel dieser Erfindungen war es, die bedingungslose Unterwerfung der Frau gegenüber ihrem Mann sicherzustellen. Dass die Verfasser der Hadith-Sammlungen und die Begründer der Rechtsschulen ausschließlich Männer waren, trägt natürlich zu diesem Bild bei. Mit erfundenen Hadithen wurde die Gehorsamkeit der Frau gegenüber dem Mann als eine Form des Gottesdienstes dargestellt:"
+    },
+    {
+      "type": "paragraph",
+      "text": "„<em>Wenn ich jemandem befehlen könnte, sich vor einem anderen niederzuwerfen, so würde ich den Frauen befehlen, sich vor ihren Männern niederzuwerfen, wegen der Rechte, die die Männer über sie haben.</em>“<sup class=\"fn-ref\"><a href=\"#fn-380\" id=\"fnref-380\">380</a></sup>"
+    },
+    {
+      "type": "paragraph",
+      "text": "„<em>Selbst wenn der Körper des Mannes mit Eiter bedeckt wäre und seine Frau ihn lecken müsste, um ihn zu reinigen, könnte sie seine Rechte nicht vollständig erfüllen.</em>“<sup class=\"fn-ref\"><a href=\"#fn-381\" id=\"fnref-381\">381</a></sup>"
+    },
+    {
+      "type": "paragraph",
+      "text": "„<em>Oh Frauen! Wenn ihr wüsstet, welche Rechte eure Männer über euch haben, würdet ihr den Staub von ihren Füßen mit euren Gesichtern abwischen.</em>“<sup class=\"fn-ref\"><a href=\"#fn-382\" id=\"fnref-382\">382</a></sup>"
+    },
+    {
+      "type": "paragraph",
+      "text": "Selbst in den als die gründlichsten Hadith-Sammlungen geltenden Werken finden sich solche Überlieferungen. Das unterstreicht einmal mehr, warum wir immer wieder betonen: „Der Koran – und nur der Koran.“ Solche Erfindungen dem Propheten zuzuschreiben und gleichzeitig die koranische Lehre, die diese Überlieferungen klar zurückweist, als „Feindschaft gegenüber dem Propheten“ zu brandmarken, ist eine tiefgreifende Verzerrung. Die <span class=\"pb\" data-p=\"309\"></span>Akzeptanz von Hadithen, Rechtsschulen und Traditionen hingegen wird fälschlicherweise als Ausdruck der Liebe zum Propheten dargestellt. Frauen als minderwertig in Intellekt und Religion zu bezeichnen, schadet sowohl dem Ansehen des Propheten als auch dem Islam selbst. Betrachten wir einige der weiteren Behauptungen, die dem Propheten zugeschrieben werden:"
+    },
+    {
+      "type": "paragraph",
+      "text": "„<em>Die Frauen haben einen Mangel an Religion und Verstand.</em>“<sup class=\"fn-ref\"><a href=\"#fn-383\" id=\"fnref-383\">383</a></sup>"
+    },
+    {
+      "type": "paragraph",
+      "text": "„<em>Ihr verflucht oft und seid euren Männern undankbar. Ich habe keine anderen Wesen gesehen, die mit ihrem mangelnden Verstand und ihrer Religion den Verstand eines Mannes so leicht beeinflussen können wie ihr.</em>“<sup class=\"fn-ref\"><a href=\"#fn-384\" id=\"fnref-384\">384</a></sup>"
+    },
+    {
+      "type": "paragraph",
+      "text": "Die gleiche Denkweise, die Frauen zu Sklavinnen der Männer macht, erklärt sie nicht nur als minderwertig im Islam, sondern auch als mehrheitlich Bewohnerinnen der Hölle und präsentiert damit ein gänzlich koranfremdes Verständnis vom Islam:"
+    },
+    {
+      "type": "paragraph",
+      "text": "„<em>Eine gute Frau ist unter hundert Krähen so selten wie eine gesprenkelte Krähe.</em>“<sup class=\"fn-ref\"><a href=\"#fn-385\" id=\"fnref-385\">385</a></sup>"
+    },
+    {
+      "type": "paragraph",
+      "text": "„<em>Oh Frauen! Gebt Almosen und bittet oft um Vergebung, denn ich sah, dass die meisten Bewohner der Hölle von euch sind.</em>“<sup class=\"fn-ref\"><a href=\"#fn-386\" id=\"fnref-386\">386</a></sup>"
+    },
+    {
+      "type": "heading",
+      "text": "Der Eintritt einer Frau ins Paradies hängt vom Ehemann ab",
+      "plain": "Der Eintritt einer Frau ins Paradies hängt vom Ehemann ab",
+      "slug": "der-eintritt-einer-frau-ins-paradies-haengt-vom-ehemann-ab"
+    },
+    {
+      "type": "paragraph",
+      "text": "Neben den Überlieferungen, die behaupten, die meisten Frauen seien zur Hölle bestimmt, gibt es auch erfundene Hadithe, <span class=\"pb\" data-p=\"310\"></span>die besagen, dass der Eintritt einer Frau ins Paradies davon abhängt, ob ihr Ehemann mit ihr zufrieden ist:"
+    },
+    {
+      "type": "paragraph",
+      "text": "„<em>Eine Frau, die stirbt, während ihr Ehemann mit ihr zufrieden ist, wird ins Paradies eintreten.</em>“<sup class=\"fn-ref\"><a href=\"#fn-387\" id=\"fnref-387\">387</a></sup>"
+    },
+    {
+      "type": "paragraph",
+      "text": "Diese Art von Hadithen findet sich in den Werken von Muslim, Buchari, at-Tirmidhi, Muwatta und auch in schiitischen Quellen. Sie sind Produkte der Umayyaden- und Abbasiden-Ära und spiegeln den Versuch wider, persönliche Ansichten über Frauen zu islamischen Wahrheiten zu erheben. Der Koran hingegen enthält keine Aussagen, die Frauen als mehrheitlich böse, zur Hölle verdammt oder religiös mangelhaft darstellen. Im Gegenteil, der Koran ist ein Beweis für eine zeitlose Perspektive, die über die damaligen kulturellen Kontexte hinausgeht. Hätte der Koran menschlichen Ursprungs und von den kulturellen Gegebenheiten seiner Zeit beeinflusst gewesen, hätte er notwendigerweise die dominierenden patriarchalen Ansichten jener Epoche widergespiegelt. Doch der Koran betont die Gleichheit und misst Überlegenheit nicht Geschlecht oder Herkunft, sondern der Nähe zu Gott und der Sorgfalt in der Ausübung seiner Gebote zu."
+    },
+    {
+      "type": "verse",
+      "text": "„Oh Menschen! Wir haben euch aus einem männlichen und einem weiblichen Wesen erschaffen und euch zu Völkern und Stämmen gemacht, damit ihr einander erkennt. Gewiss, der Angesehenste von euch bei Gott ist der <em>Taqwa</em>-haftige.“",
+      "reference": "Koran 49:13"
+    },
+    {
+      "type": "paragraph",
+      "text": "Wie aus diesem Vers hervorgeht, misst der Koran Überlegenheit nicht an Geschlecht, Herkunft oder Rasse, sondern an der <em>Taqwa</em> (Gewissenhaftigkeit im Glauben und sich hüten). Im <span class=\"pb\" data-p=\"311\"></span>Gegensatz dazu sind Frauen laut den bisher genannten Hadithen allein aufgrund ihres Geschlechts benachteiligt und häufiger zur Hölle bestimmt. Diese Denkweise degradiert Frauen zu untergeordneten Wesen, die sich bedingungslos den Männern unterwerfen sollen, und verkauft diese Unterordnung als göttliches Gesetz. Weitere frauenfeindliche Hadithe:"
+    },
+    {
+      "type": "paragraph",
+      "text": "„<em>Das Gebet wird durch folgende Dinge ungültig: einen schwarzen Hund, einen Esel, ein Schwein und eine Frau.</em>“<sup class=\"fn-ref\"><a href=\"#fn-388\" id=\"fnref-388\">388</a></sup>"
+    },
+    {
+      "type": "paragraph",
+      "text": "„<em>Unheil liegt in drei Dingen: in einer Frau, in einem Haus und in einem Pferd.</em>“<sup class=\"fn-ref\"><a href=\"#fn-389\" id=\"fnref-389\">389</a></sup>"
+    },
+    {
+      "type": "heading",
+      "text": "Die Rettung von zahnlosen, unattraktiven und alten Ehemännern",
+      "plain": "Die Rettung von zahnlosen, unattraktiven und alten Ehemännern",
+      "slug": "die-rettung-von-zahnlosen-unattraktiven-und-alten-ehemaennern"
+    },
+    {
+      "type": "paragraph",
+      "text": "Im Folgenden finden Sie einige Erklärungen von hoch angesehenen Gelehrten wie Imam Scharani und Imam al-Ghazali, die Frauen als „Unglücksbringer“ darstellen und ihre Bewegung außerhalb des Hauses strikt einschränken. Außerdem werden einige Hadithe zitiert, die das sich Schmücken von Frauen verbieten:"
+    },
+    {
+      "type": "paragraph",
+      "text": "„<em>Einer von euch mag alt sein, zahnlos und äußerlich äußerst unattraktiv, während seine Frau jung und schön ist. Wenn diese junge und schöne Frau den Markt besucht oder an einer Hochzeit oder Feier teilnimmt, wird sie nach ihrer Rückkehr nach Hause die gut aussehenden Männer, die sie draußen gesehen hat, mit ihrem alten und zahnlosen Ehemann vergleichen. Dies könnte dazu führen, dass sie ihren Mann nicht einmal mehr ansehen will und möglicherweise auch keine sexuellen Beziehungen mit ihm </em><span class=\"pb\" data-p=\"312\"></span><em>eingehen möchte. Aus diesem Grund sollte eine junge Frau keine Märkte, Feste oder Versammlungsorte besuchen.</em>“<sup class=\"fn-ref\"><a href=\"#fn-390\" id=\"fnref-390\">390</a></sup>"
+    },
+    {
+      "type": "paragraph",
+      "text": "„<em>Gott hat Frauen, die sich tätowieren, sich die Gesichtshaare entfernen oder ihre Zähne aus ästhetischen Gründen abschleifen lassen, verflucht.</em>“<sup class=\"fn-ref\"><a href=\"#fn-391\" id=\"fnref-391\">391</a></sup>"
+    },
+    {
+      "type": "paragraph",
+      "text": "„<em>Frauen, die Perücken tragen, ihre Augenbrauen zupfen, sich tätowieren oder tätowieren lassen, sind verflucht.</em>“<sup class=\"fn-ref\"><a href=\"#fn-392\" id=\"fnref-392\">392</a></sup>"
+    },
+    {
+      "type": "paragraph",
+      "text": "„<em>Wenn eine Frau Perücken trägt, sich tätowieren lässt, ihre Gesichtshaare entfernt oder ihr Gesicht verschönert, um ihre Form zu ändern, ist sie verflucht.</em>“<sup class=\"fn-ref\"><a href=\"#fn-393\" id=\"fnref-393\">393</a></sup>"
+    },
+    {
+      "type": "paragraph",
+      "text": "„<em>Die Gefährten des Propheten verschlossen ihre Fenster und Türen sorgfältig, damit ihre Ehefrauen nicht nach draußen sehen und andere Männer erblicken konnten. Jene Frauen, die dennoch nach draußen blickten, wurden geschlagen.</em>“<sup class=\"fn-ref\"><a href=\"#fn-394\" id=\"fnref-394\">394</a></sup>"
+    },
+    {
+      "type": "paragraph",
+      "text": "„<em>Lasst eure Frauen in einem Maß hungern und kleidet sie nicht zu üppig, damit sie nicht das Verlangen verspüren, das Haus zu verlassen. Wenn sie jedoch gut ernährt und schön gekleidet sind, gibt es für sie nichts Attraktiveres, als auszugehen. Ein wenig Hunger und ein Mangel an Kleidung halten sie hingegen lieber im Haus.</em>“<sup class=\"fn-ref\"><a href=\"#fn-395\" id=\"fnref-395\">395</a></sup>"
+    },
+    {
+      "type": "paragraph",
+      "text": "<span class=\"pb\" data-p=\"313\"></span>„<em>Lasst eure Frauen keine neuen Kleider haben, damit sie nicht an den Türen ihrer Häuser sitzen und das Verlangen verspüren, nach draußen zu gehen.</em>“<sup class=\"fn-ref\"><a href=\"#fn-396\" id=\"fnref-396\">396</a></sup>"
+    },
+    {
+      "type": "paragraph",
+      "text": "Wenn eine Frau zwingend das Haus verlassen muss, hat sie zuvor die Erlaubnis ihres Ehemannes einzuholen und die folgenden Regeln streng zu beachten:"
+    },
+    {
+      "type": "list",
+      "items": [
+        {
+          "label": "1.",
+          "text": "Sich vollständig und bescheiden zu verhüllen."
+        },
+        {
+          "label": "2.",
+          "text": "Sich so zu verhalten, als wäre sie überhaupt nicht draußen."
+        },
+        {
+          "label": "3.",
+          "text": "Den Blick gesenkt zu halten und niemanden anzusehen."
+        },
+        {
+          "label": "4.",
+          "text": "Menschenmengen zu meiden."
+        },
+        {
+          "label": "5.",
+          "text": "Sich von Orten fernzuhalten, an denen Männer sich aufhalten."
+        },
+        {
+          "label": "6.",
+          "text": "Häufig genutzte Straßen zu meiden."
+        },
+        {
+          "label": "7.",
+          "text": "Ihre Angelegenheiten schnell zu erledigen und unverzüglich nach Hause zurückzukehren.<sup class=\"fn-ref\"><a href=\"#fn-397\" id=\"fnref-397\">397</a></sup>"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Durch diese erfundenen Erklärungen haben bestimmte Kleriker ihre eigenen Ansichten und extremen Eifersuchtsgefühle zu „Islamischen Geboten“ erhoben und der Gesellschaft als solche präsentiert. Dies hat den Boden für Unterdrückung von Frauen unter dem Deckmantel des Islam bereitet und zugleich Kritik an den Islam durch Außenstehende befeuert. Während Teile der <span class=\"pb\" data-p=\"314\"></span>muslimischen Gesellschaft diese Kritik ablehnen und verurteilen, scheuen sie sich, Kleriker wie Imam asch-Scharani und Imam al-Ghazali, die solche Ansichten verbreitet haben, zu hinterfragen. Solange wir diese verfälschten Ansichten nicht durch die Orientierung am Koran als einzige Quelle entkräften, wird es schwierig sein, solchen Kritikern zu begegnen."
+    },
+    {
+      "type": "heading",
+      "text": "Der akzeptable Typus von Frau ist der Schaf-Typus",
+      "plain": "Der akzeptable Typus von Frau ist der Schaf-Typus",
+      "slug": "der-akzeptable-typus-von-frau-ist-der-schaf-typus"
+    },
+    {
+      "type": "paragraph",
+      "text": "Im Folgenden sehen wir, wie Imam al-Ghazali die Eigenschaften von Frauen kategorisiert und die Gesellschaft über sie „informiert“:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Eigenschaften von Frauen:"
+    },
+    {
+      "type": "list",
+      "items": [
+        {
+          "label": "1.",
+          "text": "Aufgrund ihrer Begeisterung für Kleidung: Affe."
+        },
+        {
+          "label": "2.",
+          "text": "Weil sie nicht bereit ist, Armut zu akzeptieren: Hund."
+        },
+        {
+          "label": "3.",
+          "text": "Wegen ihres Stolzes gegenüber ihrem Ehemann und anderen: Schlange."
+        },
+        {
+          "label": "4.",
+          "text": "Weil sie Tag und Nacht Gerüchte verbreitet: Skorpion."
+        },
+        {
+          "label": "5.",
+          "text": "Weil sie Gegenstände aus dem Haus verkauft: Maus."
+        },
+        {
+          "label": "6.",
+          "text": "Weil sie Männer täuscht: Fuchs."
+        },
+        {
+          "label": "7.",
+          "text": "Weil sie ihrem Ehemann gehorcht: Schaf.<sup class=\"fn-ref\"><a href=\"#fn-398\" id=\"fnref-398\">398</a></sup>"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Laut dem letzten Punkt wird die Frau, die sich wie ein „Schaf“ verhält, als die idealste angesehen. Frauen, denen jede Freiheit genommen wurde, dürfen nicht einmal alleine die Pilgerfahrt (Hadsch) unternehmen, die Gott für alle Gläubigen – Männer und Frauen – verpflichtend gemacht hat. Die Frau darf sich laut traditionellen Auslegungen nicht weiter als 90 Kilometer von ihrem <span class=\"pb\" data-p=\"315\"></span>Wohnort entfernen, es sei denn, sie wird von einem männlichen Verwandten (<em>mahram</em>)<sup class=\"fn-ref\"><a href=\"#fn-399\" id=\"fnref-399\">399</a></sup> wie Vater, Onkel, Bruder oder Ehemann begleitet. Kann sie keinen solchen Begleiter überzeugen, ist es ihr nicht möglich, dieser islamischen Pflicht nachzukommen. Auch das Betreten der Moschee wird Frauen erschwert, da dies mit dem Verlassen des Hauses verbunden ist. Dies wurde mit entsprechenden Hadithen untermauert. Laut diesen sei es für Frauen besser, zu Hause zu beten, ja sogar im Schlafzimmer statt im Wohnzimmer. Das Ziel dieser Auslegungen war stets, Frauen von sämtlichen gesellschaftlichen und religiösen Bereichen fernzuhalten. Doch der Koran sagt dazu:"
+    },
+    {
+      "type": "verse",
+      "text": "„Die gläubigen Männer und die gläubigen Frauen sind einander Helfer und Freunde.“",
+      "reference": "Koran 9:71"
+    },
+    {
+      "type": "paragraph",
+      "text": "Aus dieser Aussage wird klar, dass Gott von gläubigen Männern und Frauen erwartet, ohne Einschränkungen zusammenzuarbeiten und füreinander da zu sein. Doch wie soll eine Frau diese Gemeinschaft und Solidarität aufbauen, wenn sie das Haus nicht verlassen darf, um zur Moschee zu gehen, oder sogar – wie gleich gezeigt wird – nicht einmal mit Männern sprechen darf? Ist es möglich, in einer Gesellschaft, in der die Hälfte der Menschheit, die Frauen, ausgegrenzt und von der anderen Hälfte, den Männern, getrennt wird, echte Zusammenarbeit und Mitmenschlichkeit zu entwickeln? Der zweite Teil des obigen Verses 9:71 besagt, dass diejenigen, die diese Solidarität aufbauen, die Gnade Gottes <span class=\"pb\" data-p=\"316\"></span>erlangen werden. Wenn diese Gnade heute aus den sogenannten muslimischen Gesellschaften verschwunden ist, liegt das unserer Meinung nach unter anderem daran, dass sie die Anforderungen dieses Verses nicht erfüllen. Einige traditionelle Gelehrte behaupten sogar, dass die Stimme der Frau ebenfalls zum Schambereich (<em>awrah</em>) gehört, der nicht offengelegt werden darf:"
+    },
+    {
+      "type": "paragraph",
+      "text": "„<em>Einige Hanafi-Gelehrte vertreten die Ansicht, dass auch die Stimme einer Frau zur awrah (Intim-/Schambereich) zählt.</em>“<sup class=\"fn-ref\"><a href=\"#fn-400\" id=\"fnref-400\">400</a></sup>"
+    },
+    {
+      "type": "verse",
+      "text": "„<em>Sprecht nur mit den Männern, die eure Mahram sind.</em>“<sup class=\"fn-ref\"><a href=\"#fn-401\" id=\"fnref-401\">401</a></sup>",
+      "reference": null
+    },
+    {
+      "type": "heading",
+      "text": "Sprechen mit Kieselstein im Mund",
+      "plain": "Sprechen mit Kieselstein im Mund",
+      "slug": "sprechen-mit-kieselstein-im-mund"
+    },
+    {
+      "type": "paragraph",
+      "text": "Nicht nur wurden muslimische Frauen von Männern isoliert – durch Praktiken wie der Geschlechtertrennung –, sondern es wurde sogar behauptet, dass Frauenstimmen nicht von Männern gehört werden dürften. Falls es absolut notwendig wäre, dürften Frauen nur mit einem Kieselstein im Mund sprechen, damit ihre Stimmen nicht erkannt werden, und auch dann nur das Nötigste. Zusätzlich zu diesen Einschränkungen wurde Frauen während ihrer Menstruation untersagt, zu beten, den Koran zu rezitieren oder zu fasten. Dies widerspricht jedoch eindeutig dem Koran. Gott weist im Koran lediglich darauf hin, dass während der Menstruation sexuelle Beziehungen zu vermeiden sind. Wäre es auch untersagt, zu beten, den Koran zu lesen oder zu fasten, hätte Gott dies sicherlich ebenfalls ausdrücklich erwähnt. Stattdessen ist die einzige Einschränkung während der Menstruation im Koran folgendermaßen formuliert:"
+    },
+    {
+      "type": "verse",
+      "text": "<span class=\"pb\" data-p=\"317\"></span>„Sie fragen dich nach der Menstruation. Sprich: ‚Das ist ein Leiden. Haltet euch also während der Menstruation von den Frauen fern und nähert euch ihnen nicht, bis sie wieder rein sind.‘“",
+      "reference": "Koran 2:222"
+    },
+    {
+      "type": "paragraph",
+      "text": "Trotz der detaillierten Angaben des Korans haben einige Personen zusätzliche Einschränkungen in den Islam eingeführt. So haben sie nicht nur das Fasten, das Rezitieren des Korans und das Gebet während der Menstruation verboten, sondern auch Frauen von der Teilnahme am Freitagsgebet ausgeschlossen, obwohl dies im Koran für Männer und Frauen gleichermaßen verpflichtend ist. Solche Ergänzungen oder auch Streichungen islamischer Pflichten widersprechen der Lehre des Koran, die jegliche Veränderung – ob Hinzufügung oder Weglassung – ablehnt. Frauen wurden in diesen Interpretationen so stark abgewertet, dass ihnen jeglicher Einfluss und Wert abgesprochen wurde. Ein Beispiel für diese Denkweise findet sich in folgenden erfundenen Hadithen, die fälschlicherweise dem Propheten Muhammad zugeschrieben werden:"
+    },
+    {
+      "type": "paragraph",
+      "text": "„<em>Fragt keine Frauen um Rat und widersetzt euch ihnen. Widersetzt euch den Frauen, denn Widerspruch gegen sie bringt Segen.</em>“<sup class=\"fn-ref\"><a href=\"#fn-402\" id=\"fnref-402\">402</a></sup>"
+    },
+    {
+      "type": "paragraph",
+      "text": "„<em>Wer seiner Ehefrau gehorcht, wird von Gott in die Hölle geworfen.</em>“<sup class=\"fn-ref\"><a href=\"#fn-403\" id=\"fnref-403\">403</a></sup>"
+    },
+    {
+      "type": "heading",
+      "text": "<span class=\"pb\" data-p=\"318\"></span>Eine Frau kann sowohl Vorbeterin (Imamin), Gebetsausruferin (Muezzin) als auch Staatsoberhäuptin sein",
+      "plain": "Eine Frau kann sowohl Vorbeterin (Imamin), Gebetsausruferin (Muezzin) als auch Staatsoberhäuptin sein",
+      "slug": "eine-frau-kann-sowohl-vorbeterin-imamin-gebetsausruferin"
+    },
+    {
+      "type": "paragraph",
+      "text": "Der Koran hindert Frauen nicht daran, jegliches Amt auszuüben. Frauen können Staatspräsidentin (Bundeskanzlern, Bundespräsidentin), Kalifin, Richterin oder Premierministerin werden. Denn im Koran gilt: Alles, was nicht verboten ist, ist erlaubt. Verbot ist die Ausnahme und setzt eine göttliche Offenbarung, also eine koranische Vorschrift, voraus. Da ein solches Verbot nicht existiert, gibt es keine Einschränkung für Frauen, auch höchste Ämter auszuüben. Die Frage, warum Frauen in vielen muslimischen oder anderen Gesellschaften in der Staatsführung oft benachteiligt werden, ist ein komplexes Thema. Doch klar ist, dass der Koran solche Einschränkungen nicht vorsieht. Gleichwohl haben folgende Überlieferungen (Hadithe) aus der traditionellen und patriarchalen Sichtweise heraus eine Grundlage für den Widerstand gegen Frauen in Führungsrollen geschaffen:"
+    },
+    {
+      "type": "paragraph",
+      "text": "„<em>Ein Volk, das eine Frau an seine Spitze setzt, wird niemals Erfolg haben.</em>“<sup class=\"fn-ref\"><a href=\"#fn-404\" id=\"fnref-404\">404</a></sup>"
+    },
+    {
+      "type": "paragraph",
+      "text": "Solche erfundenen Aussagen wurden in den Kanon der Hadithe aufgenommen, um nicht-Koran´sche Vorschriften gegen Frauen durchzusetzen. Vermutlich wurde dieser Hadith aus politischen Gründen nach der sogenannten Kamelschlacht erfunden, bei der Aischa, die Ehefrau des Propheten, als Anführerin auftrat. Süleyman Ateş kommentiert hierzu:"
+    },
+    {
+      "type": "paragraph",
+      "text": "„<em>Dieser Hadith richtet sich gegen Aischa. Wenn der Prophet tatsächlich so etwas gesagt hätte, hätte Aischa nicht an der Schlacht </em><span class=\"pb\" data-p=\"319\"></span><em>von Kamel teilgenommen, und weder Talha noch Zubair hätten sie als Anführerin akzeptieren dürfen. Dieser Hadith widerspricht sowohl dem Koran als auch den historischen Ereignissen und ist deshalb zweifelhaft. Wie kann eine Aussage, die andere Gefährten des Propheten nicht kannten und anwendeten, als islamisches Gesetz gelten?</em>“<sup class=\"fn-ref\"><a href=\"#fn-405\" id=\"fnref-405\">405</a></sup>"
+    },
+    {
+      "type": "paragraph",
+      "text": "Jene, die solche Überlieferungen aus politischen Motiven erfanden und ihre persönlichen Ansichten in den Islam einbrachten, ignorierten dabei die koranische Beschreibung der Königin von Saba. Zwischen den Versen 27:22 und 27:44 wird die Geschichte der Königin und ihres Volkes geschildert. In dieser Erzählung lobt der Koran ihre Klugheit, ihre Fähigkeit, ihr Volk zu leiten, und ihre vorsichtigen Entscheidungen, die ihren Stamm vor Gefahren bewahren. Anders als in den erfundenen Überlieferungen, die behaupten, Frauen könnten keine Führungsrollen einnehmen, findet sich im Koran keine einzige Aussage, die in diese Richtung weist. Doch wurden auch Hadithe erfunden, die Frauen das Erlernen von Schreiben untersagten:"
+    },
+    {
+      "type": "paragraph",
+      "text": "„<em>Bringt Frauen das Schreiben nicht bei, lehrt sie Nähen und die Sure Nur</em>.<sup class=\"fn-ref\"><a href=\"#fn-406\" id=\"fnref-406\">406</a></sup>“<sup class=\"fn-ref\"><a href=\"#fn-407\" id=\"fnref-407\">407</a></sup>"
+    },
+    {
+      "type": "paragraph",
+      "text": "Viele Anhänger der traditionellen sunnitischen Sichtweise setzen sich heute erfreulicherweise dafür ein, dass ihre Töchter eine gute Ausbildung erhalten und sich gegen Diskriminierung, etwa das Verbot, Mädchen mit Kopftuch zur Schule zu lassen, wehren. Dies ist eine positive Entwicklung. Doch sollte nicht vergessen werden, dass Hadithe wie die oben zitierten im sunnitischen Islam existieren und in dieser Denkschule Platz gefunden haben. Ohne <span class=\"pb\" data-p=\"320\"></span>eine klare Trennung zwischen der koranischen Lehre und erfundenen Überlieferungen können die zahlreichen Hindernisse, die Frauen im Namen des verfälschten Islam auferlegt werden, nicht nachhaltig überwunden werden. Der Kampf gegen äußere Einflüsse, die religiöse Menschen aus der Öffentlichkeit verdrängen wollen, ist notwendig. Doch noch wichtiger ist der innere Kampf gegen die ins Islamverständnis eingebrachten Erfindungen und Fälschungen. Dieser innere Kampf richtet sich gegen viele als „Islam“ bezeichnete Inhalte, die jedoch oft nichts anderes als erfundene Hadithe und Traditionen sind."
+    },
+    {
+      "type": "heading",
+      "text": "Erfundene Hadithe, um Sex zu sichern",
+      "plain": "Erfundene Hadithe, um Sex zu sichern",
+      "slug": "erfundene-hadithe-um-sex-zu-sichern"
+    },
+    {
+      "type": "paragraph",
+      "text": "„<em>Wenn ein Mann seine Frau ins Bett ruft und sie es ablehnt, und der Mann verärgert darüber die Nacht verbringt, verfluchen die Engel diese Frau bis zum Morgen.</em>“<sup class=\"fn-ref\"><a href=\"#fn-408\" id=\"fnref-408\">408</a></sup>"
+    },
+    {
+      "type": "paragraph",
+      "text": "Männer, die Angst davor haben, dass ihre Frauen ihre sexuellen Wünsche ablehnen, greifen auf solche erfundenen Hadithe zurück, um ihre Ehefrauen zu disziplinieren. Sie sagen beispielsweise: „Schau, der Prophet hat dies gesagt. Wage es nicht, mir zu widersprechen.“ Mit solchen Konstruktionen wird Frauen im Namen des „Islam“ Gehorsam aufgezwungen. Da Frauen auch das Recht auf Scheidung abgesprochen wird, haben sie keinerlei Möglichkeit, sich gegen diese Ungerechtigkeiten zu wehren. In einigen Büchern über „religiöses Wissen“ finden sich sogar solche Aussagen:"
+    },
+    {
+      "type": "paragraph",
+      "text": "„<em>Wenn sich eine Frau von ihrem Mann scheiden lässt, wird ihr der Duft des Paradieses verboten.</em>“<sup class=\"fn-ref\"><a href=\"#fn-409\" id=\"fnref-409\">409</a></sup>"
+    },
+    {
+      "type": "paragraph",
+      "text": "<span class=\"pb\" data-p=\"321\"></span>Der Koran hingegen spricht von „geschiedenen Frauen“ (Koran 2:228, 241), und dieser Begriff kann sowohl bedeuten, dass Frauen von Männern geschieden werden, als auch umgekehrt. Da der Koran nicht ausdrücklich festlegt, dass nur Männer das Recht zur Scheidung haben, und die Grundregel lautet, dass Freiheit die Regel und Einschränkung die Ausnahme ist, haben Frauen dasselbe Recht auf Scheidung wie Männer."
+    },
+    {
+      "type": "paragraph",
+      "text": "„<em>Wenn eine Frau parfümiert in die Moschee geht, wird ihr Gebet nicht akzeptiert, solange sie nicht wie nach einer rituellen Verunreinigung ein Vollbad (ghusl) nimmt.</em>“<sup class=\"fn-ref\"><a href=\"#fn-410\" id=\"fnref-410\">410</a></sup>"
+    },
+    {
+      "type": "paragraph",
+      "text": "Während das Verwenden von Düften bei Männern als lobenswert angesehen wird, wird es bei Frauen sofort als Sünde deklariert. Die Begründung: Männer könnten von dem Duft einer Frau erregt werden. Doch warum sollte das nicht auch umgekehrt gelten? Wenn dies tatsächlich ein Problem wäre, warum findet sich dazu keine entsprechende koranische Vorschrift? Die Antwort ist einfach: Es war nicht beabsichtigt, dies zu verbieten. In einigen religiösen Büchern finden sich weitere absurde Regeln wie:"
+    },
+    {
+      "type": "paragraph",
+      "text": "„<em>Ein Mann sollte nicht auf den Platz einer Frau sitzen, solange dieser noch warm ist.</em>“<sup class=\"fn-ref\"><a href=\"#fn-411\" id=\"fnref-411\">411</a></sup>"
+    },
+    {
+      "type": "paragraph",
+      "text": "Manchmal sind in Bussen oder öffentlichen Verkehrsmitteln Szenen zu beobachten, in denen Anhänger traditioneller religiöser Ansichten aus genau dieser Befürchtung heraus merkwürdige Verhaltensweisen zeigen. Dies ist nur eines der unzähligen Beispiele für Praktiken, die ohne Grundlage im Koran mit dem Etikett „Religion“ propagiert werden."
+    },
+    {
+      "type": "heading",
+      "text": "<span class=\"pb\" data-p=\"322\"></span>Einige Missverständnisse über den Koran in Bezug auf Frauen",
+      "plain": "Einige Missverständnisse über den Koran in Bezug auf Frauen",
+      "slug": "einige-missverstaendnisse-ueber-den-koran-in-bezug-auf-frauen"
+    },
+    {
+      "type": "paragraph",
+      "text": "Die Missverständnisse in Bezug auf Frauen im Koran beginnen oft mit den Erzählungen über die ersten Menschen, Adam und Eva. Im Koran steht an keiner Stelle, dass Eva Adam verführt oder ihn zu einer Sünde verleitet hat. Wenn wir die Koranverse 7:11-28 lesen, sehen wir, dass beide, Adam und Eva, gemeinsam vom Satan verführt wurden. Ebenso wird die Behauptung, die Frau sei aus der Rippe des Mannes erschaffen, im Koran nicht erwähnt."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ein weiteres falsches Verständnis ist die Behauptung, der Koran richte sich nur an Männer. Mehr als 90 % der Koranverse sprechen die Allgemeinheit an, das heißt, sowohl Männer als auch Frauen, oder allgemein die Gläubigen. Die arabische Grammatik weist die Besonderheit auf, dass für eine gemischte Gruppe immer das Maskulinum verwendet wird, wenn mindestens ein Mann anwesend ist. (Diese Regel findet sich auch in anderen Sprachen.) Neben den allgemeinen Versen gibt es jedoch auch einige Verse, die sich ausschließlich an den Propheten, an Frauen oder an Männer richten, diese sind jedoch in der Minderheit. Da der Prophet, der den Koran übermittelte, ein Mann war, sind einige Ausdrücke speziell auf männliche Adressaten ausgerichtet. Mit diesem Hintergrundwissen können solche Verse besser verstanden werden. Wer den Koran in die Hand nimmt und liest, erkennt leicht, dass der Koran sich nicht nur an ein Geschlecht richtet, sondern an die gesamte Menschheit. Die Behauptung, der Koran sei nur für Männer geschrieben, stammt oft von Personen, die den Koran entweder nicht gelesen oder falsch interpretiert haben."
+    },
+    {
+      "type": "verse",
+      "text": "„Die muslimischen Männer und die muslimischen Frauen, die gläubigen Männer und die gläubigen Frauen, die demütigen Männer und die demütigen Frauen, die <span class=\"pb\" data-p=\"323\"></span>wahrhaftigen Männer und die wahrhaftigen Frauen, die standhaften Männer und die standhaften Frauen, die gottesfürchtigen Männer und die gottesfürchtigen Frauen, die wohltätigen Männer und die wohltätigen Frauen, die fastenden Männer und die fastenden Frauen, die ihre Keuschheit bewahrenden Männer und die ihre Keuschheit bewahrenden Frauen, die Gott viel gedenkenden Männer und die Gott viel gedenkenden Frauen – für sie hat Gott Vergebung und einen großartigen Lohn bereitet.“",
+      "reference": "Koran 33:35"
+    },
+    {
+      "type": "paragraph",
+      "text": "Obwohl sich der Koran größtenteils an die Allgemeinheit richtet, gibt es Verse wie diesen, in denen Gott Männer und Frauen gesondert hervorhebt."
+    },
+    {
+      "type": "heading",
+      "text": "Polygamie in der Geschichte",
+      "plain": "Polygamie in der Geschichte",
+      "slug": "polygamie-in-der-geschichte"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ein weiteres Missverständnis im Zusammenhang mit dem Koran betrifft die Möglichkeit der Polygamie, also die Eheschließung eines Mannes mit mehreren Frauen. Zunächst sollte klar sein, dass der Islam die Polygamie erlaubt, sie jedoch weder vorschreibt noch empfiehlt. Der Koran richtet sich an eine große Bandbreite von Menschen, die über verschiedene Zeiträume, geografische Regionen, klimatische Bedingungen und kulturelle Praktiken verstreut leben – von kleinen Stämmen bis zu großen Imperien, von Agrar- bis zu Industriegesellschaften, sowohl in Zeiten des Krieges als auch in Friedensphasen. Der Koran passt sich diesen vielfältigen Lebensbedingungen durch ein breites Spektrum an Freiheit und Flexibilität an. Leider hat sich in der traditionellen, Rechtsschulen-zentrierten Sichtweise oft ein „arabischer Islam“ etabliert, der die Flexibilität des Korans einschränkt, indem er kulturelle <span class=\"pb\" data-p=\"324\"></span>Praktiken wie das Tragen eines Turbans, eines Kaftans oder das Tragen eines Bartes religiös auflädt. Diese kulturellen Vorgaben erschweren die Anpassung des Islam an unterschiedliche Regionen und Kulturen. Der Koran hingegen lässt jedem die Freiheit, seine traditionelle Kleidung zu tragen, sei es ein Kimono, ein Anzug mit Krawatte oder eine landestypische Kleidung. Polygamie gehört zu diesen Freiheiten des Korans – sie wird weder erzwungen noch empfohlen, sondern bleibt eine erlaubte Option."
+    },
+    {
+      "type": "paragraph",
+      "text": "In vielen Kulturen und Epochen, insbesondere in Zeiten nach Kriegen, in denen der Frauenüberschuss groß war, war Polygamie eine Lösung, die auch von Frauen akzeptiert oder sogar gefordert wurde. In Agrargesellschaften, wo große Familien ein Symbol der Stärke waren, ermutigten Frauen ihre Männer manchmal dazu, erneut zu heiraten, um die Last der Kindererziehung und der Haushaltsarbeit zu teilen. Wichtig ist zu verstehen, dass bei einer polygamen Ehe mindestens zwei Frauen bereit sind, diese Eheform zu akzeptieren. Die Ehe ist eine Vereinbarung, die auf beiderseitigem Einverständnis beruht, was bedeutet, dass nicht nur der Mann, sondern auch die beteiligten Frauen damit einverstanden sind oder darin einen Vorteil sehen. Man könnte einwenden, dass Frauen in solchen Situationen oft von ihrer Familie gezwungen werden oder, wenn sie einmal verheiratet sind, keine Möglichkeit haben, die Ehe zu verlassen. Solche Fälle existieren zweifellos, doch es wäre falsch anzunehmen, dass alle polygamen Ehen auf Zwang beruhen. Es gibt ebenso viele Beispiele, in denen Frauen diese Lebensweise aus freien Stücken akzeptieren oder sogar anstreben. Laut dem Koran hat die Frau ein Mitspracherecht bei der Eheschließung und ein Recht auf Scheidung. Wenn ein Mann eine weitere Ehe eingehen möchte oder eine bestehende Ehe für die Frau untragbar wird, hat sie das Recht, sich scheiden zu lassen. Die Praxis, Frauen das Scheidungsrecht zu verwehren oder sie bei der Eheschließung <span class=\"pb\" data-p=\"325\"></span>nicht mitbestimmen zu lassen, ist ein Produkt patriarchaler Traditionen, und nicht der Lehre des Koran. Die durch Traditionen bedingten Ungerechtigkeiten und Zwänge sollten korrigiert werden. Diese Missstände sind jedoch nicht dem Islam, sondern der männlich dominierten gesellschaftlichen Struktur zuzuschreiben. Der Koran fördert weder Polygamie als Ideal noch unterstützt er die Einschränkung der Rechte von Frauen. Vielmehr bietet er einen flexiblen Rahmen, der sich den vielfältigen Lebensrealitäten anpassen kann, ohne dabei die Würde und die Rechte der Frau zu verletzen."
+    },
+    {
+      "type": "heading",
+      "text": "Verzehr von Hundefleisch und Polygamie",
+      "plain": "Verzehr von Hundefleisch und Polygamie",
+      "slug": "verzehr-von-hundefleisch-und-polygamie"
+    },
+    {
+      "type": "paragraph",
+      "text": "Wie zuvor erwähnt, ist die Mehrehe eine Erlaubnis, keine Verpflichtung. Es ist ein schwerer Fehler, das, was der Islam erlaubt und in den Bereich der Freiheit stellt, als islamische Pflicht oder Empfehlung zu verstehen. Bei der Frage der Mehrehe wird dieser Fehler oft begangen. Ein Vergleich kann helfen, diesen Unterschied besser zu verstehen: Im Koran wird nur der Verzehr von Aas, Blut, Schweinefleisch und Tieren, die im Namen anderer als Gott geschlachtet wurden, verboten. Alles andere ist erlaubt. Für viele Menschen mag das Essen von Hundefleisch abstoßend erscheinen, doch in einigen Kulturen, wie etwa in China, ist es eine geschätzte Delikatesse. Ebenso wie die Mehrehe könnte Hundefleisch in einer Kultur abgelehnt und in einer anderen akzeptiert werden. Was als „erlaubt“ gilt, bezeichnet im Islam etwas, das nicht verboten ist. Es ist jedoch wichtig zu verstehen, dass „erlaubt“ nicht automatisch als „wünschenswert“ oder „empfohlen“ zu betrachten ist. Dies ist ein entscheidender Punkt: Nur weil etwas erlaubt ist, bedeutet das nicht, dass es islamisch gefördert oder vorgeschrieben ist. Dies zu vermischen hat in der Vergangenheit <span class=\"pb\" data-p=\"326\"></span>dazu geführt, dass sowohl religiöse Befürworter als auch Kritiker den Islam missverstanden haben. Beispielsweise wäre es absurd zu behaupten, der Islam verlange, die Haare grün zu färben, zu einer Veranstaltung Fußballshorts zu tragen oder in der Öffentlichkeit laut aufzustoßen. Der Islam verbietet das jedoch auch nicht, weshalb solche Handlungen in verschiedenen kulturellen Kontexten akzeptabel sein könnten. Ebenso gilt das Prinzip der Freiheit für die Mehrehe. Sie ist nicht islamisch verpflichtend, und ihre Ablehnung durch Einzelpersonen oder Kulturen widerspricht dem Islam nicht."
+    },
+    {
+      "type": "paragraph",
+      "text": "In natürlichen Umständen, insbesondere in Friedenszeiten, ist das Geschlechterverhältnis nahezu ausgeglichen, was die Monogamie zur bevorzugten Form der Ehe macht. Im Koran wird auf diese natürliche Neigung hingewiesen:"
+    },
+    {
+      "type": "verse",
+      "text": "„Wenn ihr fürchtet, nicht gerecht sein zu können, dann heiratet nur eine Frau.”",
+      "reference": "Koran 4:3"
+    },
+    {
+      "type": "paragraph",
+      "text": "Diese Aussage verbietet ein Modell der Ehe, in dem eine Frau bevorzugt und andere benachteiligt werden. Vielmehr wird im obigen Koranvers 4:3 auch die Möglichkeit eröffnet, „<strong>im Falle von Waisenmädchen und ihrem Besitz für Gerechtigkeit zu sorgen</strong>“. Dies zeigt, dass die Erlaubnis zur Mehrehe im Kontext spezifischer sozialer und wirtschaftlicher Herausforderungen steht. Die Mehrehe gehört in den Bereich der Freiheit, die der Koran einräumt. Sie ist weder eine Empfehlung noch eine Verpflichtung. Menschen, die sie nicht mögen, brauchen sie nicht anzunehmen. Der Koran bietet Flexibilität, die sich an verschiedene Kulturen, Epochen und gesellschaftliche Strukturen anpasst <span class=\"pb\" data-p=\"327\"></span>– von Kriegs- bis zu Friedenszeiten, von Agrar- bis zu Industriegesellschaften. Einige Interpretationen, insbesondere aus der Zeit der Umayyaden und Abbasiden, haben den Islam jedoch mit regionalen Bräuchen ihrer Zeit vermischt. Sie haben kulturelle Praktiken wie Bärte, Turbane und Gewänder religiös implementiert und in den Islam integriert. Solche Einflüsse verzerren den universellen Charakter des Islam. Im Gegensatz zu kulturellen oder zeitgebundenen Praktiken gehören zentrale Werte des Korans wie die Anerkennung des einen Gottes, das Fasten und das Helfen der Bedürftigen zu den unveränderlichen, zeitlosen Prinzipien des Islam. Diese Werte verpflichten alle – sei es zur Zeit der Umayyaden, Abbasiden oder in der Gegenwart. Andere kulturelle oder individuelle Praktiken, ob Bärte oder Mode, bleiben persönliche Entscheidungen und haben keinen direkten Bezug zum Islam. Sie sind keine Verpflichtungen oder auch Empfehlungen des islam."
+    },
+    {
+      "type": "heading",
+      "text": "Die Ehen des Propheten Muhammad",
+      "plain": "Die Ehen des Propheten Muhammad",
+      "slug": "die-ehen-des-propheten-muhammad"
+    },
+    {
+      "type": "paragraph",
+      "text": "Die Diskussion um die Ehen des Propheten Muhammad und die dazu erzählten Geschichten basiert größtenteils auf sekundären Quellen wie Hadithen. Diese Berichte, die häufig widersprüchlich sind, werfen viele Fragen auf, während der Koran keine Details über die Ehen des Propheten oder die Namen seiner Ehefrauen enthält. Im Folgenden wird eine Koran-basierte Perspektive auf das Thema erläutert. Die Behauptung, der Prophet Muhammad habe ein neunjähriges Mädchen geheiratet, basiert ausschließlich auf Hadithen, die nicht nur unsicher, sondern auch widersprüchlich sind. Einige Forscher argumentieren, dass Aischa bei ihrer Heirat älter gewesen sein könnte.<sup class=\"fn-ref\"><a href=\"#fn-412\" id=\"fnref-412\">412</a></sup> Der Koran hingegen <span class=\"pb\" data-p=\"328\"></span>betont die Bedeutung von Mündigkeit und Verantwortungsbewusstsein bei Eheschließungen:"
+    },
+    {
+      "type": "verse",
+      "text": "„Und prüft die Waisen, bis sie das Heiratsalter erreicht haben und ihre Mündigkeit (<em>ruschd</em>) erlangt haben. Wenn ihr dann bei ihnen Reife feststellt, übergebt ihnen ihr Vermögen.”",
+      "reference": "Koran 4:6"
+    },
+    {
+      "type": "paragraph",
+      "text": "Die hier erwähnte „Mündigkeit“ umfasst die Fähigkeit, Eigentum zu verwalten, was ein Zeichen von Reife und Verantwortungsbewusstsein ist. Dies zeigt, dass sowohl ein angemessenes Alter als auch die Mündigkeit Kriterien für Eheschließungen sein sollten. Eine Ehe mit einem unreifen Kind, das weder Verantwortung tragen noch sich bewusst für eine Ehe entscheiden kann, widerspricht eindeutig dieser Leitlinie des Koran."
+    },
+    {
+      "type": "paragraph",
+      "text": "99 Prozent der Geschichten über die Ehefrauen des Propheten stammen aus Hadithen. Diese Geschichten sind also nicht zuverlässig. Der Koran führt in 33:52 eine spezifische Einschränkung für die Ehen des Propheten ein: „<strong>Von nun an ist es dir nicht erlaubt, weitere Frauen zu heiraten, und auch nicht, sie gegen andere auszutauschen, selbst wenn ihre Schönheit dich entzücken sollte.</strong>”. Dies zeigt, dass der Prophet in seinen Eheschließungen zunächst den allgemeinen Freiheiten folgte, die auch für andere Gläubige galten, später jedoch durch diese Einschränkung spezifisch angesprochen wurde. Darüber hinaus regelt der Koran die Freiheit der Frauen des Propheten, ihn zu verlassen, wenn sie dies wünschen:"
+    },
+    {
+      "type": "verse",
+      "text": "„O Prophet! Sprich zu deinen Frauen: Wenn ihr das Leben dieser Welt und seinen Glanz begehrt, dann kommt her, ich will euch eine Versorgung geben und euch in schöner Weise entlassen.”",
+      "reference": "Koran 33:28"
+    },
+    {
+      "type": "paragraph",
+      "text": "<span class=\"pb\" data-p=\"329\"></span>Diese Passage verdeutlicht, dass die Ehefrauen des Propheten freiwillig in die Ehe eintraten und jederzeit die Freiheit hatten, die Ehe zu beenden. Die Ehen des Propheten Muhammad spiegeln die kulturellen und sozialen Realitäten seiner Zeit wider. Der Prophet handelte, wie jeder Mensch, innerhalb des kulturellen Rahmens und der Bedingungen, in denen er lebte. Diese „historischen“ Aspekte seiner Lebensführung sind nicht als universelle Vorbilder zu betrachten, sondern als Ausdruck der spezifischen Umstände seiner Epoche. Die Übertragung solcher geschichtlichen Details in die heutige Zeit und deren religiöse Überhöhung führt zu Missverständnissen und Fehlinterpretationen. Der Koran stellt die zentrale und alleinige Quelle des Islam dar und betont universelle Prinzipien. Die Details des privaten Lebens des Propheten, die oft auf unsicheren Hadithen basieren, haben keine islamische Relevanz für die Glaubenspraxis. Die Konzentration auf den Koran als einzige islamische Quelle verhindert unnötige und fruchtlose Diskussionen über die privaten Aspekte des Lebens des Propheten. Solche Diskussionen resultieren häufig aus der Vermischung von historischen und religiösen Aspekten, die durch unsichere Hadithen gefördert wurde. Eine Rückkehr zu den universellen Prinzipien des Korans bietet die Möglichkeit, solche Missverständnisse zu klären und die wahre Botschaft des Islam in ihrer Reinheit zu bewahren."
+    },
+    {
+      "type": "heading",
+      "text": "Die Zeugenaussage von Frauen",
+      "plain": "Die Zeugenaussage von Frauen",
+      "slug": "die-zeugenaussage-von-frauen"
+    },
+    {
+      "type": "paragraph",
+      "text": "Eines der von der traditionellen Auffassung verzerrten Themen ist die Zeugenaussage von Frauen. Der Koran behandelt die Zeugenaussage von Männern und Frauen gleich. Nirgends wird im Koran erwähnt, dass „die Aussage eines Mannes der Aussage von zwei Frauen entsprechen” würde. Beispielsweise wird für den <span class=\"pb\" data-p=\"330\"></span>Nachweis von Unzucht die Aussage von vier Zeugen gefordert. Der Koran spezifiziert dabei nicht, dass es vier Frauen, zwei Männer oder vier Männer und acht Frauen sein müssen. Es wird schlicht von vier Zeugen gesprochen, ohne zwischen Mann und Frau zu unterscheiden. In Fällen, in denen die Aussagen von Mann und Frau einander widersprechen, wie etwa bei einem Ehebruchsvorwurf, sind die Aussagen von Mann und Frau gleichwertig. In einer Situation, in der sich die Aussagen widersprechen, wird sogar die Aussage der Frau als maßgeblich angesehen, und sie gilt als unschuldig (vgl. Koran 24:6-9)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Das Missverständnis entsteht durch die Ausnahme, die im Koranvers 2:282 beschrieben wird und sich auf Geschäfte mit Zahlungsaufschub bezieht. In diesem Vers wird die Notwendigkeit betont, Schulden schriftlich festzuhalten, und es wird von einem Schreiber sowie von Zeugen gesprochen, die sich ihrer Aufgabe nicht entziehen sollen. Am Ende des Verses heißt es außerdem, dass weder der Schreiber noch die Zeugen Schaden erleiden dürfen. Es wird deutlich, dass die Zeugenaussage in dieser Angelegenheit eine unliebsame Verantwortung ist, die Menschen oft meiden. Der Koran weist diese Verantwortung zunächst den Männern zu, indem er „<strong>zwei männliche Zeugen</strong>“ fordert. Es wird dabei nicht erwähnt, dass „zwei Männer oder vier Frauen“ akzeptabel wären. Vielmehr wird ausdrücklich die Anwesenheit von „<strong>zwei männlichen Zeugen</strong>“ verlangt. Falls keine zwei Männer verfügbar sind, wird als zweite Option die Anwesenheit von „<strong>einem Mann und zwei Frauen</strong>“ zugelassen. Dies dient dazu, Frauen, die weniger in den Handel eingebunden sind und potenziell leichterem Druck ausgesetzt sein könnten, zu schützen. Wenn ein Streit über die Höhe einer Schuld entsteht und die Aussagen der Zeugen auseinandergehen, könnte eine Frau, die alleine einem Mann gegenübersteht, in eine angespannte Situation geraten, in der sie intensiven <span class=\"pb\" data-p=\"331\"></span>Druck erlebt. Indem die Zeugenschaft in solchen Fällen auf drei Personen verteilt wird (ein Mann und zwei Frauen), wird die Belastung gemindert. Personen mit böser Absicht müssten dann zwei von drei Zeugen beeinflussen, was schwieriger ist, als eine einzelne Person unter Druck zu setzen. Die Weisheit hinter dieser Regelung, die Frauen vor potenziellen Belastungen und Missbrauch schützt, wurde jedoch von einigen falsch interpretiert. Diese haben fälschlicherweise behauptet, dass „die Aussage eines Mannes der von zwei Frauen entspricht“, und dabei den Koran verfälscht sowie alte patriarchalische Perspektiven in diese Auslegung eingebracht."
+    },
+    {
+      "type": "paragraph",
+      "text": "Mit Ausnahme dieses Verses gibt es jedoch in den anderen Versen des Koran über das Zeugnis keine Unterscheidung zwischen Männern und Frauen. Hätte es eine solche Unterscheidung gegeben, wäre sie in jedem Vers über das Zeugnis erwähnt worden, oder es wäre ein allgemeines Regelprinzip aufgestellt worden, wie „das Zeugnis eines Mannes ist gleichwertig mit dem Zeugnis zweier Frauen“. Das Fehlen eines solchen Regelprinzips zeigt, dass eine solche Situation nicht existiert. Wenn eine Frau, die in fast allen Epochen der Geschichte weniger am Handel beteiligt war, aufgrund ihrer mangelnden Beteiligung am Handel oder aufgrund von Druck von einer wahrheitsgemäßen Aussage abweicht, kann sie diese Schwierigkeit mit Hilfe der Aussage der anderen Frau überwinden und ihre Verantwortung durch Teilung der Verantwortung verringern.<sup class=\"fn-ref\"><a href=\"#fn-413\" id=\"fnref-413\">413</a></sup> Es darf nicht vergessen werden, dass die Beteiligung der Frau an dieser vermiedenen Pflicht an eine Ausnahmesituation wie die Abwesenheit von zwei Männern gebunden ist. <span class=\"pb\" data-p=\"332\"></span>Die Aussage im Vers 2:282 „<strong>Ihr sollt weder dem Schreiber noch dem Zeugen Schaden zufügen. Wenn ihr das tut, kommt ihr vom rechten Weg ab</strong>“ genügt, um den Druck zu verstehen, der auf den Zeugen und den Schreiber ausgeübt wird, und um die Logik des Verses in diesem Zusammenhang zu verstehen. Das Zeugnis in dieser Angelegenheit ist keine Handlung, die jeder tun möchte und die den Interessen der Männer entspricht, so dass es sich um eine Situation gegen die Frauen handelt, wie einige zu zeigen versuchen. Im Gegenteil, wir verstehen aus dem Vers, dass es sich um eine Pflicht handelt, die vermieden werden soll, wem auch immer sie auferlegt wird. Diese Bestimmung bezeugt den Schutz der Frauen vor einer Verantwortung, der sich die Männer entziehen, d. h. vor einer positiven Diskriminierung zugunsten der Frauen."
+    },
+    {
+      "type": "heading",
+      "text": "Die Frage des Schlagens von Frauen",
+      "plain": "Die Frage des Schlagens von Frauen",
+      "slug": "die-frage-des-schlagens-von-frauen"
+    },
+    {
+      "type": "paragraph",
+      "text": "Einer der meistdiskutierten Verse des Korans in Bezug auf Frauen ist Vers 4:34, insbesondere aufgrund der Interpretation des Wortes „schlagen“ in einigen Übersetzungen. Zunächst geben wir die Übersetzung des Verses an, wobei die relevanten arabischen Begriffe in Klammern aufgeführt sind, und analysieren diese anschließend."
+    },
+    {
+      "type": "verse",
+      "text": "„Die Männer sind Aufseher/Beschützer (<em>qawwam</em>) über die Frauen, weil Gott die einen vor den anderen ausgezeichnet hat und weil sie von ihrem Vermögen hingeben. Die rechtschaffenen Frauen sind ergeben (<em>qanitat</em>) und bewahren das, was verborgen ist, da Gott es bewahrt hat. Jene aber, von denen ihr fürchtet, dass sie sich auflehnen, ermahnt sie, meidet sie im Ehebett und trennt euch von ihnen <span class=\"pb\" data-p=\"333\"></span>(<em>idribu-hunna</em>). Wenn sie euch gehorchen, so sucht keinen Vorwand gegen sie. Gott ist erhaben und groß.“",
+      "reference": "Koran 4:34"
+    },
+    {
+      "type": "paragraph",
+      "text": "Betrachten wir zunächst den Begriff „<em>qawwam</em>“ in dem Vers, den wir mit „Aufseher/Beschützer“ übersetzen. Dieser Teil des Verses beschreibt eher die allgemeine Situation, als dass er eine Wertung vornimmt. Männer wachen über Frauen, weil Frauen körperlich schwächer sind und weil Männer normalerweise in der Geschäftswelt tätig sind und Geld verdienen und es für ihre Familien ausgeben. Tatsächlich wird einige Verse weiter im Vers 4:135 der Ausdruck „<em>qawwam</em>“ zusammen mit dem Wort „Gerechtigkeit“ erwähnt, und es wird die Bedeutung von „bewachen“ angegeben. Es ist angemessener, das Wort „<em>qawwam</em>“ hier auf diese Weise zu übersetzen, als es mit „Herrscher“ zu übersetzen, wie es einige Leute tun. Die Formulierung „<strong>Er hat einige von ihnen den anderen überlegen gemacht</strong>“ im weiteren Verlauf des Verses deutet darauf hin, dass Männer den Frauen überlegen sein können, ebenso wie Frauen den Männern überlegen sein können.<sup class=\"fn-ref\"><a href=\"#fn-414\" id=\"fnref-414\">414</a></sup>"
+    },
+    {
+      "type": "paragraph",
+      "text": "<span class=\"pb\" data-p=\"334\"></span>Ein weiteres Missverständnis des Verses ist, dass gute (<em>saliha</em>) Frauen unterwürfig (<em>qanitat</em>) sind. Einige haben versucht, Gehorsam hier als „Gehorsam gegenüber dem Ehemann“ darzustellen. Es ist jedoch angemessener, Gehorsam hier als „Gehorsam gegenüber Gott“ zu verstehen. Zunächst einmal heißt es in dem Vers, dass gute Frauen ihre Ehre auch an den abgelegensten Orten schützen; dieser Schutz gilt auch dann, wenn sie nicht verheiratet sind, und die Keuschheit einer muslimischen Frau wird durch das Bewusstsein des „Gehorsams gegenüber Gott“ verwirklicht. Es heißt auch, dass „Gott sie beschützt“, was bedeutet, dass der Gehorsam Gott und nicht dem Ehemann gilt. Darüber hinaus wird im Koran 33:35 der Ausdruck „<em>qanitat</em>“ (gehorsame Frauen) zusammen mit dem Ausdruck „<em>qanitin</em>“ (gehorsame Männer) erwähnt; niemand versteht den Ausdruck „<em>qanitat</em>“ hier als „Gehorsam gegenüber dem Ehemann“. Wenn es ein solches Verständnis gäbe, dann müsste man den Ausdruck „<em>qanitin</em>“, welches sich unmittelbar neben dem Wort „<em>qanitat</em>“ vorkommt, als „Gehorsam des Mannes gegenüber seiner Frau“ verstehen. Wie man sieht, besteht einer der wichtigsten Aspekte eines koranzentrierten Verständnisses darin, den an einer Stelle des Korans erwähnten Ausdruck im Rahmen der Gesamtheit des Korans zu verstehen."
+    },
+    {
+      "type": "paragraph",
+      "text": "Betrachten wir abschließend den Ausdruck „<em>idribu-hunna</em>“, der in diesem Vers am meisten diskutiert wird und dem viele Übersetzer die Bedeutung „schlagen“ geben. Das arabische Verb „<em>dara-ba</em>“ hier ist eines der vielseitigsten Wörter im Arabischen. Jeder, der ein arabisches Wörterbuch aufschlägt, wird Zeuge dieser Eigenschaft des Verbs „<em>da-ra-ba</em>“.<sup class=\"fn-ref\"><a href=\"#fn-415\" id=\"fnref-415\">415</a></sup> Diejenigen, die mehr als 50 Verse im Koran untersuchen, in denen dieses Verb vorkommt, bezeugen, dass dieses Wort im Koran in verschiedenen Bedeutungen <span class=\"pb\" data-p=\"335\"></span>verwendet wird. Das Wort „<em>daraba</em>“ wird in vielen Bedeutungen verwendet, wie z. B. „hinausgehen, verlassen, schlagen“. Im Koran wird dieses Wort am häufigsten mit dem Wort „Beispiel“ (<em>masal</em>) im Sinne von „ein Beispiel geben/prägen“ verwendet. Es scheint im Koran auch im Sinne von „aufgeben, fernhalten“ verwendet zu werden, wie in Vers 43:5. Wenn ein Araber heute jemanden mit diesem Imperativ „<em>idrib</em>“ nennt, sagt er oder sie der anderen Person, dass sie „weggehen“ soll. In ähnlicher Weise werden in vielen Sprachen einige Wörter mit unterschiedlichen Bedeutungen verwendet. Nehmen wir zum Beispiel das deutsche Wort „Leiter“. Dieses Wort kann entweder eine Führungskraft, eine Kletterhilfe oder ein elektrisches Medium bedeuten, das frei bewegliche Ladungsträger besitzt und daher zum Transport geladener Teilchen verwendet werden kann. Wenn das Wort „Leiter“ in einem Text vorkommt und wir seine Bedeutung verstehen wollen, versuchen wir, die Bedeutung dieses Wortes zu bestimmen, indem wir den Anfang und das Ende des Satzes auswerten, in dem dieses Wort in diesem Text vorkommt, oder, falls dies nicht möglich ist, indem wir den gesamten Text auswerten. Das ist es, was wir hier tun müssen; die Methode, die wir immer befürwortet haben, ist, die Bedeutung innerhalb der Gesamtheit des Koran zu bestimmen."
+    },
+    {
+      "type": "paragraph",
+      "text": "Es gilt zu bestimmen, ob es angemessener ist, diesem Wort in Koran 4:34 die Bedeutung „Distanzieren, Trennen“ oder die Bedeutung „Schlagen“ zu geben. Wir müssen dies mit der Methode herausfinden, die wir schon immer angewandt haben, indem wir untersuchen, welche Bedeutung im gesamten Koran dem Wort entspricht. Der Koran sagt in Vers 33:21, dass der Prophet „das schönste Beispiel“ (<em>uswatun hasenatun</em>) ist, und es besteht kein Zweifel, dass der Koran die zuverlässigste Quelle zum Verständnis dieses Beispiels ist. Auch in Vers 33:28 sehen wir, dass der Prophet Probleme mit seinen Frauen hatte. Hier wird dem Propheten <span class=\"pb\" data-p=\"336\"></span>geraten, sich von seinen Frauen scheiden zu lassen, wenn sie nach den Freuden des weltlichen Lebens streben und nicht miteinander auskommen; eine Handlung wie „Schlagen“ wird nicht empfohlen. In den Versen 66:1-12, wo ein ähnliches Problem in der Ehe des Propheten beschrieben wird, wird das „Schlagen“ ebenfalls nicht erwähnt. In Vers 65:2 des Korans wird erwähnt, dass Muslime sich scheiden lassen und ihre Ehen in angemessener Weise (<em>maruf</em>) fortsetzen sollen; somit scheint die „Trennung“, wenn sie sich nicht einig sind, eher mit diesen Aussagen des Korans übereinzustimmen als Schläge oder Gewalt."
+    },
+    {
+      "type": "paragraph",
+      "text": "Außerdem steht nirgendwo im Koran, dass ein Mensch einem anderen Menschen aus eigenem Entschluss Gewalt zufügen kann. Der Vorwurf des Ehebruchs durch einen Ehemann gegen seine Frau in den Versen 24:6-9 ist ein sehr wichtiges Beispiel, um dieses Thema zu verstehen. Es sei daran erinnert, dass eine Person, die eine Frau des Ehebruchs bezichtigt, vier Zeugen vorweisen muss. Wenn er aber der Ehemann der Frau ist, kann er dies bezeugen, indem er viermal im Namen Gottes schwört, ohne vier Zeugen zu präsentieren, und beim fünften Mal bittet er Gottes Zorn auf sich, wenn er einer der Lügner ist. Wenn die Ehefrau auf die gleiche Weise antwortet, d. h. wenn sie viermal sagt, dass ihr Mann einer der Lügner ist und dass Gottes Zorn auf ihr lastet, wenn sie eine Lügnerin ist, wird sie nicht bestraft. Selbst wenn ein Ehemann seine Frau beim Ehebruch sieht, gibt es im Koran keinen Hinweis darauf, dass er sie mit seiner eigenen Hand bestrafen soll. Selbst wenn dies bereits nicht möglich ist, scheint es vernünftiger zu sein, anzunehmen, dass der Koran in Vers 4:34 sagt, dass sie im Falle der Unvereinbarkeit als letzte Maßnahme vor der Scheidung eine Zeitlang an getrennten Orten verbringen sollen."
+    },
+    {
+      "type": "paragraph",
+      "text": "<span class=\"pb\" data-p=\"337\"></span>Wir glauben, dass ein wichtiger Grund für diesbezügliche Missverständnisse das Verständnis dieses Verses im Rahmen der angeblichen Hadithe über die Offenbarungsanlässe (<em>asbab an-Nuzul</em>) ist. Der Geschichte über die Entstehung dieses Verses zufolge ohrfeigt ein männlicher Gefährte seine Frau und sie kommt zum Propheten mit einer Beschwerde. Der Prophet befiehlt ihr, Vergeltung zu üben, d. h. ihm eine Ohrfeige zu geben. Dieser Hadith besagt, dass dieser Vers genau dann herabgesandt wurde und somit musste der Prophet seine erste Aussage revidieren und sie solle sich nicht rächen, und dass ihr Mann sie doch schlagen dürfe, wenn es nötig sei. Diejenigen, die diesen Vers mit diesem Hadith lesen, können natürlich nicht die Bewertungen vornehmen, die wir oben gemacht haben. Erinnern wir uns jedoch daran, dass schon Ibn Hanbal, der Begründer der hanbalitischen Denkschule, darauf hinwies, dass die Hadithe der Überlieferungsanlässe einer der Bereiche sind, in denen Fälschungen am häufigsten vorkommen.<sup class=\"fn-ref\"><a href=\"#fn-416\" id=\"fnref-416\">416</a></sup>"
+    },
+    {
+      "type": "heading",
+      "text": "Die Frau und das Erbrecht",
+      "plain": "Die Frau und das Erbrecht",
+      "slug": "die-frau-und-das-erbrecht"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ein häufig missverstandenes Thema in Bezug auf Frauen ist die Frage des Erbrechts im Koran. Die erste und wichtigste Regel, die zu beachten ist, lautet, dass nach dem Koran das Testament und die Begleichung von Schulden Vorrang bei der Verteilung des Vermögens haben. Diese klare Anordnung des Korans wurde jedoch durch eine erfundene Hadith-Aussage („<em>Es gibt kein Testament für Erben</em>“)<sup class=\"fn-ref\"><a href=\"#fn-417\" id=\"fnref-417\">417</a></sup> von den Vertretern einer traditionellen Auslegung ignoriert. Damit nicht genug: Diese Hadith hat nicht nur den Islam durch Zusätze verfälscht, sondern sogar versucht, eine koranische Anordnung außer Kraft zu setzen. Nach dem Koran <span class=\"pb\" data-p=\"338\"></span>müssen zuerst Testament und Schulden geklärt werden, bevor das verbleibende Vermögen verteilt wird. Dies wird in Versen wie 5:106 und 2:180 deutlich, wo die Erstellung eines Testaments ausdrücklich angeordnet wird. Auch in den Versen 4:11 und 4:12, in denen die empfohlenen Erbanteile beschrieben werden, wird klar erwähnt, dass diese Anteile nur „<strong>nach Erfüllung des Testaments und der Begleichung von Schulden</strong>“ gelten."
+    },
+    {
+      "type": "paragraph",
+      "text": "Wenn wir das Erbsystem des Korans im Zusammenhang mit seinem gesamten wirtschaftlichen und sozialen System betrachten, wird die Logik hinter der vorgeschlagenen Verteilung besser verständlich. Beim Eingehen einer Ehe zahlt der Mann der Frau eine Brautgabe (<em>Mahr</em>), die ausdrücklich ihr gehört und nicht ihrer Familie. Der Koran legt keine Obergrenze für diese Brautgabe fest. Eine Frau kann je nach ihren Bedürfnissen und Umständen ein Haus, ein Auto oder eine andere substantielle Gabe als Brautgabe verlangen. Falls sie keine großen Ansprüche stellt, kann auch ein kleines Geschenk, Schmuck oder Ähnliches als Brautgabe dienen. Der Koran verlangt, dass die Brautgabe in angemessener Weise gegeben wird, und indem er den Betrag nicht festlegt, schafft er die gleiche Flexibilität, die er in vielen anderen Bereichen geschaffen hat. Die Brautgabe ist ein Betrag, der von beiden Parteien vereinbart wird. In jedem Fall ist die Brautgabe ein materieller Transfer vom Mann an die Frau. Im Falle einer Scheidung ist der Mann verpflichtet, den Lebensunterhalt der Mutter zu übernehmen, wenn sie das gemeinsame Kind stillt. Der Unterhalt umfasst sowohl die Kosten für das Kind als auch für die Mutter.<sup class=\"fn-ref\"><a href=\"#fn-418\" id=\"fnref-418\">418</a></sup> Mit anderen Worten: Nach dem Koran hat der Mann eine größere finanzielle Verantwortung als die Frau, sowohl bei der Zahlung der Brautgabe als auch bei bestimmten Ausgaben, die nicht von der Frau getragen <span class=\"pb\" data-p=\"339\"></span>werden. Im Falle des Todes des Ehemannes wird im Koran angeordnet, dass verwitwete Frauen, falls sie finanzielle Unterstützung benötigen, von der Gemeinschaft versorgt werden.<sup class=\"fn-ref\"><a href=\"#fn-419\" id=\"fnref-419\">419</a></sup> Diese Verpflichtungen zeigen, dass Männer durch ihre finanziellen Verantwortlichkeiten wirtschaftlich mehr belastet sind als Frauen. Vor diesem Hintergrund erklärt der Koran, dass männliche Nachkommen einen doppelt so hohen Erbanteil wie weibliche Nachkommen erhalten.<sup class=\"fn-ref\"><a href=\"#fn-420\" id=\"fnref-420\">420</a></sup> Die Einzelheiten des Erbrechts sind in 4:11, 12 und 176 geregelt. Wenn Vater und Mutter Erben sind, erhalten sie jeweils einen gleichen Anteil von einem Sechstel des Erbes. Wie man sieht, empfiehlt Gott, dass ein Mann doppelt so viel erbt wie seine Schwester und seinen Besitz teilt; und das in einem Alter, wo der Mann Kapital für die Gründung eines Unternehmens benötigen würde. Eltern, deren Kinder verstorben sind, haben wahrscheinlich keine solchen Sorgen, und die empfohlene Erbschaft beträgt ein Sechstel für jeden von ihnen, sowohl für die Mutter als auch für den Vater."
+    },
+    {
+      "type": "paragraph",
+      "text": "Manche Menschen können vielleicht Einwände, wie z. B. „so sind die Zeiten jetzt, die Frauen arbeiten heutzutage“ oder „die Frau meines Sohnes ist reich“ oder „der Mann meiner Tochter und sie selbst sind arm“ vorbringen. Wie bereits erwähnt, ist das Wichtigste im Koran das Testament; alle Erbteilungen, die im Koran erwähnt werden, beziehen sich auf den Rest des Testaments und die Schulden, und es ist den Menschen freigestellt, das Testament nach ihren eigenen Bedingungen zu gestalten. Zum Beispiel können sie das Erbe mit ihren Söhnen ausgleichen, indem sie ihren Töchtern vor ihrem Tod ein Testament hinterlassen, und sie können von dieser Flexibilität, die der Koran bietet, profitieren. Wie wir in diesem Kapitel gesehen haben, liegt das Problem in der <span class=\"pb\" data-p=\"340\"></span>einseitigen Herangehensweise an den Koran und darin, dass nicht versucht wird, den Koran als Ganzes zu verstehen. Der Koran lässt für jedes Problem die vollkommenste Lösung zu und bietet Spielräume, die je nach Epoche angewendet werden können."
+    },
+    {
+      "type": "heading",
+      "text": "Wir sind die Kleidung des anderen",
+      "plain": "Wir sind die Kleidung des anderen",
+      "slug": "wir-sind-die-kleidung-des-anderen"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ein weiteres häufig missverstandenes Thema im Koran ist die Metapher, die den Geschlechtsverkehr mit dem Aussaat von Samen auf einem Feld vergleicht. Im Koranvers 2:223 heißt es: „<strong>Eure Frauen sind euch ein Saatfeld. So gelangt zu eurem Saatfeld, wie ihr wollt</strong>“, was bedeutet, dass Geschlechtsverkehr in jeder Weise praktiziert werden kann und es diesbezüglich keine Einschränkungen gibt. Dieser Vers war ein Hindernis für die Traditionalisten, die alles einschränken wollen und versuchen, den Bereich der Sexualität ebenfalls einzuschränken. Trotz dieses Verses haben sich einige Traditionalisten, wie Ibrahim Hakki Erzurumi<sup class=\"fn-ref\"><a href=\"#fn-421\" id=\"fnref-421\">421</a></sup>, in das Sexualleben der Menschen eingemischt, indem sie Einzelheiten über den Geschlechtsverkehr vorschrieben, bis hin zu den Tagen, an denen Geschlechtsverkehr praktiziert werden darf. Lassen wir uns nicht von dem vulgären Klang des Wortes „<strong>Feld</strong>“ im Deutschen oder anderen Sprachen täuschen. Wenn das Wort „<strong>Feld</strong>“ in Ihren Ohren unhöflich klingt, setzen Sie an die gleiche Stelle im Vers eine Formulierung wie „<strong>Erzeugnis Empfangsbereich / Fruchtbarkeit des Lebens</strong>“: „<strong>Eure Frauen sind die Fruchtbarkeit eures Lebens. Geht zu dieser Fruchtbarkeit, wie ihr wollt.</strong>“ Obwohl diese Redewendung sehr lang ist, gibt sie die gleiche Bedeutung wie der arabische Vers."
+    },
+    {
+      "type": "paragraph",
+      "text": "Wie das Säen eines Samens im Ackerland eine Pflanze hervorbringt, so führt das Einbringen des männlichen Samens in den <span class=\"pb\" data-p=\"341\"></span>Körper der Frau zur Entstehung eines neuen Lebens.<sup class=\"fn-ref\"><a href=\"#fn-422\" id=\"fnref-422\">422</a></sup> Der Koran nutzt hier eine Metapher, die die Wichtigkeit und Schönheit der Partnerschaft in der Ehe betont und gleichzeitig unnötigen Einschränkungen eine Absage erteilt. In einem anderen Vers des Korans wird die Beziehung zwischen Mann und Frau durch eine andere schöne Metapher beschrieben:"
+    },
+    {
+      "type": "verse",
+      "text": "„Sie sind ein Gewand für euch, und ihr seid ein Gewand für sie.“<sup class=\"fn-ref\"><a href=\"#fn-423\" id=\"fnref-423\">423</a></sup>",
+      "reference": "Koran 2:187"
+    },
+    {
+      "type": "heading",
+      "text": "Die Stellung der Frau im Islam des Koran",
+      "plain": "Die Stellung der Frau im Islam des Koran",
+      "slug": "die-stellung-der-frau-im-islam-des-koran"
+    },
+    {
+      "type": "paragraph",
+      "text": "Zu Beginn dieses Kapitels wurde aufgezeigt, wie durch erfundene Hadithe und Rechtsschulen die frauenfeindliche Sichtweise des Beduinenlebens in den Islam integriert wurde. Die Frau wurde in eine Position gedrängt, in der sie nicht reisen durfte, an das Haus gebunden war, keine Führungsrolle einnehmen konnte, dem Mann bedingungslos gehorchen musste, ihre Stimme Männern nicht hören lassen durfte und sogar der Platz, auf dem sie gesessen hatte, gemieden werden sollte, solange er noch warm war. Diese Denkweise hat dazu geführt, dass die Erklärungen des Korans <span class=\"pb\" data-p=\"342\"></span>verzerrt wurden. Zusammen mit den erfundenen Hadithen führte dies zu Missverständnissen, die im Anschluss an die Überlieferungen analysiert wurden. Daraus wird deutlich, dass es essenziell ist, den Islam der Rechtsschulen und Traditionen von diesen Verfälschungen zu reinigen, um den Koran vollständig und korrekt zu verstehen. Nur durch die Rückkehr zum Koran kann die Stellung der Frau wahrhaftig und angemessen begriffen werden."
+    },
+    {
+      "type": "verse",
+      "text": "„Begehrt nicht das, womit Gott einige von euch vor anderen ausgezeichnet hat. Die Männer sollen einen Anteil von dem haben, was sie erwerben, und die Frauen sollen einen Anteil von dem haben, was sie erwerben.“",
+      "reference": "Koran 4:32"
+    },
+    {
+      "type": "paragraph",
+      "text": "Dieser Vers verdeutlicht, dass Frauen und Männer jeweils ihre eigenen Vorzüge und Stärken haben. Die Behauptung, ein Geschlecht sei dem anderen in allen Bereichen überlegen, oder die Forderung, beide Geschlechter müssten in jedem Bereich gleich sein, widersprechen den Naturgesetzen und der Vernunft. Wenn man im Namen der Gleichheit verlangt, dass Männer Kinder gebären oder Frauen im Krieg die gleichen Aufgaben übernehmen wie Männer, verkennt man die Unterschiede zwischen den Geschlechtern und tut beiden Unrecht. Gott, der Schöpfer, kennt die Unterschiede der Geschlechter und weiß am besten, wie diese trotz – oder gerade wegen – ihrer Unterschiede harmonisch zusammenleben können. Der Koran beschreibt dies metaphorisch, indem er sagt, dass Frauen und Männer „<strong>einander Kleidung/Gewand sind</strong>“.<sup class=\"fn-ref\"><a href=\"#fn-424\" id=\"fnref-424\">424</a></sup>"
+    },
+    {
+      "type": "verse",
+      "text": "<span class=\"pb\" data-p=\"343\"></span>„Sollte der Schöpfer denn Seine Schöpfung nicht kennen?“",
+      "reference": "Koran 67:14"
+    },
+    {
+      "type": "paragraph",
+      "text": "Natürlich kennt der Schöpfer seine Schöpfung und hat in seiner vollkommenen Botschaft, dem Koran, die Beziehungen zwischen Mann und Frau sowie alle anderen Bereiche des Lebens auf die beste Weise geregelt. Diese Perfektion zeigt sich sowohl in den Regeln, die er aufstellt, als auch in den Bereichen, in denen er keine Regel vorgibt oder Flexibilität zulässt. Diese Kombination von klaren Geboten und Freiräumen macht den Koran zeitlos und universell anwendbar, unabhängig von Epoche, Kultur, Zeit und Gesellschaft. Die Unfähigkeit, die Weisheit dieser Flexibilität zu erkennen, führte dazu, dass die traditionalistische und rechtsschul-gebundene Denkweise eigene Regeln aufstellte und so die heutige Verzerrung des Islam als „wahre Religion“ präsentierte."
+    },
+    {
+      "type": "verse",
+      "text": "„Ob Mann oder Frau, wer gläubig ist und Gutes tut, der wird ins Paradies eingehen und nicht um das Gewicht des Samenkorns eines Dattelkerns Unrecht erleiden.“",
+      "reference": "Koran 4:124"
+    },
+    {
+      "type": "verse",
+      "text": "„Ob Mann oder Frau, wer gläubig ist und Gutes tut, dem werden wir ein reines Leben gewähren und ihn für seine Taten auf die beste Weise belohnen.“",
+      "reference": "Koran 16:97"
+    },
+    {
+      "type": "paragraph",
+      "text": "Im Islam ist das eigentliche Leben das Jenseits. Das diesseitige Leben ist nur eine kurze Reise, während das Jenseits das eigentliche Ziel ist. Sowohl die oben genannten als auch viele andere Verse zeigen, dass es nicht auf das Geschlecht ankommt, sondern auf die <span class=\"pb\" data-p=\"344\"></span>guten Taten, die man im Einklang mit Gottes Wohlgefallen vollbringt. Die Vorstellung, Frauen seien von Geburt an benachteiligt und würden die Mehrheit der Höllenbewohner stellen, widerspricht diesen Koranversen und damit der göttlichen Botschaft.<sup class=\"fn-ref\"><a href=\"#fn-425\" id=\"fnref-425\">425</a></sup>"
+    }
+  ],
+  "footnotes": [
+    {
+      "n": 379,
+      "text": "Anm. d. Übers.: Siehe: <em>an-Nasa’i</em>, insbesondere im Buch des Dschihad (Kitab al-Dschihad), Hadith Nr. 3104."
+    },
+    {
+      "n": 380,
+      "text": "<em> Tirmidhi</em>, Rada (Milchverwandtschaftsrechts); <em>Abu Dawud</em>, Nikah (Die Ehe); Ahmad ibn Hanbal, <em>Musnad</em>; <em>Ibn Madscha</em>, Nikah (Die Ehe)."
+    },
+    {
+      "n": 381,
+      "text": "<em> Ibn Hadschar al-Haythami</em>; Ahmad ibn Hanbal, <em>Musnad</em>."
+    },
+    {
+      "n": 382,
+      "text": "adh-Dhahabi, <em>Große Sünden</em>."
+    },
+    {
+      "n": 383,
+      "text": "<em> Buchari</em>."
+    },
+    {
+      "n": 384,
+      "text": "<em> Muslim</em>, Kitab al-Iman (Buch des Glaubens); <em>Ibn Madscha</em>, Kitab al-Fitan (Buch der Versuchungen)."
+    },
+    {
+      "n": 385,
+      "text": "<em> Buchari</em>."
+    },
+    {
+      "n": 386,
+      "text": "<em> Muslim</em>, Kitab al-Iman (Buch des Glaubens); <em>Ibn Madscha</em>, Kitab al-Fitan (Buch der Versuchungen)."
+    },
+    {
+      "n": 387,
+      "text": "Imam an-Nawawi, <em>Riyadh as-Salihin</em> (<em>Die Gärten der Rechtschaffenen</em>)."
+    },
+    {
+      "n": 388,
+      "text": "<em> Muslim</em>, as-Salah (das Gebet); <em>Tirmidhi</em>, as-Salah (das Gebet); <em>Abu Dawud</em>, as-Salah (das Gebet)."
+    },
+    {
+      "n": 389,
+      "text": "<em> Abu Dawud</em>, Tibb (Medizin); <em>Muslim</em>, Salam (Friede/Gruß); <em>Buchari</em>, Nikah (Die Ehe)."
+    },
+    {
+      "n": 390,
+      "text": "asch-Scharani, <em>Lawaqih al-Anwar al-Qudsiyya fi Bayan al-ʿUhud al-Muhammadiyya</em>; kurz: <em>Uhud al-Kubra</em> (<em>Die heiligen erleuchtenden Inspirationen zur Erklärung der Muhammadanischen Bündnisse</em>; kurz: <em>Die großen Bündnisse</em>)."
+    },
+    {
+      "n": 391,
+      "text": "<em> Buchari</em>."
+    },
+    {
+      "n": 392,
+      "text": "Abu Dawud."
+    },
+    {
+      "n": 393,
+      "text": "asch-Scharani, <em>Lawaqih al-Anwar al-Qudsiyya fi Bayan al-ʿUhud al-Muhammadiyya</em>; kurz: <em>Uhud al-Kubra</em> (<em>Die heiligen erleuchtenden Inspirationen zur Erklärung der Muhammadanischen Bündnisse</em>; kurz: <em>Die großen Bündnisse</em>)."
+    },
+    {
+      "n": 394,
+      "text": "al-Ghazali, <em>Ihya al-Ulum ad-Din</em> (<em>Die Wiederbelebung der Wissenschaften von der (islamischen) Religion</em>)."
+    },
+    {
+      "n": 395,
+      "text": "Ibn al-Dschawzi, <em>al-Mawdu‘at al-Kubra</em> (<em>Die großen erfundenen Hadithe</em>); al-Suyuti, <em>al-La’ali’ al-Masnua fi al-Ahadith al-Mawdu‘a</em> (<em>Die künstlichen Perlen in den erfundenen Hadithen</em>); Ibn Arraq, <em>Tanzih ash-Shari‘a al-Marfu‘a ʿan al-Ahadith ash-Shani‘a al-Mawdu‘a</em> (<em>Die Reinigung der erhabenen Scharia von abscheulichen erfundenen Hadithen</em>)."
+    },
+    {
+      "n": 396,
+      "text": "al-Ghazali, <em>Das Elixier der Glückseligkeit</em> (<em>Kimya al-Sa´ada</em>); Ibn Abi Schayba, <em>al-Musannaf fi al-Ahadith wa al-Athar</em> (<em>Das Kompilierte in den Überlieferungen und Berichten</em>)."
+    },
+    {
+      "n": 397,
+      "text": "al-Ghazali, <em>Ihya al-Ulum ad-Din</em> (<em>Die Wiederbelebung der Wissenschaften von der (islamischen) Religion</em>)."
+    },
+    {
+      "n": 398,
+      "text": "Imam al-Ghazali, <em>Nasihat al-Muluk</em> (<em>Die Ratschläge der Könige</em>)."
+    },
+    {
+      "n": 399,
+      "text": "Anm. d. Übers.: <em>Mahram</em> bezeichnet im sunnitischen Recht einen engen Verwandten, zu dem ein dauerhaftes Heiratsverbot besteht. Der Begriff hat sowohl rechtliche als auch soziale und praktische Implikationen, insbesondere in Bezug auf Geschlechtertrennung, Reisen und das Verhalten zwischen Männern und Frauen."
+    },
+    {
+      "n": 400,
+      "text": "Muhammad Sa’id Ramadan al-Buti, <em>Fiqh as-Sira</em> (<em>Die Rechtswissenschaft der Lebensgeschichte des Propheten</em>)."
+    },
+    {
+      "n": 401,
+      "text": "Ibn Kathir, 4/355."
+    },
+    {
+      "n": 402,
+      "text": "Hacı Şakir Efendi, <em>Kadınlara Dîni Bilgiler</em> (<em>Religiöses Wissen über die Frauen</em>); al-Suyuti, <em>al-La’ali’ al-Masnua fi al-Ahadith al-Mawdu‘a</em> (<em>Die künstlichen Perlen in den erfundenen Hadithen</em>), 2; Ibn Arraq, <em>Tanzih ash-Shari‘a al-Marfu‘a ʿan al-Ahadith ash-Shani‘a al-Mawdu‘a</em> (<em>Die Reinigung der erhabenen Scharia von abscheulichen erfundenen Hadithen</em>), Band 2."
+    },
+    {
+      "n": 403,
+      "text": "Ibn Arraq, <em>Tanzih ash-Shari‘a al-Marfu‘a ʿan al-Ahadith ash-Shani‘a al-Mawdu‘a</em> (<em>Die Reinigung der erhabenen Scharia von abscheulichen erfundenen Hadithen</em>), Band 2."
+    },
+    {
+      "n": 404,
+      "text": "Ibn Hanbal, <em>Musnad</em>; <em>at-Tirmidhi</em>, Kitab al-Fitan (Das Buch der Versuchungen); <em>an-Nasai</em>, Kitab al-Qudat (Das Buch der Richter); <em>Buchari</em>, Kitab al-Fitan (Das Buch der Versuchungen)."
+    },
+    {
+      "n": 405,
+      "text": "Süleyman Ateş, <em>Kuran Tefsiri</em> (<em>Koranexegese</em>), 6/399-400."
+    },
+    {
+      "n": 406,
+      "text": "Anm. d. Übers.: Die 24. Sure im Koran, An-Nur (Das Licht)."
+    },
+    {
+      "n": 407,
+      "text": "Ibn al-Dschawzi, <em>al-Mawdu‘at al-Kubra</em> (<em>Die großen erfundenen Hadithe</em>)."
+    },
+    {
+      "n": 408,
+      "text": "<em> Buchari</em>, 9/36."
+    },
+    {
+      "n": 409,
+      "text": "Hacı Şakir Efendi, <em>Kadınlara Dîni Bilgiler</em> (<em>Religiöses Wissen über die Frauen</em>)."
+    },
+    {
+      "n": 410,
+      "text": "Muhammad Shams al-Haqq al-ʿAzimabadi, <em>Awn al-Maʿbud</em> (<em>Die Hilfe des Angebeteten: Ein Kommentar zu Sunan Abu Dawud</em>), 11/230."
+    },
+    {
+      "n": 411,
+      "text": "Hacı Şakir Efendi, <em>Kadınlara Dîni Bilgiler</em> (<em>Religiöses Wissen über die Frauen</em>)."
+    },
+    {
+      "n": 412,
+      "text": "Yaşar Nuri Öztürk, <em>Asrısaadet´in Büyük Kadınları (Die großen Frauen der glücklichen Zeit)</em>, S.63-70."
+    },
+    {
+      "n": 413,
+      "text": "Anm. d. Übers.: Um diese Aussage zu untermauern, siehe Koran 2: 282 “... wenn eine von ihnen einen Fehler machen sollte, die andere sie erinnern könnte.” Die zeigt eindeutig, dass es weiterhin nur um die Zeugenaussage von einer einzigen Frau handelt, die bei einem „Problemfall” als „Austauchspielerin eingewechselt” wird."
+    },
+    {
+      "n": 414,
+      "text": "Anm. d. Übers.: Trotz erheblicher Fortschritte bei der Gerechtigkeit (nicht Gleichberechtigung!!!) von Frauen und Männern bleibt die Unterdrückung von Frauen auch im 21. Jahrhundert ein globales Problem, das in allen Gesellschaften, auch in Deutschland, Europa und dem Westen, präsent ist. Die Formen der Unterdrückung reichen von geschlechtsspezifischer Gewalt, ungleicher Bezahlung und struktureller Diskriminierung bis hin zu subtileren Formen wie Stereotypisierung und eingeschränkten Aufstiegsmöglichkeiten. Organisationen wie die Europäische Union und nationale Regierungen thematisieren diese Problematik regelmäßig und setzen Maßnahmen wie die “EU Gender Equality Strategy 2020-2025” um, um die Gleichstellung der Geschlechter zu fördern und geschlechtsspezifische Gewalt zu bekämpfen (Europäische Kommission, 2020). Auch die deutsche Bundesregierung greift Themen wie den Gender Pay Gap und Gewalt gegen Frauen durch Aktionspläne wie das Hilfetelefon Gewalt gegen Frauen und Gesetzesreformen auf (Bundesministerium für Familie, Senioren, Frauen und Jugend, 2021). Die anhaltende Debatte zeigt, dass es trotz gesetzlicher Fortschritte soziale und kulturelle Herausforderungen gibt, die Frauen daran hindern, ihre Rechte voll wahrzunehmen."
+    },
+    {
+      "n": 415,
+      "text": "Siehe: Ibn Manzur, <em>Lisan al-Arab</em>, Artikel „darb“."
+    },
+    {
+      "n": 416,
+      "text": "Anm. d. Übers.: Siehe Kapitel 4."
+    },
+    {
+      "n": 417,
+      "text": "Anm. d. Übers.: Siehe <em>at-Tirmidhi</em>, <em>an-Nasai</em>, <em>Abu Dawud</em>."
+    },
+    {
+      "n": 418,
+      "text": "Anm. d. Übers.: Koran 2:233."
+    },
+    {
+      "n": 419,
+      "text": "Koran 2:241."
+    },
+    {
+      "n": 420,
+      "text": "Koran 4:11."
+    },
+    {
+      "n": 421,
+      "text": "Siehe Kapitel 27."
+    },
+    {
+      "n": 422,
+      "text": "Anm. d. Übers.: Die Metapher des „Saatfeldes“ betont die Rolle der Ehefrau in der Fortpflanzung und symbolisiert Fürsorge, Respekt und Fruchtbarkeit innerhalb der Ehe. Der Zusatz „wie ihr wollt“ dürfte gemeinsam mit der oben genannten Metapher nicht als absolute Freiheit verstanden werden, sondern bezogen auf die unterschiedlichen Positionen beim Vaginalverkehr und gegenseitigen Einvernehmlichkeit. Der Vers hebt die Wichtigkeit einer respektvollen und harmonischen Beziehung zwischen Eheleuten hervor, während die Rechte und Würde der Frau stets gewahrt werden müssen."
+    },
+    {
+      "n": 423,
+      "text": "Anm. d. Übers.: Diese Beschreibung unterstreicht die gegenseitige Ergänzung und Nähe zwischen Mann und Frau. Wie Kleidung den Körper schützt, bedeckt, vervollständigt, wärmt und ziert, so stehen Mann und Frau einander bei und bieten Schutz, Unterstützung, Entwicklung und Geborgenheit."
+    },
+    {
+      "n": 424,
+      "text": "Koran 2:187."
+    },
+    {
+      "n": 425,
+      "text": "Anm. d. Übers.: Genauso sind die frauenfeindlichen Stellen in der Bibel eine Verzerrung der göttlichen Botschaft an Moses und Jesus. Z. B.: „<em>Ihr Frauen, ordnet euch euren Männern unter wie dem Herrn.</em>“ NT Eph 5,22; „<em>Die Frauen sollen in den Gemeinden schweigen; denn es ist ihnen nicht erlaubt zu reden, sondern sie sollen sich unterordnen, wie auch das Gesetz sagt.</em>“ NT 1Kor 14,34; „<em>Und zur Frau sprach er: Ich will dir viel Mühsal schaffen, wenn du schwanger wirst; unter Mühsal sollst du Kinder gebären, und dein Verlangen soll nach deinem Mann sein, aber er soll über dich herrschen.</em>“ AT Gen (1Mose) 3,16 usw."
+    }
+  ]
+}

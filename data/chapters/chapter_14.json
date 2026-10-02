@@ -1,0 +1,1172 @@
+{
+  "number": 14,
+  "title": "Die Rechtsschulen",
+  "title_fn": null,
+  "category": {
+    "id": "rechtsschulen",
+    "title_de": "Rechtsschulen & Sufi-Orden"
+  },
+  "word_count": 5617,
+  "reading_time_min": 31,
+  "subheadings": [
+    "Was unterscheidet die sunnitischen Rechtsschulen von den christlichen Konfessionen?",
+    "In einer Rechtsschule himmelswürdig, in der anderen höllenwürdig",
+    "Spaltung ist keine Barmherzigkeit, sondern Unheil",
+    "Wie wir uns durch den Islam des Koran von den Rchtsschulen befreien können",
+    "Was soll aus den Hanafiten mit verfaulten Zähnen werden?",
+    "Die Stellung der Frau bei den Charidschiten",
+    "Das Ammenmärchen, dass ein Gründer einer Rechtsschule, der Gott im Traum gesehen haben soll",
+    "Die Grundlagen des erfundenen Islam wurden von Schafii gelegt",
+    "Glauben Sie immer noch an die Rechtsschule Ihrer Vorfahren?"
+  ],
+  "proof_images_count": 11,
+  "proof_images": [
+    {
+      "post_id": 647,
+      "chapter": 14,
+      "post_title": "Kapitel 14: Die Rechtsschulen",
+      "slug": "die-rechtsschulen",
+      "url": "assets/images/proofs/die-zersplitterung-in-hunderte-rechtsschulen.webp",
+      "filename": "die-zersplitterung-in-hunderte-rechtsschulen.webp",
+      "caption": "Die Zersplitterung in hunderte Rechtsschulen",
+      "local_path": "assets/images/proofs/die-zersplitterung-in-hunderte-rechtsschulen.webp",
+      "caption_de": "Die Zersplitterung in hunderte Rechtsschulen",
+      "post_title_de": "Kapitel 14: Die Rechtsschulen",
+      "after_idx": 0,
+      "after_anchor": "Sobald der Koran als einzige Quelle des Islam außer Acht gelassen und stattdesse",
+      "placement": "low",
+      "label": "Die Zersplitterung in hunderte Rechtsschulen"
+    },
+    {
+      "post_id": 647,
+      "chapter": 14,
+      "post_title": "Kapitel 14: Die Rechtsschulen",
+      "slug": "die-rechtsschulen",
+      "url": "assets/images/proofs/verbot-der-konfessionellen-spaltung-im-koran.webp",
+      "filename": "verbot-der-konfessionellen-spaltung-im-koran.webp",
+      "caption": "Verbot der konfessionellen Spaltung im Koran",
+      "local_path": "assets/images/proofs/verbot-der-konfessionellen-spaltung-im-koran.webp",
+      "caption_de": "Verbot der konfessionellen Spaltung im Koran",
+      "post_title_de": "Kapitel 14: Die Rechtsschulen",
+      "after_idx": 5,
+      "after_anchor": "So schufen sie eine Vielzahl von Regeln, die die im Koran dargelegten Vorschrift",
+      "placement": "high",
+      "label": "Verbot der konfessionellen Spaltung im Koran"
+    },
+    {
+      "post_id": 647,
+      "chapter": 14,
+      "post_title": "Kapitel 14: Die Rechtsschulen",
+      "slug": "die-rechtsschulen",
+      "url": "assets/images/proofs/koranische-ansprache-an-die-gesamte-menschheit.webp",
+      "filename": "koranische-ansprache-an-die-gesamte-menschheit.webp",
+      "caption": "Koranische Ansprache an die gesamte Menschheit",
+      "local_path": "assets/images/proofs/koranische-ansprache-an-die-gesamte-menschheit.webp",
+      "caption_de": "Koranische Ansprache an die gesamte Menschheit",
+      "post_title_de": "Kapitel 14: Die Rechtsschulen",
+      "after_idx": 8,
+      "after_anchor": "Im Koran wird uns der Name „Muslime“ gegeben und davor gewarnt, uns in Gruppen z",
+      "placement": "high",
+      "label": "Koranische Ansprache an die gesamte Menschheit"
+    },
+    {
+      "post_id": 647,
+      "chapter": 14,
+      "post_title": "Kapitel 14: Die Rechtsschulen",
+      "slug": "die-rechtsschulen",
+      "url": "assets/images/proofs/spaltung-in-konfessionen-ist-eine-theologische-katastrophe.webp",
+      "filename": "spaltung-in-konfessionen-ist-eine-theologische-katastrophe.webp",
+      "caption": "Spaltung in Konfessionen ist eine theologische Katastrophe",
+      "local_path": "assets/images/proofs/spaltung-in-konfessionen-ist-eine-theologische-katastrophe.webp",
+      "caption_de": "Spaltung in Konfessionen ist eine theologische Katastrophe",
+      "post_title_de": "Kapitel 14: Die Rechtsschulen",
+      "after_idx": 12,
+      "after_anchor": "Spaltung ist keine Barmherzigkeit, sondern Unheil",
+      "placement": "high",
+      "label": "Spaltung in Konfessionen ist eine theologische Katastrophe"
+    },
+    {
+      "post_id": 647,
+      "chapter": 14,
+      "post_title": "Kapitel 14: Die Rechtsschulen",
+      "slug": "die-rechtsschulen",
+      "url": "assets/images/proofs/die-spaltung-der-gemeinde-in-rechtsschulen.webp",
+      "filename": "die-spaltung-der-gemeinde-in-rechtsschulen.webp",
+      "caption": "Die Spaltung der Gemeinde in Rechtsschulen",
+      "local_path": "assets/images/proofs/die-spaltung-der-gemeinde-in-rechtsschulen.webp",
+      "caption_de": "Die Spaltung der Gemeinde in Rechtsschulen",
+      "post_title_de": "Kapitel 14: Die Rechtsschulen",
+      "after_idx": 13,
+      "after_anchor": "Wer in der Spaltung Barmherzigkeit sucht, sollte den Koran mit Verständnis lesen",
+      "placement": "high",
+      "label": "Die Spaltung der Gemeinde in Rechtsschulen"
+    },
+    {
+      "post_id": 647,
+      "chapter": 14,
+      "post_title": "Kapitel 14: Die Rechtsschulen",
+      "slug": "die-rechtsschulen",
+      "url": "assets/images/proofs/das-urteil-gebuehrt-allein-gott-koran-6-57.webp",
+      "filename": "das-urteil-gebuehrt-allein-gott-koran-6-57.webp",
+      "caption": "Das Urteil gebührt allein Gott (Koran 6:57)",
+      "local_path": "assets/images/proofs/das-urteil-gebuehrt-allein-gott-koran-6-57.webp",
+      "caption_de": "Das Urteil gebührt allein Gott (Koran 6:57)",
+      "post_title_de": "Kapitel 14: Die Rechtsschulen",
+      "after_idx": 20,
+      "after_anchor": "„Eine der Methoden, um Lügen im Namen Gottes zu verbreiten, bestand darin, Recht",
+      "placement": "high",
+      "label": "Das Urteil gebührt allein Gott (Koran 6:57)"
+    },
+    {
+      "post_id": 647,
+      "chapter": 14,
+      "post_title": "Kapitel 14: Die Rechtsschulen",
+      "slug": "die-rechtsschulen",
+      "url": "assets/images/proofs/traeume-und-theologische-taeuschungen.webp",
+      "filename": "traeume-und-theologische-taeuschungen.webp",
+      "caption": "Träume und theologische Täuschungen",
+      "local_path": "assets/images/proofs/traeume-und-theologische-taeuschungen.webp",
+      "caption_de": "Träume und theologische Täuschungen",
+      "post_title_de": "Kapitel 14: Die Rechtsschulen",
+      "after_idx": 41,
+      "after_anchor": "Das Ammenmärchen, dass ein Gründer einer Rechtsschule, der Gott im Traum gesehen",
+      "placement": "high",
+      "label": "Träume und theologische Täuschungen"
+    },
+    {
+      "post_id": 647,
+      "chapter": 14,
+      "post_title": "Kapitel 14: Die Rechtsschulen",
+      "slug": "die-rechtsschulen",
+      "url": "assets/images/proofs/das-bedrueckende-dogmensystem-vs-die-klarheit-des-korans.webp",
+      "filename": "das-bedrueckende-dogmensystem-vs-die-klarheit-des-korans.webp",
+      "caption": "Das bedrückende Dogmensystem vs. die Klarheit des Korans",
+      "local_path": "assets/images/proofs/das-bedrueckende-dogmensystem-vs-die-klarheit-des-korans.webp",
+      "caption_de": "Das bedrückende Dogmensystem vs. die Klarheit des Korans",
+      "post_title_de": "Kapitel 14: Die Rechtsschulen",
+      "after_idx": 42,
+      "after_anchor": "Um die Menschen von der Notwendigkeit ihrer Rechtsschule zu überzeugen, haben ei",
+      "placement": "high",
+      "label": "Das bedrückende Dogmensystem vs. die Klarheit des Korans"
+    },
+    {
+      "post_id": 647,
+      "chapter": 14,
+      "post_title": "Kapitel 14: Die Rechtsschulen",
+      "slug": "die-rechtsschulen",
+      "url": "assets/images/proofs/historische-verleumdungen-gegen-abu-hanifa.webp",
+      "filename": "historische-verleumdungen-gegen-abu-hanifa.webp",
+      "caption": "Historische Verleumdungen gegen Abu Hanifa",
+      "local_path": "assets/images/proofs/historische-verleumdungen-gegen-abu-hanifa.webp",
+      "caption_de": "Historische Verleumdungen gegen Abu Hanifa",
+      "post_title_de": "Kapitel 14: Die Rechtsschulen",
+      "after_idx": 43,
+      "after_anchor": "Wir sind der Ansicht, dass das, was heute im Namen der hanafitischen Rechtsschul",
+      "placement": "high",
+      "label": "Historische Verleumdungen gegen Abu Hanifa"
+    },
+    {
+      "post_id": 647,
+      "chapter": 14,
+      "post_title": "Kapitel 14: Die Rechtsschulen",
+      "slug": "die-rechtsschulen",
+      "url": "assets/images/proofs/das-seil-gottes-hablullah-ist-der-koran.webp",
+      "filename": "das-seil-gottes-hablullah-ist-der-koran.webp",
+      "caption": "Das Seil Gottes (Hablullah) ist der Koran",
+      "local_path": "assets/images/proofs/das-seil-gottes-hablullah-ist-der-koran.webp",
+      "caption_de": "Das Seil Gottes (Hablullah) ist der Koran",
+      "post_title_de": "Kapitel 14: Die Rechtsschulen",
+      "after_idx": 46,
+      "after_anchor": "In diesem Buch haben wir der Geschichte der Rechtsschulen keinen großen Raum geg",
+      "placement": "high",
+      "label": "Das Seil Gottes (Hablullah) ist der Koran"
+    },
+    {
+      "post_id": 647,
+      "chapter": 14,
+      "post_title": "Kapitel 14: Die Rechtsschulen",
+      "slug": "die-rechtsschulen",
+      "url": "assets/images/proofs/entscheidungsfreiheit-des-menschen-im-koran.webp",
+      "filename": "entscheidungsfreiheit-des-menschen-im-koran.webp",
+      "caption": "Entscheidungsfreiheit des Menschen im Koran",
+      "local_path": "assets/images/proofs/entscheidungsfreiheit-des-menschen-im-koran.webp",
+      "caption_de": "Entscheidungsfreiheit des Menschen im Koran",
+      "post_title_de": "Kapitel 14: Die Rechtsschulen",
+      "after_idx": 50,
+      "after_anchor": "Wenn Sie dennoch weiterhin an die von Ihren Vorfahren überlieferten Rechtsschule",
+      "placement": "high",
+      "label": "Entscheidungsfreiheit des Menschen im Koran"
+    }
+  ],
+  "pdf_pages": [
+    211,
+    238
+  ],
+  "sections_count": 53,
+  "sections": [
+    {
+      "type": "paragraph",
+      "text": "<span class=\"pb\" data-p=\"211\"></span>Sobald der Koran als einzige Quelle des Islam außer Acht gelassen und stattdessen die Hadithe als islamische Quelle akzeptiert wurden, war das Entstehen zahlreicher Rechtsschulen unvermeidlich. Tatsächlich entstanden Hunderte von Rechtsschulen. Die heute bekannten vier Rechtsschulen (Hanafi, Maliki, Schafii und Hanbali) sind jene, die sich im Laufe der Zeit unter den vielen anderen durchsetzen konnten und bis heute Bestand haben. Ein Hadith besagt, dass Männer ihre Oberschenkel bedecken müssen, während ein anderer Hadith die Ansicht zulässt, dass der Oberschenkel sichtbar sein darf. Nach einer Hadith-Interpretation bricht das Ablassen von Blut die Gebetswaschung (<em>wudu</em>), während nach einer anderen Interpretation bereits die bloße Berührung zwischen den Händen von Mann und Frau die Waschung ungültig macht. Wer kann unter diesen widersprüchlichen Auslegungen die Wahrheit finden, und wie?"
+    },
+    {
+      "type": "heading",
+      "text": "Was unterscheidet die sunnitischen Rechtsschulen von den christlichen Konfessionen?",
+      "plain": "Was unterscheidet die sunnitischen Rechtsschulen von den christlichen Konfessionen?",
+      "slug": "was-unterscheidet-die-sunnitischen-rechtsschulen-von-den"
+    },
+    {
+      "type": "paragraph",
+      "text": "Die Imame der Rechtsschulen haben durch die Anwendung von <em>nasikh</em>-<em>mansukh</em> (die Lehre von der Aufhebung und Abrogation),<sup class=\"fn-ref\"><a href=\"#fn-305\" id=\"fnref-305\">305</a></sup> durch die selektive Wahl von Hadithen, durch ihre eigene Interpretation dieser Hadithe und durch ihre Behauptung, sie hätten durch <em>idschtihad</em> (Rechtsfindung) die Befugnis, die von Gott freigelassenen Bereiche zu regeln,<sup class=\"fn-ref\"><a href=\"#fn-306\" id=\"fnref-306\">306</a></sup> eine völlig neue religiöse <span class=\"pb\" data-p=\"212\"></span>Struktur erschaffen. Manche versuchen diese Kritik zu entkräften, indem sie darauf hinweisen, dass die Imame der Rechtsschulen mit großem Einsatz und guten Absichten für den Islam gearbeitet hätten. Doch wie sollen wir uns verhalten? Auch über die katholischen und orthodoxen Priester wird gesagt, dass sie mit besten Absichten und für ihre Konfessionen tätig gewesen seien. Sollen wir daher die falschen religiösen Auslegungen des Katholizismus und der Orthodoxie, nur wegen solcher Aussagen, mit dem von Gott gesandten Christentum gleichsetzen?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Die Imame der Rechtsschulen wurden in eine solche Position erhoben, dass sie:"
+    },
+    {
+      "type": "list",
+      "items": [
+        {
+          "label": "•",
+          "text": "mithilfe von Abrogation den Koran für außer Kraft gesetzt erklärten,"
+        },
+        {
+          "label": "•",
+          "text": "mithilfe bestimmter Hadithe neue Regelungen aufstellten,"
+        },
+        {
+          "label": "•",
+          "text": "mit ihren persönlichen Ansichten eine neue islamische Sichtweise prägten,"
+        },
+        {
+          "label": "•",
+          "text": "selektiv Hadithe annahmen oder ablehnten,"
+        },
+        {
+          "label": "•",
+          "text": "durch <em>idschtihad</em> (Rechtsfindung) neue Vorschriften einführten, selbst wenn sie nicht auf den Koran oder die Hadithe gestützt werden konnten."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "So schufen sie eine Vielzahl von Regeln, die die im Koran dargelegten Vorschriften bei weitem übertrafen. Auf diese Weise entstanden neue „<em>Sunnas</em>“, „Pflichten“ (<em>fard</em>), „Erlaubtes“ (<em>halal</em>) und „Verbote“ (<em>haram</em>), die mit dem Koran nicht übereinstimmen. Den Rechtsschulen wurden Bezeichnungen wie „<em>Hanafi</em>”, „<em>Schafii</em>“, „<em>Maliki</em>“, „<em>Hanbali</em>“ und „<em>Dschafari</em>“ gegeben, und ihre Anhänger wurden als „<em>muqallidun</em>“ (Nachahmer) dieser Rechtsschulen bezeichnet. Doch im Islam besteht das wahre Ziel nicht in der Spaltung, sondern in der Einheit. Der Koran mahnt ausdrücklich vor einer solchen Zersplitterung:"
+    },
+    {
+      "type": "verse",
+      "text": "<span class=\"pb\" data-p=\"213\"></span>„Diejenigen, die ihre Religion spalteten und sich in Gruppen aufteilten – mit ihnen hast du nichts zu schaffen. Ihre Angelegenheiten obliegen Gott, und Er wird sie über das, was sie taten, zur Rechenschaft ziehen.“",
+      "reference": "Koran 6:159"
+    },
+    {
+      "type": "heading",
+      "text": "In einer Rechtsschule himmelswürdig, in der anderen höllenwürdig",
+      "plain": "In einer Rechtsschule himmelswürdig, in der anderen höllenwürdig",
+      "slug": "in-einer-rechtsschule-himmelswuerdig-in-der-anderen"
+    },
+    {
+      "type": "paragraph",
+      "text": "Im Koran wird uns der Name „Muslime“ gegeben<sup class=\"fn-ref\"><a href=\"#fn-307\" id=\"fnref-307\">307</a></sup> und davor gewarnt, uns in Gruppen zu spalten. Doch wie können wir akzeptieren, uns selbst als Hanafiten oder Malikiten zu bezeichnen, die unterschiedlichen Erlaubtes, Verbotenes und Pflichten dieser Rechtsschulen anzuerkennen und trotz der Widersprüche zwischen ihnen und zum Koran alle als „wahr“ und „richtig“ zu betrachten? Ein Beispiel: In der hanefitischen Rechtsschule wird jemand, der das Gebet unterlässt, mit Schlägen bestraft, während er in den hanbalitischen, schafiitischen und malikitischen Schulen getötet wird. Würde man dies aus Sicht der verschiedenen Schulen betrachten, so müsste man sagen: Die Hanbaliten, Schafiiten und Malikititen begehen durch die Tötung die größte Sünde, nämlich Mord, gemäß den Hanafiten. Die Hanafiten hingegen würden, weil sie nicht töten, sondern nur schlagen, aus der Sicht der anderen Schulen Gottes Gebot verleugnen und als ungerecht gelten. Nach der Logik derjenigen, die Spaltungen als positiv ansehen, wird Gott die Muslime im Jenseits nach ihren Rechtsschulen bewerten: „Du warst Hanefit, du hast geschlagen, das war richtig “ oder „Du warst Schafiit, du hast getötet, und das war korrekt.“ Würde ein Hanefit jemanden töten, der das Gebet unterlassen hat, würde er zum Mörder <span class=\"pb\" data-p=\"214\"></span>und damit zur Hölle verdammt. Ein Schafiit hingegen, der denselben Menschen tötet, würde als jemand angesehen, der Gottes Gebot erfüllt hat, und wäre dem Paradies würdig. Wie kann dasselbe Handeln einer Person als Sünde und einer anderen als Gottesdienst gelten? Solche widersprüchlichen Ansichten der Rechtsschulen als „rechtmäßig“ zu akzeptieren, mag weit verbreitet sein, doch ist es vernünftig? Leider müssen wir den Anhängern dieser Schulen diese Frage stellen. Die Haltung, den Verstand zu ignorieren und sich auf blinde Nachahmung zu verlassen, führt zu solchen absurden Zuständen. Jene, die behaupten: „Den Koran kann nicht jeder verstehen, nur auserwählte Menschen sind dazu in der Lage“, haben die Gläubigen in diese Sackgasse geführt. Hat Gott seinen Koran nur für die vier Imame der Rechtsschulen offenbart, damit die Gläubigen ihnen blind folgen? Warum spricht Gott im Koran dann viele Male „<strong>O ihr Menschen!</strong>“<sup class=\"fn-ref\"><a href=\"#fn-308\" id=\"fnref-308\">308</a></sup> an und nicht „O Schafi, O Hanbali, o ihr vier Imame“?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Betrachtet man das obige Beispiel, so widersprechen die Auffassungen der vier Rechtsschulen eindeutig dem Koran. Der Koran besagt, dass es „<strong>absolut keinen Zwang in der Religion/ Lebensweise</strong>“<sup class=\"fn-ref\"><a href=\"#fn-309\" id=\"fnref-309\">309</a></sup> gibt und sieht für das Unterlassen des Gebets keine weltliche Strafe vor. Dennoch fordern drei der Schulen die Todesstrafe, eine die Prügelstrafe. Wie können diese vier Rechtsschulen, die nicht nur untereinander, sondern auch mit dem Koran im Widerspruch stehen, alle gleichzeitig der „richtige Islam” sein?"
+    },
+    {
+      "type": "paragraph",
+      "text": "<span class=\"pb\" data-p=\"215\"></span>Einige versuchen, diese Unterschiede als geringfügig darzustellen, wie z. B.: „Die eine Schule legt die Hände beim Gebet zusammen, die andere lässt sie hängen. Für Stadtmenschen eignet sich die hanefitische Schule, für Landbewohner die schafiitische. All diese Unterschiede sind ein Segen...“ Solche Argumente sollen die Gläubigen davon abhalten, die Rechtsschulen zu hinterfragen. Doch die Unterschiede sind weder geringfügig noch unwichtig. Während eine Schule die Todesstrafe fordert, reicht bei einer anderen ein Schlag. Was in einer Schule <em>halal</em> (erlaubt) ist, ist in der anderen <em>haram</em> (verboten). Was die eine Schule als Pflicht ansieht, lehnt die andere ab. Mit anderen Worten: Die Rechtsschulen haben sich in Strukturen mit unterschiedlichen Geboten (<em>halal</em>) und Verboten (<em>haram</em>) verwandelt. Durch die Wahl von Hadithen, den Umgang mit der Abrogation (<em>nasikh-mansukh</em>) und die Interpretation nach eigenem Ermessen haben die Imame der Rechtsschulen den Koran und die Hadithe übertroffen. Der „Islam“ wurde nach der Perspektive der jeweiligen Imame geformt. Die Behauptung, Spaltung sei gut und barmherzig, ist eine Erfindung und widerspricht dem Koran. Der Koran sagt:"
+    },
+    {
+      "type": "verse",
+      "text": "„Und seid nicht wie diejenigen, die sich spalteten und uneins wurden, nachdem die klaren Beweise zu ihnen gekommen waren.“",
+      "reference": "Koran 3:105"
+    },
+    {
+      "type": "heading",
+      "text": "Spaltung ist keine Barmherzigkeit, sondern Unheil",
+      "plain": "Spaltung ist keine Barmherzigkeit, sondern Unheil",
+      "slug": "spaltung-ist-keine-barmherzigkeit-sondern-unheil"
+    },
+    {
+      "type": "paragraph",
+      "text": "Wer in der Spaltung Barmherzigkeit sucht, sollte den Koran mit Verständnis lesen, statt sich auf erfundene Hadithe zu verlassen.<sup class=\"fn-ref\"><a href=\"#fn-310\" id=\"fnref-310\">310</a></sup> So wird er erkennen, dass es ein Unheil ist, sich in Parteien <span class=\"pb\" data-p=\"216\"></span>zu spalten und Rechtsschulen zu gründen, die unterschiedliche Erlaubte, Verbote und Pflichten festlegen. Ein weiteres erfundenes Hadith, das die Spaltung fördert, lautet: „<em>Wer idschtihad (eigene Auslegung) betreibt und dabei irrt, erhält einen Lohn; liegt er jedoch richtig, erhält er zwei.</em>“ Dieses Hadith erleichterte es, eigene Meinungen unter dem Deckmantel des <em>idschtihad</em> in den Islam einzubringen, und vermittelte mit der Aussage, selbst der Irrende werde belohnt, den Eindruck: „Fehler in der Religion sind erlaubt, und wer bei seinem <em>idschtihad</em> einen Fehler macht, erhält trotzdem Lohn.“ Die von den Gründern der Rechtsschulen aus den Ereignissen gezogenen Schlussfolgerungen und Meinungen wurden unter Begriffen wie „Meinung“ (<em>ray</em>), „Analogieschluss“ (<em>qiyas</em>), „eigene Rechtsfindung“ (<em>idschtihad</em>) und „Rechtsgutachten“ (<em>fatwa</em>) zu Bestandteilen des Islam gemacht."
+    },
+    {
+      "type": "paragraph",
+      "text": "Die Hinzufügung von angeblich vom Propheten Muhammad stammenden Handlungen und Worten zu den Vorschriften des Koran, später auch der Taten und Aussagen seiner Gefährten, sowie die Meinungen der Rechtsschulengründer, die durch Abrogation (<em>nasikh-mansukh</em>) Aufhebungen und Ergänzungen im Islam vornahmen, und die Erklärung der durch diese Entscheidungen geschaffenen Struktur als „Islam“ sind die Geschichte des „heutigen Islam der Rechtsschulen“. Laut „dem Islam der Rechtsschulen” setzt sich der Islam aus Folgendem zusammen: <span class=\"pb\" data-p=\"217\"></span>Koran"
+    },
+    {
+      "type": "list",
+      "items": [
+        {
+          "label": "+",
+          "text": "die vom Hadith-Gelehrten ausgewählten Hadithe"
+        },
+        {
+          "label": "+",
+          "text": "die durch Abrogation (<em>nasikh-mansukh</em>) bewerteten Aussagen über den Koran und die Hadithe durch die Gründer der Rechtsschulen"
+        },
+        {
+          "label": "+",
+          "text": "die durch Analogieschluss (<em>qiyas</em>) und eigenständige Rechtsfindung (<em>idschtihad</em>) gezogenen Schlüsse aus Ereignissen"
+        },
+        {
+          "label": "+",
+          "text": "die von den Gefährten durch den Rechtsschulgründer bewerteten Handlungen und Aussagen"
+        },
+        {
+          "label": "+",
+          "text": "spätere Rechtsgutachten (<em>fatwas</em>) der nachfolgenden Gelehrten zu neu entstandenen Situationen.<sup class=\"fn-ref\"><a href=\"#fn-311\" id=\"fnref-311\">311</a></sup>"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "So entstand das, was wir als „traditioneller Islam“, „Islam der Rechtsschulen“ und „Islam der Hadithe“ bezeichnen. Neue Entwicklungen führten dazu, dass spätere Gelehrte durch Rechtsgutachten (<em>fatwas</em>) und eigene Rechtsfindung (<em>idschtihad</em>) neue Ergänzungen zum Islam machten. Beispiele sind Diskussionen, ob Kölnisch Wasser<sup class=\"fn-ref\"><a href=\"#fn-312\" id=\"fnref-312\">312</a></sup> unrein (<em>nadschis</em>) sei, ob man damit beten <span class=\"pb\" data-p=\"218\"></span>dürfe, oder verschiedene fatwas zu Fernsehen und Zigaretten, die diese für erlaubt (<em>halal</em>), verboten (<em>haram</em>) oder missbilligt (<em>makruh</em>) erklärten. All dies sind Beispiele dafür, wie nachfolgende Rechtsschulgelehrte ihre Meinungen in den Islam einbrachten."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ein weiteres erfundenes Hadith, das diese traurige Situation noch verschlimmert, lautet: „<em>Die Gemeinschaft wird sich in 73 Gruppen spalten, von denen nur eine ins Paradies gelangt, während die anderen in die Hölle kommen.</em>“ Einer der Überlieferer dieses Hadiths ist Muawiya, eine der zentralen Figuren der bereits erwähnten Unheilszeit.<sup class=\"fn-ref\"><a href=\"#fn-313\" id=\"fnref-313\">313</a></sup> Basierend auf diesem Hadith erklärte jede Rechtsschule, sie selbst sei die Paradiesesgruppe, während die anderen in die Hölle kämen. Sunniten erklärten Schiiten für irregeleitet und umgekehrt, beide basierend auf demselben Hadith. Trotz ihrer Widersprüche und der unterschiedlichen Definitionen von Erlaubten (<em>halal</em>) und Verbotenem (<em>haram</em>) wurden die vier sunnitischen Rechtsschulen später unter dem Begriff „<em>Ahlu-Sunna</em>“ und/oder „Sunnitentum” zusammengefasst und als die einzig richtigen bezeichnet. Sunniten folgen ihren Rechtsschulgründern und wenden deren Bestimmungen an, als wären sie Koranverse. Ebenso folgen Schiiten ihren Imamen und akzeptieren deren Vorschriften als göttliche Gebote. Beide Seiten erklären sich gegenseitig für Häretisch und höllenwürdig. Wo liegt der Unterschied? Beide Seiten lehnen den Koran als unzureichend ab, folgen blind einem Menschen und erheben deren Meinungen zur göttlichen Wahrheit. Beide basieren auf der gleichen Nachahmungslogik (<em>taqlid</em>), und doch wird eine als vollkommen richtig, die andere als irreführend bezeichnet. Am Ende besteht kein Unterschied in der grundlegenden Logik der Nachahmung (<em>taqlid</em>)."
+    },
+    {
+      "type": "heading",
+      "text": "<span class=\"pb\" data-p=\"219\"></span>Wie wir uns durch den Islam des Koran von den Rchtsschulen befreien können",
+      "plain": "Wie wir uns durch den Islam des Koran von den Rchtsschulen befreien können",
+      "slug": "wie-wir-uns-durch-den-islam-des-koran-von-den-rchtsschulen"
+    },
+    {
+      "type": "paragraph",
+      "text": "Die Schäden, die die Nachahmung von Rechtsschulen der Religion zugefügt hat, erklärt Yaşar Nuri Öztürk<sup class=\"fn-ref\"><a href=\"#fn-314\" id=\"fnref-314\">314</a></sup> in seinem Werk <em>Kur’an’daki İslam</em> (<em>Der Islam im Koran</em>) wie folgt:"
+    },
+    {
+      "type": "paragraph",
+      "text": "„<em>Eine der Methoden, um Lügen im Namen Gottes zu verbreiten, bestand darin, Rechtsschulen zu einer Religion zu machen. Als die Rechtsschulen zu einer eigenen Religion und ihre Gründer zu unantastbaren Propheten gemacht wurden, war es für die Massen unmöglich, zu erkennen, welcher Anteil dieser Mixtur tatsächlich von Gott stammt und welcher Anteil von anderen. So wurde im Namen der Religion ein Chaos über die Menschheit gebracht. Obwohl Hunderte von Jahren vergangen sind und die Menschheit sich weiterentwickelt hat, wagt es niemand, diese alten und teils lächerlich gewordenen Kommentare anzutasten. Das ist Unterdrückung und zugleich Verleumdung Gottes. Wegen dieser Unterdrückung erleben wahre Islamgelehrte und aufrichtige Religionsvertreter nicht nur Schwierigkeiten, sondern werden auch mit Hindernissen, Verleumdungen und Anschuldigungen konfrontiert, wenn sie versuchen, die reine und klare Religion des Korans unserer Zeit näherzubringen. Die Lösung besteht darin, alle Götzen, die uns von der Rückkehr zum Koran abhalten – unabhängig von ihrem Ursprung – zu stürzen und das Urteil allein Gott zu überlassen. Wer sich dagegen stellt, mag behaupten, er akzeptiere zwar die Religion, ist jedoch in Wahrheit ein Leugner. Denn die reine und klare Religion ist ausschließlich Gottes Vorrecht (Sure </em><span class=\"pb\" data-p=\"220\"></span><em>39, Vers 3). Wer sich daran stört und in irgendeiner Weise in Gottes Urteilshoheit eingreift, stellt sich gegen Gott.</em>“<sup class=\"fn-ref\"><a href=\"#fn-315\" id=\"fnref-315\">315</a></sup>"
+    },
+    {
+      "type": "paragraph",
+      "text": "In seinen Büchern zeigt Öztürk, wie der von den Rechtsschulen geschaffene Islam ein Hindernis für den Islam des Korans darstellt. In seinem Werk <em>Çıplak Uyarı</em> (<em>Die nackte Warnung</em>) illustriert er unter dem Titel „Das Chaos der übernommenen Religion“ anhand konkreter Beispiele die Katastrophe, die die Rechtsschulen verursacht haben:"
+    },
+    {
+      "type": "paragraph",
+      "text": "„<em>Das Problem liegt in der Vermischung von Gottes Religion mit einer übernommenen Religion, die Gott zugeschrieben wird. Gottes Religion ist die von Gott selbst als Islam bezeichnete, klare, zweifelsfreie und detaillierte Religion, die er der Menschheit in einem Buch lehrte. Ihre Quelle ist der Koran, ihr Überbringer ist Muhammad. Das ist der Islam des Korans. Die übernommene Religion hingegen hat keine einheitliche Quelle, kein einheitliches Buch und keinen einheitlichen Überbringer. Sie ist eine Kooperation im Widerspruch zur Einheit des Islam im Koran. Sie hat mehrere Bücher, mehrere Führer und sogar mehrere Gemeinschaften. Sie gleicht einer Aktiengesellschaft. Daher herrschen in der übernommenen Religion Spaltung und Chaos statt Einheit und Harmonie. Das Hauptproblem der übernommenen Religion ist das Fehlen einer zentralen Autorität. Weil das Prinzip des Korans – ‚Das Urteil gehört Gott allein. Diejenigen, die nicht nach dem richten, was Gott offenbart hat, sind wahrlich Ungerechte’ (Koran 5:44- 45, 47, 50) – beiseite geschoben wurde, herrscht Uneinigkeit und Chaos. Die Frage, an wen die Urteilshoheit in diesem Tumult übertragen wird – an Rechtsschulen, Sekten, Gruppen, Parteien, Orden oder sonstige Organisationen – bleibt ungeklärt. </em><span class=\"pb\" data-p=\"221\"></span><em>In diesem Chaos wird dieselbe Handlung von einem als Sünde und von einem anderen als verdienstvoll angesehen.</em>"
+    },
+    {
+      "type": "paragraph",
+      "text": "<em>Ein Leserbrief beschreibt diese Absurdität anhand von Fatwas:</em>"
+    },
+    {
+      "type": "paragraph",
+      "text": "<em>„Beim Gebet gilt es für Schafiiten als Sunna, während des Rezitierens von at-tahiyyat</em><sup class=\"fn-ref\"><a href=\"#fn-316\" id=\"fnref-316\">316</a></sup><em> den Zeigefinger zu heben, für Hanafiten jedoch als makruh oder sogar haram. Ein Hanefit sollte daher beim at-tahiyyat den Finger nicht heben.“</em>"
+    },
+    {
+      "type": "paragraph",
+      "text": "<em>Die Fatwa zeigt: Zwei Muslime beten, rezitieren denselben Text und heben ihren Finger an derselben Stelle. Doch während der eine dafür belohnt wird, begeht der andere eine große Sünde – und das soll der Islam sein?</em>"
+    },
+    {
+      "type": "paragraph",
+      "text": "<em>Ein weiteres Beispiel:</em>"
+    },
+    {
+      "type": "paragraph",
+      "text": "<em>„Menschen mit Zahnfüllungen oder Kronen können, wenn sie der hanefitischen Rechtsschule angehören, keine gültige Ganzkörperwaschung (ghusl) vollziehen. Gehören sie jedoch einer anderen Rechtsschule an, ist das kein Problem.“</em>"
+    },
+    {
+      "type": "paragraph",
+      "text": "<em>Laut dieser Fatwa können Hanafiten ihre Zähne weder füllen noch überkronen lassen, ohne für immer im Zustand der Unreinheit zu bleiben – inklusive ungültiger Gebete. Schafiiten hingegen haben kein Problem damit. Soll ein Muslim nun, um seine Gesundheit zu schützen, seine Zähne behandeln lassen, oder soll er sich dem hanefitischen Dogma beugen und im Widerspruch zum Koran leben?</em>"
+    },
+    {
+      "type": "paragraph",
+      "text": "<span class=\"pb\" data-p=\"222\"></span><em>Warum all dieses Chaos, wenn wir uns einfach an den klaren und geradlinigen Weg des Korans halten könnten? Der Koran selbst fragt: ‚Genügt Gott seinem Diener nicht?!’</em><sup class=\"fn-ref\"><a href=\"#fn-317\" id=\"fnref-317\">317</a></sup>"
+    },
+    {
+      "type": "paragraph",
+      "text": "<em>Und falls der Koran nicht über Zahnbehandlungen spricht, warum ziehen Sie dann etwas in die Religion ein, das Gott dort nicht erwähnt hat? Hat Gott etwas ausgelassen, das Sie nun korrigieren müssen?</em>“<sup class=\"fn-ref\"><a href=\"#fn-318\" id=\"fnref-318\">318</a></sup>"
+    },
+    {
+      "type": "heading",
+      "text": "Was soll aus den Hanafiten mit verfaulten Zähnen werden?",
+      "plain": "Was soll aus den Hanafiten mit verfaulten Zähnen werden?",
+      "slug": "was-soll-aus-den-hanafiten-mit-verfaulten-zaehnen-werden"
+    },
+    {
+      "type": "paragraph",
+      "text": "Leider folgen breite Bevölkerungsschichten den Rechtsschulen, ohne deren wahres Gesicht zu kennen oder zu bemerken, dass sie mit dem Koran im Widerspruch stehen. Sie lernen den Islam nicht aus dem Koran, sondern aus Lehrbüchern, die die Interpretationen der Rechtsschulen wiedergeben. Nehmen wir das obige Beispiel: Ein großer Teil der Bevölkerung in Deutschland stammt aus der Türkei, und gehört der Hanafi-Rechtsschule an. Die Mehrheit dieser Hanafiten ist jedoch nicht über die Vorschriften ihrer Rechtsschule informiert, die Zahnfüllungen verbietet. Deshalb lassen sie sich bedenkenlos ihre Zähne füllen oder überkronen. Dies hat jedoch zur Folge, dass ihre rituellen Waschungen und damit auch ihre Gebete gemäß der hanafitischen Lehre ungültig sind. Der Slogan „Entweder du bist Hanafit oder du gehörst zu einer irrigen Rechtsschule wie den Schiiten oder Aleviten“ wird oft genutzt, um Angst zu schüren. So wird die Zugehörigkeit zu einer Rechtsschule wie eine Form des Nationalismus oder Rassismus dargestellt. Nicht sunnitisch zu sein, wird beinahe gleichgesetzt mit Unglauben, und jede Alternative wird als „irregeleitet“ <span class=\"pb\" data-p=\"223\"></span>abgestempelt. Dasselbe gilt umgekehrt auch für Schiiten und Aleviten, die mit einer ähnlichen mentalen Haltung auf die Sunniten blicken. Doch eine Alternative, die oft übersehen wird und die die Menschen unbedingt kennen sollten, ist die Konzentration auf den Koran als alleinige Quelle des Islam. Die Rechtsschulen sollten abgelehnt und der Islam auf der Grundlage des Korans verstanden und gelebt werden."
+    },
+    {
+      "type": "paragraph",
+      "text": "Die Gründer der Rechtsschulen interpretierten den Koran und die Hadithe nach ihrem eigenen Verständnis, wählten Hadithe und Verse nach Belieben aus und schufen Regeln zu Angelegenheiten, die der Koran bewusst offenließ. Damit handelten sie faktisch mit einer Autorität, die die des Korans und der Hadithe überstieg. Nicht nur diejenigen, die sich wie wir auf den Koran als alleinige Quelle konzentrieren, kritisieren diese Haltung. Auch einige Hadith-Gelehrte nach der Zeit der Rechtsschulgründer brachten heftige Kritik an. Besonders bemängelt wurde, dass einige Rechtsschul-Gründer in bestimmten Fällen ihre eigenen Ansichten über die Hadithe stellten. Manche Hadith-Gelehrte, die diese Gründer als „Rechtsgelehrter der Meinungsgelehrsamkeit (<em>ray</em>)“ bezeichneten, warfen ihnen sogar vor, Hadith konforme Aussagen erfunden zu haben, die ihre eigenen Ansichten stützen. Ein auffälliges Beispiel dafür ist die Kritik des renommierten Hadith Gelehrten Buchari an Abu Hanifa, dem Gründer der hanafitischen Rechtsschule. Buchari erklärte Abu Hanifa für „unglaubwürdig“.<sup class=\"fn-ref\"><a href=\"#fn-319\" id=\"fnref-319\">319</a></sup> Dies verdeutlicht, dass selbst die Hadithgelehrten einige Rechtsschulgründer nicht respektierten. Das heutige Verständnis des „Islam“ ist weder der Islam des Korans noch vollständig der Islam der Hadithe, die ebenfalls zahlreiche Erfin<span class=\"pb\" data-p=\"224\"></span>dungen enthalten. Stattdessen ist es der „Islam“ der Rechtsschulgründer, die alle verfügbaren Quellen nach ihrem Gutdünken interpretierten. Als die Rechtsschulen gegründet wurden, gab es weder Buchari noch Muslim, noch die Sammlung der sechs berühmten Hadith-Bücher (<em>Kutub al-Sitta</em>). Zu dieser Zeit war die Klassifikation der Hadithe in <em>sahih</em> (authentisch), <em>daif</em> (schwach) oder <em>hasan</em> (gut) noch nicht etabliert. Die Rechtsschulen entstanden also zu einer Zeit, in der selbst die authentischsten Hadith-Sammlungen noch nicht existierten. Der Anteil an Erfindungen in den Auslegungen der Rechtsschulen übersteigt daher den der meisten Hadith-Bücher bei Weitem. Leider ist sich ein großer Teil der Bevölkerung dieser Tatsachen nicht bewusst. Viele setzen ihre Rechtsschule mit dem Islam gleich, ohne zu wissen, dass diese in vielerlei Hinsicht mit dem Koran in Konflikt steht. Im Koran ist der Islam bereits dargelegt, und viele Angelegenheiten des täglichen Lebens sind bewusst offen gelassen worden, um den Menschen Freiheiten zu gewähren. Die Rechtsschulen hingegen haben diese Freiheiten durch detaillierte Regelungen ersetzt, als hätte Gott etwas vergessen zu erklären. So brachten sie den Islam in Widerspruch zu vielen Aspekten des Lebens und der menschlichen Natur."
+    },
+    {
+      "type": "heading",
+      "text": "Die Stellung der Frau bei den Charidschiten",
+      "plain": "Die Stellung der Frau bei den Charidschiten",
+      "slug": "die-stellung-der-frau-bei-den-charidschiten"
+    },
+    {
+      "type": "paragraph",
+      "text": "Die folgende Analyse zeigt anhand von Tabellen auf, wie die verschiedenen Rechtsschulen in ihren Ansichten auseinandergehen und in sich widersprüchlich sind. Eine der außerhalb des Korans herangezogenen Quellen des „Islam“ sei der sogenannte <em>idschma</em> (Konsens). Dieser wird von den Vertretern der sunnitischen Denkrichtung als der Konsens aller „Gelehrten“ in einer bestimmten Angelegenheit definiert. Doch wie die nachfolgende <span class=\"pb\" data-p=\"225\"></span>Darstellung zeigt, gibt es in Fragen, die im Koran nicht erwähnt werden, fast keinen wirklichen Konsens in der islamischen Geschichte. Auch wenn innerhalb der sunnitischen Rechtsschulen zu einigen Themen ein Konsens besteht, lässt sich bei einem Blick auf die gesamte islamische Geschichte feststellen, dass es zu den meisten Koran-fremden Themen keine wirkliche Einigkeit gibt. Wo immer versucht wurde, den Koran durch Ergänzungen oder abweichende Interpretationen zu erweitern, gab es im Laufe der Geschichte Widerspruch."
+    },
+    {
+      "type": "paragraph",
+      "text": "Innerhalb der sunnitischen Rechtsschulen herrscht beispielsweise Einigkeit darüber, dass:"
+    },
+    {
+      "type": "list",
+      "items": [
+        {
+          "label": "•",
+          "text": "Eine menstruierende Frau nicht beten darf."
+        },
+        {
+          "label": "•",
+          "text": "Eine Frau nicht Staatsoberhaupt sein kann."
+        },
+        {
+          "label": "•",
+          "text": "Die Strafe für Ehebruch die Steinigung ist."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Dies stellt jedoch lediglich einen Konsens innerhalb der Sunniten dar. Andere Gruppen, wie die Charidschiten, widersprachen diesen Ansichten bereits im ersten Jahrhundert des Islams und vertraten unter anderem folgende Positionen:"
+    },
+    {
+      "type": "list",
+      "items": [
+        {
+          "label": "•",
+          "text": "Menstruierende Frauen sollten beten dürfen."
+        },
+        {
+          "label": "•",
+          "text": "Frauen können Staatsoberhaupt werden."
+        },
+        {
+          "label": "•",
+          "text": "Die Strafe für Ehebruch ist nicht die Steinigung."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Diese Widersprüche verdeutlichen, wie unsicher und unzuverlässig Koran-fremde Quellen und Regeln sind. Sie zeigen, dass der Koran die einzige zuverlässige und einheitliche Quelle für den Islam ist. Solange die Methode, den Islam ausschließlich aus dem Koran zu verstehen, nicht befolgt wird, ist die Entstehung unterschiedlichster Rechtsschulen unvermeidlich. Da diese Rechtsschulen in ihren Ansichten über erlaubte und verbotene Handlungen voneinander abweichen, bilden sie in Wirklichkeit keinen <span class=\"pb\" data-p=\"226\"></span>einheitlichen Islam. Zwar versuchen einige, beispielsweise unter dem Begriff „Sunnitentum“, eine künstliche Einheit zu suggerieren, doch die Unterschiede in den Ansichten dieser Schulen sind gravierend. Die von diesen Rechtsschulen vertretenen Regeln und Ansichten unterscheiden sich stark voneinander. Die Unterschiede reichen von der Definition des Erlaubten (<em>halal</em>) bis zur Festlegung des Verbotenen (<em>haram</em>)."
+    },
+    {
+      "type": "heading",
+      "text": "Das Ammenmärchen, dass ein Gründer einer Rechtsschule, der Gott im Traum gesehen haben soll",
+      "plain": "Das Ammenmärchen, dass ein Gründer einer Rechtsschule, der Gott im Traum gesehen haben soll",
+      "slug": "das-ammenmaerchen-dass-ein-gruender-einer-rechtsschule-der-gott"
+    },
+    {
+      "type": "paragraph",
+      "text": "Um die Menschen von der Notwendigkeit ihrer Rechtsschule zu überzeugen, haben einige Anhänger der Rechtsschulen Hadithe erfunden, die ihre eigenen Gründer loben und die anderen herabsetzen. Dabei wurden Geschichten verbreitet, die den Rechtschule Gründern außergewöhnliche Tugenden und Fähigkeiten zuschreiben sollten, um ihre Anhänger stärker an ihre Rechtsschule zu binden. Eine der unverhältnismäßigsten Erfindungen, die wir beobachtet haben, ist die Behauptung, dass Abu Hanifa Gott im Traum 100 Mal gesehen habe. Bedauerlicherweise ist die Grenze des Zumutbaren bei solchen Erfindungen weit überschritten worden.<sup class=\"fn-ref\"><a href=\"#fn-320\" id=\"fnref-320\">320</a></sup> Ob diese Geschichten tatsächlich von den Rechtschule Gründern selbst stammen oder später von ihren Schülern und Anhängern erdichtet wurden, lässt sich nicht mit Sicherheit feststellen. Doch unabhängig davon bleibt die erschreckende Realität dieser Erfindungen sowie die Klarheit der ausreichenden Botschaft des Koran unbestreitbar."
+    },
+    {
+      "type": "paragraph",
+      "text": "<span class=\"pb\" data-p=\"227\"></span>Wir sind der Ansicht, dass das, was heute im Namen der hanafitischen Rechtsschule akzeptiert wird, wenig mit Abu Hanifa selbst zu tun hat. Historisch wurde Abu Hanifa als „Anhänger der Vernunft“ (<em>ahl ar-ra’y</em>) bezeichnet. Dies deutet darauf hin, dass er bei Fragen, die im Koran nicht ausdrücklich geregelt waren, auf seine eigene Interpretation und Urteilsfähigkeit zurückgriff. Diese Haltung wurde von den sogenannten „Anhänger der Überlieferungen“ (<em>ahl al-hadith</em>) wie Malik, Ahmad ibn Hanbal und Hadithgelehrten wie al-Buchari stark kritisiert. Interessanterweise ist die heutige hanafitische Rechtsschule vollständig auf Überlieferungen ausgerichtet und versucht, jede ihrer Ansichten durch Hadithe zu untermauern. Laut historischen Berichten war einer der Hauptgründe für Abu Hanifas Tod seine „vernunftorientierte (<em>ray</em>)“ Haltung. Die heutige hanafitische Rechtsschule wurde uns jedoch von der politischen Führung überliefert, die Abu Hanifa selbst hinrichtete.<sup class=\"fn-ref\"><a href=\"#fn-321\" id=\"fnref-321\">321</a></sup> Tatsächlich war Abu Yusuf (die Person, die laut dem, was wir im dritten Kapitel gesehen haben, drohte, jemanden zu töten, weil er sagte: „Ich mag keinen Kür- bis.“), der als die zweitwichtigste Persönlichkeit nach Abu Hanifa in der hanafitischen Rechtsschule gilt, ein offizieller Rechtsberater der Regierung, die Abu Hanifa tötete. Kann eine Rechtsschule, die unter der Schirmherrschaft einer solchen Regierung <span class=\"pb\" data-p=\"228\"></span>entstand, frei von ideologischen Verzerrungen und Manipulationen bleiben? Die Tatsache, dass Abu Hanifa als „vernunftorientiert (<em>ray</em>)“ beschrieben wird, während die heutige hanafitische Rechtsschule „überlieferungsbasiert (<em>Hadith</em>)“ ist, ist ein starkes Indiz dafür, dass die heutige hanafitische Rechtsschule von den ursprünglichen Ansichten Abu Hanifas abgewichen ist. Ein weiterer wichtiger Punkt ist, dass viele Anhänger der Rechtsschulen, um ihre Meinungen zu rechtfertigen, Hadithe erfanden, die ihre Ansichten stützen sollten. Ein Großteil der Hadithsammlungen wurde erst nach der Gründung der Rechtsschulen verfasst. Somit erklären die von den Rechtsschulen erfundenen Überlieferungen, wie „vernunftorientierte (<em>ray</em>)“ Ansätze in „überlieferungsorientierte (<em>Hadith</em>)“ Ansichten umgewandelt wurden. Unabhängig von den Ansichten Abu Hanifas ist es unser Anliegen, die hanafitische Rechtsschule zu kritisieren, wie sie heute verstanden, vermittelt und praktiziert wird. Dabei ist es wichtig, die Möglichkeit zu berücksichtigen, dass Abu Hanifa in späteren Überlieferungen falsch dargestellt wurde – eine Einschätzung, die wir ebenfalls vertreten."
+    },
+    {
+      "type": "heading",
+      "text": "Die Grundlagen des erfundenen Islam wurden von Schafii gelegt",
+      "plain": "Die Grundlagen des erfundenen Islam wurden von Schafii gelegt",
+      "slug": "die-grundlagen-des-erfundenen-islam-wurden-von-schafii-gelegt"
+    },
+    {
+      "type": "paragraph",
+      "text": "Eine gründliche Untersuchung zeigt, dass die heutigen Vorstellungen der sunnitischen Lehre und die Grundlage der Hadith-basierten Religionsstruktur ursprünglich durch Imam Schafi, den Begründer der Schafi-Schule, gelegt wurden. Nach Schafi war es – außer in Fällen, in denen es klare und unmissverständliche Koranverse gab – erforderlich, jede juristische Meinung oder <span class=\"pb\" data-p=\"229\"></span>Entscheidung auf einen oder mehrere Hadithe zu stützen.<sup class=\"fn-ref\"><a href=\"#fn-322\" id=\"fnref-322\">322</a></sup> Ilhami Güler erläutert dies wie folgt: „<em>Man darf nicht vergessen, dass Schafis Reduktion der Sunna auf die nicht rezitierte Offenbarung (ghayri matluw) einen großen Einfluss auf die fast Koran-ähnliche epistemologische Bedeutung der Kutub al-Sitta, insbesondere von Sahih al-Buchari, hatte. Die bis dahin von vielen Gelehrten auf unterschiedliche Weise bewertete und der mündlichen Vernunft untergeordnete Hadith-Kultur erreichte nach Schafii die Phase der schriftlichen Fixierung und begann, dogmatisch zu werden. Ihre Bedeutung näherte sich zunehmend der des Korans an.</em>“<sup class=\"fn-ref\"><a href=\"#fn-323\" id=\"fnref-323\">323</a></sup> Osman Taştan beschreibt den Grundstein der heutigen Sunna-Auffassung, die durch Schafii gelegt wurde: „<em>Schafii veränderte diese Situation. Er trennte die Sunna des Propheten von der Sunna der Gemeinschaft und erhob sie rechtlich auf die Stufe des Korans. In der Theorie diente dies der maximalen Wertschätzung und Verehrung des Prophetentums Muhammads. In der Praxis jedoch schuf es eine Kluft zwischen dem Propheten und seiner Gemeinschaft, die kaum zu überbrücken war. So wurde die Sunna innerhalb des Rahmens der Offenbarung mit dem Koran vereint. [...] Danach war es erforderlich, auch die Worte der Gefährten in die Sunna einzubeziehen und so indirekt in den Bereich der Offenbarung aufzunehmen. Mit anderen Worten, es ging darum, die Heiligkeit des göttlichen Wortes, des Korans, auf das menschliche Wort, die Aussprüche der Gefährten, auszudehnen.</em>“<sup class=\"fn-ref\"><a href=\"#fn-324\" id=\"fnref-324\">324</a></sup>"
+    },
+    {
+      "type": "paragraph",
+      "text": "<span class=\"pb\" data-p=\"230\"></span>In diesem Buch haben wir der Geschichte der Rechtsschulen keinen großen Raum gegeben. Stattdessen haben wir uns detailliert mit den Ergebnissen dieser Schulen und ihren Widersprüchen zum Koran beschäftigt. Wer sich mit der Geschichte der Rechtsschulen beschäftigt, wird die Angriffe Schafii´s auf die Hanafi-Schule erkennen und verstehen, dass die Schulen Maliki, Hanbali und Schafii nicht nur drei Zweige einer sunnitischen Strömung, sondern eigenständige Rechtsschulen sind. Die folgende Tabelle mit 70 Beispielen verdeutlicht die Unterschiede zwischen diesen Schulen. In späteren Jahrhunderten wurden diese eigentlich eigenständigen Rechtsschulen durch die Rolle politischer Autoritäten so dargestellt, als seien sie verschiedene Zweige eines einheitlichen Systems. Unter den Begriffen „<em>Ahl as-Sunna</em>“ und „Sunnitentum“ wurden diese vier unterschiedlichen Rechtsschulen zusammengefasst. Wer nicht glaubt, dass sie unterschiedlich sind, sollte die Tabellen analysieren. Wenn die 70 Beispiele nicht ausreichen, kann man durch die Lektüre von Büchern wie <em>Dört Mezhebin Fıkıh Kitabı</em> (<em>Das Rechtsbuch der vier Rechtsschulen</em>)<sup class=\"fn-ref\"><a href=\"#fn-325\" id=\"fnref-325\">325</a></sup> erkennen, wie unterschiedlich die Urteile dieser Schulen sind, die fälschlicherweise als Zweige eines einzigen Baums dargestellt werden.<sup class=\"fn-ref\"><a href=\"#fn-326\" id=\"fnref-326\">326</a></sup> Während Gott uns eine einzige, klare und unmissverständliche Religion offenbart hat, ist es nicht akzeptabel, die miteinander widersprüchlichen und von Menschenhand geschaffenen Rechtsschulen als „Islam“ zu akzeptieren. Die gemeinsame Basis dieser vier Rechtsschulen ist die Ablehnung der alleinigen <span class=\"pb\" data-p=\"231\"></span>Autorität des Korans und die Spaltung des Islam in verschiedene Gruppen."
+    },
+    {
+      "type": "verse",
+      "text": "„Haltet euch allesamt an Gottes Seil fest und spaltet euch nicht!“",
+      "reference": "Koran 3:103"
+    },
+    {
+      "type": "heading",
+      "text": "Glauben Sie immer noch an die Rechtsschule Ihrer Vorfahren?",
+      "plain": "Glauben Sie immer noch an die Rechtsschule Ihrer Vorfahren?",
+      "slug": "glauben-sie-immer-noch-an-die-rechtsschule-ihrer-vorfahren"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sehen wir uns in den folgenden Tabellen an, wie sich die verschiedenen Rechtsschulen gegenseitig widersprechen und wie Gottes eine einzige Religion durch diese Schulen in unterschiedliche Strukturen umgewandelt wurde. In diesen Tabellen gehen wir nicht auf die inneren Widersprüche der jeweiligen Rechtsschulen ein. Beispielsweise wird anerkannt, dass der Gründer der Hanafi-Schule, Abu Hanifa, und seine Schüler Abu Yusuf und Muhammad ibn al-Hasan ash-Shaybani unterschiedliche Ansichten hatten, die ebenfalls zahlreiche Widersprüche aufweisen. Die Tabellen zeigen lediglich einige der Widersprüche zwischen den vier sunnitischen Rechtsschulen. Die Unterschiede zwischen dem Schiitentum und dem Sunnitentum allein könnten ein eigenes Buch füllen. Diese Tabellen geben lediglich einen kleinen Einblick in die Vielzahl der Widersprüche. Der Umfang dieses Buches reicht bei Weitem nicht aus, um alle Widersprüche der Rechtsschulen aufzuzeigen. Dank der Tatsache, dass Gott nicht möchte, dass wir den Islam aus einer anderen Quelle als dem Koran lernen, müssen wir uns nicht in diesem Chaos und diesen Widersprüchen verlieren."
+    },
+    {
+      "type": "paragraph",
+      "text": "Wenn Sie dennoch weiterhin an die von Ihren Vorfahren überlieferten Rechtsschulen glauben, nur weil Ihre Vorfahren daran geglaubt haben, dann nehmen Sie sich bitte die Zeit, die 70 Beispiele, <span class=\"pb\" data-p=\"232\"></span>die wir präsentieren, genau zu betrachten. Lernen Sie Ihre Rechtsschule genau kennen. Danach liegt es an Ihnen, ob Sie sich auf den Koran beschränken oder diese Unterschiede als „Barmherzigkeit“ interpretieren und anwenden. Unsere Aufgabe ist es, Sie zu warnen. Die Entscheidung und Verantwortung liegen bei Ihnen."
+    },
+    {
+      "type": "paragraph",
+      "text": "Tabelle mit 70 Beispielen für Widersprüche der Rechtsschulen<sup class=\"fn-ref\"><a href=\"#fn-327\" id=\"fnref-327\">327</a></sup>"
+    },
+    {
+      "type": "table",
+      "header": [
+        "Nr.",
+        "Thema",
+        "Hanafi",
+        "Maliki",
+        "Schafii",
+        "Hanbali"
+      ],
+      "rows": [
+        [
+          "1",
+          "Ist die Haut eines toten Tieres (Aas) halal?",
+          "verboten",
+          "erlaubt",
+          "verboten",
+          "erlaubt"
+        ],
+        [
+          "2",
+          "Wie lautet das Urteil zum Verzehr von Aal?",
+          "erlaubt",
+          "-",
+          "-",
+          "verboten"
+        ],
+        [
+          "3",
+          "Darf ein Mann rote Kleidung tragen?",
+          "missbilligt",
+          "erlaubt",
+          "verboten",
+          "verboten"
+        ],
+        [
+          "4",
+          "Darf ein Mann gelbe Kleidung tragen?",
+          "verboten",
+          "erlaubt",
+          "erlaubt",
+          "verboten"
+        ],
+        [
+          "5",
+          "Darf man Trommel, Saiteninstrumente wie Oud o. Blasinstrumente wie Zurna spielen?",
+          "missbilligt",
+          "erlaubt",
+          "erlaubt",
+          "verboten"
+        ],
+        [
+          "6",
+          "Was gilt für den Verzehr von Krähenfleisch?",
+          "verboten",
+          "erlaubt",
+          "verboten",
+          "verboten"
+        ],
+        [
+          "7",
+          "Was gilt für den Verzehr von Pferdefleisch?",
+          "verboten",
+          "erlaubt",
+          "-",
+          "-"
+        ],
+        [
+          "8",
+          "Was gilt für den Verzehr von Muschel?",
+          "verboten",
+          "erlaubt",
+          "-",
+          "-"
+        ],
+        [
+          "9",
+          "Was gilt für den Verzehr von Austern?",
+          "verboten",
+          "erlaubt",
+          "-",
+          "-"
+        ],
+        [
+          "10",
+          "Was gilt für den Verzehr von Schwalbenfleisch?",
+          "erlaubt",
+          "erlaubt",
+          "verboten",
+          "verboten"
+        ],
+        [
+          "11",
+          "Was gilt für den Verzehr von Adlerfleisch?",
+          "verboten",
+          "erlaubt",
+          "verboten",
+          "verboten"
+        ],
+        [
+          "12",
+          "Was gilt für das Rezitieren der al-Fatiha in den ersten beiden Gebetseinheiten?",
+          "notwendig",
+          "Pflicht",
+          "Pflicht",
+          "Pflicht"
+        ],
+        [
+          "13",
+          "Lobpreisungen tasbeeh bei der Verbeugung ruku und der Niederwerfung sadschda?",
+          "empfohlen",
+          "-",
+          "empfohlen",
+          "notwendig"
+        ],
+        [
+          "14",
+          "Was gilt für das Rezitieren einer weiteren sure nach der al-Fatiha in den ersten beiden Gebetseinheiten?",
+          "notwendig",
+          "neutral",
+          "empfohlen",
+          "empfohlen"
+        ],
+        [
+          "15",
+          "Was gilt für das Witr-Gebet?",
+          "notwendig",
+          "empfohlen",
+          "empfohlen",
+          "empfohlen"
+        ],
+        [
+          "16",
+          "Wird die Gebetswaschung wudu eines Mannes nichtig, wenn er einen unbehaarten Jüngling berührt?",
+          "Nein",
+          "Ja",
+          "Nein",
+          "Nein"
+        ],
+        [
+          "17",
+          "Wird das Gebet nichtig, wenn man einen Gruß annimmt?",
+          "Ja",
+          "Nein",
+          "-",
+          "-"
+        ],
+        [
+          "18",
+          "In welchem Abstand ist es verboten, vor einer betenden Person vorbeizugehen?",
+          "40 Armlängen",
+          "1 Armlänge",
+          "3 Armlängen",
+          "3 Armlängen"
+        ],
+        [
+          "19",
+          "Wird das Gebet nichtig, wenn man im Gebet vergessend spricht?",
+          "Ja",
+          "Nein",
+          "Nein",
+          "Ja"
+        ],
+        [
+          "20",
+          "Wird das Gebet nichtig, wenn man im Gebet „Ach, Autsch, Puf” sagt?",
+          "Ja",
+          "Nein",
+          "Ja",
+          "Ja"
+        ],
+        [
+          "21",
+          "Wie viele Pflichten hat die Gebetswaschung?",
+          "4",
+          "7",
+          "6",
+          "7"
+        ],
+        [
+          "22",
+          "Ist die Reihenfolge in der Gebetswaschung verpflichtend?",
+          "Nein",
+          "Nein",
+          "Ja",
+          "Ja"
+        ],
+        [
+          "23",
+          "Muss die Gebetswaschung ohne Unterbrechung vollzogen werden?",
+          "Nein",
+          "Ja",
+          "Nein",
+          "Ja"
+        ],
+        [
+          "24",
+          "Wie viel Empfohlenes (Sunnah) hat die Gebetswaschung?",
+          "18",
+          "8",
+          "30",
+          "20"
+        ],
+        [
+          "25",
+          "Ist das Benutzen von Miswak (Zahnreinungszweig) empfohlen (Sunnah)?",
+          "Ja",
+          "Nein",
+          "Ja",
+          "Ja"
+        ],
+        [
+          "26",
+          "Ist es empfohlen (Sunnah), bei der Gebetswaschung die Hände, das Gesicht und die Arme dreimal zu waschen?",
+          "Ja",
+          "Nein",
+          "Ja",
+          "Ja"
+        ],
+        [
+          "27",
+          "Wie oft sind die Ohren bei der Gebetswaschung zu berühren?",
+          "1",
+          "1",
+          "3",
+          "1"
+        ],
+        [
+          "28",
+          "Die Anzahl der Dinge, die die Gebetswaschung nichtig machen:",
+          "12",
+          "3",
+          "5",
+          "8"
+        ],
+        [
+          "29",
+          "Wird durch das Berühren des Geschlechtsorgans die Gebetswaschung nichtig?",
+          "Nein",
+          "Ja",
+          "Ja",
+          "Ja"
+        ],
+        [
+          "30",
+          "Wird die Gebetswaschung nichtig bei einem lauten Lachen im Gebet?",
+          "Ja",
+          "Nein",
+          "Nein",
+          "Nein"
+        ],
+        [
+          "31",
+          "Macht das Essen von Kamelfleisch und das Waschen eines Leichnahms die Gebetswaschung nichtig?",
+          "Nein",
+          "Nein",
+          "Nein",
+          "Ja"
+        ],
+        [
+          "32",
+          "Wird die Gebetswaschung durch Zweifel ungültig?",
+          "Nein",
+          "Nein",
+          "Nein",
+          "Ja"
+        ],
+        [
+          "33",
+          "Macht Blutfluss die Gebetswaschung nichtig?",
+          "Ja",
+          "Nein",
+          "Nein",
+          "Nein"
+        ],
+        [
+          "34",
+          "Ist es erlaubt eine durchlöcherte Fußbekleidung aus Leder zu überstreichen?",
+          "Ja",
+          "Ja",
+          "Nein",
+          "Nein"
+        ],
+        [
+          "35",
+          "Wie viele Gründe gibt es, um die Ganzkörperwaschung ghusl durchzuführen?",
+          "7",
+          "4",
+          "5",
+          "6"
+        ],
+        [
+          "36",
+          "Wie viele Pflichten (fard) hat die Ganzkörperwaschung ghusl?",
+          "11",
+          "5",
+          "3",
+          "-"
+        ],
+        [
+          "37",
+          "Wie lautet das Urteil über jemanden, der aus Nachlässigkeit oder Faulheit nicht betet?",
+          "Inhaftiert, geschlagen bis er blutet, getötet",
+          "Wenn er nicht bereut, wird er getötet.",
+          "Wenn er nicht innerhalb von drei Tagen Buße tut, wird er getötet",
+          "Wenn er nicht innerhalb von drei Tagen Buße tut, wird er getötet"
+        ],
+        [
+          "38",
+          "Ist der Gebetsruf adhan auch dann gültig, wenn dessen Worte nicht nacheinander ausgesprochen werden?",
+          "Ja",
+          "Ja",
+          "Nein",
+          "Nein"
+        ],
+        [
+          "39",
+          "Wie viele Grüße sind am Ende des Gebets obligatorisch?",
+          "keine Pflicht",
+          "nur zur 1 Seite Pflicht",
+          "nur zur 1 Seite Pflicht",
+          "beide Seiten Pflicht"
+        ],
+        [
+          "40",
+          "Wo befindet sich der Schambereich des Mannes?",
+          "Zwischen Bauchnabel und Kniescheiben",
+          "Penis und Gesäß",
+          "Zwischen Bauchnabel und Kniescheiben",
+          "Zwischen Bauchnabel und Kniescheiben"
+        ],
+        [
+          "41",
+          "Ist es notwendig, Mund und Nase mit Wasser zu benetzen, wenn man die Toten wäscht?",
+          "Nein",
+          "Ja",
+          "Ja",
+          "Nein"
+        ],
+        [
+          "42",
+          "Zu welchen Zeiten ist es verboten, das Totengebet zu beten?",
+          "5",
+          "3",
+          "Sie kann jederzeit durchgeführt werden",
+          "3"
+        ],
+        [
+          "43",
+          "Kann der Verstorbene zur Beerdigung vom Sterbeort an einen anderen Ort überführt werden?",
+          "Ja",
+          "Ja",
+          "Nein",
+          "Nein"
+        ],
+        [
+          "44",
+          "Ist es notwendig, für jeden Tag des Ramadan-Fastens eine eigene Absicht auszusprechen?",
+          "Ja",
+          "Nein",
+          "Ja",
+          "Ja"
+        ],
+        [
+          "45",
+          "Bricht der Aderlass das Fasten?",
+          "Nein",
+          "Nein",
+          "Nein",
+          "Ja"
+        ],
+        [
+          "46",
+          "Ist es obligatorisch, Schmuck (Männer und Frauen) bei der verpflichtenden Almosengabe zakah zu berücksichtigen?",
+          "Ja",
+          "Nein",
+          "Nein",
+          "Nein"
+        ],
+        [
+          "47",
+          "Ist es obligatorisch, Banknoten bei der verpflichtenden Almosengabe zakah zu berücksichtigen?",
+          "Ja",
+          "Ja",
+          "Ja",
+          "Nein"
+        ],
+        [
+          "48",
+          "Ist das Fleisch von Tieren, die im Dreck gefüttert werden, erlaubt (halal)?",
+          "-",
+          "erlaubt",
+          "-",
+          "verboten"
+        ],
+        [
+          "49",
+          "Ist es obligatorisch, Agrarerzeugnisse bei der verpflichtenden Almosengabe zakah zu berücksichtigen?",
+          "Ja",
+          "Nein",
+          "Nein",
+          "Nein"
+        ],
+        [
+          "50",
+          "Ist es obligatorisch, Honig bei der verpflichtenden Almosengabe zakah zu berücksichtigen?",
+          "Ja",
+          "Nein",
+          "Nein",
+          "Ja"
+        ],
+        [
+          "51",
+          "Ist es obligatorisch, vermietete Wohnungen oder verpachtete Ackerland bei der verpflichtenden Almosengabe zakah zu berücksichtigen?",
+          "Nein",
+          "Ja",
+          "Ja",
+          "Ja"
+        ],
+        [
+          "52",
+          "Ist es obligatorisch, Oliven bei der verpflichtenden Almosengabe zakah zu berücksichtigen?",
+          "Ja",
+          "Ja",
+          "Nein",
+          "Ja"
+        ],
+        [
+          "53",
+          "Ist es obligatorisch, mit Futter gefütterte und arbeitende Tiere bei der verpflichtenden Almosengabe zakah zu berücksichtigen?",
+          "Nein",
+          "Ja",
+          "Nein",
+          "Nein"
+        ],
+        [
+          "54",
+          "Ab welchem Alter sind Schafe und Ziegen bei der verpflichtenden Almosengabe zakah zu berücksichtigen?",
+          "Schaf 1 Ziege 1",
+          "Schaf 1 Ziege 1",
+          "Schaf 1 Ziege 2",
+          "Schaf 1/2 Ziege 2"
+        ],
+        [
+          "55",
+          "Darf eine Frau ohne Begleitung durch ihren Ehemann alleine zur Pilgerfahrt hadsch reisen?",
+          "Nein",
+          "Ja",
+          "Ja",
+          "Nein"
+        ],
+        [
+          "56",
+          "Ist es zulässig, dass eine Person, die aufgrund von Unfähigkeit oder Notwendigkeit nicht zur Hadsch gehen kann, eine andere Person an ihrer Stelle schickt?",
+          "Ja",
+          "Nein",
+          "Ja",
+          "Ja"
+        ],
+        [
+          "57",
+          "Wie viele Pflichten hat die Pilgerfahrt hadsch?",
+          "2",
+          "4",
+          "5",
+          "4"
+        ],
+        [
+          "58",
+          "Ist es zulässig, wenn der Stein, der bei der Steinigung des Satans geworfen wird, nicht in das Becken der Mauer fällt?",
+          "Ja",
+          "Nein",
+          "Nein",
+          "Nein"
+        ],
+        [
+          "59",
+          "Ist es verboten, auf Seide zu sitzen, sich darauf zu lehnen, sie als Kissen zu benutzen und eine Wandverkleidung aus ihr zu machen?",
+          "Nein",
+          "Ja",
+          "Ja",
+          "Ja"
+        ],
+        [
+          "60",
+          "Ist es erlaubt, einen Jungen mit Seide zu kleiden?",
+          "Nein",
+          "Nein",
+          "Ja",
+          "Ja"
+        ],
+        [
+          "61",
+          "Ist es erlaubt, aus einem mit Silber verzierten Gefäß Wasser zu trinken oder für die Gebetswaschung wudu zu nutzen?",
+          "Ja",
+          "Nein",
+          "Nein",
+          "Nein"
+        ],
+        [
+          "62",
+          "Ist es verboten haram, den Bart zu schneiden?",
+          "Ja",
+          "Ja",
+          "Nein",
+          "Ja"
+        ],
+        [
+          "63",
+          "Ist es verboten haram, Backgammon zu spielen?",
+          "Nein",
+          "Ja",
+          "Ja",
+          "Ja"
+        ],
+        [
+          "64",
+          "Ist es verboten haram, Schach zu spielen?",
+          "Ja",
+          "Ja",
+          "Nein",
+          "Ja"
+        ],
+        [
+          "65",
+          "Was gilt für ein Tier, das sexuell vergewaltigt wurde?",
+          "Wird getötet, nicht gegessen",
+          "Nicht getötet, Fleisch darf gegessen werden",
+          "Nicht getötet, Fleisch darf gegessen werden",
+          "Muss getötet werden"
+        ],
+        [
+          "66",
+          "Wie viele Stockhiebe sind Strafe für das Trinken von Wein und anderen Rauschmitteln?",
+          "80",
+          "80",
+          "40",
+          "80"
+        ],
+        [
+          "67",
+          "Kann der Besitz einer Person, die wegen Apostasie getötet wurde, an ihre Erben weitergegeben werden?",
+          "Ja",
+          "Nein",
+          "Nein",
+          "Nein"
+        ],
+        [
+          "68",
+          "Kann eine Frau, die vom Glauben abgefallen ist, getötet werden?",
+          "Nein",
+          "Ja",
+          "Ja",
+          "Ja"
+        ],
+        [
+          "69",
+          "Ist es zulässig, dass eine Frau Richterin wird?",
+          "Ja",
+          "Nein",
+          "Nein",
+          "Nein"
+        ],
+        [
+          "70",
+          "Ist ein Hund ein unreines (nadschis) Tier?",
+          "Nein",
+          "Nein",
+          "Ja",
+          "Ja"
+        ]
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "n": 305,
+      "text": "Siehe Kapitel 25."
+    },
+    {
+      "n": 306,
+      "text": "Siehe Kapitel 39."
+    },
+    {
+      "n": 307,
+      "text": "Anm. d. Übers.: Vgl. Koran 22:78."
+    },
+    {
+      "n": 308,
+      "text": "Anm. d. Übers.: Und zwar insgesamt 20 Mal: 2:21, 168; 4:1, 170, 174; 7:158; 10:23, 57, 104, 108; 22:1, 5, 49, 73; 27:16; 31:33; 35:3, 5, 15; 49:13."
+    },
+    {
+      "n": 309,
+      "text": "Anm. d. Über.: 2:256. Bemerkenswerter Weise benutzt Gott hier „la ikraha” mit der trilateralen Wurzel <em>ka-ri-ha</em>, welches auch „Widerwillen empfinden, verabscheuen, hassen, Ekel hervorrufen“ in der Bedeutung beinhält, anstatt „<em>la idschbara</em>” mit der Wurzel <em>dscha-ba-ra</em>, welches nur „Zwang“ bedeuten würde."
+    },
+    {
+      "n": 310,
+      "text": "Anm. d. Übers.: Die Rede ist hier von folgendem Hadith: „<em>Meine Gefährten sind wie die Sterne am Himmel. An wen auch immer ihr euch haltet, ihr werdet den richtigen Weg finden (ihtadayna). Die Uneinigkeit (ikhtilaaf) meiner Gefährten ist eine Barmherzigkeit (rahmat) für euch.</em>“ Obwohl dieser Hadith selbst unter den Befolgern der Hadithe umstritten ist, wird es sehr oft als „Argument“ dargelegt, wenn um die Widersprüche der Rechtsschulen diskutiert wird. Gleichzeitig ist es als ein Zeichen Gottes prägnant, dass im folgenden Koranvers 16:64 genau das Gegenteil gesagt wird; mit Verwendung derselben Schlüsselwörter: „Und wir haben auf dich das Buch nur hinabgesandt, damit du ihnen klar machst, worüber sie uneinig gewesen sind (<em>ikhtilafu</em>), und als eine Rechtleitung (<em>hudan</em>) und eine Barmherzigkeit (<em>rahmat</em>) für Leute, die glauben/vertrauen.”."
+    },
+    {
+      "n": 311,
+      "text": "Anm. d. Übers.: Zu diesen und noch weiteren, in die Irre führenden, so behaupteten „Grundquellen des islamischen Rechts“ vgl. Ahmad A. Reidegeld, <em>Handbuch Islam - Die Glaubens- und Rechtslehre der Muslime</em>, Spohr Verlag, 2005, S. 103- 146."
+    },
+    {
+      "n": 312,
+      "text": "Anm. d. Übers.: Im Original „<em>kolonya</em>”, das sich von italienisch <em>colonia</em> (kurz für acqua di Colonia, Kölnisch Wasser) ableitet. <em>Kolonya</em> ist ein traditionelles Duftwasser, das in der Türkei weit verbreitet ist und oft mit Gastfreundschaft und Hygiene assoziiert wird. Es handelt sich dabei um ein parfümiertes Wasser mit einem hohen Alkoholgehalt (meist 60–80 % Ethanol), das in verschiedenen Düften wie Zitrone, Lavendel oder Rose erhältlich ist, ob man es mag oder nicht ist eine persönliche Angelegenheit. Nichts desto trotz hat <em>kolonya</em> einen festen Platz in der türkischen Kultur und ist ein Symbol für Reinheit, Frische und Gastfreundschaft. Während der Covid-19 Pandemie gewann es wieder an Wert, auch bei der jüngeren Generationen, und diente als Desinfektionsmittel."
+    },
+    {
+      "n": 313,
+      "text": "<em> al-Damiri</em>. Zusätzliche Anm. d. Übers.: Ähnlicher Hadith befindet sich in <em>Abu Dawud</em>, Hadith Nr. 4597."
+    },
+    {
+      "n": 314,
+      "text": "Anm. d. Übers.: Yaşar Nuri Öztürk (1945–2016) war ein türkischer Theologe, Philosoph und Schriftsteller. Er war bekannt für seine kritische Haltung gegenüber traditionellen islamischen Interpretationen und betonte eine koranzentrierte Auslegung des Islams. Seine Ansichten führten zu zahlreichen Debatten und machten ihn zu einer kontroversen Figur in der islamischen Gelehrsamkeit."
+    },
+    {
+      "n": 315,
+      "text": "Anm. d. Übers.: Yaşar Nuri Öztürk, <em>Kur’an’daki İslam</em> (<em>Der Islam im Koran</em>), Yeni Boyut Verlag, Istanbul, 1999."
+    },
+    {
+      "n": 316,
+      "text": "Anm. d. Übers.: <em>at-Tahiyyat</em> ist ein zentraler Bestandteil des sunnitischen Gebets und wird während dem Sitzen am Ende jeder Gebetseinheit rezitiert. Es handelt sich um einen Lobpreis von Gott, aber auch gleichzeitig dem Propheten Muhammad und Abraham, ist sowie den rechtschaffenen Dienern gewidmet. Dies steht ebenfalls im Widerspruch zum <em>Koran 20:14</em> „Tatsächlich, ich, ich bin Gott! Absolut keine Gottheit außer Mir! So diene Mir und errichte das Gebet zu Meinem Gedenken!”. Im Gebet soll nur Gott gedacht werden und niemand anders."
+    },
+    {
+      "n": 317,
+      "text": "Anm. d. Übers.: <em>Koran 39:36</em>."
+    },
+    {
+      "n": 318,
+      "text": "Anm. d. Übers.: Yaşar Nuri Öztürk, <em>Çıplak Uyarı</em> (<em>Die nackte Warnung</em>), Yeni Boyut Verlag, Istanbul, 2000."
+    },
+    {
+      "n": 319,
+      "text": "Anm. d. Übers.: Siehe al-Buchari, <em>al-Tarikh al-Kabir</em> (<em>Das große Geschichtswerk</em>), Band 8, Seite 81, Nr. 2253. In diesem Werk drückte al-Buchari indirekt aus, dass Abu Hanifas Überlieferungen schwach waren."
+    },
+    {
+      "n": 320,
+      "text": "Anm. d. Übers.: Erfundene Überlieferungen, die besagen, dass Imam Abu Hanifa in seinen Träumen Gott gesehen habe, sind z. B.: al-Khatib al-Baghdadi, <em>Tarikh Baghdad</em> (<em>Die Geschichte Bagdads</em>) und Ibn Hadschar al-Haytami, <em>Al-Khayrat al-Hisan</em> (<em>Die schönen Wohltaten</em>)."
+    },
+    {
+      "n": 321,
+      "text": "Anm. d. Übers.: Bemerkenswert ist, dass die Berichte über die Hinrichtung von Abu Hanifa umstritten sind. Obwohl es bei unbedeutenden Themen – wie dieses Buch zeigt – ein Konsens herrscht, wird die historische Genauigkeit dieser Darstellung von verschiedenen Historikern und Gelehrten unterschiedlich beurteilt. Die populärste Version der Geschichte besagt, dass Abu Hanifa während der Herrschaft des abbasidischen Kalifen al-Mansur (754–775) hingerichtet wurde. Ibn al-Dschauzi und al-Khatib al-Baghdadi erwähnen die Version, dass Abu Hanifa vergiftet wurde. Siehe: al-Dschauzi, <em>al-Muntazam fi Tarikh al-Muluk wa al-Umam</em> (<em>Die geordnete Geschichte der Könige und Nationen</em>); und al-Khatip al-Baghdadi, <em>Tarikh Baghdad</em> (<em>Die Geschichte Bagdads</em>)."
+    },
+    {
+      "n": 322,
+      "text": "W. Montgomery Watt, <em>What is Islam?</em>, 1968."
+    },
+    {
+      "n": 323,
+      "text": "Mohammed Arkoun, <em>I. Koran-Symposium</em>, Die Geschichtlichkeit des arabischen Denkens."
+    },
+    {
+      "n": 324,
+      "text": "<em> I. Koran-Symposium</em>."
+    },
+    {
+      "n": 325,
+      "text": "Anm. d. Übers.: Von diesem Werk sind mehrere Veröffentlichungen vorhanden."
+    },
+    {
+      "n": 326,
+      "text": "Anm. d. Übers.: Für den deutschsprachigen Raum kann ich folgenden sunnitischen „Katechismus“ empfehlen: Ahmad A. Reidegeld, <em>Handbuch Islam – Die Glaubens- und Rechtslehre der Muslime</em>, Spohr Verlag, 2005."
+    },
+    {
+      "n": 327,
+      "text": "Anm. d. Übers.: Begriffserklärung: erlaubt (<em>halal</em>), verboten (<em>haram</em>), Pflicht/ obligatorisch (<em>fard</em>), missbilligt/unerwünscht (<em>makruh</em>), empfohlen (<em>Sunnah</em>), freigestellt/zulässig/neutral (<em>mubah</em>) und notwendig (<em>wadschib</em>). Es besteht keine Einigkeit unter den Klerikern darüber, ob diese Unterscheidung tatsächlich notwendig ist. Während hanafitische Kleriker zwischen fard und wadschib unterscheiden, sehen andere Rechtsschulen wie die schafiitische und malikitische Schule sie als synonym an."
+    }
+  ]
+}

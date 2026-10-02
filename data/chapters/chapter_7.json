@@ -1,0 +1,472 @@
+{
+  "number": 7,
+  "title": "Hadith - Hadith Widersprüche",
+  "title_fn": null,
+  "category": {
+    "id": "hadith",
+    "title_de": "Hadith-Widersprüche & Kritik"
+  },
+  "word_count": 1533,
+  "reading_time_min": 9,
+  "subheadings": [
+    "Beispiel 1: Darf man Blut abnehmen lassen, während man fastet?",
+    "Beispiel 2: In welche Richtung sollte man sich beim Toilettengang wenden?",
+    "Beispiel 3: Kann man während des Fastens seine Frau küssen?",
+    "Beispiel 4: Kann ein Gebet zweimal verrichtet werden?",
+    "Beispiel 5: Wie wird die kleine Notdurft verrichtet?",
+    "Beispiel 6: Wie sollte Wasser getrunken werden?",
+    "Beispiel 7: Darf eine menstruierende Frau die Moschee betreten?",
+    "Beispiel 8: Kann eine Person im Weihezustand während der Pilgerfahrt (ihram) heiraten?",
+    "Beispiel 9: Dürfen Männer ihre Waden zeigen?",
+    "Beispiel 10: Was soll mit der Haut eines toten Tieres geschehen?"
+  ],
+  "proof_images_count": 8,
+  "proof_images": [
+    {
+      "post_id": 661,
+      "chapter": 7,
+      "post_title": "Kapitel 7: Hadith - Hadith Widersprüche",
+      "slug": "hadith-hadith-widersprueche",
+      "url": "assets/images/proofs/der-goettliche-schutz-des-korans-koran-15-9.webp",
+      "filename": "der-goettliche-schutz-des-korans-koran-15-9.webp",
+      "caption": "Der göttliche Schutz des Korans (Koran 15:9)",
+      "local_path": "assets/images/proofs/der-goettliche-schutz-des-korans-koran-15-9.webp",
+      "caption_de": "Der göttliche Schutz des Korans (Koran 15:9)",
+      "post_title_de": "Kapitel 7: Hadith - Hadith Widersprüche",
+      "after_idx": 0,
+      "after_anchor": "Wie im vorherigen Kapitel erläutert wurde, sagt Gott, dass der Koran geschützt i",
+      "placement": "medium",
+      "label": "Der göttliche Schutz des Korans (Koran 15:9)"
+    },
+    {
+      "post_id": 661,
+      "chapter": 7,
+      "post_title": "Kapitel 7: Hadith - Hadith Widersprüche",
+      "slug": "hadith-hadith-widersprueche",
+      "url": "assets/images/proofs/blutspende-im-licht-des-lebensschutzes.webp",
+      "filename": "blutspende-im-licht-des-lebensschutzes.webp",
+      "caption": "Blutspende im Licht des Lebensschutzes",
+      "local_path": "assets/images/proofs/blutspende-im-licht-des-lebensschutzes.webp",
+      "caption_de": "Blutspende im Licht des Lebensschutzes",
+      "post_title_de": "Kapitel 7: Hadith - Hadith Widersprüche",
+      "after_idx": 4,
+      "after_anchor": "Aus diesen Versen wird klar, dass die Mehrheit der Menschen nur Vermutungen folg",
+      "placement": "high",
+      "label": "Blutspende im Licht des Lebensschutzes"
+    },
+    {
+      "post_id": 661,
+      "chapter": 7,
+      "post_title": "Kapitel 7: Hadith - Hadith Widersprüche",
+      "slug": "hadith-hadith-widersprueche",
+      "url": "assets/images/proofs/medizinischer-aberglaube-in-alten-hadithen.webp",
+      "filename": "medizinischer-aberglaube-in-alten-hadithen.webp",
+      "caption": "Medizinischer Aberglaube in alten Hadithen",
+      "local_path": "assets/images/proofs/medizinischer-aberglaube-in-alten-hadithen.webp",
+      "caption_de": "Medizinischer Aberglaube in alten Hadithen",
+      "post_title_de": "Kapitel 7: Hadith - Hadith Widersprüche",
+      "after_idx": 7,
+      "after_anchor": "Zweiter widersprüchlicher Hadith: „Der Prophet ließ sich Blut abnehmen, während ",
+      "placement": "high",
+      "label": "Medizinischer Aberglaube in alten Hadithen"
+    },
+    {
+      "post_id": 661,
+      "chapter": 7,
+      "post_title": "Kapitel 7: Hadith - Hadith Widersprüche",
+      "slug": "hadith-hadith-widersprueche",
+      "url": "assets/images/proofs/hadithe-ueber-toilettenausrichtung-nach-mekka.webp",
+      "filename": "hadithe-ueber-toilettenausrichtung-nach-mekka.webp",
+      "caption": "Hadithe über Toilettenausrichtung nach Mekka",
+      "local_path": "assets/images/proofs/hadithe-ueber-toilettenausrichtung-nach-mekka.webp",
+      "caption_de": "Hadithe über Toilettenausrichtung nach Mekka",
+      "post_title_de": "Kapitel 7: Hadith - Hadith Widersprüche",
+      "after_idx": 8,
+      "after_anchor": "Wenn der Prophet Muhammad gesagt hätte, dass das Blutabnehmen das Fasten bricht,",
+      "placement": "high",
+      "label": "Hadithe über Toilettenausrichtung nach Mekka"
+    },
+    {
+      "post_id": 661,
+      "chapter": 7,
+      "post_title": "Kapitel 7: Hadith - Hadith Widersprüche",
+      "slug": "hadith-hadith-widersprueche",
+      "url": "assets/images/proofs/absurde-vorschriften-ueber-toilettengaenge.webp",
+      "filename": "absurde-vorschriften-ueber-toilettengaenge.webp",
+      "caption": "Absurde Vorschriften über Toilettengänge",
+      "local_path": "assets/images/proofs/absurde-vorschriften-ueber-toilettengaenge.webp",
+      "caption_de": "Absurde Vorschriften über Toilettengänge",
+      "post_title_de": "Kapitel 7: Hadith - Hadith Widersprüche",
+      "after_idx": 21,
+      "after_anchor": "Beispiel 5: Wie wird die kleine Notdurft verrichtet?",
+      "placement": "high",
+      "label": "Absurde Vorschriften über Toilettengänge"
+    },
+    {
+      "post_id": 661,
+      "chapter": 7,
+      "post_title": "Kapitel 7: Hadith - Hadith Widersprüche",
+      "slug": "hadith-hadith-widersprueche",
+      "url": "assets/images/proofs/vorschriften-der-rechtsschulen-ueber-das-wassertrinken.webp",
+      "filename": "vorschriften-der-rechtsschulen-ueber-das-wassertrinken.webp",
+      "caption": "Vorschriften der Rechtsschulen über das Wassertrinken",
+      "local_path": "assets/images/proofs/vorschriften-der-rechtsschulen-ueber-das-wassertrinken.webp",
+      "caption_de": "Vorschriften der Rechtsschulen über das Wassertrinken",
+      "post_title_de": "Kapitel 7: Hadith - Hadith Widersprüche",
+      "after_idx": 24,
+      "after_anchor": "Obwohl es keinen Grund gibt, dieser Praxis eine islamische Bedeutung zuzuschreib",
+      "placement": "high",
+      "label": "Vorschriften der Rechtsschulen über das Wassertrinken"
+    },
+    {
+      "post_id": 661,
+      "chapter": 7,
+      "post_title": "Kapitel 7: Hadith - Hadith Widersprüche",
+      "slug": "hadith-hadith-widersprueche",
+      "url": "assets/images/proofs/hadithe-ueber-das-verbot-des-trinkens-im-stehen.webp",
+      "filename": "hadithe-ueber-das-verbot-des-trinkens-im-stehen.webp",
+      "caption": "Hadithe über das Verbot des Trinkens im Stehen",
+      "local_path": "assets/images/proofs/hadithe-ueber-das-verbot-des-trinkens-im-stehen.webp",
+      "caption_de": "Hadithe über das Verbot des Trinkens im Stehen",
+      "post_title_de": "Kapitel 7: Hadith - Hadith Widersprüche",
+      "after_idx": 27,
+      "after_anchor": "Zweiter widersprüchlicher Hadith: „Ich sah den Propheten, wie er im Stehen Wasse",
+      "placement": "high",
+      "label": "Hadithe über das Verbot des Trinkens im Stehen"
+    },
+    {
+      "post_id": 661,
+      "chapter": 7,
+      "post_title": "Kapitel 7: Hadith - Hadith Widersprüche",
+      "slug": "hadith-hadith-widersprueche",
+      "url": "assets/images/proofs/widerspruechliche-rechtsschulurteile-zur-pilgerfahrt.webp",
+      "filename": "widerspruechliche-rechtsschulurteile-zur-pilgerfahrt.webp",
+      "caption": "Widersprüchliche Rechtsschulurteile zur Pilgerfahrt",
+      "local_path": "assets/images/proofs/widerspruechliche-rechtsschulurteile-zur-pilgerfahrt.webp",
+      "caption_de": "Widersprüchliche Rechtsschulurteile zur Pilgerfahrt",
+      "post_title_de": "Kapitel 7: Hadith - Hadith Widersprüche",
+      "after_idx": 35,
+      "after_anchor": "Zweiter widersprüchlicher Hadith: „Eine Person im Weihezustand während der Pilge",
+      "placement": "high",
+      "label": "Widersprüchliche Rechtsschulurteile zur Pilgerfahrt"
+    }
+  ],
+  "pdf_pages": [
+    133,
+    142
+  ],
+  "sections_count": 48,
+  "sections": [
+    {
+      "type": "paragraph",
+      "text": "<span class=\"pb\" data-p=\"133\"></span>Wie im vorherigen Kapitel erläutert wurde, sagt Gott, dass der Koran geschützt ist und keine Widersprüche enthält. Gott führt die Widerspruchsfreiheit des Korans als Beleg dafür an, dass der Koran von Ihm selbst offenbart wurde. Daraus ergibt sich die Schlussfolgerung, dass die Quelle des Islam frei von Widersprüchen und geschützt sein muss. Ausgehend von diesem logischen Prinzip haben wir im sechsten Kapitel gezeigt, dass Hadithe im Widerspruch zu den Versen des Korans stehen und daher nicht als Quelle des Islam akzeptiert werden können. In diesem Kapitel zeigen wir die Widersprüche innerhalb der Hadithe auf und verdeutlichen somit, dass Hadithe widersprüchlich und ungeschützt sind und daher nicht als Grundlage des Islam dienen können. So wird erneut deutlich, dass in den Hadith-Büchern die Wahrheit und die Lüge untrennbar vermischt sind. Auch wenn ein Hadith nicht im Widerspruch zum Koran, zu einem anderen Hadith oder zur Logik steht, bleibt er nur eine Mutmaßung (<em>thann</em>). Wie aus den folgenden Versen deutlich wird, kann der Islam nicht auf „Mutmaßungen/Vermutungen“ gegründet werden:"
+    },
+    {
+      "type": "verse",
+      "text": "„Wenn du der Mehrheit derer auf der Erde folgst, werden sie dich von Gottes Weg abirren lassen. Sie folgen nur Vermutungen und raten nur ins Blaue hinein.“",
+      "reference": "Koran 6:116"
+    },
+    {
+      "type": "verse",
+      "text": "<span class=\"pb\" data-p=\"134\"></span>„Ihre Mehrheit folgt nur Vermutungen. Tatsächlich, Mutmaßungen nützen nichts gegenüber der Wahrheit. In der Tat, Gott weiß, was sie tun.“",
+      "reference": "Koran 10:36"
+    },
+    {
+      "type": "verse",
+      "text": "„O ihr, die ihr glaubt, meidet viel von den Mutmaßungen, denn manche Mutmaßungen sind Sünde.“",
+      "reference": "Koran 49:12"
+    },
+    {
+      "type": "paragraph",
+      "text": "Aus diesen Versen wird klar, dass die Mehrheit der Menschen nur Vermutungen folgt, doch dies ist bedeutungslos. Die islamische Vorschriften auf Hadithe zu stützen, bedeutet, den Islam auf einem unsicheren Fundament, nämlich Mutmaßungen/Vermutungen, zu errichten. Dabei haben wir in jeder Hinsicht ein Wunder, eine bewahrte, widerspruchsfreie, solide Grundlage wie den Koran. Nun wollen wir anhand der folgenden zehn Beispiele die Widersprüche innerhalb der Hadithe aufzeigen und verdeutlichen, dass Hadithe unzuverlässig sind und daher nicht die Grundlage des Islam bilden können."
+    },
+    {
+      "type": "heading",
+      "text": "Beispiel 1: Darf man Blut abnehmen lassen, während man fastet?",
+      "plain": "Beispiel 1: Darf man Blut abnehmen lassen, während man fastet?",
+      "slug": "beispiel-1-darf-man-blut-abnehmen-lassen-waehrend-man-fastet"
+    },
+    {
+      "type": "paragraph",
+      "text": "<strong>Erster widersprüchlicher Hadith:</strong> „<em>Das Blutabnehmen bricht sowohl das Fasten desjenigen, der es macht, als auch desjenigen, der es machen lässt.</em>“<sup class=\"fn-ref\"><a href=\"#fn-170\" id=\"fnref-170\">170</a></sup>"
+    },
+    {
+      "type": "paragraph",
+      "text": "<strong>Zweiter widersprüchlicher Hadith:</strong> „<em>Der Prophet ließ sich Blut abnehmen, während er fastete.</em>“<sup class=\"fn-ref\"><a href=\"#fn-171\" id=\"fnref-171\">171</a></sup>"
+    },
+    {
+      "type": "paragraph",
+      "text": "Wenn der Prophet Muhammad gesagt hätte, dass das Blutabnehmen das Fasten bricht, hätte er es zweifellos nicht selbst <span class=\"pb\" data-p=\"135\"></span>gemacht. Im Koran wird das Fasten jedoch nur durch Essen, Trinken und den Geschlechtsverkehr gebrochen.<sup class=\"fn-ref\"><a href=\"#fn-172\" id=\"fnref-172\">172</a></sup> Das bedeutet, dass das erste widersprüchliche Hadith nicht nur dem zweiten Hadith widerspricht, sondern auch dem Koran. Diese Zitate aus drei der „zuverlässigsten“ Hadith-Sammlungen zeigen, dass selbst in den als „authentisch“ geltenden Büchern widersprüchliche Hadithe enthalten sind."
+    },
+    {
+      "type": "heading",
+      "text": "Beispiel 2: In welche Richtung sollte man sich beim Toilettengang wenden?",
+      "plain": "Beispiel 2: In welche Richtung sollte man sich beim Toilettengang wenden?",
+      "slug": "beispiel-2-in-welche-richtung-sollte-man-sich-beim"
+    },
+    {
+      "type": "paragraph",
+      "text": "<strong>Erster widersprüchlicher Hadith:</strong> „<em>Wendet euch weder beim kleinen noch beim großen Geschäft in die Gebetsrichtung.</em>“<sup class=\"fn-ref\"><a href=\"#fn-173\" id=\"fnref-173\">173</a></sup>"
+    },
+    {
+      "type": "paragraph",
+      "text": "<strong>Zweiter widersprüchlicher Hadith:</strong> „<em>Der Prophet drehte sich in die Gebetsrichtung, als er sein Geschäft verrichtete, um dieses falsche Ritual aufzuheben, da einige Menschen es als unangemessen ansahen, sich in die Gebetsrichtung zu wenden.</em>“<sup class=\"fn-ref\"><a href=\"#fn-174\" id=\"fnref-174\">174</a></sup>"
+    },
+    {
+      "type": "paragraph",
+      "text": "In einem Hadith wird erklärt, dass das Verrichten der Notdurft in der Gebetsrichtung als Aberglaube betrachtet wird, während ein anderes Hadith den Propheten selbst als „Ausführer eines Aberglaubens“ darstellt. Wie man sieht, führen diese Widersprüche in den Hadithen dazu, dass dem Propheten falsche Aussagen und Handlungen zugeschrieben werden."
+    },
+    {
+      "type": "heading",
+      "text": "Beispiel 3: Kann man während des Fastens seine Frau küssen?",
+      "plain": "Beispiel 3: Kann man während des Fastens seine Frau küssen?",
+      "slug": "beispiel-3-kann-man-waehrend-des-fastens-seine-frau-kuessen"
+    },
+    {
+      "type": "paragraph",
+      "text": "<strong>Erster widersprüchlicher Hadith:</strong> „<em>Der Prophet küsste seine Frauen, während er fastete.</em>“<sup class=\"fn-ref\"><a href=\"#fn-175\" id=\"fnref-175\">175</a></sup>"
+    },
+    {
+      "type": "paragraph",
+      "text": "<span class=\"pb\" data-p=\"136\"></span><strong>Zweiter widersprüchlicher Hadith:</strong> „<em>Als man den Propheten fragte, ob jemand, der seine Frau während des Fastens küsst, weiterhin fastet, sagte er: ‚Sein Fasten ist ungültig.‘</em>“<sup class=\"fn-ref\"><a href=\"#fn-176\" id=\"fnref-176\">176</a></sup>"
+    },
+    {
+      "type": "paragraph",
+      "text": "Diese beiden widersprüchlichen Hadithe sind nicht nur bei Ibn Qutaiba zu finden, sondern auch in den sechs bekannten Hadith-Sammlungen (<em>Kutub as-Sitta</em>). Ibn Qutaiba versuchte in seinem Werk, diese Widersprüche mit erzwungenen Erklärungen aufzulösen. Wenn man die Absurdität und die Widersprüchlichkeit dieser Hadithe von jemandem erfahren möchte, der sie verteidigt, wäre Ibn Qutaiba´s <em>Interpretation sich widersprechender Überlieferungen</em> (<em>ta’wil muchtalif al-hadith</em>) ein Beispiel dafür. In einem Hadith wird berichtet, dass der Prophet während des Fastens seine Frau küsste, während im anderen Hadith behauptet wird, dass dies das Fasten breche. Offensichtlich ist mindestens einer dieser Hadithe eine Fälschung. Beide als wahr zu akzeptieren, würde den Propheten als jemanden darstellen, der unlogische und widersprüchliche Handlungen und Empfehlungen von sich geben würde. Daher zeigt der größte Respekt dem Propheten gegenüber, indem man nur den Koran als Grundlage des Islam nimmt und die Hadithe beiseite lässt."
+    },
+    {
+      "type": "heading",
+      "text": "Beispiel 4: Kann ein Gebet zweimal verrichtet werden?",
+      "plain": "Beispiel 4: Kann ein Gebet zweimal verrichtet werden?",
+      "slug": "beispiel-4-kann-ein-gebet-zweimal-verrichtet-werden"
+    },
+    {
+      "type": "paragraph",
+      "text": "<strong>Erster widersprüchlicher Hadith:</strong> „<em>Wenn einer von euch zu Hause das Gebet verrichtet und dann den Imam (Vorbeter) beim Gebet erreicht, soll er sich dem Imam anschließen. Das zweite Gebet zählt für ihn als freiwilliges Gebet.</em>“<sup class=\"fn-ref\"><a href=\"#fn-177\" id=\"fnref-177\">177</a></sup>"
+    },
+    {
+      "type": "paragraph",
+      "text": "<span class=\"pb\" data-p=\"137\"></span><strong>Zweiter widersprüchlicher Hadith:</strong> „<em>Verrichtet ein Gebet nicht zweimal am Tag.</em>“<sup class=\"fn-ref\"><a href=\"#fn-178\" id=\"fnref-178\">178</a></sup>"
+    },
+    {
+      "type": "paragraph",
+      "text": "Der zweite Hadith widerspricht sowohl dem ersten Hadith als auch dem Koran. Im Koran wird das Gebet gelobt und betont, dass das häufige Gedenken an Gott wichtig ist. Welchen Schaden hätte ein zusätzliches Gebet? In manchen Situationen könnte dieser Hadith sogar verhindern, dass Gläubige ein weiteres Gebet verrichten, was sie daran hindert, Gott noch mehr zu gedenken."
+    },
+    {
+      "type": "heading",
+      "text": "Beispiel 5: Wie wird die kleine Notdurft verrichtet?",
+      "plain": "Beispiel 5: Wie wird die kleine Notdurft verrichtet?",
+      "slug": "beispiel-5-wie-wird-die-kleine-notdurft-verrichtet"
+    },
+    {
+      "type": "paragraph",
+      "text": "<strong>Erster widersprüchlicher Hadith:</strong> „<em>Wenn jemand euch sagt, dass der Prophet seine kleine Notdurft im Stehen verrichtet hat, glaubt ihm nicht.</em>“<sup class=\"fn-ref\"><a href=\"#fn-179\" id=\"fnref-179\">179</a></sup>"
+    },
+    {
+      "type": "paragraph",
+      "text": "<strong>Zweiter widersprüchlicher Hadith:</strong> „<em>Der Prophet verrichtete seine kleine Notdurft im Stehen an einem Abfallhaufen eines Stammes.</em>“<sup class=\"fn-ref\"><a href=\"#fn-180\" id=\"fnref-180\">180</a></sup>"
+    },
+    {
+      "type": "paragraph",
+      "text": "Obwohl es keinen Grund gibt, dieser Praxis eine islamische Bedeutung zuzuschreiben, sehen wir, dass im traditionellen islamischen Verständnis das Sitzen bei der Verrichtung der Notdurft als eine „<em>Sunna</em>“ dargestellt wird, die sogar als verdienstvolle Handlung gilt. Die Vorstellung, dass der Prophet das Stehen beim Wasserlassen verboten habe, hat in der Vergangenheit dazu geführt, dass das Sitzen dabei als eine fromme Handlung angesehen wurde, die Belohnung verspricht."
+    },
+    {
+      "type": "heading",
+      "text": "<span class=\"pb\" data-p=\"138\"></span>Beispiel 6: Wie sollte Wasser getrunken werden?",
+      "plain": "Beispiel 6: Wie sollte Wasser getrunken werden?",
+      "slug": "beispiel-6-wie-sollte-wasser-getrunken-werden"
+    },
+    {
+      "type": "paragraph",
+      "text": "<strong>Erster widersprüchlicher Hadith:</strong> „<em>Der Prophet verbot es, im Stehen Wasser zu trinken.</em>“<sup class=\"fn-ref\"><a href=\"#fn-181\" id=\"fnref-181\">181</a></sup>"
+    },
+    {
+      "type": "paragraph",
+      "text": "<strong>Zweiter widersprüchlicher Hadith:</strong> „<em>Ich sah den Propheten, wie er im Stehen Wasser trank, so wie du und ich.</em>“<sup class=\"fn-ref\"><a href=\"#fn-182\" id=\"fnref-182\">182</a></sup>"
+    },
+    {
+      "type": "paragraph",
+      "text": "In diesen widersprüchlichen Hadithen wurde dem ersten Hadith, der das Stehen beim Trinken verbietet, mehr Beachtung geschenkt, obwohl ein weiterer Hadith existiert, der das Gegenteil behauptet. Auch heute noch sehen wir, dass Anhänger traditioneller islamischer Ansichten das Wasser im Sitzen und in drei Schlucken trinken, und sie erwarten, dass sie durch diese Handlung belohnt werden."
+    },
+    {
+      "type": "heading",
+      "text": "Beispiel 7: Darf eine menstruierende Frau die Moschee betreten?",
+      "plain": "Beispiel 7: Darf eine menstruierende Frau die Moschee betreten?",
+      "slug": "beispiel-7-darf-eine-menstruierende-frau-die-moschee-betreten"
+    },
+    {
+      "type": "paragraph",
+      "text": "<strong>Erster widersprüchlicher Hadith:</strong> „<em>Der Prophet betrat den Hof der Moschee und sagte: ‚Es ist gewiss, dass die Moschee weder für jemanden im Zustand der Unreinheit (Dschanaba) noch für eine menstruierende Frau erlaubt ist.‘</em>“<sup class=\"fn-ref\"><a href=\"#fn-183\" id=\"fnref-183\">183</a></sup>"
+    },
+    {
+      "type": "paragraph",
+      "text": "<strong>Zweiter widersprüchlicher Hadith:</strong> „<em>Die Ehefrau des Propheten berichtet: ‚Der Prophet legte seinen Kopf in den Schoß einer von uns, auch wenn sie menstruierte, und las den Koran. Eine von uns ging in die Moschee und brachte dem Propheten etwas, selbst während ihrer Menstruation.‘</em>“<sup class=\"fn-ref\"><a href=\"#fn-184\" id=\"fnref-184\">184</a></sup>"
+    },
+    {
+      "type": "paragraph",
+      "text": "<span class=\"pb\" data-p=\"139\"></span>Nach dem ersten Hadith darf eine menstruierende Frau die Moschee nicht betreten, während sie gemäß dem zweiten Hadith sehr wohl die Moschee betreten darf. Dieser Widerspruch verdeutlicht die unterschiedlichen Ansichten darüber, ob menstruierende Frauen die Moschee betreten dürfen.<sup class=\"fn-ref\"><a href=\"#fn-185\" id=\"fnref-185\">185</a></sup>"
+    },
+    {
+      "type": "heading",
+      "text": "Beispiel 8: Kann eine Person im Weihezustand während der Pilgerfahrt (ihram) heiraten?",
+      "plain": "Beispiel 8: Kann eine Person im Weihezustand während der Pilgerfahrt (ihram) heiraten?",
+      "slug": "beispiel-8-kann-eine-person-im-weihezustand-waehrend-der"
+    },
+    {
+      "type": "paragraph",
+      "text": "<strong>Erster widersprüchlicher Hadith:</strong> „<em>Als der Prophet Maimuna heiratete, waren beide im Zustand des Ihrams.</em>“<sup class=\"fn-ref\"><a href=\"#fn-186\" id=\"fnref-186\">186</a></sup>"
+    },
+    {
+      "type": "paragraph",
+      "text": "<strong>Zweiter widersprüchlicher Hadith:</strong> „<em>Eine Person im Weihezustand während der Pilgerfahrt (ihram) darf weder heiraten, noch um die Hand einer Frau anhalten, noch eine Eheschließung für jemand anderen durchführen.</em>“<sup class=\"fn-ref\"><a href=\"#fn-187\" id=\"fnref-187\">187</a></sup>"
+    },
+    {
+      "type": "paragraph",
+      "text": "Dieses Beispiel zeigt erneut die Widersprüche zwischen verschiedenen Hadithen. Während im ersten Hadith beschrieben wird, dass der Prophet im Weihezustand während der Pilgerfahrt (<em>ihram</em>) heiratete, verbietet der zweite Hadith jegliche Heirat oder Eheschließung während desselben Zustandes."
+    },
+    {
+      "type": "heading",
+      "text": "Beispiel 9: Dürfen Männer ihre Waden zeigen?",
+      "plain": "Beispiel 9: Dürfen Männer ihre Waden zeigen?",
+      "slug": "beispiel-9-duerfen-maenner-ihre-waden-zeigen"
+    },
+    {
+      "type": "paragraph",
+      "text": "<strong>Erster widersprüchlicher Hadith:</strong> „<em>Der Prophet begegnete einem Gefährten, dessen Waden unbedeckt waren, und sagte: ‚Bedecke deine Waden, denn auch sie gehören zum Schambereich (awrah-Bereichen).‘</em>“<sup class=\"fn-ref\"><a href=\"#fn-188\" id=\"fnref-188\">188</a></sup>"
+    },
+    {
+      "type": "paragraph",
+      "text": "<span class=\"pb\" data-p=\"140\"></span><strong>Zweiter widersprüchlicher Hadith:</strong> „<em>Der Prophet lag zu Hause seitlich, während seine Waden unbedeckt waren. Abu Bakr bat um Erlaubnis einzutreten, und der Prophet erlaubte es ihm, ohne sich zu verändern. Als Omar um Erlaubnis bat, tat er dasselbe.</em>“<sup class=\"fn-ref\"><a href=\"#fn-189\" id=\"fnref-189\">189</a></sup>"
+    },
+    {
+      "type": "paragraph",
+      "text": "Die beiden Hadithe widersprechen sich klar. Im ersten Hadith wird darauf hingewiesen, dass die Waden bedeckt werden sollten, da sie als Teil des Schambereiches (<em>awrah</em>) gelten. Im zweiten Hadith wird beschrieben, dass der Prophet seine Waden unbedeckt ließ, selbst als Besucher kamen. Einige Rechtsschulen haben den ersten Hadith als Grundlage für ihr Urteil genommen, dass Männer den Bereich zwischen Bauchnabel und Knien als Schambereich betrachten und bedecken müssen."
+    },
+    {
+      "type": "heading",
+      "text": "Beispiel 10: Was soll mit der Haut eines toten Tieres geschehen?",
+      "plain": "Beispiel 10: Was soll mit der Haut eines toten Tieres geschehen?",
+      "slug": "beispiel-10-was-soll-mit-der-haut-eines-toten-tieres-geschehen"
+    },
+    {
+      "type": "paragraph",
+      "text": "<strong>Erster widersprüchlicher Hadith:</strong> „<em>Der Prophet sagte: ‚Wenn die Haut gegerbt wird, wird sie rein.’ Dann stieß er auf ein totes Schaf und sagte: ‘Warum nutzt ihr nicht seine Haut?’</em>“<sup class=\"fn-ref\"><a href=\"#fn-190\" id=\"fnref-190\">190</a></sup>"
+    },
+    {
+      "type": "paragraph",
+      "text": "<strong>Zweiter widersprüchlicher Hadith:</strong> „<em>Der Prophet sagte: </em>"
+    },
+    {
+      "type": "verse",
+      "text": "<em>‚Nutzt weder die Haut noch die Sehnen eines toten Tieres.’</em>“<sup class=\"fn-ref\"><a href=\"#fn-191\" id=\"fnref-191\">191</a></sup>",
+      "reference": null
+    },
+    {
+      "type": "paragraph",
+      "text": "Laut dem Koran ist der Verzehr von Aas/Kadaver (toten Tieren) verboten, doch es gibt keinen Hinweis darauf, dass die Verwendung der Haut ebenfalls verboten ist.<sup class=\"fn-ref\"><a href=\"#fn-192\" id=\"fnref-192\">192</a></sup> In den zitierten Hadithen gibt es jedoch widersprüchliche Aussagen: Der eine <span class=\"pb\" data-p=\"141\"></span>besagt, dass die Haut eines toten Tieres genutzt werden kann, während der andere dies verbietet."
+    },
+    {
+      "type": "paragraph",
+      "text": "Wenn wir den widerspruchsfreien Koran zur Hand haben, führt der Versuch, religiöse Urteile aus den widersprüchlichen Hadithen abzuleiten, nur dazu, uns vom Koran zu entfernen. Der Gesandte Gottes, Prophet Muhammad, wird am Jüngsten Tag über seine Gemeinschaft klagen:"
+    },
+    {
+      "type": "verse",
+      "text": "„Der Gesandte wird sagen: ‚O mein Herr, meine Gemeinschaft hat diesen Koran vernachlässigt.‘“",
+      "reference": "Koran 25:30"
+    }
+  ],
+  "footnotes": [
+    {
+      "n": 170,
+      "text": "<em> Abu Dawud</em>, Fasten 28; <em>Tirmidhi</em>, Fasten 60; <em>Buchari</em>, Fasten 32."
+    },
+    {
+      "n": 171,
+      "text": "<em> Abu Dawud</em>, Fasten 29-30; <em>Tirmidhi</em>, Fasten 59; <em>Buchari</em>, Medizin 11."
+    },
+    {
+      "n": 172,
+      "text": "Anm. d. Übers.: Siehe Koran 2:187. Bemerkenswerterweise sind beide widersprüchliche Zitate gleichzeitig in allen drei Hadith Sammlungen gemeinsam enthalten."
+    },
+    {
+      "n": 173,
+      "text": "<em> Ibn Hanbal</em>, 3/12."
+    },
+    {
+      "n": 174,
+      "text": "<em> Buchari</em>, 4/11."
+    },
+    {
+      "n": 175,
+      "text": "Ibn Qutaiba, <em>Interpretation sich widersprechender Überlieferungen</em> (<em>ta’wil muchtalif al-hadith</em>)."
+    },
+    {
+      "n": 176,
+      "text": "<em> Ebd.</em>"
+    },
+    {
+      "n": 177,
+      "text": "<em> Ebd.</em>"
+    },
+    {
+      "n": 178,
+      "text": "<em> Abu Dawud</em>, 2/56."
+    },
+    {
+      "n": 179,
+      "text": "<em> Sunan an-Nasai</em>, 1-2/25."
+    },
+    {
+      "n": 180,
+      "text": "<em> Buchari</em>, 1/167."
+    },
+    {
+      "n": 181,
+      "text": "<em> Abu Dawud</em>, 4/No:3717."
+    },
+    {
+      "n": 182,
+      "text": "<em> Abu Dawud</em>, 4/No:3718."
+    },
+    {
+      "n": 183,
+      "text": "<em> Muslim</em>, Menstruation 11; <em>Abu Dawud</em>, Reinheit 104; <em>Tirmidhi</em>, Reinheit 101; <em>Sunan an-Nasai</em>, Menstruation 18."
+    },
+    {
+      "n": 184,
+      "text": "<em> Sunan an-Nasai</em>, Menstruation."
+    },
+    {
+      "n": 185,
+      "text": "Wie menstruierende Frauen von den Gebeten und anderen gottesdienstlichen Handlungen ferngehalten wurden, wird in den Kapiteln 35, 36 und 21 detailliert behandelt."
+    },
+    {
+      "n": 186,
+      "text": "<em> Sunan an-Nasai</em>, 5-6/179."
+    },
+    {
+      "n": 187,
+      "text": "<em> Sunan an-Nasai</em>, 5-6/249."
+    },
+    {
+      "n": 188,
+      "text": "Ibn Hadschar al-Asqalani, <em>Tahzib al-Tazhip</em> (<em>Revision der Revision</em>), 2/69."
+    },
+    {
+      "n": 189,
+      "text": "<em> Ibn Hanbal</em>, 1/71."
+    },
+    {
+      "n": 190,
+      "text": "<em> Buchari</em>, 72/30."
+    },
+    {
+      "n": 191,
+      "text": "<em> Ibn Hanbal</em>, 4/310, 311."
+    },
+    {
+      "n": 192,
+      "text": "Anm. d. Übers.: Siehe z. B. Koran 6:145."
+    }
+  ]
+}

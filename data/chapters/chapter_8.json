@@ -1,0 +1,601 @@
+{
+  "number": 8,
+  "title": "Hadith - Vernunft Widersprüche",
+  "title_fn": null,
+  "category": {
+    "id": "hadith",
+    "title_de": "Hadith-Widersprüche & Kritik"
+  },
+  "word_count": 1886,
+  "reading_time_min": 10,
+  "subheadings": [
+    "Beispiel 1: Die Erde auf dem Rücken eines Fisches",
+    "Beispiel 2: Kann Gott mit der Zeit gleichgesetzt werden?",
+    "Hadith: „Gott ist die Zeit.“196",
+    "Beispiel 3: Hat der Prophet Moses dem Engel des Todes wirklich eine Ohrfeige gegeben?",
+    "Beispiel 4: Der Erdbeben auslösende Fisch",
+    "Beispiel 5: Wie wird ein Feuer gelöscht?",
+    "Beispiel 6: Unnötige Erklärungen über Geschlechtsverkehr",
+    "Beispiel 7: Frauen, die Eiter/Wundsekret lecken",
+    "Beispiel 8: Kann eine Ziege den Koran verändern?",
+    "Beispiel 9: Was für ein Stein ist dieser Stein?",
+    "Beispiel 10: Wie soll man da noch durchblicken?"
+  ],
+  "proof_images_count": 18,
+  "proof_images": [
+    {
+      "post_id": 659,
+      "chapter": 8,
+      "post_title": "Kapitel 8: Hadith - Vernunft Widersprüche",
+      "slug": "hadith-vernunft-widersprueche",
+      "url": "assets/images/proofs/koranische-aufforderung-zum-gebrauch-des-verstandes.webp",
+      "filename": "koranische-aufforderung-zum-gebrauch-des-verstandes.webp",
+      "caption": "Koranische Aufforderung zum Gebrauch des Verstandes",
+      "local_path": "assets/images/proofs/koranische-aufforderung-zum-gebrauch-des-verstandes.webp",
+      "caption_de": "Koranische Aufforderung zum Gebrauch des Verstandes",
+      "post_title_de": "Kapitel 8: Hadith - Vernunft Widersprüche",
+      "after_idx": 1,
+      "after_anchor": "„Gott lässt den Schmutz auf diejenigen niedergehen, die ihren Verstand nicht geb",
+      "placement": "high",
+      "label": "Koranische Aufforderung zum Gebrauch des Verstandes"
+    },
+    {
+      "post_id": 659,
+      "chapter": 8,
+      "post_title": "Kapitel 8: Hadith - Vernunft Widersprüche",
+      "slug": "hadith-vernunft-widersprueche",
+      "url": "assets/images/proofs/kritik-an-blinder-nachahmung-ohne-nachdenken.webp",
+      "filename": "kritik-an-blinder-nachahmung-ohne-nachdenken.webp",
+      "caption": "Kritik an blinder Nachahmung ohne Nachdenken",
+      "local_path": "assets/images/proofs/kritik-an-blinder-nachahmung-ohne-nachdenken.webp",
+      "caption_de": "Kritik an blinder Nachahmung ohne Nachdenken",
+      "post_title_de": "Kapitel 8: Hadith - Vernunft Widersprüche",
+      "after_idx": 3,
+      "after_anchor": "Diejenigen, die gegen unsere Ansichten sind und an einem hadith-basierten Verstä",
+      "placement": "high",
+      "label": "Kritik an blinder Nachahmung ohne Nachdenken"
+    },
+    {
+      "post_id": 659,
+      "chapter": 8,
+      "post_title": "Kapitel 8: Hadith - Vernunft Widersprüche",
+      "slug": "hadith-vernunft-widersprueche",
+      "url": "assets/images/proofs/zeit-und-ewigkeit-im-koran.webp",
+      "filename": "zeit-und-ewigkeit-im-koran.webp",
+      "caption": "Zeit und Ewigkeit im Koran",
+      "local_path": "assets/images/proofs/zeit-und-ewigkeit-im-koran.webp",
+      "caption_de": "Zeit und Ewigkeit im Koran",
+      "post_title_de": "Kapitel 8: Hadith - Vernunft Widersprüche",
+      "after_idx": 6,
+      "after_anchor": "Der Koran liefert uns präzise Erklärungen zur Kugelgestalt der Erde, zu den Bewe",
+      "placement": "high",
+      "label": "Zeit und Ewigkeit im Koran"
+    },
+    {
+      "post_id": 659,
+      "chapter": 8,
+      "post_title": "Kapitel 8: Hadith - Vernunft Widersprüche",
+      "slug": "hadith-vernunft-widersprueche",
+      "url": "assets/images/proofs/naturphaenomene-als-zeichen-gottes.webp",
+      "filename": "naturphaenomene-als-zeichen-gottes.webp",
+      "caption": "Naturphänomene als Zeichen Gottes",
+      "local_path": "assets/images/proofs/naturphaenomene-als-zeichen-gottes.webp",
+      "caption_de": "Naturphänomene als Zeichen Gottes",
+      "post_title_de": "Kapitel 8: Hadith - Vernunft Widersprüche",
+      "after_idx": 8,
+      "after_anchor": "Hadith: „Der Prophet wurde gefragt, wo Gott war, bevor er die Himmel und die Erd",
+      "placement": "high",
+      "label": "Naturphänomene als Zeichen Gottes"
+    },
+    {
+      "post_id": 659,
+      "chapter": 8,
+      "post_title": "Kapitel 8: Hadith - Vernunft Widersprüche",
+      "slug": "hadith-vernunft-widersprueche",
+      "url": "assets/images/proofs/absurde-theologische-scheinerklaerungen.webp",
+      "filename": "absurde-theologische-scheinerklaerungen.webp",
+      "caption": "Absurde theologische Scheinerklärungen",
+      "local_path": "assets/images/proofs/absurde-theologische-scheinerklaerungen.webp",
+      "caption_de": "Absurde theologische Scheinerklärungen",
+      "post_title_de": "Kapitel 8: Hadith - Vernunft Widersprüche",
+      "after_idx": 9,
+      "after_anchor": "Hadith: „Gott ist die Zeit.“",
+      "placement": "high",
+      "label": "Absurde theologische Scheinerklärungen"
+    },
+    {
+      "post_id": 659,
+      "chapter": 8,
+      "post_title": "Kapitel 8: Hadith - Vernunft Widersprüche",
+      "slug": "hadith-vernunft-widersprueche",
+      "url": "assets/images/proofs/verbot-von-koerperverletzung-und-demuetigung.webp",
+      "filename": "verbot-von-koerperverletzung-und-demuetigung.webp",
+      "caption": "Verbot von Körperverletzung und Demütigung",
+      "local_path": "assets/images/proofs/verbot-von-koerperverletzung-und-demuetigung.webp",
+      "caption_de": "Verbot von Körperverletzung und Demütigung",
+      "post_title_de": "Kapitel 8: Hadith - Vernunft Widersprüche",
+      "after_idx": 10,
+      "after_anchor": "Warum finden sich solche absurden Erklärungen nicht im Koran, sondern nur in den",
+      "placement": "high",
+      "label": "Verbot von Körperverletzung und Demütigung"
+    },
+    {
+      "post_id": 659,
+      "chapter": 8,
+      "post_title": "Kapitel 8: Hadith - Vernunft Widersprüche",
+      "slug": "hadith-vernunft-widersprueche",
+      "url": "assets/images/proofs/absurde-kosmologie-erdbeben-durch-einen-riesenfisch.webp",
+      "filename": "absurde-kosmologie-erdbeben-durch-einen-riesenfisch.webp",
+      "caption": "Absurde Kosmologie: Erdbeben durch einen Riesenfisch",
+      "local_path": "assets/images/proofs/absurde-kosmologie-erdbeben-durch-einen-riesenfisch.webp",
+      "caption_de": "Absurde Kosmologie: Erdbeben durch einen Riesenfisch",
+      "post_title_de": "Kapitel 8: Hadith - Vernunft Widersprüche",
+      "after_idx": 14,
+      "after_anchor": "Beispiel 4: Der Erdbeben auslösende Fisch",
+      "placement": "high",
+      "label": "Absurde Kosmologie: Erdbeben durch einen Riesenfisch"
+    },
+    {
+      "post_id": 659,
+      "chapter": 8,
+      "post_title": "Kapitel 8: Hadith - Vernunft Widersprüche",
+      "slug": "hadith-vernunft-widersprueche",
+      "url": "assets/images/proofs/klassische-schriften-mythos-ueber-die-erde-auf-dem-fisch.webp",
+      "filename": "klassische-schriften-mythos-ueber-die-erde-auf-dem-fisch.webp",
+      "caption": "Klassische Schriften: Mythos über die Erde auf dem Fisch",
+      "local_path": "assets/images/proofs/klassische-schriften-mythos-ueber-die-erde-auf-dem-fisch.webp",
+      "caption_de": "Klassische Schriften: Mythos über die Erde auf dem Fisch",
+      "post_title_de": "Kapitel 8: Hadith - Vernunft Widersprüche",
+      "after_idx": 15,
+      "after_anchor": "Hadith: „Die Welt ruht auf einem Fisch. Wenn der Fisch mit dem Kopf wackelt, ent",
+      "placement": "high",
+      "label": "Klassische Schriften: Mythos über die Erde auf dem Fisch"
+    },
+    {
+      "post_id": 659,
+      "chapter": 8,
+      "post_title": "Kapitel 8: Hadith - Vernunft Widersprüche",
+      "slug": "hadith-vernunft-widersprueche",
+      "url": "assets/images/proofs/quellenscan-zu-kapitel-8.webp",
+      "filename": "quellenscan-zu-kapitel-8.webp",
+      "caption": "Quellenscan zu Kapitel 8",
+      "local_path": "assets/images/proofs/quellenscan-zu-kapitel-8.webp",
+      "caption_de": "Quellenscan zu Kapitel 8",
+      "post_title_de": "Kapitel 8: Hadith - Vernunft Widersprüche",
+      "after_idx": 18,
+      "after_anchor": "Hadith: „Wenn ihr ein Feuer seht, sprecht den Takbir (sagt ‚Allahu akbar’), denn",
+      "placement": "high",
+      "label": ""
+    },
+    {
+      "post_id": 659,
+      "chapter": 8,
+      "post_title": "Kapitel 8: Hadith - Vernunft Widersprüche",
+      "slug": "hadith-vernunft-widersprueche",
+      "url": "assets/images/proofs/ueberfluessige-theologische-spekulationen.webp",
+      "filename": "ueberfluessige-theologische-spekulationen.webp",
+      "caption": "Überflüssige theologische Spekulationen",
+      "local_path": "assets/images/proofs/ueberfluessige-theologische-spekulationen.webp",
+      "caption_de": "Überflüssige theologische Spekulationen",
+      "post_title_de": "Kapitel 8: Hadith - Vernunft Widersprüche",
+      "after_idx": 19,
+      "after_anchor": "Das Hadith-Buch „Ramuz al-Ahadis“ ist zwar nicht so bekannt wie andere Hadith-Sa",
+      "placement": "high",
+      "label": "Überflüssige theologische Spekulationen"
+    },
+    {
+      "post_id": 659,
+      "chapter": 8,
+      "post_title": "Kapitel 8: Hadith - Vernunft Widersprüche",
+      "slug": "hadith-vernunft-widersprueche",
+      "url": "assets/images/proofs/metapher-geistige-blindheit-durch-dogmatismus.webp",
+      "filename": "metapher-geistige-blindheit-durch-dogmatismus.webp",
+      "caption": "Metapher: Geistige Blindheit durch Dogmatismus",
+      "local_path": "assets/images/proofs/metapher-geistige-blindheit-durch-dogmatismus.webp",
+      "caption_de": "Metapher: Geistige Blindheit durch Dogmatismus",
+      "post_title_de": "Kapitel 8: Hadith - Vernunft Widersprüche",
+      "after_idx": 21,
+      "after_anchor": "Hadith: „Wenn einer von euch Geschlechtsverkehr hat, soll er nicht auf die Gesch",
+      "placement": "high",
+      "label": "Metapher: Geistige Blindheit durch Dogmatismus"
+    },
+    {
+      "post_id": 659,
+      "chapter": 8,
+      "post_title": "Kapitel 8: Hadith - Vernunft Widersprüche",
+      "slug": "hadith-vernunft-widersprueche",
+      "url": "assets/images/proofs/quellenscan-abwertende-texte-ueber-frauen-in-traditionswerken.webp",
+      "filename": "quellenscan-abwertende-texte-ueber-frauen-in-traditionswerken.webp",
+      "caption": "Quellenscan: Abwertende Texte über Frauen in Traditionswerken",
+      "local_path": "assets/images/proofs/quellenscan-abwertende-texte-ueber-frauen-in-traditionswerken.webp",
+      "caption_de": "Quellenscan: Abwertende Texte über Frauen in Traditionswerken",
+      "post_title_de": "Kapitel 8: Hadith - Vernunft Widersprüche",
+      "after_idx": 23,
+      "after_anchor": "Beispiel 7: Frauen, die Eiter/Wundsekret lecken",
+      "placement": "high",
+      "label": "Abwertende Texte über Frauen in Traditionswerken"
+    },
+    {
+      "post_id": 659,
+      "chapter": 8,
+      "post_title": "Kapitel 8: Hadith - Vernunft Widersprüche",
+      "slug": "hadith-vernunft-widersprueche",
+      "url": "assets/images/proofs/hadith-ueber-das-angebliche-fressen-von-koranstellen-durch-eine-ziege.webp",
+      "filename": "hadith-ueber-das-angebliche-fressen-von-koranstellen-durch-eine-ziege.webp",
+      "caption": "Hadith über das angebliche Fressen von Koranstellen durch eine Ziege",
+      "local_path": "assets/images/proofs/hadith-ueber-das-angebliche-fressen-von-koranstellen-durch-eine-ziege.webp",
+      "caption_de": "Hadith über das angebliche Fressen von Koranstellen durch eine Ziege",
+      "post_title_de": "Kapitel 8: Hadith - Vernunft Widersprüche",
+      "after_idx": 26,
+      "after_anchor": "Beispiel 8: Kann eine Ziege den Koran verändern?",
+      "placement": "high",
+      "label": "Hadith über das angebliche Fressen von Koranstellen durch eine Ziege"
+    },
+    {
+      "post_id": 659,
+      "chapter": 8,
+      "post_title": "Kapitel 8: Hadith - Vernunft Widersprüche",
+      "slug": "hadith-vernunft-widersprueche",
+      "url": "assets/images/proofs/koranische-speise-und-tierbetrachtung.webp",
+      "filename": "koranische-speise-und-tierbetrachtung.webp",
+      "caption": "Koranische Speise- und Tierbetrachtung",
+      "local_path": "assets/images/proofs/koranische-speise-und-tierbetrachtung.webp",
+      "caption_de": "Koranische Speise- und Tierbetrachtung",
+      "post_title_de": "Kapitel 8: Hadith - Vernunft Widersprüche",
+      "after_idx": 27,
+      "after_anchor": "Hadith: „Der Vers über die Steinigung von Ehebrechern war auf einem Blatt Papier",
+      "placement": "high",
+      "label": "Koranische Speise- und Tierbetrachtung"
+    },
+    {
+      "post_id": 659,
+      "chapter": 8,
+      "post_title": "Kapitel 8: Hadith - Vernunft Widersprüche",
+      "slug": "hadith-vernunft-widersprueche",
+      "url": "assets/images/proofs/der-schwarze-stein-in-mekka-historischer-kontext.webp",
+      "filename": "der-schwarze-stein-in-mekka-historischer-kontext.webp",
+      "caption": "Der Schwarze Stein in Mekka: Historischer Kontext",
+      "local_path": "assets/images/proofs/der-schwarze-stein-in-mekka-historischer-kontext.webp",
+      "caption_de": "Der Schwarze Stein in Mekka: Historischer Kontext",
+      "post_title_de": "Kapitel 8: Hadith - Vernunft Widersprüche",
+      "after_idx": 31,
+      "after_anchor": "Beispiel 9: Was für ein Stein ist dieser Stein?",
+      "placement": "high",
+      "label": "Der Schwarze Stein in Mekka: Historischer Kontext"
+    },
+    {
+      "post_id": 659,
+      "chapter": 8,
+      "post_title": "Kapitel 8: Hadith - Vernunft Widersprüche",
+      "slug": "hadith-vernunft-widersprueche",
+      "url": "assets/images/proofs/verhaltensweisen-im-widerspruch-zum-geist-des-islam.webp",
+      "filename": "verhaltensweisen-im-widerspruch-zum-geist-des-islam.webp",
+      "caption": "Verhaltensweisen im Widerspruch zum Geist des Islam",
+      "local_path": "assets/images/proofs/verhaltensweisen-im-widerspruch-zum-geist-des-islam.webp",
+      "caption_de": "Verhaltensweisen im Widerspruch zum Geist des Islam",
+      "post_title_de": "Kapitel 8: Hadith - Vernunft Widersprüche",
+      "after_idx": 33,
+      "after_anchor": "Hadith: „Der Hadschar al-Aswad ist die rechte Hand Gottes auf Erden. Durch ihn s",
+      "placement": "high",
+      "label": "Verhaltensweisen im Widerspruch zum Geist des Islam"
+    },
+    {
+      "post_id": 659,
+      "chapter": 8,
+      "post_title": "Kapitel 8: Hadith - Vernunft Widersprüche",
+      "slug": "hadith-vernunft-widersprueche",
+      "url": "assets/images/proofs/absurde-theologische-begruendungen.webp",
+      "filename": "absurde-theologische-begruendungen.webp",
+      "caption": "Absurde theologische Begründungen",
+      "local_path": "assets/images/proofs/absurde-theologische-begruendungen.webp",
+      "caption_de": "Absurde theologische Begründungen",
+      "post_title_de": "Kapitel 8: Hadith - Vernunft Widersprüche",
+      "after_idx": 36,
+      "after_anchor": "Hadith: „Wer in seinem Herzen den kleinsten Funken Hochmut trägt, kann nicht ins",
+      "placement": "high",
+      "label": "Absurde theologische Begründungen"
+    },
+    {
+      "post_id": 659,
+      "chapter": 8,
+      "post_title": "Kapitel 8: Hadith - Vernunft Widersprüche",
+      "slug": "hadith-vernunft-widersprueche",
+      "url": "assets/images/proofs/quellenscan-zu-kapitel-8-2.webp",
+      "filename": "quellenscan-zu-kapitel-8-2.webp",
+      "caption": "Quellenscan zu Kapitel 8",
+      "local_path": "assets/images/proofs/quellenscan-zu-kapitel-8-2.webp",
+      "caption_de": "Quellenscan zu Kapitel 8",
+      "post_title_de": "Kapitel 8: Hadith - Vernunft Widersprüche",
+      "after_idx": 39,
+      "after_anchor": "„In der Tat, Wir haben euch ein Buch zur Ermahnung offenbart. Wollt ihr euren Ve",
+      "placement": "high",
+      "label": ""
+    }
+  ],
+  "pdf_pages": [
+    143,
+    152
+  ],
+  "sections_count": 40,
+  "sections": [
+    {
+      "type": "paragraph",
+      "text": "<span class=\"pb\" data-p=\"143\"></span>In den vorherigen Kapiteln haben wir anhand von Beispielen gezeigt, dass der Koran als einzige Quelle des Islam geschützt, kohärent, vollständig und widerspruchsfrei ist. Im Gegensatz dazu sind die Hadithe inkohärent, widersprüchlich und können nicht als Quelle des Islam dienen, da sie nur auf Vermutungen beruhen. Außerdem ist es, wie wir dargelegt haben, aufgrund der detaillierten und ausreichenden Natur des Korans nicht notwendig, auf Hadithe zurückzugreifen. In den kommenden Kapiteln werden wir diese These weiter untermauern. In diesem Abschnitt werden wir zeigen, dass viele Hadithe auch im Widerspruch zur Vernunft stehen. Dem Koran zufolge sollen die Menschen ihren Verstand ständig gebrauchen und die Beweise Gottes im Universum, in ihrer eigenen Schöpfung und im Koran sehen. Aus dem Koran lernen wir, dass diejenigen, die die Mehrheit der Gesellschaft, Traditionen oder überlieferte Gebräuche anstelle des Verstandes als Grundlage für ihre Religion akzeptieren, im Irrtum sind. Der Verstand, der ein Geschenk Gottes ist, steht in perfektem Einklang mit dem Universum und mit der Rechtleitung, die Gott in Seinem Buch gibt. Es ist absurd zu behaupten, dass der Verstand und der Islam im Widerspruch zueinander stünden. Zu glauben, dass man den Verstand beiseitelegen müsse, um den Islam zu verstehen, ist eine Haltung, die oft von jenen vertreten wird, die falsche Praktiken in den Islam eingeführt haben, oder von Islamophoben. Es mag im Islam Wahrheiten geben, die über den Verstand hinausgehen, aber diese stehen nicht im Widerspruch zur Vernunft; und selbst in den unverständlich erscheinenden Angelegenheiten <span class=\"pb\" data-p=\"144\"></span>des Islam gibt es keine rationalen Erklärungen, die eine Alternative zu den vom Islam angebotenen Erklärungen sein könnten. Wie könnte der Verstand im Widerspruch zur Religion (zum Islam) stehen? Ist der Verstand nicht ein Geschenk Gottes? Der Koran fordert uns wiederholt auf, den Verstand zu gebrauchen:"
+    },
+    {
+      "type": "verse",
+      "text": "„Gott lässt den Schmutz auf diejenigen niedergehen, die ihren Verstand nicht gebrauchen.“",
+      "reference": "Koran 10:100"
+    },
+    {
+      "type": "paragraph",
+      "text": "Dieser Vers lenkt unsere Aufmerksamkeit auf einen grundlegenden Anlass dafür, dass so viele falsche Erzählungen und Praktiken in den Islam eingeführt wurden. Da wir in diesem Buch nicht auf hunderte von irrationalen Hadithen eingehen können, werden wir uns auf zehn Beispiele beschränken. Diese Beispiele sollen uns helfen, besser zu verstehen, was es bedeutet, wenn der „Schmutz“ auf diejenigen niedergeht, die ihren Verstand nicht gebrauchen."
+    },
+    {
+      "type": "paragraph",
+      "text": "Diejenigen, die gegen unsere Ansichten sind und an einem hadith-basierten Verständnis des Islam festhalten, beschuldigen uns oft fälschlicherweise: „Das sind Feinde des Propheten, sie leugnen die Worte des Propheten und nehmen ihn nicht ernst.“ Doch bei jedem Beispiel sollten wir innehalten und uns die Frage stellen: Ist es eine Verteidigung des Propheten, solche Hadithe zu verwerfen, oder wirft man dem Propheten durch diese Erzählungen nicht viel eher falsche Anschuldigungen vor? Widerspricht das Festhalten an Hadithen nicht der Tatsache, dass man den Propheten mit solchen Aussagen diffamiert? Sind diejenigen, die behaupten, Hadithe seien eine Quelle des Islam, nicht unabsichtlich daran beteiligt, solche falschen Erzählungen zu legitimieren? Bitte lesen Sie die folgenden Kapitel über die Widersprüche zwischen <span class=\"pb\" data-p=\"145\"></span>Hadithen, dem Koran, der Vernunft und untereinander und stellen Sie sich diese Fragen dabei immer wieder."
+    },
+    {
+      "type": "heading",
+      "text": "Beispiel 1: Die Erde auf dem Rücken eines Fisches",
+      "plain": "Beispiel 1: Die Erde auf dem Rücken eines Fisches",
+      "slug": "beispiel-1-die-erde-auf-dem-ruecken-eines-fisches"
+    },
+    {
+      "type": "paragraph",
+      "text": "<strong>Hadith:</strong> „<em>Die Erde befindet sich auf dem Rücken eines Fisches. Die ersten, die ins Paradies eintreten, werden von der Leber dieses Fisches essen.</em>“<sup class=\"fn-ref\"><a href=\"#fn-193\" id=\"fnref-193\">193</a></sup>"
+    },
+    {
+      "type": "paragraph",
+      "text": "Der Koran liefert uns präzise Erklärungen zur Kugelgestalt der Erde, zu den Bewegungen von Sonne und Mond sowie zur Schöpfung des Universums. Im Gegensatz dazu stehen die Hadithe, in denen behauptet wird, dass die Erde auf einem Ochsen oder einem Fisch ruht. Einige versuchen, solche Hadithe zu interpretieren oder schönzureden, doch wie wollen sie erklären, dass die Bewohner des Paradieses von der Leber des Fisches essen sollen, der angeblich die Erde trägt? Wie wollen diejenigen, die solch einen Hadith erklären, zu einem anderen Hadith Stellung nehmen, in dem behauptet wird, dass der Thron Gottes von acht Bergeziegen getragen wird?<sup class=\"fn-ref\"><a href=\"#fn-194\" id=\"fnref-194\">194</a></sup> Indem man solche Hadith-Sammlungen als „islamische Quelle“ ansieht und sie neben den Koran stellt, tut man dem Koran Unrecht. Diese widersprüchlichen und unlogischen Erzählungen untergraben die Authentizität und die Klarheit, die der Koran bietet."
+    },
+    {
+      "type": "heading",
+      "text": "Beispiel 2: Kann Gott mit der Zeit gleichgesetzt werden?",
+      "plain": "Beispiel 2: Kann Gott mit der Zeit gleichgesetzt werden?",
+      "slug": "beispiel-2-kann-gott-mit-der-zeit-gleichgesetzt-werden"
+    },
+    {
+      "type": "paragraph",
+      "text": "<strong>Hadith:</strong> „<em>Der Prophet wurde gefragt, wo Gott war, bevor er die Himmel und die Erde erschuf. Der Prophet antwortete: ‚Er war in einer Wolke; darüber war Luft, darunter war Luft.‘</em>“<sup class=\"fn-ref\"><a href=\"#fn-195\" id=\"fnref-195\">195</a></sup>"
+    },
+    {
+      "type": "heading",
+      "text": "<span class=\"pb\" data-p=\"146\"></span>Hadith: „Gott ist die Zeit.“<sup class=\"fn-ref\"><a href=\"#fn-196\" id=\"fnref-196\">196</a></sup>",
+      "plain": "Hadith: „Gott ist die Zeit.“196",
+      "slug": "hadith-gott-ist-die-zeit"
+    },
+    {
+      "type": "paragraph",
+      "text": "Warum finden sich solche absurden Erklärungen nicht im Koran, sondern nur in den Hadith-Büchern? Einer der vier „rechtgeleiteten“ Rechtsschulen wurde von Ahmad ibn Hanbal gegründet, und die erste Hadith-Sammlung, aus der wir zitiert haben, stammt von ihm. Eine andere berühmte Hadith-Sammlung, die <em>al-Muwatta</em>, wurde von Malik ibn Anas, dem Begründer einer weiteren Rechtsschule, zusammengestellt. Wie vertrauenswürdig können die Rechtsschulen sein, wenn ihre Gründer solche widersprüchlichen und unlogischen Hadithe in ihre Bücher aufgenommen haben?"
+    },
+    {
+      "type": "heading",
+      "text": "Beispiel 3: Hat der Prophet Moses dem Engel des Todes wirklich eine Ohrfeige gegeben?",
+      "plain": "Beispiel 3: Hat der Prophet Moses dem Engel des Todes wirklich eine Ohrfeige gegeben?",
+      "slug": "beispiel-3-hat-der-prophet-moses-dem-engel-des-todes-wirklich"
+    },
+    {
+      "type": "paragraph",
+      "text": "<strong>Hadith:</strong> „<em>Der Engel des Todes kam zu Moses und sagte: ‚Gehorche deinem Herrn.‘ Daraufhin schlug Moses dem Engel des Todes ins Gesicht und stach ihm das Auge aus. Der Engel kehrte daraufhin zu Gott zurück und sagte: ‚Du hast mich zu einem Diener geschickt, der nicht sterben will, und er hat mir das Auge ausgestochen.‘</em>“<sup class=\"fn-ref\"><a href=\"#fn-197\" id=\"fnref-197\">197</a></sup>"
+    },
+    {
+      "type": "paragraph",
+      "text": "Dieser Hadith widerspricht sowohl der Logik als auch dem Respekt, den man einem großen Propheten wie Moses entgegenbringen sollte. Wie könnte ein Prophet von Gott, der für seine hohe Moral und seinen Gehorsam bekannt ist, versuchen, dem Tod zu entkommen und dabei einem Engel Gewalt antun? Der Hadith stammt aus Muslim, einem der als „authentisch“ geltenden Hadith-Bücher. Doch kann man wirklich Vertrauen in Hadithe <span class=\"pb\" data-p=\"147\"></span>setzen, die so offensichtlich unlogisch und respektlos gegenüber einem der bedeutendsten Propheten sind?"
+    },
+    {
+      "type": "heading",
+      "text": "Beispiel 4: Der Erdbeben auslösende Fisch",
+      "plain": "Beispiel 4: Der Erdbeben auslösende Fisch",
+      "slug": "beispiel-4-der-erdbeben-ausloesende-fisch"
+    },
+    {
+      "type": "paragraph",
+      "text": "<strong>Hadith:</strong> „<em>Die Welt ruht auf einem Fisch. Wenn der Fisch mit dem Kopf wackelt, entstehen auf der Erde Erdbeben.</em>“<sup class=\"fn-ref\"><a href=\"#fn-198\" id=\"fnref-198\">198</a></sup>"
+    },
+    {
+      "type": "paragraph",
+      "text": "Während der Koran auf erstaunliche Weise wissenschaftliche Phänomene beschreibt, wie die Ausdehnung des Universums und die Bestäubungsfunktion des Windes (siehe: „Koran – Das nie endende Wunder“ des Istanbuler Koranforschungszentrums),<sup class=\"fn-ref\"><a href=\"#fn-199\" id=\"fnref-199\">199</a></sup> widersprechen Hadithe wie dieser den Prinzipien der Vernunft, Wissenschaft und sogar den Lehren des Korans. Die Vorstellung, dass die Erde auf einem Fisch ruhen und Erdbeben durch dessen Bewegungen verursachen würde, ist nicht nur unlogisch, sondern auch vollkommen unvereinbar mit dem modernen Verständnis der Naturwissenschaften. Zu betonen, dass diese Überlieferungen nichts mit dem wahren Islam zu tun haben, ist keine Ablehnung des Islam, sondern vielmehr ein Dienst daran, die Reinheit und Rationalität des islamischen Glaubens zu bewahren."
+    },
+    {
+      "type": "heading",
+      "text": "Beispiel 5: Wie wird ein Feuer gelöscht?",
+      "plain": "Beispiel 5: Wie wird ein Feuer gelöscht?",
+      "slug": "beispiel-5-wie-wird-ein-feuer-geloescht"
+    },
+    {
+      "type": "paragraph",
+      "text": "<strong>Hadith:</strong> „<em>Wenn ihr ein Feuer seht, sprecht den Takbir (sagt ‚Allahu akbar’), denn der Takbir löscht es.</em>“<sup class=\"fn-ref\"><a href=\"#fn-200\" id=\"fnref-200\">200</a></sup>"
+    },
+    {
+      "type": "paragraph",
+      "text": "Das Hadith-Buch „<em>Ramuz al-Ahadis</em>“ ist zwar nicht so bekannt wie andere Hadith-Sammlungen, doch gehört es in Türkiye <span class=\"pb\" data-p=\"148\"></span>zu den meistverkauften Büchern dieser Art. Es enthält viele Hadithe, wie das oben zitierte. Wenn jemand diesen Hadith als wahr erachtet, müsste man neben den Feuerwehrleuten vielleicht auch einen Chor von Menschen, die den Takbir ausrufen, an den Brandort schicken.<sup class=\"fn-ref\"><a href=\"#fn-201\" id=\"fnref-201\">201</a></sup>"
+    },
+    {
+      "type": "heading",
+      "text": "Beispiel 6: Unnötige Erklärungen über Geschlechtsverkehr",
+      "plain": "Beispiel 6: Unnötige Erklärungen über Geschlechtsverkehr",
+      "slug": "beispiel-6-unnoetige-erklaerungen-ueber-geschlechtsverkehr"
+    },
+    {
+      "type": "paragraph",
+      "text": "<strong>Hadith:</strong> „<em>Wenn einer von euch Geschlechtsverkehr hat, soll er nicht auf die Geschlechtsorgane seiner Frau schauen, denn dies führt zur Erblindung.</em>“<sup class=\"fn-ref\"><a href=\"#fn-202\" id=\"fnref-202\">202</a></sup>"
+    },
+    {
+      "type": "paragraph",
+      "text": "Solche seltsamen und unbegründeten Hadithe bieten denen, die sich über den Islam lustig machen wollen, reichlich Material. Vielleicht war das Ziel desjenigen, der diesen Hadith erfunden und dem Propheten eine solche Falschheit unterstellt hat, genau das – sich über den Islam lustig zu machen. Den Menschen unnötige Einschränkungen und Verbote aufzuerlegen, die der Koran nicht erwähnt, ist ein Unrecht. Im Gegensatz zu solchen Hadithen, die das Sexualleben einschränken, gibt es auch andere, die das Sexualleben des Propheten und seiner Gefährten auf unangemessene Weise schildern. Laut einem dieser Hadithe, tropfte nach der <span class=\"pb\" data-p=\"149\"></span>Pilgerfahrt Sperma aus den Geschlechtsorganen der Gefährten, als sie sich ihren Ehefrauen näherten.<sup class=\"fn-ref\"><a href=\"#fn-203\" id=\"fnref-203\">203</a></sup> Ein anderer Hadith behauptet, der Prophet habe die sexuelle Kraft von 30 Männern besessen.<sup class=\"fn-ref\"><a href=\"#fn-204\" id=\"fnref-204\">204</a></sup> In einem weiteren Hadith heißt es, dass der Prophet, sobald er eine schöne Frau gesehen habe, sofort nach Hause geeilt sei, um mit seiner Frau Zaynab Geschlechtsverkehr zu haben.<sup class=\"fn-ref\"><a href=\"#fn-205\" id=\"fnref-205\">205</a></sup> Ist es respektvoller, solche Hadithe zu akzeptieren, oder sie abzulehnen? Die Entscheidung liegt bei Ihnen."
+    },
+    {
+      "type": "heading",
+      "text": "Beispiel 7: Frauen, die Eiter/Wundsekret lecken",
+      "plain": "Beispiel 7: Frauen, die Eiter/Wundsekret lecken",
+      "slug": "beispiel-7-frauen-die-eiter-wundsekret-lecken"
+    },
+    {
+      "type": "paragraph",
+      "text": "<strong>Hadith:</strong> „<em>Selbst wenn Eiter/Wundsekret von Kopf bis Fuß eines Mannes fließen würde und die Frau ihn durch Lecken reinigen würde, hätte sie seine Rechte noch immer nicht erfüllt.</em>“<sup class=\"fn-ref\"><a href=\"#fn-206\" id=\"fnref-206\">206</a></sup>"
+    },
+    {
+      "type": "paragraph",
+      "text": "Im traditionellen Islam wurden zahlreiche Hadithe in Bezug auf Frauen erfunden. Da einige Personen ihre eigenen Vorstellungen über Frauen im Koran nicht wiederfinden konnten und diese Sichtweisen religiös legitimieren wollten, schufen sie eine Vielzahl solcher Überlieferungen. In Kapitel 21 unseres Buches beleuchten wir das Thema „Frauen“ ausführlich und führen weitere Beispiele für erfundene Hadithe an."
+    },
+    {
+      "type": "heading",
+      "text": "<span class=\"pb\" data-p=\"150\"></span>Beispiel 8: Kann eine Ziege den Koran verändern?",
+      "plain": "Beispiel 8: Kann eine Ziege den Koran verändern?",
+      "slug": "beispiel-8-kann-eine-ziege-den-koran-veraendern"
+    },
+    {
+      "type": "paragraph",
+      "text": "<strong>Hadith:</strong> „<em>Der Vers über die Steinigung von Ehebrechern war auf einem Blatt Papier unter dem Kissen von Aischa geschrieben. Als der Prophet verstarb und Aischa mit den Beerdigungsvorbereitungen beschäftigt war, kam eine Ziege durch die offene Tür ins Haus und fraß das Blatt. So wurde die Steinigung aus dem Koran entfernt, doch die Strafe bleibt weiterhin gültig.</em>“<sup class=\"fn-ref\"><a href=\"#fn-207\" id=\"fnref-207\">207</a></sup>"
+    },
+    {
+      "type": "paragraph",
+      "text": "Diese Überlieferung und andere Hadithe, die die Steinigung (<em>radschm</em>) als Strafe für Ehebruch rechtfertigen, stehen in Widerspruch zum Koran und der Vernunft und haben großen Schaden an dem Islam angerichtet. Durch diese Hadithe wird:"
+    },
+    {
+      "type": "list",
+      "items": [
+        {
+          "label": "1.",
+          "text": "das koranische Urteil über Ehebrecher annulliert,"
+        },
+        {
+          "label": "2.",
+          "text": "eine zusätzliche, nicht im Koran enthaltene Regel eingeführt,"
+        },
+        {
+          "label": "3.",
+          "text": "die Idee verbreitet, der Koran sei unvollständig,"
+        },
+        {
+          "label": "4.",
+          "text": "die absurde Vorstellung vertreten, eine Ziege könne den Koran unvollständig machen."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Diese Überlieferung, die in bedeutenden Hadithsammlungen enthalten ist und sowohl von den sunnitischen als auch von den schiitischen Rechtsschulen akzeptiert wird, zeigt die problematischen Aspekte der Steinigungsstrafe. Aufgrund ihrer Wichtigkeit wird das Thema ausführlich in Kapitel 26 behandelt."
+    },
+    {
+      "type": "heading",
+      "text": "Beispiel 9: Was für ein Stein ist dieser Stein?",
+      "plain": "Beispiel 9: Was für ein Stein ist dieser Stein?",
+      "slug": "beispiel-9-was-fuer-ein-stein-ist-dieser-stein"
+    },
+    {
+      "type": "paragraph",
+      "text": "<strong>Hadith:</strong> „<em>Der Schwarze Stein (Hadschar al-Aswad)</em><sup class=\"fn-ref\"><a href=\"#fn-208\" id=\"fnref-208\">208</a></sup><em> stammt aus dem Paradies. Er war weißer als Schnee, doch die Sünden der Götzendiener haben ihn geschwärzt.</em>“<sup class=\"fn-ref\"><a href=\"#fn-209\" id=\"fnref-209\">209</a></sup>"
+    },
+    {
+      "type": "paragraph",
+      "text": "<span class=\"pb\" data-p=\"151\"></span><strong>Hadith:</strong> „<em>Der Hadschar al-Aswad ist die rechte Hand Gottes auf Erden. Durch ihn schüttelt er die Hände derjenigen, die er möchte.</em>“<sup class=\"fn-ref\"><a href=\"#fn-210\" id=\"fnref-210\">210</a></sup>"
+    },
+    {
+      "type": "paragraph",
+      "text": "Solche Hadithe über den Hadschar al-Aswad führen dazu, dass während der Pilgerfahrt am heiligen Kaba-Schrein Verhaltensweisen gezeigt werden, die im Widerspruch zum Geist des Islam stehen. Nicht selten drängen sich die Pilger mit enormem Eifer um den Stein und drängen andere, um ihn berühren zu können. Wie wirkt dies wohl auf jemanden, der den Kern des Glaubens nicht kennt? Solche Überlieferungen sind bereits in der Vergangenheit Gegenstand des Spottes geworden. Die Mu’tazila, eine Denkströmung, die während der Abbasidenzeit für die Unzuverlässigkeit der Hadithe eintrat, fragte sich einst scherzhaft: „<em>Wenn dieser Stein aufgrund der Sünden der Götzendiener schwarz geworden ist, dann müsste er doch jetzt, da die Kaba unter muslimischer Hand ist, wieder weiß werden.</em>“ Damit machten sie die Absurdität dieser Überlieferung deutlich."
+    },
+    {
+      "type": "heading",
+      "text": "Beispiel 10: Wie soll man da noch durchblicken?",
+      "plain": "Beispiel 10: Wie soll man da noch durchblicken?",
+      "slug": "beispiel-10-wie-soll-man-da-noch-durchblicken"
+    },
+    {
+      "type": "paragraph",
+      "text": "<strong>Hadith:</strong> „<em>Wer in seinem Herzen den kleinsten Funken Hochmut trägt, kann nicht ins Paradies eintreten. Ebenso kann niemand mit dem kleinsten Funken Glauben im Herzen in die Hölle kommen.</em>“<sup class=\"fn-ref\"><a href=\"#fn-211\" id=\"fnref-211\">211</a></sup>"
+    },
+    {
+      "type": "paragraph",
+      "text": "Es gibt eine Vielzahl von Hadithen, die die Menschen bei den kleinsten Handlungen entweder ins Paradies oder in die Hölle schicken. Diese widersprüchlichen Ansätze finden sich manchmal sogar innerhalb eines einzigen Hadiths, wie im obigen Beispiel."
+    },
+    {
+      "type": "paragraph",
+      "text": "<span class=\"pb\" data-p=\"152\"></span>Die größte Beleidigung gegenüber dem Propheten wäre, zu behaupten, dass solche widersprüchlichen Aussagen von ihm stammen. Die einzige zuverlässige Botschaft, die der Prophet uns überbrachte und uns zu verfassen auftrug, ist der Koran – die alleinige, vertrauenswürdige Quelle des Islam."
+    },
+    {
+      "type": "verse",
+      "text": "„In der Tat, Wir haben euch ein Buch zur Ermahnung offenbart. Wollt ihr euren Verstand nicht gebrauchen?“",
+      "reference": "Koran 21:10"
+    }
+  ],
+  "footnotes": [
+    {
+      "n": 193,
+      "text": "<em> Buchari</em>, 3/51."
+    },
+    {
+      "n": 194,
+      "text": "Siehe: <em>Abu Dawud</em>, Sunnah 19; <em>Tirmidhi</em>, Nr. 3320; <em>Ibn Madscha</em>, Mukaddima."
+    },
+    {
+      "n": 195,
+      "text": "<em> Ibn Hanbal</em>, 4/11."
+    },
+    {
+      "n": 196,
+      "text": "Malik ibn Anas, <em>al-Muwatta</em> (<em>Der geebnete Pfad</em>), 56/3."
+    },
+    {
+      "n": 197,
+      "text": "<em> Muslim</em>, 10/176."
+    },
+    {
+      "n": 198,
+      "text": "<em> Ibn Kathir Tafsir</em>, Erläuterungen zu 2:29 und 68:1."
+    },
+    {
+      "n": 199,
+      "text": "Siehe: <em>Koran – Das nie endende Wunder</em>, Gruppe für Koranforschungen. Zusätzliche Anm. d. Übers.: Siehe auch Caner Taslaman, <em>Warum ich Muslim bin - Argumente für den islamischen Glauben - Antwort auf den Deismus</em>, tredition, 2023."
+    },
+    {
+      "n": 200,
+      "text": "Ahmed Ziyaüddin Gümüşhanevi, <em>Ramuz al-Ahadith</em> (<em>Chiffre der Hadithe</em>)."
+    },
+    {
+      "n": 201,
+      "text": "Anm. d. Übers.: Dieser Hadith ist offensichtlich unvereinbar mit der Realität und den modernen Methoden der Brandbekämpfung. Feuer lässt sich durch Maßnahmen wie den Einsatz von Wasser, Löschmitteln und Technik löschen, und nicht durch das Ausrufen religiöser Formeln. Dies zeigt, wie wichtig es ist, solche Hadithe kritisch zu hinterfragen und sich auf den Koran als zuverlässige Quelle zu konzentrieren, anstatt sich auf nicht überprüfbare Überlieferungen zu verlassen, die der Vernunft und den wissenschaftlichen Erkenntnissen widersprechen."
+    },
+    {
+      "n": 202,
+      "text": "Muhammad Abd al-Rauf al-Munawi, <em>Fayd al-Qadir Sharh al-Jami al-Saghir</em> (<em>Die Fülle der Großzügigkeit: Ein Kommentar zum Al-Jami al-Saghir der Hadithe</em>), 1-326. Zusätzliche Anm. d. Übers.: Es handelt sich um einen Kommentar zu <em>Al-Jami’ al-Saghir</em>, einer Sammlung von Hadithen, die von Imam As-Suyuti zusammengestellt wurde."
+    },
+    {
+      "n": 203,
+      "text": "<em> Buchari</em>, Hadsch, 81; <em>Muslim</em>, Hadsch, 141."
+    },
+    {
+      "n": 204,
+      "text": "<em> Buchari</em>."
+    },
+    {
+      "n": 205,
+      "text": "<em> Muslim</em>, Ehe, 3473 und 3474. Zusätzliche Anm. d. Übers.: Siehe auch: al-Ghazal, <em>Ihya Ulum al-Din</em> (<em>Wiederbelebung der religiösen Wissenschaften</em>), Band 2, Kapitel: Das Buch der Ehe Sitten. Dieses Werk gilt unter Sunniten als ein herausragendes Werk zur islamischen Ethik, Spiritualität und Moral. Es wird im Sunnitentum hoch geschätzt für seine umfassende Darstellung islamischer Lehren und dient bis heute als Standardwerk in sunnitischen Bildungseinrichtungen und religiösen Studien."
+    },
+    {
+      "n": 206,
+      "text": "<em> Ibn Hadschar al-Haitami</em>,<em> </em>2/121. Zusätzliche Anm. d. Übers.: Siehe auch: al-Ghazal, <em>Ihya Ulum al-Din</em> (<em>Wiederbelebung der religiösen Wissenschaften</em>), Band 2, Kapitel: Das Buch der Ehe Sitten. s.o."
+    },
+    {
+      "n": 207,
+      "text": "<em> Ibn Madscha</em>, 36/194; <em>Ibn Hanbal</em>, 3/61, 5/131."
+    },
+    {
+      "n": 208,
+      "text": "Zusätzliche Anm. d. Übers.: Der Schwarze Stein (<em>al-Hadschar al-Aswad</em>), der in der östlichen Ecke der Kaaba in Mekka angebracht ist, wird von Sunniten und Schiiten als heilig angesehen und mit der Tradition des Propheten Abraham verbunden."
+    },
+    {
+      "n": 209,
+      "text": "<em> Ibn Hanbal</em>, 1/307."
+    },
+    {
+      "n": 210,
+      "text": "as-Suyuti, <em>Al-Jami al-Saghir</em>, 1/151."
+    },
+    {
+      "n": 211,
+      "text": "<em> Buchari</em>, 81/51."
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Der verfälschte Islam und der Islam im Koran",
+  "short_name": "Der Islam im Koran",
+  "lang": "de",
+  "dir": "ltr",
+  "description": "Das Buch „Der verfälschte Islam und der Islam im Koran“ kostenlos online lesen: 40 Kapitel zu Koran, Hadithen, Rechtsschulen und Aberglauben, 279 Abbildungen.",
+  "start_url": "index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#faf9f5",
+  "theme_color": "#faf9f5",
+  "icons": [
+    {
+      "src": "assets/images/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/images/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

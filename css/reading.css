@@ -1,0 +1,348 @@
+/* ==========================================================================
+   READING EXPERIENCE: measure, rhythm, margin pictures, footnote popovers,
+   printed-page markers, scroll-spy. Loaded after reader.css and overrides it.
+   ========================================================================== */
+
+.reader-view .container { max-width: 1280px; }
+
+/* --- columns: contents | text | margin ------------------------------------ */
+/* The whole block (contents column + text) is centred on the screen; the text itself is
+   centred too whenever there is more room than its column needs (landscape phones, tablets). */
+.reader-layout {
+  grid-template-columns: 15rem minmax(0, 41.5rem);
+  gap: 3rem;
+  justify-content: center;
+}
+.reader-content-wrap { max-width: 41.5rem; margin: 0 auto; }
+@media (max-width: 900px) {
+  .reader-layout { grid-template-columns: minmax(0, 41.5rem); }
+}
+
+
+/* --- text ------------------------------------------------------------------- */
+.reader-body {
+  position: relative;
+  --base-size: 1.18rem;
+  font-family: var(--reader-font, var(--font-reader));
+  font-size: calc(var(--base-size) * var(--reader-scale, 1));
+  line-height: 1.66;
+  font-kerning: normal;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  letter-spacing: 0;
+  color: var(--ink);
+}
+.reader-body p {
+  text-align: left;
+  hyphens: auto;
+  -webkit-hyphens: auto;
+  hyphenate-limit-chars: 6 3 3;
+  overflow-wrap: break-word;
+  margin: 0 0 1.05em;
+  orphans: 3;
+  widows: 3;
+}
+.reader-body h2.subheading-title {
+  font-size: 1.45rem;
+  font-weight: 650;
+  letter-spacing: -0.015em;
+  line-height: 1.3;
+  margin: 2.8rem 0 1rem;
+  padding-bottom: 0;
+  border-bottom: 0;
+  text-wrap: balance;
+}
+.reader-title { letter-spacing: -0.025em; text-wrap: balance; }
+.drop-cap-paragraph::first-letter {
+  font-family: var(--font-reader);
+  font-weight: 600;
+  font-size: 3.5rem;
+  line-height: 0.8;
+  padding: 0.12rem 0.55rem 0 0;
+  color: var(--primary);
+}
+
+/* --- Koran verses: a calm block quote ------------------------------------------ */
+.quran-verse-card {
+  margin: 1.8rem 0 1.9rem;
+  padding: 0.35rem 0 0.35rem 1.35rem;
+  background: transparent;
+  border: 0;
+  border-left: 3px solid var(--primary);
+  border-radius: 0;
+  box-shadow: none;
+}
+.quran-verse-card .verse-text {
+  font-size: 1.14rem;
+  font-weight: 500;
+  font-style: italic;
+  line-height: 1.6;
+  margin: 0;
+  hyphens: auto;
+}
+.quran-verse-card .verse-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 0.45rem 0 0;
+}
+.quran-verse-card .verse-badge {
+  font-family: var(--font-sans);
+  font-size: 0.72rem;
+  font-weight: 650;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--primary);
+}
+.quran-verse-card .verse-copy-btn {
+  font-family: var(--font-sans);
+  opacity: 0;
+  transition: opacity 0.15s ease;
+}
+.quran-verse-card:hover .verse-copy-btn,
+.quran-verse-card:focus-within .verse-copy-btn { opacity: 1; }
+@media (hover: none) { .quran-verse-card .verse-copy-btn { opacity: 1; } }
+
+/* --- pictures ------------------------------------------------------------------- */
+.embedded-proof-card {
+  margin: 1.9rem auto 2.1rem;
+  width: min(100%, 38rem);
+  background: transparent;
+  border: 0;
+  border-radius: var(--radius-md);
+  box-shadow: none;
+  overflow: visible;
+}
+.embedded-proof-card:hover { box-shadow: none; }
+.proof-card-media {
+  max-height: none;
+  background: var(--surface-tertiary);
+  border-radius: var(--radius-md);
+  overflow: hidden;
+  display: block;
+  cursor: zoom-in;
+}
+.proof-card-media img {
+  width: 100%;
+  height: auto;
+  max-height: 32rem;
+  object-fit: contain;
+  margin: 0 auto;
+  transition: transform 0.35s ease;
+}
+.proof-card-media:hover img { transform: scale(1.015); }
+.proof-card-caption {
+  padding: 0.5rem 0.15rem 0;
+  border: 0;
+  background: transparent;
+  font-family: var(--font-sans);
+  font-size: 0.82rem;
+  line-height: 1.45;
+  color: var(--ink-muted);
+  text-align: center;
+}
+.proof-card-caption .proof-kind {
+  font-weight: 650;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  font-size: 0.68rem;
+}
+
+/* the picture stands right after its paragraph, large and centred (it sits first in the markup,
+   so flex ordering puts it second) */
+.sec-block { display: flex; flex-direction: column; }
+.sec-block > .embedded-proof-card { order: 2; }
+
+/* --- footnote markers and the popover ---------------------------------------------- */
+.fn-ref a {
+  color: var(--primary);
+  font-family: var(--font-sans);
+  font-weight: 650;
+  padding: 0 0.12em;
+  border-radius: 4px;
+}
+.fn-ref a:hover,
+.fn-ref a[aria-expanded="true"] {
+  background: color-mix(in srgb, var(--primary) 14%, transparent);
+  text-decoration: none;
+}
+.fn-ref a:focus-visible { outline: 2px solid var(--primary); outline-offset: 1px; }
+
+.fn-popover {
+  position: absolute;
+  z-index: 400;
+  width: min(24rem, calc(100vw - 1.5rem));
+  max-height: min(18rem, 45vh);
+  overflow: auto;
+  padding: 0.85rem 1rem 0.75rem;
+  font-family: var(--font-reader);
+  font-size: 0.93rem;
+  line-height: 1.5;
+  color: var(--ink);
+  background: color-mix(in srgb, var(--surface) 90%, transparent);
+  -webkit-backdrop-filter: blur(16px) saturate(1.5);
+  backdrop-filter: blur(16px) saturate(1.5);
+  border: 1px solid var(--hairline-strong);
+  border-radius: var(--radius-md);
+  box-shadow: 0 14px 40px rgba(40, 28, 12, 0.22), 0 2px 6px rgba(40, 28, 12, 0.1);
+  opacity: 0;
+  transform: translateY(4px);
+  transition: opacity 0.16s ease, transform 0.16s ease;
+  pointer-events: none;
+  hyphens: auto;
+  overflow-wrap: anywhere;
+}
+.fn-popover.open { opacity: 1; transform: none; pointer-events: auto; }
+.fn-popover[hidden] { display: none; }
+.fn-popover .fn-pop-head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.6rem;
+  margin-bottom: 0.35rem;
+  font-family: var(--font-sans);
+  font-size: 0.68rem;
+  font-weight: 650;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--ink-muted);
+}
+.fn-popover .fn-pop-close { color: var(--ink-muted); font-size: 1.1rem; line-height: 1; padding: 0 0.2rem; }
+.fn-popover .fn-pop-foot { margin-top: 0.5rem; font-family: var(--font-sans); font-size: 0.74rem; }
+.fn-popover .fn-pop-foot a { color: var(--primary); font-weight: 600; }
+
+@media (max-width: 700px) {
+  .fn-popover {
+    position: fixed;
+    left: 0.75rem;
+    right: 0.75rem;
+    bottom: 0.75rem;
+    top: auto !important;
+    width: auto;
+    max-height: 50vh;
+    transform: translateY(12px);
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  .fn-popover, .proof-card-media img { transition: none; }
+}
+
+/* --- printed page numbers ---------------------------------------------------------- */
+.pb { display: inline; }
+/* wide: in the left margin, with a short rule like a page edge */
+@media (min-width: 1240px) {
+  body.show-pages .reader-body .pb::before {
+    content: "S. " attr(data-p);
+    position: absolute;
+    left: -5rem;
+    width: 4rem;
+    text-align: right;
+    font-family: var(--font-sans);
+    font-size: 0.74rem;
+    font-weight: 650;
+    letter-spacing: 0.03em;
+    color: var(--primary);
+    line-height: 1;
+    padding-top: 0.45rem;
+    border-top: 2px solid color-mix(in srgb, var(--primary) 55%, transparent);
+    margin-top: 0.2rem;
+  }
+}
+/* narrow: a small tag inside the line where the new book page begins */
+@media (max-width: 1239px) {
+  body.show-pages .reader-body .pb::before {
+    content: "S. " attr(data-p);
+    display: inline-block;
+    font-family: var(--font-sans);
+    font-size: 0.64rem;
+    font-weight: 650;
+    letter-spacing: 0.03em;
+    color: var(--primary);
+    background: color-mix(in srgb, var(--primary) 12%, transparent);
+    border-radius: 4px;
+    padding: 0.05em 0.4em;
+    margin-right: 0.3em;
+    vertical-align: 0.12em;
+  }
+}
+
+/* --- contents column: scroll-spy and remaining time -------------------------------- */
+.subhead-nav-link.active {
+  background: color-mix(in srgb, var(--primary) 10%, transparent);
+  color: var(--primary);
+  font-weight: 650;
+}
+.reader-remaining {
+  display: block;
+  font-family: var(--font-sans);
+  font-size: 0.7rem;
+  color: var(--ink-muted);
+  line-height: 1.2;
+}
+.reader-remaining:empty { display: none; }
+
+/* --- resume banner ------------------------------------------------------------------ */
+.resume-banner {
+  position: fixed;
+  left: 50%;
+  bottom: 1.2rem;
+  transform: translateX(-50%);
+  z-index: 300;
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  padding: 0.6rem 0.9rem;
+  max-width: calc(100vw - 1.5rem);
+  font-family: var(--font-sans);
+  font-size: 0.82rem;
+  background: color-mix(in srgb, var(--surface) 92%, transparent);
+  -webkit-backdrop-filter: blur(14px);
+  backdrop-filter: blur(14px);
+  border: 1px solid var(--hairline-strong);
+  border-radius: var(--radius-pill);
+  box-shadow: var(--shadow-card-hover);
+}
+.resume-banner button { font-weight: 650; color: var(--primary); padding: 0.15rem 0.35rem; }
+.resume-banner .resume-x { color: var(--ink-muted); font-weight: 400; }
+
+/* --- focus mode: one calm column ------------------------------------------------------ */
+body.zen-mode .reader-layout { grid-template-columns: minmax(0, 41.5rem); }
+body.zen-mode .reader-content-wrap { max-width: 41.5rem; }
+body.zen-mode .pb::before { display: none !important; }
+
+
+/* the page marker must never become the drop cap */
+.drop-cap-paragraph > .pb:first-child { display: none !important; }
+.resume-banner span { white-space: nowrap; }
+.hide-on-wide { display: none; }
+
+/* --- small screens: contents as a sheet ------------------------------------------------ */
+@media (max-width: 899px) {
+  .hide-on-wide { display: inline-flex; }
+  body.contents-open .reader-sidebar {
+    display: block !important;
+    position: fixed;
+    top: 7.2rem;
+    left: 0.75rem;
+    right: 0.75rem;
+    max-height: 62vh;
+    z-index: 260;
+    box-shadow: var(--shadow-modal);
+  }
+}
+.reader-body p { hyphenate-limit-chars: 7 3 3; }
+
+@media (max-width: 600px) {
+  .reader-back-btn { font-size: 0; gap: 0; padding: 0.35rem 0.6rem; }
+}
+
+@media (max-width: 600px) {
+  .reader-body { --base-size: 1.06rem; line-height: 1.64; }
+  .reader-title { font-size: 1.7rem; }
+}
+
+/* pictures that hang in the margin never run into the footnotes / chapter navigation */
+.reader-body::after { content: ""; display: block; clear: both; }
+.reader-footnotes, .reader-bottom-nav { clear: both; }
+
+

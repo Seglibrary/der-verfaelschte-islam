@@ -1,0 +1,2245 @@
+/* ==========================================================================
+   Apple / Minimalist Editorial Design System
+   Based on DESIGN.md (Apple Design Analysis)
+   Clean, Airy, High-Legibility, Museum Gallery Aesthetics
+   ========================================================================== */
+
+
+:root {
+  /* Warm paper palette (Apple layout, calmer colours for long reading) */
+  --canvas: #f6f3ec;
+  --surface: #fffdf8;
+  --surface-secondary: #faf7f0;
+  --surface-tertiary: #efe9de;
+  --surface-tile-dark: #2a2622;
+
+  --ink: #1f1c18;
+  --ink-secondary: #4a453d;
+  --ink-muted: #756f63;
+  --ink-subtle: #a19a8c;
+
+  /* Accent: a quiet sienna instead of Apple blue */
+  --primary: #9a4f34;
+  --primary-hover: #843f27;
+  --primary-focus: rgba(154, 79, 52, 0.35);
+  --on-primary: #ffffff;
+
+  --accent-gold: #a8842f;
+  --accent-emerald: #2f7d5b;
+  --accent-ruby: #b3261e;
+
+  --hairline: rgba(60, 45, 25, 0.10);
+  --hairline-strong: rgba(60, 45, 25, 0.18);
+  --nav-glass: rgba(250, 247, 240, 0.84);
+
+  /* Typography: Source Serif 4 for reading, Plus Jakarta Sans for the interface (self-hosted) */
+  --font-sans: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', sans-serif;
+  --font-display: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', sans-serif;
+  --font-reader: 'Source Serif 4', Georgia, 'Times New Roman', serif;
+
+  --radius-xs: 6px;
+  --radius-sm: 10px;
+  --radius-md: 14px;
+  --radius-lg: 20px;
+  --radius-xl: 28px;
+  --radius-pill: 9999px;
+
+  --shadow-subtle: 0 2px 8px rgba(60, 45, 25, 0.05);
+  --shadow-card: 0 4px 20px rgba(60, 45, 25, 0.06);
+  --shadow-card-hover: 0 12px 36px rgba(60, 45, 25, 0.10);
+  --shadow-book: 0 25px 60px -15px rgba(60, 45, 25, 0.22);
+  --shadow-modal: 0 30px 90px rgba(30, 20, 10, 0.28);
+
+  --transition-smooth: all 0.3s cubic-bezier(0.25, 1, 0.5, 1);
+  --transition-fast: all 0.18s ease;
+
+  /* Legacy variable aliases */
+  --text-main: var(--ink);
+  --text-muted: var(--ink-secondary);
+  --text-dim: var(--ink-muted);
+  --bg-card: var(--surface);
+  --border-subtle: var(--hairline);
+  --gold-primary: var(--primary);
+  --ruby: var(--accent-ruby);
+}
+
+/* Apple Pro Dark Theme */
+[data-theme="dark"] {
+  --canvas: #151311;
+  --surface: #1e1b18;
+  --surface-secondary: #25211d;
+  --surface-tertiary: #2e2924;
+  --surface-tile-dark: #2e2924;
+
+  --ink: #efe9de;
+  --ink-secondary: #cfc8ba;
+  --ink-muted: #968e7f;
+  --ink-subtle: #6f6a5f;
+
+  --primary: #e39a78;
+  --primary-hover: #ecab8c;
+  --primary-focus: rgba(227, 154, 120, 0.4);
+  --on-primary: #1a1411;
+
+  --accent-gold: #d4af37;
+  --hairline: rgba(255, 240, 220, 0.10);
+  --hairline-strong: rgba(255, 240, 220, 0.20);
+  --nav-glass: rgba(30, 27, 24, 0.84);
+
+  --shadow-subtle: 0 2px 8px rgba(0, 0, 0, 0.3);
+  --shadow-card: 0 4px 24px rgba(0, 0, 0, 0.4);
+  --shadow-card-hover: 0 16px 45px rgba(0, 0, 0, 0.6);
+  --shadow-book: 0 25px 70px -10px rgba(0, 0, 0, 0.8);
+  --shadow-modal: 0 30px 90px rgba(0, 0, 0, 0.9);
+}
+
+/* Apple Books Sepia / Parchment Theme */
+[data-theme="sepia"] {
+  --canvas: #fbf0d9;
+  --surface: #f4e5c8;
+  --surface-secondary: #eedcbb;
+  --surface-tertiary: #e5d1ad;
+  --surface-tile-dark: #3a2e21;
+  
+  --ink: #2d241e;
+  --ink-secondary: #56483b;
+  --ink-muted: #847262;
+  --ink-subtle: #aa9785;
+  
+  --primary: #946820;
+  --primary-hover: #7b5415;
+  --primary-focus: rgba(148, 104, 32, 0.35);
+  --on-primary: #ffffff;
+  
+  --accent-gold: #946820;
+  --hairline: rgba(45, 36, 30, 0.1);
+  --hairline-strong: rgba(45, 36, 30, 0.2);
+  --nav-glass: rgba(251, 240, 217, 0.88);
+}
+
+/* ==========================================================================
+   Base Styles & Reset
+   ========================================================================== */
+
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  scroll-behavior: smooth;
+  font-size: 16px;
+}
+
+body {
+  background-color: var(--canvas);
+  color: var(--ink);
+  font-family: var(--font-sans);
+  line-height: 1.55;
+  min-height: 100vh;
+  overflow-x: hidden;
+  letter-spacing: -0.012em;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+button {
+  font-family: inherit;
+  cursor: pointer;
+  border: none;
+  background: none;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+.container {
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 1.5rem;
+}
+
+.container-narrow {
+  width: 100%;
+  max-width: 820px;
+  margin: 0 auto;
+  padding: 0 1.5rem;
+}
+
+/* ==========================================================================
+   Apple Global Navigation (48px Frosted Glass)
+   ========================================================================== */
+
+.site-header {
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  background: var(--nav-glass);
+  backdrop-filter: saturate(180%) blur(20px);
+  -webkit-backdrop-filter: saturate(180%) blur(20px);
+  border-bottom: 1px solid var(--hairline);
+  transition: var(--transition-smooth);
+}
+
+.header-inner {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 52px;
+}
+
+.brand-link {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+}
+
+.brand-symbol {
+  width: auto;
+  height: 28px;
+  background: transparent !important;
+  border: none !important;
+  box-shadow: none !important;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: visible;
+  flex-shrink: 0;
+  transition: transform 0.25s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.brand-link:hover .brand-symbol {
+  transform: scale(1.05);
+}
+
+.brand-logo-img {
+  height: 28px;
+  width: auto;
+  max-width: 58px;
+  object-fit: contain;
+  display: block;
+  transition: filter 0.2s ease;
+}
+
+[data-theme="dark"] .brand-logo-img {
+  filter: brightness(0) invert(1);
+}
+
+[data-theme="sepia"] .brand-logo-img {
+  filter: sepia(0.3) contrast(1.1);
+}
+
+.brand-text {
+  display: flex;
+  flex-direction: column;
+}
+
+.brand-title {
+  font-size: 0.92rem;
+  font-weight: 600;
+  letter-spacing: -0.02em;
+  color: var(--ink);
+  line-height: 1.1;
+}
+
+.brand-sub {
+  font-size: 0.65rem;
+  color: var(--ink-muted);
+  font-weight: 500;
+  letter-spacing: 0.02em;
+}
+
+/* Nav Menu */
+.nav-menu {
+  display: flex;
+  align-items: center;
+  gap: 0.35rem;
+  list-style: none;
+}
+
+.nav-link {
+  padding: 0.4rem 0.75rem;
+  border-radius: var(--radius-pill);
+  font-size: 0.82rem;
+  font-weight: 500;
+  color: var(--ink-secondary);
+  transition: var(--transition-fast);
+  display: flex;
+  align-items: center;
+  gap: 0.35rem;
+}
+
+.nav-link:hover, .nav-link.active {
+  color: var(--ink);
+  background: var(--surface-secondary);
+}
+
+/* Dropdown Menu */
+.nav-dropdown {
+  position: relative;
+}
+
+.dropdown-menu {
+  position: absolute;
+  top: calc(100% + 6px);
+  left: 50%;
+  transform: translateX(-50%);
+  min-width: 290px;
+  background: var(--surface);
+  border: 1px solid var(--hairline-strong);
+  border-radius: var(--radius-lg);
+  box-shadow: var(--shadow-modal);
+  padding: 0.65rem;
+  display: none;
+  flex-direction: column;
+  gap: 0.25rem;
+  z-index: 120;
+}
+
+.nav-dropdown:hover .dropdown-menu {
+  display: flex;
+  animation: appleFadeIn 0.2s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+}
+
+@keyframes appleFadeIn {
+  from { opacity: 0; transform: translate(-50%, -6px); }
+  to { opacity: 1; transform: translate(-50%, 0); }
+}
+
+.dropdown-item {
+  padding: 0.65rem 0.85rem;
+  border-radius: var(--radius-sm);
+  font-size: 0.82rem;
+  color: var(--ink-secondary);
+  display: flex;
+  flex-direction: column;
+  transition: var(--transition-fast);
+}
+
+.dropdown-item strong {
+  color: var(--ink);
+  font-weight: 600;
+}
+
+.dropdown-item span {
+  font-size: 0.72rem;
+  color: var(--ink-muted);
+}
+
+.dropdown-item:hover {
+  background: var(--surface-secondary);
+  color: var(--primary);
+}
+
+.dropdown-item:hover strong {
+  color: var(--primary);
+}
+
+/* Header Action Controls */
+.header-actions {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+}
+
+.search-trigger {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.38rem 0.85rem;
+  background: var(--surface-secondary);
+  border: 1px solid var(--hairline);
+  border-radius: var(--radius-pill);
+  color: var(--ink-muted);
+  font-size: 0.8rem;
+  transition: var(--transition-fast);
+}
+
+.search-trigger:hover {
+  color: var(--ink);
+  border-color: var(--hairline-strong);
+  background: var(--surface);
+}
+
+.search-shortcut {
+  font-size: 0.68rem;
+  padding: 0.1rem 0.35rem;
+  background: var(--hairline);
+  border-radius: 4px;
+  color: var(--ink-muted);
+  font-weight: 500;
+}
+
+.theme-toggle-btn {
+  width: 32px;
+  height: 32px;
+  border-radius: var(--radius-pill);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--ink-secondary);
+  background: var(--surface-secondary);
+  border: 1px solid var(--hairline);
+  font-size: 0.85rem;
+  transition: var(--transition-fast);
+}
+
+.theme-toggle-btn:hover {
+  color: var(--ink);
+  border-color: var(--hairline-strong);
+}
+
+/* Apple Buttons */
+.btn-primary {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.45rem;
+  padding: 0.65rem 1.45rem;
+  background: var(--primary);
+  color: var(--on-primary);
+  font-weight: 500;
+  font-size: 0.88rem;
+  border-radius: var(--radius-pill);
+  transition: var(--transition-fast);
+  box-shadow: 0 2px 8px color-mix(in srgb, var(--primary) 25%, transparent);
+}
+
+.btn-primary:hover {
+  background: var(--primary-hover);
+  transform: scale(1.02);
+}
+
+.btn-secondary {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.45rem;
+  padding: 0.65rem 1.45rem;
+  background: var(--surface);
+  border: 1px solid var(--hairline-strong);
+  color: var(--ink);
+  font-weight: 500;
+  font-size: 0.88rem;
+  border-radius: var(--radius-pill);
+  transition: var(--transition-fast);
+}
+
+.btn-secondary:hover {
+  background: var(--surface-secondary);
+  transform: scale(1.02);
+}
+
+.mobile-menu-btn {
+  display: none;
+  width: 32px;
+  height: 32px;
+  color: var(--ink);
+  align-items: center;
+  justify-content: center;
+}
+
+/* ==========================================================================
+   Clean, Direct, High-Utility Portal Layout (Kein Schnickschnack)
+   ========================================================================== */
+
+.portal-header-section {
+  padding: 2.75rem 0 1.5rem;
+  background: var(--surface);
+  border-bottom: 1px solid var(--hairline);
+}
+
+.portal-header-top {
+  max-width: 860px;
+  margin-bottom: 1.5rem;
+}
+
+.portal-badge {
+  display: inline-block;
+  font-size: 0.74rem;
+  font-weight: 600;
+  color: var(--primary);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  margin-bottom: 0.5rem;
+}
+
+.portal-title {
+  font-family: var(--font-display);
+  font-size: 2.25rem;
+  font-weight: 700;
+  color: var(--ink);
+  letter-spacing: -0.03em;
+  line-height: 1.2;
+  margin-bottom: 0.6rem;
+}
+
+.portal-title span {
+  color: var(--primary);
+}
+
+.portal-desc {
+  font-size: 0.98rem;
+  color: var(--ink-secondary);
+  line-height: 1.55;
+}
+
+.portal-toolbar {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  padding-top: 0.75rem;
+}
+
+.category-filter-bar {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.45rem;
+}
+
+.cat-pill-btn {
+  padding: 0.4rem 0.95rem;
+  font-size: 0.82rem;
+  font-weight: 500;
+  border-radius: var(--radius-pill);
+  background: var(--surface-secondary);
+  color: var(--ink-secondary);
+  border: 1px solid var(--hairline);
+  transition: var(--transition-fast);
+  cursor: pointer;
+  white-space: nowrap;
+}
+
+.cat-pill-btn:hover {
+  color: var(--ink);
+  border-color: var(--hairline-strong);
+  background: var(--surface);
+}
+
+.cat-pill-btn.active {
+  background: var(--ink);
+  color: var(--canvas);
+  border-color: var(--ink);
+  font-weight: 600;
+}
+
+.portal-content-section {
+  padding: 2.5rem 0 5rem;
+}
+
+/* Category Group in Direct Content */
+.category-group {
+  margin-bottom: 3.5rem;
+}
+
+.category-group-header {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  padding-bottom: 0.65rem;
+  border-bottom: 1px solid var(--hairline);
+  margin-bottom: 1.25rem;
+}
+
+.category-group-title {
+  font-family: var(--font-display);
+  font-size: 1.35rem;
+  font-weight: 700;
+  color: var(--ink);
+  letter-spacing: -0.02em;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.category-group-count {
+  font-size: 0.8rem;
+  font-weight: 500;
+  color: var(--ink-muted);
+}
+
+.chapter-cards-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
+  gap: 1.25rem;
+}
+
+.topic-card {
+  background: var(--surface);
+  border: 1px solid var(--hairline);
+  border-radius: var(--radius-md);
+  padding: 1.45rem;
+  display: flex;
+  flex-direction: column;
+  transition: var(--transition-fast);
+  box-shadow: var(--shadow-subtle);
+}
+
+.topic-card:hover {
+  transform: translateY(-2px);
+  border-color: var(--hairline-strong);
+  box-shadow: var(--shadow-card-hover);
+}
+
+.topic-card-top {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 0.65rem;
+}
+
+.topic-badge {
+  font-size: 0.74rem;
+  font-weight: 700;
+  color: var(--primary);
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+
+.topic-meta {
+  display: flex;
+  align-items: center;
+  gap: 0.45rem;
+  font-size: 0.74rem;
+  color: var(--ink-muted);
+}
+
+.topic-proof-tag {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.25rem;
+  padding: 0.12rem 0.45rem;
+  background: color-mix(in srgb, var(--primary) 8%, transparent);
+  color: var(--primary);
+  border-radius: var(--radius-pill);
+  font-weight: 600;
+  font-size: 0.7rem;
+}
+
+.topic-title {
+  font-family: var(--font-display);
+  font-size: 1.12rem;
+  font-weight: 600;
+  color: var(--ink);
+  line-height: 1.35;
+  margin-bottom: 0.5rem;
+}
+
+.topic-preview {
+  font-size: 0.84rem;
+  color: var(--ink-secondary);
+  line-height: 1.5;
+  margin-bottom: 0.85rem;
+}
+
+.topic-subheads {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.3rem;
+  margin-bottom: 1.15rem;
+}
+
+.topic-subhead-chip {
+  font-size: 0.72rem;
+  padding: 0.18rem 0.55rem;
+  border-radius: var(--radius-pill);
+  background: var(--surface-secondary);
+  border: 1px solid var(--hairline);
+  color: var(--ink-secondary);
+  text-decoration: none;
+  transition: var(--transition-fast);
+}
+
+.topic-subhead-chip:hover {
+  background: var(--primary);
+  color: var(--on-primary);
+  border-color: var(--primary);
+}
+
+.topic-card-action {
+  margin-top: auto;
+  padding-top: 0.75rem;
+  border-top: 1px solid var(--hairline);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.topic-read-link {
+  font-size: 0.84rem;
+  font-weight: 600;
+  color: var(--primary);
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  transition: var(--transition-fast);
+}
+
+.topic-read-link:hover {
+  gap: 0.55rem;
+}
+
+/* ==========================================================================
+   Featured Proofs / Scans Gallery (Apple Gallery Wall)
+   ========================================================================== */
+
+.proofs-showcase-section {
+  padding: 6rem 0;
+  background: var(--surface);
+  border-top: 1px solid var(--hairline);
+  border-bottom: 1px solid var(--hairline);
+}
+
+.proofs-carousel {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(270px, 1fr));
+  gap: 1.5rem;
+  margin-top: 2.5rem;
+}
+
+.proof-card {
+  background: var(--canvas);
+  border: 1px solid var(--hairline);
+  border-radius: var(--radius-lg);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  transition: var(--transition-smooth);
+}
+
+.proof-card:hover {
+  transform: translateY(-4px);
+  box-shadow: var(--shadow-card-hover);
+  border-color: var(--hairline-strong);
+}
+
+.proof-img-box {
+  width: 100%;
+  height: 220px;
+  background: #000000;
+  position: relative;
+  overflow: hidden;
+  cursor: pointer;
+}
+
+.proof-img-box img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.4s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.proof-card:hover .proof-img-box img {
+  transform: scale(1.04);
+}
+
+.proof-overlay {
+  position: absolute;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.45);
+  backdrop-filter: blur(4px);
+  opacity: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #ffffff;
+  font-size: 0.85rem;
+  font-weight: 500;
+  gap: 0.4rem;
+  transition: var(--transition-fast);
+}
+
+.proof-img-box:hover .proof-overlay {
+  opacity: 1;
+}
+
+.proof-info {
+  padding: 1.25rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
+  flex-grow: 1;
+}
+
+.proof-badge {
+  font-size: 0.72rem;
+  font-weight: 600;
+  color: var(--primary);
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+
+.proof-caption {
+  font-size: 0.9rem;
+  font-weight: 600;
+  color: var(--ink);
+  line-height: 1.35;
+}
+
+.proof-link-ch {
+  font-size: 0.8rem;
+  color: var(--primary);
+  margin-top: auto;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  gap: 0.25rem;
+}
+
+.proof-link-ch:hover {
+  text-decoration: underline;
+}
+
+/* ==========================================================================
+   Chapters Directory (Apple Clean Index)
+   ========================================================================== */
+
+.chapters-dir-section {
+  padding: 6rem 0;
+}
+
+.dir-controls {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.25rem;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 2.5rem;
+}
+
+.dir-search-box {
+  flex-grow: 1;
+  max-width: 440px;
+  position: relative;
+}
+
+.dir-search-input {
+  width: 100%;
+  padding: 0.75rem 1rem 0.75rem 2.4rem;
+  background: var(--surface);
+  border: 1px solid var(--hairline-strong);
+  border-radius: var(--radius-pill);
+  color: var(--ink);
+  font-size: 0.88rem;
+  outline: none;
+  box-shadow: var(--shadow-subtle);
+  transition: var(--transition-fast);
+}
+
+.dir-search-input:focus {
+  border-color: var(--primary);
+  box-shadow: 0 0 0 3px var(--primary-focus);
+}
+
+.dir-search-icon {
+  position: absolute;
+  left: 0.95rem;
+  top: 50%;
+  transform: translateY(-50%);
+  color: var(--ink-muted);
+}
+
+.dir-filter-tabs {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem;
+}
+
+.filter-btn {
+  padding: 0.45rem 0.95rem;
+  border-radius: var(--radius-pill);
+  font-size: 0.8rem;
+  font-weight: 500;
+  color: var(--ink-secondary);
+  background: var(--surface);
+  border: 1px solid var(--hairline);
+  transition: var(--transition-fast);
+}
+
+.filter-btn:hover, .filter-btn.active {
+  background: var(--ink);
+  color: var(--canvas);
+  border-color: var(--ink);
+}
+
+.chapters-dir-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+  gap: 1.25rem;
+}
+
+.ch-dir-card {
+  background: var(--surface);
+  border: 1px solid var(--hairline);
+  border-radius: var(--radius-md);
+  padding: 1.6rem;
+  display: flex;
+  flex-direction: column;
+  transition: var(--transition-smooth);
+  box-shadow: var(--shadow-subtle);
+}
+
+.ch-dir-card:hover {
+  transform: translateY(-3px);
+  box-shadow: var(--shadow-card-hover);
+  border-color: var(--hairline-strong);
+}
+
+.ch-dir-top {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 0.75rem;
+}
+
+.ch-number-badge {
+  font-size: 0.78rem;
+  font-weight: 600;
+  color: var(--primary);
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+
+.ch-stats {
+  font-size: 0.75rem;
+  color: var(--ink-muted);
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.ch-proofs-tag {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.25rem;
+  padding: 0.15rem 0.45rem;
+  background: color-mix(in srgb, var(--primary) 8%, transparent);
+  color: var(--primary);
+  border-radius: var(--radius-pill);
+  font-weight: 600;
+  font-size: 0.7rem;
+}
+
+.ch-dir-title {
+  font-family: var(--font-display);
+  font-size: 1.15rem;
+  font-weight: 600;
+  color: var(--ink);
+  letter-spacing: -0.02em;
+  line-height: 1.3;
+  margin-bottom: 0.75rem;
+}
+
+.ch-subheads-preview {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem;
+  margin-top: auto;
+  padding-top: 0.85rem;
+  border-top: 1px solid var(--hairline);
+}
+
+.subhead-chip {
+  font-size: 0.72rem;
+  color: var(--ink-secondary);
+  background: var(--surface-secondary);
+  padding: 0.2rem 0.5rem;
+  border-radius: var(--radius-pill);
+  border: 1px solid var(--hairline);
+}
+
+/* ==========================================================================
+   Apple Footer (Receded Minimalist)
+   ========================================================================== */
+
+.site-footer {
+  background: var(--surface);
+  border-top: 1px solid var(--hairline);
+  padding: 4.5rem 0 3rem;
+  font-size: 0.82rem;
+  color: var(--ink-muted);
+}
+
+.footer-grid {
+  display: grid;
+  grid-template-columns: 2fr 1fr 1fr 1fr;
+  gap: 3rem;
+  margin-bottom: 3.5rem;
+}
+
+.footer-brand-desc {
+  font-size: 0.85rem;
+  line-height: 1.6;
+  color: var(--ink-secondary);
+  margin-top: 0.75rem;
+  max-width: 360px;
+}
+
+.footer-heading {
+  font-size: 0.8rem;
+  font-weight: 600;
+  color: var(--ink);
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  margin-bottom: 1.25rem;
+}
+
+.footer-links {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 0.65rem;
+}
+
+.footer-link {
+  color: var(--ink-secondary);
+  transition: var(--transition-fast);
+}
+
+.footer-link:hover {
+  color: var(--primary);
+}
+
+.footer-bottom {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  padding-top: 2rem;
+  border-top: 1px solid var(--hairline);
+  color: var(--ink-muted);
+  font-size: 0.78rem;
+}
+
+/* Toast Component */
+.toast-container {
+  position: fixed;
+  bottom: 2rem;
+  right: 2rem;
+  z-index: 9999;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  pointer-events: none;
+}
+
+.toast {
+  background: var(--surface-tile-dark);
+  color: #ffffff;
+  padding: 0.75rem 1.25rem;
+  border-radius: var(--radius-pill);
+  box-shadow: var(--shadow-card-hover);
+  font-size: 0.85rem;
+  font-weight: 500;
+  animation: appleToastSlide 0.25s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+  pointer-events: auto;
+}
+
+@keyframes appleToastSlide {
+  from { opacity: 0; transform: translateY(8px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+/* ==========================================================================
+   Books & PDF Library Showcase (Apple Museum Gallery Design)
+   ========================================================================== */
+
+.portal-books-strip {
+  padding: 3rem 0 5rem;
+}
+
+.portal-books-banner {
+  background: var(--surface);
+  border: 1px solid var(--hairline-strong);
+  border-radius: var(--radius-xl);
+  padding: 2.75rem 3rem;
+  box-shadow: var(--shadow-card);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 2.5rem;
+  transition: var(--transition-smooth);
+}
+
+.portal-books-banner:hover {
+  border-color: var(--primary);
+  box-shadow: var(--shadow-card-hover);
+}
+
+.portal-books-info {
+  max-width: 680px;
+}
+
+.portal-books-title {
+  font-family: var(--font-display);
+  font-size: 1.45rem;
+  font-weight: 700;
+  color: var(--ink);
+  letter-spacing: -0.02em;
+  margin: 0.35rem 0 0.65rem;
+  line-height: 1.3;
+}
+
+.portal-books-text {
+  font-size: 0.92rem;
+  color: var(--ink-secondary);
+  line-height: 1.6;
+  margin: 0;
+}
+
+.portal-books-actions {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+  min-width: 280px;
+}
+
+/* Books Collection Grid */
+.books-collection-grid {
+  display: flex;
+  flex-direction: column;
+  gap: 2.5rem;
+}
+
+.book-pub-card {
+  background: var(--surface);
+  border: 1px solid var(--hairline);
+  border-radius: var(--radius-xl);
+  padding: 2.75rem;
+  box-shadow: var(--shadow-card);
+  transition: var(--transition-smooth);
+  position: relative;
+  overflow: hidden;
+}
+
+.book-pub-card:hover {
+  transform: translateY(-3px);
+  box-shadow: var(--shadow-card-hover);
+  border-color: var(--hairline-strong);
+}
+
+.book-pub-card.featured-book {
+  border: 1px solid color-mix(in srgb, var(--primary) 25%, transparent);
+}
+
+[data-theme="dark"] .book-pub-card.featured-book {
+  border: 1px solid color-mix(in srgb, var(--primary) 35%, transparent);
+}
+
+.book-pub-badge-box {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  margin-bottom: 1.75rem;
+  flex-wrap: wrap;
+}
+
+.book-pub-badge {
+  font-size: 0.75rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  padding: 0.3rem 0.85rem;
+  border-radius: var(--radius-pill);
+}
+
+.book-pub-badge.primary {
+  background: color-mix(in srgb, var(--primary) 10%, transparent);
+  color: var(--primary);
+}
+
+.book-pub-badge.gold {
+  background: rgba(179, 136, 56, 0.12);
+  color: var(--accent-gold);
+}
+
+.book-pub-badge.emerald {
+  background: rgba(16, 185, 129, 0.12);
+  color: var(--accent-emerald);
+}
+
+.book-pub-format-tag {
+  font-size: 0.75rem;
+  font-weight: 500;
+  color: var(--ink-muted);
+  background: var(--surface-secondary);
+  padding: 0.3rem 0.75rem;
+  border-radius: var(--radius-pill);
+  border: 1px solid var(--hairline);
+}
+
+.book-pub-main {
+  display: grid;
+  grid-template-columns: 240px 1fr;
+  gap: 3rem;
+  align-items: start;
+}
+
+/* 3D Apple-Style Book Mockups */
+.book-pub-visual {
+  display: flex;
+  justify-content: center;
+}
+
+.book-cover-mockup {
+  width: 220px;
+  height: 310px;
+  border-radius: 4px 14px 14px 4px;
+  box-shadow: 
+    -6px 0 12px rgba(0, 0, 0, 0.25),
+    12px 18px 36px rgba(0, 0, 0, 0.22);
+  padding: 1.75rem 1.35rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  color: #ffffff;
+  position: relative;
+  transition: transform 0.4s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.book-pub-card:hover .book-cover-mockup,
+.book-pub-card.is-active .book-cover-mockup {
+  transform: rotate(-1.5deg) scale(1.02);
+}
+
+.book-cover-mockup::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  width: 14px;
+  background: linear-gradient(to right, rgba(255, 255, 255, 0.2), rgba(0, 0, 0, 0.35));
+  border-radius: 4px 0 0 4px;
+}
+
+.book-cover-mockup.cover-1 {
+  background: linear-gradient(145deg, #17263c 0%, #0d1624 100%);
+  border-right: 2px solid rgba(212, 175, 55, 0.5);
+}
+
+.book-cover-mockup.cover-2 {
+  background: linear-gradient(145deg, #123028 0%, #0a1c17 100%);
+  border-right: 2px solid rgba(212, 175, 55, 0.5);
+}
+
+.book-cover-mockup.cover-3 {
+  background: linear-gradient(145deg, #301721 0%, #1c0c13 100%);
+  border-right: 2px solid rgba(212, 175, 55, 0.5);
+}
+
+.cover-top-tag {
+  font-size: 0.65rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: rgba(255, 255, 255, 0.7);
+  font-weight: 500;
+}
+
+.cover-title-main {
+  font-family: var(--font-display);
+  font-size: 1.15rem;
+  font-weight: 700;
+  line-height: 1.25;
+  color: #ffffff;
+  margin: auto 0 0.5rem;
+  letter-spacing: -0.01em;
+}
+
+.cover-subtitle {
+  font-size: 0.75rem;
+  color: rgba(255, 255, 255, 0.75);
+  line-height: 1.35;
+}
+
+.cover-bottom-info {
+  font-size: 0.68rem;
+  font-weight: 600;
+  color: #d4af37;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  padding-top: 0.75rem;
+  border-top: 1px solid rgba(255, 255, 255, 0.15);
+}
+
+/* Book Details Column */
+.book-pub-details {
+  display: flex;
+  flex-direction: column;
+}
+
+.book-pub-title {
+  font-family: var(--font-display);
+  font-size: 1.85rem;
+  font-weight: 700;
+  color: var(--ink);
+  letter-spacing: -0.025em;
+  margin: 0 0 0.4rem;
+  line-height: 1.2;
+}
+
+.book-pub-authors {
+  font-size: 0.88rem;
+  color: var(--ink-muted);
+  font-weight: 500;
+  margin-bottom: 1.25rem;
+}
+
+.book-pub-desc {
+  font-size: 0.98rem;
+  line-height: 1.7;
+  color: var(--ink-secondary);
+  margin-bottom: 1.25rem;
+}
+
+.book-volumes-list {
+  list-style: none;
+  padding: 0;
+  margin: 0 0 1.5rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+
+.book-volumes-list li {
+  font-size: 0.9rem;
+  line-height: 1.6;
+  color: var(--ink-secondary);
+  background: var(--surface-secondary);
+  padding: 0.85rem 1.15rem;
+  border-radius: var(--radius-md);
+  border-left: 3px solid var(--accent-gold);
+}
+
+.book-pub-specs {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.5rem;
+  padding: 1rem 0;
+  border-top: 1px solid var(--hairline);
+  border-bottom: 1px solid var(--hairline);
+  margin-bottom: 1.75rem;
+}
+
+.spec-item {
+  font-size: 0.82rem;
+  color: var(--ink-secondary);
+}
+
+.spec-label {
+  font-weight: 600;
+  color: var(--ink);
+  margin-right: 0.35rem;
+}
+
+/* Action Buttons (Apple Pill Style) */
+.book-pub-actions {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.85rem;
+}
+
+.btn-primary-pill {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  background: var(--primary);
+  color: #ffffff !important;
+  padding: 0.65rem 1.35rem;
+  border-radius: var(--radius-pill);
+  font-size: 0.88rem;
+  font-weight: 600;
+  text-decoration: none;
+  transition: var(--transition-fast);
+  box-shadow: 0 2px 8px color-mix(in srgb, var(--primary) 25%, transparent);
+}
+
+.btn-primary-pill:hover {
+  background: var(--primary-hover);
+  transform: translateY(-1px);
+  box-shadow: 0 4px 14px color-mix(in srgb, var(--primary) 35%, transparent);
+}
+
+.btn-secondary-pill {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  background: var(--surface-secondary);
+  color: var(--ink) !important;
+  border: 1px solid var(--hairline-strong);
+  padding: 0.65rem 1.25rem;
+  border-radius: var(--radius-pill);
+  font-size: 0.88rem;
+  font-weight: 600;
+  text-decoration: none;
+  transition: var(--transition-fast);
+}
+
+.btn-secondary-pill:hover {
+  background: var(--surface-tertiary);
+  border-color: var(--ink-muted);
+  transform: translateY(-1px);
+}
+
+.btn-outline-pill {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  background: transparent;
+  color: var(--primary) !important;
+  border: 1px solid var(--primary);
+  padding: 0.65rem 1.25rem;
+  border-radius: var(--radius-pill);
+  font-size: 0.88rem;
+  font-weight: 600;
+  text-decoration: none;
+  transition: var(--transition-fast);
+}
+
+.btn-outline-pill:hover {
+  background: color-mix(in srgb, var(--primary) 8%, transparent);
+  transform: translateY(-1px);
+}
+
+.digital-avail-hint {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  font-size: 0.82rem;
+  color: var(--ink-muted);
+  padding: 0.5rem 0.75rem;
+}
+
+/* ==========================================================================
+   Homepage Hero Book Showcase & Real Cover Displays
+   ========================================================================== */
+
+/* ==========================================================================
+   Apple Museum Gallery 3D Book Showcase
+   Reverent physical artifact presentation based on awesome-design-md
+   ========================================================================== */
+
+.portal-hero-wrap {
+  display: grid;
+  grid-template-columns: 1.15fr 0.85fr;
+  gap: 4.5rem;
+  align-items: center;
+  margin-bottom: 2.75rem;
+}
+
+.portal-eyebrow-box {
+  display: flex;
+  align-items: center;
+  gap: 0.65rem;
+  margin-bottom: 0.85rem;
+  flex-wrap: wrap;
+}
+
+.portal-badge-ghost {
+  font-size: 0.72rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--ink-muted);
+  background: var(--surface-secondary);
+  border: 1px solid var(--hairline);
+  padding: 0.2rem 0.65rem;
+  border-radius: var(--radius-pill);
+}
+
+.portal-hero-actions {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.85rem;
+  margin-top: 1.5rem;
+}
+
+.hero-specs-row {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.55rem;
+  margin-top: 1.75rem;
+  padding-top: 1.25rem;
+  border-top: 1px solid var(--hairline);
+}
+
+.hero-spec-pill {
+  font-size: 0.78rem;
+  color: var(--ink-secondary);
+  background: var(--surface-secondary);
+  border: 1px solid var(--hairline);
+  padding: 0.25rem 0.7rem;
+  border-radius: var(--radius-pill);
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+}
+
+.hero-spec-pill strong {
+  color: var(--ink);
+  font-weight: 600;
+}
+
+/* Apple Stage Podium */
+.portal-hero-stage-col {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.apple-book-stage {
+  position: relative;
+  width: 100%;
+  max-width: 440px;
+  background: var(--surface);
+  border: 1px solid var(--hairline-strong);
+  border-radius: var(--radius-xl);
+  padding: 2.5rem 2rem 1.6rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-shadow: var(--shadow-card);
+  overflow: visible;
+  transition: border-color 0.4s ease, box-shadow 0.4s ease;
+}
+
+.apple-book-stage:hover,
+.apple-book-stage.is-active {
+  border-color: var(--primary);
+  box-shadow: var(--shadow-card-hover);
+}
+
+.stage-ambient-light {
+  position: absolute;
+  top: 42%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 290px;
+  height: 290px;
+  background: radial-gradient(circle, rgba(232, 168, 22, 0.16) 0%, color-mix(in srgb, var(--primary) 6%, transparent) 45%, transparent 72%);
+  pointer-events: none;
+  filter: blur(28px);
+  z-index: 0;
+}
+
+[data-theme="dark"] .stage-ambient-light {
+  background: radial-gradient(circle, rgba(240, 185, 45, 0.18) 0%, color-mix(in srgb, var(--primary) 8%, transparent) 50%, transparent 72%);
+}
+
+.book-3d-scene {
+  position: relative;
+  perspective: 1400px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 1;
+  cursor: pointer;
+  padding: 1rem 0 2.25rem;
+}
+
+/* 3D Physical Book Object */
+.book-3d-object {
+  width: 205px;
+  height: 295px;
+  position: relative;
+  transform-style: preserve-3d;
+  transform: rotateY(-22deg) rotateX(7deg) rotateZ(-1deg);
+  transition: transform 0.5s cubic-bezier(0.16, 1, 0.3, 1);
+  will-change: transform;
+}
+
+.apple-book-stage:hover .book-3d-object,
+.apple-book-stage.is-active .book-3d-object {
+  transform: rotateY(-10deg) rotateX(3deg) translateY(-8px) scale(1.02);
+}
+
+/* Faces */
+.book-face {
+  position: absolute;
+}
+
+/* Front Cover with Real Image */
+.book-front {
+  width: 205px;
+  height: 295px;
+  top: 0;
+  left: 0;
+  transform: translateZ(16px);
+  border-radius: 2px 8px 8px 2px;
+  overflow: hidden;
+  background: #f1b31a;
+  box-shadow: 
+    inset 1px 0 1px rgba(255, 255, 255, 0.4),
+    inset -1px 0 1px rgba(0, 0, 0, 0.2);
+}
+
+.book-cover-img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+/* Authentic Spine Hinge Crease */
+.book-crease-overlay {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  width: 26px;
+  background: linear-gradient(to right,
+    rgba(0, 0, 0, 0.35) 0%,
+    rgba(255, 255, 255, 0.3) 16%,
+    rgba(0, 0, 0, 0.18) 38%,
+    rgba(0, 0, 0, 0.05) 65%,
+    transparent 100%
+  );
+  pointer-events: none;
+  z-index: 2;
+}
+
+/* Matte Laminate Sheen / Specular */
+.book-sheen-overlay {
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(120deg,
+    transparent 28%,
+    rgba(255, 255, 255, 0.28) 46%,
+    rgba(255, 255, 255, 0.08) 54%,
+    transparent 72%
+  );
+  pointer-events: none;
+  z-index: 3;
+}
+
+/* 3D Spine (Left Face) */
+.book-spine {
+  width: 32px;
+  height: 295px;
+  top: 0;
+  left: 0;
+  transform-origin: left;
+  transform: rotateY(-90deg) translateZ(0px);
+  background: linear-gradient(to right, #9e6d07, #e3a311 40%, #f6c032 65%, #c88c0a);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  padding: 16px 3px;
+  box-shadow: inset 0 0 5px rgba(0, 0, 0, 0.35);
+  border-radius: 2px 0 0 2px;
+}
+
+.spine-title {
+  writing-mode: vertical-rl;
+  transform: rotate(180deg);
+  font-size: 7.5px;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  color: #2b2313;
+  text-transform: uppercase;
+  white-space: nowrap;
+}
+
+.spine-logo {
+  font-size: 7.5px;
+  font-weight: 800;
+  letter-spacing: 0.05em;
+  color: #2b2313;
+}
+
+/* 3D Paper Page Stack (Right Face: 608 Pages) */
+.book-pages-right {
+  width: 32px;
+  height: 291px;
+  top: 2px;
+  right: 0;
+  transform-origin: right;
+  transform: rotateY(90deg) translateZ(0px);
+  background: repeating-linear-gradient(to bottom,
+    #fcfbfa 0px,
+    #fcfbfa 1.5px,
+    #e9e2d3 2px,
+    #fcfbfa 3px
+  );
+  box-shadow: 
+    inset 4px 0 6px rgba(0, 0, 0, 0.12),
+    inset -2px 0 3px rgba(0, 0, 0, 0.08);
+}
+
+/* 3D Paper Page Stack (Bottom & Top) */
+.book-pages-bottom {
+  width: 201px;
+  height: 32px;
+  bottom: 0;
+  left: 2px;
+  transform-origin: bottom;
+  transform: rotateX(-90deg) translateZ(0px);
+  background: repeating-linear-gradient(to right,
+    #fcfbfa 0px,
+    #fcfbfa 1.5px,
+    #e9e2d3 2px,
+    #fcfbfa 3px
+  );
+  box-shadow: inset 0 4px 6px rgba(0, 0, 0, 0.2);
+}
+
+.book-pages-top {
+  width: 201px;
+  height: 32px;
+  top: 0;
+  left: 2px;
+  transform-origin: top;
+  transform: rotateX(90deg) translateZ(0px);
+  background: repeating-linear-gradient(to right,
+    #fcfbfa 0px,
+    #fcfbfa 1.5px,
+    #e9e2d3 2px,
+    #fcfbfa 3px
+  );
+}
+
+/* Back Cover */
+.book-back {
+  width: 205px;
+  height: 295px;
+  top: 0;
+  left: 0;
+  transform: translateZ(-16px);
+  background: #bf850b;
+  border-radius: 8px 2px 2px 8px;
+}
+
+/* Apple Drop Shadows Under Product */
+.book-shadow-ambient {
+  position: absolute;
+  bottom: -32px;
+  left: 5px;
+  width: 240px;
+  height: 48px;
+  background: radial-gradient(ellipse at 45% 50%, rgba(0, 0, 0, 0.45) 0%, rgba(0, 0, 0, 0.18) 50%, transparent 75%);
+  transform: rotateX(90deg) translateZ(-20px) rotateY(-20deg);
+  filter: blur(12px);
+  pointer-events: none;
+  transition: transform 0.5s ease;
+}
+
+.book-shadow-contact {
+  position: absolute;
+  bottom: -6px;
+  left: 12px;
+  width: 195px;
+  height: 10px;
+  background: rgba(0, 0, 0, 0.65);
+  filter: blur(4px);
+  border-radius: 50%;
+  transform: rotateZ(-2deg);
+  pointer-events: none;
+}
+
+.apple-book-stage:hover .book-shadow-ambient,
+.apple-book-stage.is-active .book-shadow-ambient {
+  transform: rotateX(90deg) translateZ(-25px) rotateY(-10deg) scale(1.08);
+}
+
+/* Floating Museum Spec Badges */
+.stage-floating-tag {
+  position: absolute;
+  z-index: 10;
+  background: var(--nav-glass);
+  backdrop-filter: saturate(180%) blur(16px);
+  -webkit-backdrop-filter: saturate(180%) blur(16px);
+  border: 1px solid var(--hairline-strong);
+  border-radius: var(--radius-pill);
+  padding: 0.38rem 0.85rem;
+  font-size: 0.72rem;
+  font-weight: 600;
+  color: var(--ink);
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.12);
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+  pointer-events: none;
+  transition: transform 0.4s ease;
+}
+
+.tag-top {
+  top: 14px;
+  left: -10px;
+}
+
+.tag-bottom {
+  bottom: 14px;
+  right: -8px;
+}
+
+.apple-book-stage:hover .tag-top,
+.apple-book-stage.is-active .tag-top {
+  transform: translateY(-4px);
+}
+
+.apple-book-stage:hover .tag-bottom,
+.apple-book-stage.is-active .tag-bottom {
+  transform: translateY(4px);
+}
+
+.tag-gold-sparkle {
+  color: var(--accent-gold);
+  font-size: 0.75rem;
+}
+
+/* Stage Bottom Caption */
+.stage-caption {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-top: 1.15rem;
+  border-top: 1px solid var(--hairline);
+  z-index: 1;
+}
+
+.stage-caption-title {
+  font-size: 0.82rem;
+  font-weight: 600;
+  color: var(--ink);
+  letter-spacing: -0.01em;
+}
+
+.stage-action-link {
+  font-size: 0.78rem;
+  font-weight: 600;
+  color: var(--primary);
+  display: inline-flex;
+  align-items: center;
+  gap: 0.25rem;
+  transition: var(--transition-fast);
+}
+
+.stage-action-link:hover {
+  color: var(--primary-hover);
+  text-decoration: underline;
+}
+
+/* Real Book Cover Showcase in Bücher View */
+.book-real-cover-showcase {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  perspective: 1200px;
+  padding: 1.5rem;
+}
+
+/* Home Bottom Banner Thumbnail */
+.portal-books-thumb {
+  flex-shrink: 0;
+  perspective: 600px;
+}
+
+.portal-books-thumb-img {
+  width: 84px;
+  height: auto;
+  border-radius: 2px 7px 7px 2px;
+  box-shadow: 
+    -4px 0 10px rgba(0, 0, 0, 0.22),
+    8px 14px 28px rgba(0, 0, 0, 0.25);
+  display: block;
+  transform: rotateY(-14deg) rotateX(4deg);
+  transition: transform 0.4s ease;
+}
+
+.portal-books-banner:hover .portal-books-thumb-img {
+  transform: rotateY(-4deg) rotateX(2deg) scale(1.05);
+}
+
+/* About Us Card */
+.about-card {
+  background: var(--surface);
+  padding: 3rem;
+  border-radius: var(--radius-lg);
+  border: 1px solid var(--hairline);
+  box-shadow: var(--shadow-subtle);
+}
+
+/* ==========================================================================
+   Full Mobile Optimization & Responsive Media Queries
+   ========================================================================== */
+
+@media (max-width: 900px) {
+  .site-header {
+    height: 54px;
+  }
+
+  .header-inner {
+    height: 54px;
+  }
+
+  /* Frosted Glass Mobile Menu Drawer */
+  .nav-menu {
+    display: none;
+    position: fixed;
+    top: 54px;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: var(--nav-glass);
+    backdrop-filter: saturate(180%) blur(25px);
+    -webkit-backdrop-filter: saturate(180%) blur(25px);
+    flex-direction: column;
+    padding: 2rem 1.5rem;
+    gap: 0.85rem;
+    z-index: 999;
+    border-bottom: 1px solid var(--hairline);
+    overflow-y: auto;
+    animation: mobileMenuSlide 0.22s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+  }
+
+  .nav-menu.mobile-open {
+    display: flex;
+  }
+
+  .nav-link {
+    width: 100%;
+    padding: 0.95rem 1.25rem;
+    font-size: 1.05rem;
+    font-weight: 600;
+    border-radius: var(--radius-md);
+    background: var(--surface);
+    border: 1px solid var(--hairline);
+    justify-content: flex-start;
+  }
+
+  .nav-link:hover, .nav-link.active {
+    background: var(--surface-secondary);
+    border-color: var(--primary);
+  }
+
+  .mobile-menu-btn {
+    display: flex;
+  }
+
+  .portal-hero-wrap {
+    grid-template-columns: 1fr;
+    gap: 2.75rem;
+  }
+
+  .portal-hero-text {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+
+  .portal-eyebrow-box {
+    justify-content: center;
+  }
+
+  .portal-hero-actions {
+    justify-content: center;
+  }
+
+  .hero-specs-row {
+    justify-content: center;
+  }
+
+  .apple-book-stage {
+    max-width: 360px;
+    padding: 2.25rem 1.5rem 1.5rem;
+  }
+
+  .book-3d-object {
+    width: 180px;
+    height: 260px;
+  }
+
+  .book-front, .book-back {
+    width: 180px;
+    height: 260px;
+  }
+
+  .book-spine, .book-pages-right {
+    height: 260px;
+  }
+
+  .book-pages-bottom, .book-pages-top {
+    width: 176px;
+  }
+
+  .book-shadow-ambient {
+    width: 210px;
+  }
+
+  .portal-books-banner {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 1.75rem;
+    padding: 2rem 1.5rem;
+  }
+
+  .portal-books-thumb {
+    align-self: center;
+  }
+
+  .portal-books-thumb-img {
+    width: 100px;
+  }
+
+  .portal-books-actions {
+    width: 100%;
+    min-width: unset;
+  }
+
+  .book-pub-main {
+    grid-template-columns: 1fr;
+    gap: 2rem;
+  }
+
+  .book-pub-visual {
+    justify-content: center;
+  }
+
+  .footer-grid {
+    grid-template-columns: 1fr 1fr;
+    gap: 2.5rem;
+  }
+}
+
+/* Category Filter Bar Horizontal Touch Scroll on Mobile / Tablets */
+@media (max-width: 768px) {
+  .category-filter-bar {
+    display: flex;
+    flex-wrap: nowrap !important;
+    overflow-x: auto !important;
+    -webkit-overflow-scrolling: touch;
+    scrollbar-width: none;
+    padding-bottom: 0.5rem;
+    margin-left: -1rem;
+    margin-right: -1rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+
+  .category-filter-bar::-webkit-scrollbar {
+    display: none;
+  }
+
+  .cat-pill-btn {
+    flex-shrink: 0;
+    white-space: nowrap;
+  }
+
+  .dir-search-box input {
+    font-size: 16px !important; /* Prevents auto-zoom in iOS Safari */
+  }
+
+  .chapter-cards-grid {
+    grid-template-columns: 1fr !important;
+  }
+}
+
+/* Small Smartphone Screen Optimization (< 600px) */
+@media (max-width: 600px) {
+  .site-header .container {
+    padding: 0 0.85rem;
+  }
+
+  .brand-sub {
+    display: none; /* Hide lengthy subtitle so header remains sleek */
+  }
+
+  .brand-title {
+    font-size: 0.88rem;
+  }
+
+  .header-actions .btn-primary {
+    display: none; /* Accessible directly via mobile drawer menu */
+  }
+
+  .search-shortcut {
+    display: none;
+  }
+
+  .search-label {
+    display: none;
+  }
+
+  .search-trigger {
+    padding: 0.45rem 0.65rem;
+  }
+
+  .portal-title {
+    font-size: 1.75rem;
+    letter-spacing: -0.02em;
+  }
+
+  .portal-desc {
+    font-size: 0.92rem;
+  }
+
+  .portal-hero-actions {
+    flex-direction: column;
+    width: 100%;
+  }
+
+  .portal-hero-actions a {
+    width: 100%;
+    justify-content: center;
+  }
+
+  .apple-book-stage {
+    max-width: 310px;
+    padding: 1.75rem 1rem 1.25rem;
+  }
+
+  .book-3d-object {
+    width: 155px;
+    height: 224px;
+  }
+
+  .book-front, .book-back {
+    width: 155px;
+    height: 224px;
+  }
+
+  .book-spine, .book-pages-right {
+    height: 224px;
+  }
+
+  .book-pages-bottom, .book-pages-top {
+    width: 151px;
+  }
+
+  .book-shadow-ambient {
+    width: 180px;
+  }
+
+  .tag-top {
+    left: 2px;
+    top: 4px;
+    font-size: 0.68rem;
+    padding: 0.25rem 0.6rem;
+  }
+
+  .tag-bottom {
+    right: 2px;
+    bottom: 4px;
+    font-size: 0.68rem;
+    padding: 0.25rem 0.6rem;
+  }
+
+  /* Chapter Cards on Small Screens */
+  .category-group-header {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 0.35rem;
+  }
+
+  .category-group-title {
+    font-size: 1.2rem;
+  }
+
+  .topic-card {
+    padding: 1.15rem 1rem;
+  }
+
+  .topic-title {
+    font-size: 1.05rem;
+  }
+
+  /* Views & Cards */
+  #about-view, #buecher-view, #belege-view {
+    padding: 2.25rem 0 3.5rem !important;
+  }
+
+  .about-card {
+    padding: 1.5rem 1.15rem !important;
+    border-radius: var(--radius-md) !important;
+  }
+
+  .about-text-content {
+    font-size: 0.98rem !important;
+    line-height: 1.75 !important;
+  }
+
+  .book-pub-card {
+    padding: 1.5rem 1.25rem;
+    border-radius: var(--radius-lg);
+  }
+
+  .book-pub-title {
+    font-size: 1.35rem;
+  }
+
+  .book-pub-actions {
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  .book-pub-actions a {
+    justify-content: center;
+    width: 100%;
+  }
+
+  .footer-grid {
+    grid-template-columns: 1fr;
+    gap: 2rem;
+  }
+
+  /* Search Modal Full Mobile Sheet */
+  .search-modal {
+    padding: 0;
+  }
+
+  .search-panel {
+    max-width: 100%;
+    height: 100%;
+    max-height: 100vh;
+    border-radius: 0;
+    border: none;
+  }
+
+  .search-input-wrap input {
+    font-size: 16px !important;
+  }
+}
+
+@keyframes mobileMenuSlide {
+  from { opacity: 0; transform: translateY(-10px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+
+/* ==========================================================================
+   Whole chapter card is one big link (the title link is stretched over the card).
+   The theme chips and the "Kapitel lesen" link stay separately clickable above it.
+   ========================================================================== */
+.topic-card { position: relative; cursor: pointer; }
+.topic-title a { color: inherit; }
+.topic-title a::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  z-index: 1;
+  border-radius: inherit;
+}
+.topic-title a:focus-visible { outline: none; }
+.topic-title a:focus-visible::after { outline: 2px solid var(--primary); outline-offset: 2px; }
+.topic-subhead-chip, .topic-read-link { position: relative; z-index: 2; }
+.topic-card:hover .topic-title a { color: var(--primary); }
+.topic-card:hover .topic-read-link { gap: 0.6rem; }
+@media (prefers-reduced-motion: reduce) { .topic-card:hover { transform: none; } }

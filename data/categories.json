@@ -1,0 +1,90 @@
+[
+  {
+    "id": "koran",
+    "title_de": "Der Islam gemäß dem Koran",
+    "description": "Die Rückkehr zur einzigen unfehlbaren göttlichen Quelle: Was der Koran über sich selbst und über den Glauben aussagt.",
+    "icon": "book-open",
+    "chapters": [
+      1,
+      2,
+      3,
+      30,
+      32,
+      34,
+      35,
+      36,
+      38,
+      39,
+      40
+    ]
+  },
+  {
+    "id": "hadith",
+    "title_de": "Hadith-Widersprüche & Kritik",
+    "description": "Wissenschaftliche und theologische Untersuchung von Hadithen: Widersprüche zum Koran, zu anderen Hadithen und zur Vernunft.",
+    "icon": "alert-triangle",
+    "chapters": [
+      4,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ]
+  },
+  {
+    "id": "faelschungen",
+    "title_de": "Religiöse Fälschungen & Zusätze",
+    "description": "Historische Hintergründe der Umayyaden und Abbasiden, Hadith-Erfinder, Verbote von Kunst/Musik und Speiseregeln.",
+    "icon": "shield-off",
+    "chapters": [
+      5,
+      12,
+      13,
+      17,
+      18,
+      19,
+      20,
+      25,
+      26,
+      37
+    ]
+  },
+  {
+    "id": "rechtsschulen",
+    "title_de": "Rechtsschulen & Sufi-Orden",
+    "description": "Die Entstehung der 4 Rechtsschulen, Sufismus (Tariqa), Aberglaube, das Marifetname und wissenschaftlicher Stillstand.",
+    "icon": "git-branch",
+    "chapters": [
+      14,
+      15,
+      23,
+      24,
+      29,
+      31,
+      33
+    ]
+  },
+  {
+    "id": "prophet",
+    "title_de": "Befolgung des Propheten (Sunna)",
+    "description": "Was bedeutet es wahrhaftig, dem Propheten zu folgen? Der Begriff Sunna im Koran und das Verbot der Überhöhung von Menschen.",
+    "icon": "user-check",
+    "chapters": [
+      16,
+      27,
+      28
+    ]
+  },
+  {
+    "id": "frau",
+    "title_de": "Die Frau im Islam des Koran",
+    "description": "Die Würde, Rechte und Gleichwertigkeit der Frau im Koran im scharfen Kontrast zur traditionellen frauenfeindlichen Überlieferung.",
+    "icon": "heart",
+    "chapters": [
+      21,
+      22
+    ]
+  }
+]

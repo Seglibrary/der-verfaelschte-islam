@@ -1,0 +1,388 @@
+/* ==========================================================================
+   Phone / touch optimisation. Loaded last.
+   - touch targets of at least ~40px (the design system's 36px icon buttons are
+     fine with a mouse, but too small for a thumb)
+   - footnote numbers get a bigger invisible hit area
+   - safe areas (notch, home bar) are respected
+   - the width choice is hidden where it has no effect
+   ========================================================================== */
+
+html {
+  -webkit-text-size-adjust: 100%;
+  text-size-adjust: 100%;
+}
+
+@media (max-width: 1100px) {
+  .rs-row-width {
+    display: none;
+  }
+
+  /* the text width choice only matters on a computer */
+}
+
+
+@media (pointer: coarse),
+(max-width: 700px) {
+
+  .search-trigger,
+  .theme-toggle-btn,
+  .mobile-menu-btn {
+    min-width: 44px;
+    min-height: 44px;
+    justify-content: center;
+  }
+
+  .reader-back-btn {
+    min-width: 44px;
+    min-height: 44px;
+    justify-content: center;
+  }
+
+  .reader-tool-btn {
+    min-height: 44px;
+    padding: 0 0.9rem;
+    font-size: 0.82rem;
+  }
+
+  .reader-icon-btn {
+    width: 44px;
+    height: 44px;
+  }
+
+  .reader-settings {
+    padding: 0.35rem 1rem 0.6rem;
+  }
+
+  .rs-stepper button,
+  .rs-opt {
+    min-height: 46px;
+  }
+
+  .rs-switch {
+    width: 48px;
+    height: 28px;
+  }
+
+  .rs-switch::after {
+    width: 22px;
+    height: 22px;
+    top: 3px;
+    left: 3px;
+  }
+
+  .rs-switch[aria-checked="true"]::after {
+    transform: translateX(20px);
+  }
+
+  .rs-row-switch {
+    min-height: 48px;
+  }
+
+  .quran-verse-card .verse-copy-btn {
+    min-height: 36px;
+    padding: 0 0.85rem;
+  }
+
+  .subhead-nav-link {
+    padding: 0.65rem 0.75rem;
+    font-size: 0.9rem;
+  }
+
+  /* tap area of the small footnote numbers, without changing the text layout */
+  .fn-ref a {
+    position: relative;
+  }
+
+  .fn-ref a::after {
+    content: "";
+    position: absolute;
+    inset: -0.75rem -0.6rem;
+  }
+}
+
+@media (max-width: 700px) {
+  .reader-title {
+    font-size: 1.6rem;
+    line-height: 1.22;
+    text-wrap: balance;
+  }
+
+  .reader-header {
+    margin-bottom: 1.6rem;
+    padding-bottom: 1rem;
+  }
+
+  .reader-body h2.subheading-title {
+    font-size: 1.28rem;
+    margin: 2.2rem 0 0.9rem;
+  }
+
+  .quran-verse-card {
+    padding-left: 1rem;
+    margin: 1.4rem 0 1.5rem;
+  }
+
+  .embedded-proof-card {
+    margin: 1.4rem auto 1.6rem;
+  }
+
+  .proof-card-media img {
+    max-height: 22rem;
+  }
+
+  .reader-bottom-nav {
+    flex-direction: column;
+    align-items: stretch;
+    gap: 0.75rem;
+  }
+
+  .reader-bottom-nav .nav-ch-btn,
+  .reader-bottom-nav .btn-secondary {
+    width: 100%;
+    text-align: center;
+  }
+
+  /* notch / home bar */
+  .resume-banner {
+    bottom: calc(0.9rem + env(safe-area-inset-bottom));
+  }
+
+  .fn-popover {
+    bottom: calc(0.75rem + env(safe-area-inset-bottom));
+    max-height: 55vh;
+  }
+
+  .reader-view {
+    padding-bottom: calc(3rem + env(safe-area-inset-bottom));
+  }
+}
+
+/* picture viewer: full screen on a phone, the picture as large as possible */
+@media (max-width: 700px) {
+  .lightbox-modal {
+    padding: 0;
+  }
+
+  .lightbox-container {
+    height: 100dvh;
+    max-height: 100dvh;
+    border-radius: 0;
+    border: 0;
+  }
+
+  .lightbox-header {
+    padding-top: calc(0.65rem + env(safe-area-inset-top));
+  }
+
+  .lightbox-media {
+    padding: 0;
+    min-height: 0;
+    max-height: none;
+    flex: 1 1 auto;
+    background: #000;
+  }
+
+  .lightbox-media img {
+    width: 100%;
+    height: auto;
+    max-height: 100%;
+    border-radius: 0;
+    box-shadow: none;
+  }
+
+  .lightbox-footer {
+    padding-bottom: calc(0.75rem + env(safe-area-inset-bottom));
+  }
+}
+
+/* chapter cards: theme label */
+.topic-cat {
+  margin: -0.15rem 0 0.35rem;
+  font-size: 0.72rem;
+  font-weight: 600;
+  letter-spacing: 0.03em;
+  color: var(--ink-muted);
+}
+
+.topic-meta {
+  gap: 0.6rem;
+}
+
+/* chapter cards on a phone: badge and meta may wrap as whole items, never inside a word */
+@media (max-width: 700px) {
+  .topic-card-top {
+    flex-wrap: wrap;
+    gap: 0.35rem 0.6rem;
+    align-items: center;
+  }
+
+  .topic-badge,
+  .topic-meta>span {
+    white-space: nowrap;
+  }
+
+  .topic-meta {
+    flex-wrap: wrap;
+    gap: 0.3rem 0.6rem;
+    justify-content: flex-start;
+  }
+
+  /* wide tables scroll sideways inside their frame; shadows show that there is more */
+  .reader-table {
+    min-width: 31rem;
+  }
+
+  .reader-table-wrap {
+    -webkit-overflow-scrolling: touch;
+    background:
+      linear-gradient(to right, var(--surface) 30%, transparent),
+      linear-gradient(to left, var(--surface) 30%, transparent),
+      radial-gradient(farthest-side at 0 50%, rgba(60, 45, 25, 0.22), transparent),
+      radial-gradient(farthest-side at 100% 50%, rgba(60, 45, 25, 0.22), transparent);
+    background-position: 0 0, 100% 0, 0 0, 100% 0;
+    background-repeat: no-repeat;
+    background-size: 2.5rem 100%, 2.5rem 100%, 0.9rem 100%, 0.9rem 100%;
+    background-attachment: local, local, scroll, scroll;
+  }
+
+  .reader-table th,
+  .reader-table td {
+    padding: 0.5rem 0.6rem;
+  }
+}
+
+/* phone: the chapter heading block is centred (the running text stays flush left, which reads best for hyphenated German) */
+@media (max-width: 700px) {
+  .reader-header {
+    text-align: center;
+  }
+
+  .reader-meta-row {
+    justify-content: center;
+  }
+
+  .reader-body h2.subheading-title {
+    text-align: center;
+  }
+
+  .reader-bottom-nav {
+    text-align: center;
+  }
+
+  .reader-bottom-nav .nav-ch-btn {
+    justify-content: center;
+  }
+
+  .topic-card-top,
+  .topic-meta {
+    justify-content: center;
+  }
+
+  .topic-card {
+    text-align: center;
+  }
+}
+
+/* "Inhalt" sheet: always above the bars, scrolls inside itself, never taller than the free screen */
+@media (max-width: 899px) {
+  body.contents-open .reader-sidebar {
+    top: calc(7.2rem + env(safe-area-inset-top));
+    max-height: calc(100dvh - 9rem);
+    overflow-y: auto;
+    -webkit-overflow-scrolling: touch;
+    z-index: 600;
+  }
+}
+
+/* a wide table or picture must never stretch the single column beyond the screen (grid 1fr = minmax(auto,1fr)) */
+@media (max-width: 900px) {
+  .reader-layout {
+    grid-template-columns: minmax(0, 1fr);
+  }
+
+  .reader-content-wrap,
+  .reader-body,
+  .sec-block {
+    min-width: 0;
+    max-width: 100%;
+  }
+
+  .reader-body {
+    overflow-wrap: break-word;
+  }
+}
+
+/* phone: page headers of Bildarchiv, Bücher and Über uns are centred like the home page */
+@media (max-width: 700px) {
+
+  .portal-header-top,
+  .section-header {
+    text-align: center;
+  }
+
+  .portal-header-top .portal-desc {
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .portal-badge,
+  .section-tag {
+    justify-content: center;
+    text-align: center;
+  }
+
+  .category-filter-bar {
+    justify-content: flex-start;
+  }
+
+  .book-pub-card,
+  .about-card .about-card-footer {
+    text-align: center;
+  }
+}
+/* ==========================================================================
+   Phone menu: the header has a blur effect (backdrop-filter), which traps "fixed" children
+   inside the 54px bar - so the menu was cut off. Positioned below the bar instead.
+   ========================================================================== */
+@media (max-width: 900px) {
+  .site-header nav { position: static; }
+  .nav-menu {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    right: 0;
+    bottom: auto;
+    max-height: calc(100dvh - 54px);
+    background: var(--canvas);
+    -webkit-backdrop-filter: none;
+    backdrop-filter: none;
+    padding: 1rem 1rem calc(1.25rem + env(safe-area-inset-bottom));
+    gap: 0.6rem;
+    border-bottom: 1px solid var(--hairline-strong);
+    box-shadow: 0 18px 40px rgba(40, 28, 12, 0.18);
+  }
+  .nav-link { white-space: normal; min-height: 52px; display: flex; align-items: center; }
+  .mobile-menu-btn { min-width: 44px; min-height: 44px; }
+  .mobile-menu-btn .icon-close { display: none; }
+  .mobile-menu-btn[aria-expanded="true"] .icon-open { display: none; }
+  .mobile-menu-btn[aria-expanded="true"] .icon-close { display: block; }
+}
+
+/* phone: the book "plays" as soon as it scrolls into view (there is no mouse hover on a phone) */
+@media (hover: none) {
+  .apple-book-stage .book-3d-object { transition: transform 0.9s cubic-bezier(0.16, 1, 0.3, 1); }
+  .apple-book-stage.is-active .book-3d-object { animation: bookFloat 4.5s ease-in-out 0.9s infinite; }
+}
+@keyframes bookFloat {
+  0%, 100% { transform: rotateY(-10deg) rotateX(3deg) translateY(-8px) scale(1.02); }
+  50%      { transform: rotateY(-18deg) rotateX(5deg) translateY(-14px) scale(1.03); }
+}
+@media (prefers-reduced-motion: reduce) {
+  .apple-book-stage.is-active .book-3d-object { animation: none; }
+}
+
+@media (max-width: 900px) {
+  .nav-menu { align-items: stretch; }
+  .nav-menu li { width: 100%; }
+  .nav-menu .nav-link { width: 100%; box-sizing: border-box; }
+}

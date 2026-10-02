@@ -1,0 +1,568 @@
+{
+  "number": 35,
+  "title": "Lösungsbeispiele für Fragen aus dem Koran",
+  "title_fn": null,
+  "category": {
+    "id": "koran",
+    "title_de": "Der Islam gemäß dem Koran"
+  },
+  "word_count": 2985,
+  "reading_time_min": 17,
+  "subheadings": [
+    "Prinzipien zum Verständnis eines Themas im Koran",
+    "1. Gibt es eine Strafe im Grab?",
+    "2. Kann eine Frau während der Menstruation den Koran lesen?",
+    "3. Ist das Rauchen verboten (haram)?",
+    "4. Sind Huris544 (sogenannte paradiesische Jungfrauen) sexuelle Partner?",
+    "5. Wen kann man heiraten?",
+    "6. Welchen Anspruch erben im Islam die Eltern?",
+    "7. Kann man nicht-muslimischen Staaten den Krieg erklären?",
+    "8. Kann der Staat zum Gebet zwingen?",
+    "9. Ist das gute Benehmen/Ethik ein Teil der Religion?",
+    "10. Ist das Paradies ewig?"
+  ],
+  "proof_images_count": 12,
+  "proof_images": [
+    {
+      "post_id": 604,
+      "chapter": 35,
+      "post_title": "Kapitel 35: Lösungsbeispiele für Fragen aus dem Koran",
+      "slug": "loesungsbeispiele-fuer-fragen-aus-dem-koran",
+      "url": "assets/images/proofs/der-rueckweg-zum-reinen-koran-als-loesung.webp",
+      "filename": "der-rueckweg-zum-reinen-koran-als-loesung.webp",
+      "caption": "Der Rückweg zum reinen Koran als Lösung",
+      "local_path": "assets/images/proofs/der-rueckweg-zum-reinen-koran-als-loesung.webp",
+      "caption_de": "Der Rückweg zum reinen Koran als Lösung",
+      "post_title_de": "Kapitel 35: Lösungsbeispiele für Fragen aus dem Koran",
+      "after_idx": 0,
+      "after_anchor": "Bis zu diesem Punkt in unserem Buch haben wir erklärt, dass der Koran die einzig",
+      "placement": "low",
+      "label": "Der Rückweg zum reinen Koran als Lösung"
+    },
+    {
+      "post_id": 604,
+      "chapter": 35,
+      "post_title": "Kapitel 35: Lösungsbeispiele für Fragen aus dem Koran",
+      "slug": "loesungsbeispiele-fuer-fragen-aus-dem-koran",
+      "url": "assets/images/proofs/methodik-des-koranischen-textverstaendnisses.webp",
+      "filename": "methodik-des-koranischen-textverstaendnisses.webp",
+      "caption": "Methodik des koranischen Textverständnisses",
+      "local_path": "assets/images/proofs/methodik-des-koranischen-textverstaendnisses.webp",
+      "caption_de": "Methodik des koranischen Textverständnisses",
+      "post_title_de": "Kapitel 35: Lösungsbeispiele für Fragen aus dem Koran",
+      "after_idx": 0,
+      "after_anchor": "Bis zu diesem Punkt in unserem Buch haben wir erklärt, dass der Koran die einzig",
+      "placement": "high",
+      "label": "Methodik des koranischen Textverständnisses"
+    },
+    {
+      "post_id": 604,
+      "chapter": 35,
+      "post_title": "Kapitel 35: Lösungsbeispiele für Fragen aus dem Koran",
+      "slug": "loesungsbeispiele-fuer-fragen-aus-dem-koran",
+      "url": "assets/images/proofs/quellenscan-erfindung-der-grabesstrafe-ohne-koranischen-beleg.webp",
+      "filename": "quellenscan-erfindung-der-grabesstrafe-ohne-koranischen-beleg.webp",
+      "caption": "Quellenscan: Erfindung der Grabesstrafe ohne koranischen Beleg",
+      "local_path": "assets/images/proofs/quellenscan-erfindung-der-grabesstrafe-ohne-koranischen-beleg.webp",
+      "caption_de": "Quellenscan: Erfindung der Grabesstrafe ohne koranischen Beleg",
+      "post_title_de": "Kapitel 35: Lösungsbeispiele für Fragen aus dem Koran",
+      "after_idx": 3,
+      "after_anchor": "Nachdem wir diese grundlegenden Prinzipien wiederholt haben, werden wir anhand v",
+      "placement": "high",
+      "label": "Erfindung der Grabesstrafe ohne koranischen Beleg"
+    },
+    {
+      "post_id": 604,
+      "chapter": 35,
+      "post_title": "Kapitel 35: Lösungsbeispiele für Fragen aus dem Koran",
+      "slug": "loesungsbeispiele-fuer-fragen-aus-dem-koran",
+      "url": "assets/images/proofs/koranlesung-von-frauen-waehrend-der-menstruation.webp",
+      "filename": "koranlesung-von-frauen-waehrend-der-menstruation.webp",
+      "caption": "Koranlesung von Frauen während der Menstruation",
+      "local_path": "assets/images/proofs/koranlesung-von-frauen-waehrend-der-menstruation.webp",
+      "caption_de": "Koranlesung von Frauen während der Menstruation",
+      "post_title_de": "Kapitel 35: Lösungsbeispiele für Fragen aus dem Koran",
+      "after_idx": 7,
+      "after_anchor": "Eine Untersuchung des Korans zeigt, dass es Hunderte von Versen gibt, die die Wi",
+      "placement": "high",
+      "label": "Koranlesung von Frauen während der Menstruation"
+    },
+    {
+      "post_id": 604,
+      "chapter": 35,
+      "post_title": "Kapitel 35: Lösungsbeispiele für Fragen aus dem Koran",
+      "slug": "loesungsbeispiele-fuer-fragen-aus-dem-koran",
+      "url": "assets/images/proofs/gesundheitsschutz-im-lichte-koranischer-prinzipien.webp",
+      "filename": "gesundheitsschutz-im-lichte-koranischer-prinzipien.webp",
+      "caption": "Gesundheitsschutz im Lichte koranischer Prinzipien",
+      "local_path": "assets/images/proofs/gesundheitsschutz-im-lichte-koranischer-prinzipien.webp",
+      "caption_de": "Gesundheitsschutz im Lichte koranischer Prinzipien",
+      "post_title_de": "Kapitel 35: Lösungsbeispiele für Fragen aus dem Koran",
+      "after_idx": 13,
+      "after_anchor": "Die einzige Einschränkung betrifft sexuelle Beziehungen. Es gibt keinen Hinweis ",
+      "placement": "high",
+      "label": "Gesundheitsschutz im Lichte koranischer Prinzipien"
+    },
+    {
+      "post_id": 604,
+      "chapter": 35,
+      "post_title": "Kapitel 35: Lösungsbeispiele für Fragen aus dem Koran",
+      "slug": "loesungsbeispiele-fuer-fragen-aus-dem-koran",
+      "url": "assets/images/proofs/die-koranische-beschreibung-paradiesischer-gefaehrten.webp",
+      "filename": "die-koranische-beschreibung-paradiesischer-gefaehrten.webp",
+      "caption": "Die koranische Beschreibung paradiesischer Gefährten",
+      "local_path": "assets/images/proofs/die-koranische-beschreibung-paradiesischer-gefaehrten.webp",
+      "caption_de": "Die koranische Beschreibung paradiesischer Gefährten",
+      "post_title_de": "Kapitel 35: Lösungsbeispiele für Fragen aus dem Koran",
+      "after_idx": 17,
+      "after_anchor": "Wenn wir den Koran analysieren, finden wir keinen Artikel namens Zigarette oder ",
+      "placement": "high",
+      "label": "Die koranische Beschreibung paradiesischer Gefährten"
+    },
+    {
+      "post_id": 604,
+      "chapter": 35,
+      "post_title": "Kapitel 35: Lösungsbeispiele für Fragen aus dem Koran",
+      "slug": "loesungsbeispiele-fuer-fragen-aus-dem-koran",
+      "url": "assets/images/proofs/koranische-ehe-und-heiratsregeln.webp",
+      "filename": "koranische-ehe-und-heiratsregeln.webp",
+      "caption": "Koranische Ehe- und Heiratsregeln",
+      "local_path": "assets/images/proofs/koranische-ehe-und-heiratsregeln.webp",
+      "caption_de": "Koranische Ehe- und Heiratsregeln",
+      "post_title_de": "Kapitel 35: Lösungsbeispiele für Fragen aus dem Koran",
+      "after_idx": 21,
+      "after_anchor": "Im Koran wird erwähnt, dass es im Jenseits Huris, Gilmans und Wildans geben wird",
+      "placement": "high",
+      "label": "Koranische Ehe- und Heiratsregeln"
+    },
+    {
+      "post_id": 604,
+      "chapter": 35,
+      "post_title": "Kapitel 35: Lösungsbeispiele für Fragen aus dem Koran",
+      "slug": "loesungsbeispiele-fuer-fragen-aus-dem-koran",
+      "url": "assets/images/proofs/koranische-erbanteile-der-eltern.webp",
+      "filename": "koranische-erbanteile-der-eltern.webp",
+      "caption": "Koranische Erbanteile der Eltern",
+      "local_path": "assets/images/proofs/koranische-erbanteile-der-eltern.webp",
+      "caption_de": "Koranische Erbanteile der Eltern",
+      "post_title_de": "Kapitel 35: Lösungsbeispiele für Fragen aus dem Koran",
+      "after_idx": 32,
+      "after_anchor": "Wenn wir alle oben genannten Verse analysieren, erfahren wir aus 4:22-24, wen wi",
+      "placement": "high",
+      "label": "Koranische Erbanteile der Eltern"
+    },
+    {
+      "post_id": 604,
+      "chapter": 35,
+      "post_title": "Kapitel 35: Lösungsbeispiele für Fragen aus dem Koran",
+      "slug": "loesungsbeispiele-fuer-fragen-aus-dem-koran",
+      "url": "assets/images/proofs/koranische-friedensordnung-vs-aggressive-kriegs-hadithe.webp",
+      "filename": "koranische-friedensordnung-vs-aggressive-kriegs-hadithe.webp",
+      "caption": "Koranische Friedensordnung vs. aggressive Kriegs-Hadithe",
+      "local_path": "assets/images/proofs/koranische-friedensordnung-vs-aggressive-kriegs-hadithe.webp",
+      "caption_de": "Koranische Friedensordnung vs. aggressive Kriegs-Hadithe",
+      "post_title_de": "Kapitel 35: Lösungsbeispiele für Fragen aus dem Koran",
+      "after_idx": 38,
+      "after_anchor": "Wie zu sehen, erben die Eltern jeweils 1/6 des Erbes.",
+      "placement": "high",
+      "label": "Koranische Friedensordnung vs. aggressive Kriegs-Hadithe"
+    },
+    {
+      "post_id": 604,
+      "chapter": 35,
+      "post_title": "Kapitel 35: Lösungsbeispiele für Fragen aus dem Koran",
+      "slug": "loesungsbeispiele-fuer-fragen-aus-dem-koran",
+      "url": "assets/images/proofs/zwang-im-glauben-ist-verboten-koran-2-256.webp",
+      "filename": "zwang-im-glauben-ist-verboten-koran-2-256.webp",
+      "caption": "Zwang im Glauben ist verboten (Koran 2:256)",
+      "local_path": "assets/images/proofs/zwang-im-glauben-ist-verboten-koran-2-256.webp",
+      "caption_de": "Zwang im Glauben ist verboten (Koran 2:256)",
+      "post_title_de": "Kapitel 35: Lösungsbeispiele für Fragen aus dem Koran",
+      "after_idx": 46,
+      "after_anchor": "„Aber wenn sie dem Frieden zuneigen, neige auch du ihm zu und setze dein Vertrau",
+      "placement": "high",
+      "label": "Zwang im Glauben ist verboten (Koran 2:256)"
+    },
+    {
+      "post_id": 604,
+      "chapter": 35,
+      "post_title": "Kapitel 35: Lösungsbeispiele für Fragen aus dem Koran",
+      "slug": "loesungsbeispiele-fuer-fragen-aus-dem-koran",
+      "url": "assets/images/proofs/gute-moral-und-ethik-als-kern-des-korans.webp",
+      "filename": "gute-moral-und-ethik-als-kern-des-korans.webp",
+      "caption": "Gute Moral und Ethik als Kern des Korans",
+      "local_path": "assets/images/proofs/gute-moral-und-ethik-als-kern-des-korans.webp",
+      "caption_de": "Gute Moral und Ethik als Kern des Korans",
+      "post_title_de": "Kapitel 35: Lösungsbeispiele für Fragen aus dem Koran",
+      "after_idx": 52,
+      "after_anchor": "„Und so ermahne sie; deine Aufgabe ist nur zu ermahnen: du bist kein Despot über",
+      "placement": "high",
+      "label": "Gute Moral und Ethik als Kern des Korans"
+    },
+    {
+      "post_id": 604,
+      "chapter": 35,
+      "post_title": "Kapitel 35: Lösungsbeispiele für Fragen aus dem Koran",
+      "slug": "loesungsbeispiele-fuer-fragen-aus-dem-koran",
+      "url": "assets/images/proofs/theologische-fragen-zum-paradies.webp",
+      "filename": "theologische-fragen-zum-paradies.webp",
+      "caption": "Theologische Fragen zum Paradies",
+      "local_path": "assets/images/proofs/theologische-fragen-zum-paradies.webp",
+      "caption_de": "Theologische Fragen zum Paradies",
+      "post_title_de": "Kapitel 35: Lösungsbeispiele für Fragen aus dem Koran",
+      "after_idx": 59,
+      "after_anchor": "„… und (wahrhaft fromm sind) diejenigen, die ihre Versprechen halten, wann immer",
+      "placement": "high",
+      "label": "Theologische Fragen zum Paradies"
+    }
+  ],
+  "pdf_pages": [
+    527,
+    542
+  ],
+  "sections_count": 69,
+  "sections": [
+    {
+      "type": "paragraph",
+      "text": "<span class=\"pb\" data-p=\"527\"></span>Bis zu diesem Punkt in unserem Buch haben wir erklärt, dass der Koran die einzige Quelle des Islam ist und dass die Religion dementsprechend gestaltet werden sollte. Dabei haben wir gezeigt, dass Erklärungen und Praktiken außerhalb des Korans, von denen man annimmt, dass sie ein Element des Islam seien, nichts mit der Religion zu tun haben. Zum Beispiel haben wir uns mit den Ammenmärchen über die Kunst in Kapitel 18 und über die Frauen in Kapitel 21 befasst. In diesen und anderen Kapiteln haben wir die grundlegende Methode gelernt, dass Verbote und Gebote, die nicht im Koran stehen, keine universellen Verbote oder Gebote des Islam sein können. In diesem Teil des Buches werden wir veranschaulichen, was eine Person, die das Urteil über ein beliebiges Thema im Islam wissen möchte, im Rahmen dessen tun sollte, was wir bisher erklärt haben. Nachdem wir zusammengefasst haben, was beim Verständnis eines Themas aus dem Koran zu beachten ist, werden wir versuchen, dieses Thema mit 10 Beispiellösungen zu untermauern. Lassen Sie uns zunächst die grundlegenden Prinzipien zusammenfassen, wie eine Angelegenheit gemäß dem Koran, d. h. gemäß dem Islam, zu verstehen ist:"
+    },
+    {
+      "type": "heading",
+      "text": "Prinzipien zum Verständnis eines Themas im Koran",
+      "plain": "Prinzipien zum Verständnis eines Themas im Koran",
+      "slug": "prinzipien-zum-verstaendnis-eines-themas-im-koran"
+    },
+    {
+      "type": "list",
+      "items": [
+        {
+          "label": "1.",
+          "text": "Es darf nicht vergessen werden, dass der Islam ausschließlich auf dem Koran basiert: „Islam = Koran“. Der Koran ist das Wort Gottes und wurde offenbart, um uns die Religion verständlich zu machen."
+        },
+        {
+          "label": "2.",
+          "text": "<span class=\"pb\" data-p=\"528\"></span> Jede Fragestellung sollte im Gesamtzusammenhang des Korans analysiert und gelöst werden. Alle Verse, die sich auf ein Thema beziehen, müssen berücksichtigt werden, einschließlich ihrer vorangehenden und nachfolgenden Passagen. (Einen Teil des Korans anzunehmen und einen anderen abzulehnen, bedeutet, den Koran insgesamt abzulehnen.) Es sollte stets bedacht werden, dass ein im Koran behandeltes Thema oder eine Idee an keiner anderen Stelle des Korans widersprüchlich sein kann."
+        },
+        {
+          "label": "3.",
+          "text": "Ein Thema, das im Koran nicht erwähnt wird, gehört auch nicht zum Islam. Die Anwendung dieses Prinzips eliminiert mehr als 90 % der Hinzufügungen zum Islam. (Wegen der Bedeutung dieses Prinzips wird es in Kapitel 39 noch einmal speziell untersucht.) Es sollte nicht vergessen werden, dass alles, was im Koran nicht verboten (<em>haram</em>) ist, als erlaubt (<em>halal</em>) gilt und dafür keine zusätzliche Erklärung erforderlich ist."
+        },
+        {
+          "label": "4.",
+          "text": "Es sollte bedacht werden, dass einige religiöse Zusätze durch Verzerrung von Koranversen eingeführt wurden. Bei Zweifeln über ein Thema ist es wichtig zu wissen, dass der Koran im Original auf Arabisch offenbart wurde, und sich für die Klärung an Personen zu wenden, die Arabisch gut beherrschen und mit aufrichtiger Absicht an den Koran herangehen. Falls Zweifel an der Aufrichtigkeit dieser Personen bestehen, können Sie die untersuchten Punkte unabhängig voneinander von verschiedenen Personen überprüfen lassen. (Ein entscheidender Indikator für die Aufrichtigkeit ist, ob diese Personen akzeptieren, dass der Koran die einzige Quelle des Islam ist. Wer dies nicht akzeptiert, könnte versuchen, die Ansichten seiner Rechtsschule dem Koran <span class=\"pb\" data-p=\"529\"></span>zuzuschreiben.) Während dieser Analyse sollten Schlüsselbegriffe und -konzepte im gesamten Koran untersucht und in ihrem Kontext zur Offenbarungszeit verstanden werden."
+        },
+        {
+          "label": "5.",
+          "text": "Beim Verständnis des Korans sind Verstand und Gewissen die wichtigsten Hilfsmittel. Traditionen, Bräuche, die Meinungen der Mehrheit und der Druck der Gesellschaft können jedoch Verstand und Gewissen einschränken und ihre angemessene Anwendung verhindern. Diese Faktoren stellen die größten Hindernisse dar, um eine reine Verbindung zum Koran herzustellen."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Nachdem wir diese grundlegenden Prinzipien wiederholt haben, werden wir anhand von zehn Beispielen veranschaulichen, wie eine Fragestellung aus dem Koran heraus verstanden werden kann."
+    },
+    {
+      "type": "heading",
+      "text": "1. Gibt es eine Strafe im Grab?",
+      "plain": "1. Gibt es eine Strafe im Grab?",
+      "slug": "1-gibt-es-eine-strafe-im-grab"
+    },
+    {
+      "type": "paragraph",
+      "text": "<strong>Frage:</strong> Gibt es nach dem Tod eine Befragung oder Bestrafung im Grab?"
+    },
+    {
+      "type": "paragraph",
+      "text": "<strong>Antwort:</strong>"
+    },
+    {
+      "type": "paragraph",
+      "text": "Eine Untersuchung des Korans zeigt, dass es Hunderte von Versen gibt, die die Wiedererweckung nach dem Tod, die Befragung im Jenseits sowie das Paradies und die Hölle klar beschreiben. Es gibt jedoch keinen einzigen Vers, der deutlich erklärt, dass wir im Grab befragt oder dort belohnt oder bestraft werden würden. Der Koran spricht oft von „diesem Leben“ und „dem jenseitigen Leben“, nicht jedoch von einem „Leben im Grab“. Außerdem beschreibt der Koran das jenseitige Leben als eine Fortsetzung des <span class=\"pb\" data-p=\"530\"></span>irdischen Lebens, ohne von einer Zwischenphase im Grab zu sprechen."
+    },
+    {
+      "type": "heading",
+      "text": "2. Kann eine Frau während der Menstruation den Koran lesen?",
+      "plain": "2. Kann eine Frau während der Menstruation den Koran lesen?",
+      "slug": "2-kann-eine-frau-waehrend-der-menstruation-den-koran-lesen"
+    },
+    {
+      "type": "paragraph",
+      "text": "<strong>Frage:</strong> Was muss eine Frau während ihrer Menstruation beachten? Kann sie den Koran lesen, beten oder fasten?"
+    },
+    {
+      "type": "paragraph",
+      "text": "<strong>Antwort:</strong>"
+    },
+    {
+      "type": "paragraph",
+      "text": "Der Koran erwähnt, was während der Menstruation zu beachten ist, in einem einzigen Vers:"
+    },
+    {
+      "type": "verse",
+      "text": "„Sie fragen dich nach der Menstruation. Sag: ‘Das ist ein Leiden.’ Darum haltet euch während der Menstruation von den Frauen fern und naht ihnen nicht, bis sie sich wieder gereinigt haben. Und wenn sie sich gereinigt haben, dann naht ihnen, wie Gott es euch geboten hat. Wahrlich, Gott liebt die Reumütigen und die sich Reinigenden.“",
+      "reference": "Koran 2:222"
+    },
+    {
+      "type": "paragraph",
+      "text": "Die einzige Einschränkung betrifft sexuelle Beziehungen. Es gibt keinen Hinweis darauf, dass Frauen während der Menstruation nicht den Koran lesen, beten oder fasten dürfen. Es gibt kein Verbot für eine Frau, die Moschee zu betreten oder den Koran zu lesen, während sie menstruiert. Gott hat die Fragen zur Menstruation mit dem Verbot des Geschlechtsverkehrs während dieser Zeit beantwortet. Ist das Verbot des Geschlechtsverkehrs wichtiger als das tägliche Gebet? Wäre es notwendig, das Gebet während der Menstruation auszusetzen, hätte Gott dies sicherlich erwähnt. Eine Frau, die den Koran gelesen und die Gebote und Verbote Gottes gelernt haben sollte, wird etwa ein Sechstel ihres Lebens <span class=\"pb\" data-p=\"531\"></span>dieses Rechts beraubt und im Namen “des Islam” von der Religion und von Gott durch diejenigen, die anstelle Gottes sprechen, entfernt."
+    },
+    {
+      "type": "heading",
+      "text": "3. Ist das Rauchen verboten (haram)?",
+      "plain": "3. Ist das Rauchen verboten (haram)?",
+      "slug": "3-ist-das-rauchen-verboten-haram"
+    },
+    {
+      "type": "paragraph",
+      "text": "<strong>Frage:</strong> Ist das Rauchen verboten (<em>haram</em>) oder unerwünscht (<em>makruh</em>)?"
+    },
+    {
+      "type": "paragraph",
+      "text": "<strong>Antwort:</strong>"
+    },
+    {
+      "type": "paragraph",
+      "text": "Wenn wir den Koran analysieren, finden wir keinen Artikel namens Zigarette oder etwas, das der Zigarette ähnelt. Im Koran gibt es keine separate Liste von Unerwünschtem (<em>makruh</em>) neben den Verbotenen (<em>haram</em>). Es gibt keinen Grundsatz im Koran, der besagt: „Was gesundheitsschädlich ist, ist verboten (<em>haram</em>)“. Wenn es einen solchen Grundsatz gäbe, wären Lebensmittel und Essgewohnheiten, die als gesundheitsschädlich gelten, ebenfalls verboten (<em>haram</em>), wie z. B. der Verzehr von fetthaltigen Lebensmitteln durch Übergewichtige, der Verzehr von rotem Fleisch durch Menschen mit hohem Cholesterinspiegel, das Trinken säurehaltiger Getränke wie Cola und das Essen kurz vor dem Schlafengehen. Sogar raffinierter Weißzucker und Weißbrot, die nach Ansicht vieler Ernährungswissenschaftler schädlich sind, würden in die „<em>haram</em>“-Liste aufgenommen werden. Mit anderen Worten: Wenn es im Islam den Grundsatz gäbe: „Alles, was der Gesundheit schadet, ist verboten (<em>haram</em>)“, dann hätte der Islam eine sehr schwierige Struktur angenommen. Gott weiß selbstverständlich, was Er offenbart hat. Gott wollte es Seinen Dienern leicht machen und hat den Islam leicht gemacht. Alles, was Teil des Islam ist, alles Gebotene und Verbotene, <span class=\"pb\" data-p=\"532\"></span>ist der Bereich, in dem wir verantwortlich gemacht werden. Der Einsatz der Vernunft in nicht-religiösen Bereichen (Bereiche, die nicht im Koran aufgeführt sind) – wie auch in religiösen Bereichen – wird uns zu den besten Ergebnissen führen. Dementsprechend sollten die Raucher ihre Vernunft einsetzen und entscheiden, was sie tun wollen. Darüber hinaus ist das allgemeine Prinzip des Korans, „nicht zu verschwenden“, auch ein Prinzip, das im Verhalten berücksichtigt werden sollte, aber es ist inakzeptabel, dass einige Leute dieses Prinzip auf ihre eigene Weise interpretieren und ihre Interpretation als universelle religiöse Vorschrift darstellen."
+    },
+    {
+      "type": "heading",
+      "text": "4. Sind Huris<sup class=\"fn-ref\"><a href=\"#fn-544\" id=\"fnref-544\">544</a></sup> (sogenannte paradiesische Jungfrauen) sexuelle Partner?",
+      "plain": "4. Sind Huris544 (sogenannte paradiesische Jungfrauen) sexuelle Partner?",
+      "slug": "4-sind-huris-sogenannte-paradiesische-jungfrauen-sexuelle"
+    },
+    {
+      "type": "paragraph",
+      "text": "<strong>Frage:</strong> Werden im Paradies sexuelle Beziehungen mit Huris stattfinden?"
+    },
+    {
+      "type": "paragraph",
+      "text": "<strong>Antwort:</strong>"
+    },
+    {
+      "type": "paragraph",
+      "text": "Im Koran wird erwähnt, dass es im Jenseits Huris, Gilmans und Wildans geben wird. Aber es gibt jedoch keine detaillierten Informationen über ihre Rollen. Es gibt keine klare Aussage darüber, ob es mit den Huris Geschlechtsverkehr geben wird oder nicht. Das Glück derjenigen, die ins Paradies kommen, und das Bedauern derjenigen, die in die Hölle kommen, werden in den Versen des Korans klar beschrieben, aber es wird uns nur möglich sein, die Einzelheiten des Jenseits zu verstehen, wenn wir ihnen im Jenseits <span class=\"pb\" data-p=\"533\"></span>begegnen. Die Berichte über den Geschlechtsverkehr mit Huris sind durch Hadithe überliefert worden, und man sollte keine Behauptungen über dieses Thema aufstellen, die nicht im Koran erwähnt werden."
+    },
+    {
+      "type": "heading",
+      "text": "5. Wen kann man heiraten?",
+      "plain": "5. Wen kann man heiraten?",
+      "slug": "5-wen-kann-man-heiraten"
+    },
+    {
+      "type": "paragraph",
+      "text": "<strong>Frage:</strong> Mit wem kann ein Muslim oder eine Muslima eine Ehe eingehen?"
+    },
+    {
+      "type": "paragraph",
+      "text": "<strong>Antwort:</strong>"
+    },
+    {
+      "type": "paragraph",
+      "text": "Um dieses Thema vollständig zu verstehen, müssen wir uns an das Prinzip des „Verstehens des Korans in seiner Gesamtheit“ erinnern und diese Frage auf diese Weise lösen. Erstens sollten wir wissen, dass es verboten ist, diejenigen zu heiraten, die Gott Partner beigesellen (Materialisten und Atheisten gehören zur Kategorie der Beigeseller, weil sie Gott Materie beigesellen, die Schöpfung dem Zufall zuschreiben und Gottes Eigenschaften der Materie zuschreiben). Der entsprechende Koranvers lautet wie folgt:"
+    },
+    {
+      "type": "verse",
+      "text": "„Und heiratet nicht beigesellende Frauen bis sie glauben. Denn eine gläubige Frau, die ihrer Freiheit beraubt ist, ist besser für euch als eine Frau, die beigesellt, auch wenn ihr ihr zugeneigt sein solltet. Und heiratet nicht beigesellende Männer bis sie glauben. Denn ein gläubiger Mann, der seiner Freiheit beraubt ist, ist besser für euch als ein beigesellender Mann, selbst wenn ihr ihm zugeneigt sein solltet.“",
+      "reference": "Koran 2:221"
+    },
+    {
+      "type": "paragraph",
+      "text": "Auch dürfen Muslime keine Ehe mit Personen eingehen, die Unzucht betreiben:"
+    },
+    {
+      "type": "verse",
+      "text": "<span class=\"pb\" data-p=\"534\"></span>„Ein Unzuchttreiber heiratet keine andere als eine Frau, die Unzucht begeht oder eine Götzendienerin ist. Und eine Unzuchttreiberin heiratet keinen anderen als einen Mann, der Unzucht begeht oder ein Götzendiener ist. Dies ist den Gläubigen verboten.“",
+      "reference": null
+    },
+    {
+      "type": "verse_ref",
+      "text": "Koran 24:3"
+    },
+    {
+      "type": "paragraph",
+      "text": "Die detaillierten Verbote von Heiraten aufgrund von Blutsverwandtschaft werden im Koran wie folgt beschrieben:"
+    },
+    {
+      "type": "verse",
+      "text": "„Heiratet nicht die Frauen, die eure Väter zuvor geheiratet haben – obgleich, was vergangen ist, vergangen ist: dies ist wahrlich eine schmachvolle Tat und eine hassenswerte Sache und ein übler Weg. Verboten sind euch eure Mütter und eure Töchter und eure Schwestern und eure Tanten väterlicherseits und mütterlicherseits, und eines Bruders Töchter und einer Schwester Töchter; und eure Nährmütter und eure Milchschwestern; und die Mütter eurer Ehefrauen; und eure Stieftöchter – die eure Pflegekinder sind – von euren Ehefrauen geboren, mit denen ihr eure Ehe vollzogen habt; aber wenn ihr eure Ehe nicht vollzogen habt, werdet ihr keine Sünde auf euch laden (durch Heiraten ihrer Töchter); und (verboten für euch sind) die Ehegattinnen der Söhne, die euren Lenden entstammen; und (euch ist verboten) zwei Schwestern zu ein und derselben Zeit (als eure Ehefrauen) zu haben – aber was vergangen ist, ist vergangen: denn, siehe, Gott ist fürwahr vielvergebend, ein Gnaden- spender. ... und diejenigen von den Frauen, die verheiratet sind…” <span class=\"pb\" data-p=\"535\"></span>Koran 4:22-24",
+      "reference": null
+    },
+    {
+      "type": "paragraph",
+      "text": "Wenn wir alle oben genannten Verse analysieren, erfahren wir aus 4:22-24, wen wir aufgrund besonderer Umstände, Verwandtschaft und Ehe nicht heiraten dürfen. Aus 24:3 lernen wir, dass wir diejenigen nicht heiraten dürfen, die weiterhin Ehebruch begehen, und aus 2:221 lernen wir, dass wir diejenigen nicht heiraten dürfen, die Gott Partner beigesellen. Wir können alle anderen Menschen außer diese heiraten. Aus Vers 5:5 erfahren wir, dass die Ehe mit dem Volk des Buches, den Juden und Christen, rechtmäßig ist. Die Bedeutung des Prinzips, den Koran als Ganzes zu verstehen, wird durch die Analyse dieser Verse deutlich. Jemand, der einige der oben genannten Verse gelesen hat, zum Beispiel 4:22-24, aber nicht 2:221, könnte denken, dass er eine Atheistin heiraten kann. Wer jedoch den Koran als Ganzes betrachtet, analysiert alle Verse, die sich auf das jeweilige Thema beziehen. In diesem Beispiel enthält 2:221 den relevanten Vers. Wenn man 2:221 liest und den entsprechenden Vers analysiert, wird klar, dass es verboten ist, einen Atheisten zu heiraten."
+    },
+    {
+      "type": "heading",
+      "text": "6. Welchen Anspruch erben im Islam die Eltern?",
+      "plain": "6. Welchen Anspruch erben im Islam die Eltern?",
+      "slug": "6-welchen-anspruch-erben-im-islam-die-eltern"
+    },
+    {
+      "type": "paragraph",
+      "text": "<strong>Frage:</strong> Haben Eltern Anspruch auf das Erbe, und wenn ja, wie viel?"
+    },
+    {
+      "type": "paragraph",
+      "text": "<strong>Antwort:</strong>"
+    },
+    {
+      "type": "paragraph",
+      "text": "Wenn wir den Koran analysieren, verstehen wir, dass die Hauptsache beim Erbe das Testament ist. Erstens muss das Testament verteilt und die Schulden müssen bezahlt werden. Im Koran wird auch erwähnt, wie das, was außerhalb des Testaments und der Schulden übrig bleibt, zu verteilen <span class=\"pb\" data-p=\"536\"></span>ist. Auch die Eltern haben einen Anteil an dieser Verteilung. Der Anteil der Eltern wird in dem Vers wie folgt erwähnt:"
+    },
+    {
+      "type": "verse",
+      "text": "„…; aber wenn er kein Kind hinterlassen hat und seine Eltern seine (alleinigen) Erben sind, dann soll seine Mutter ein Drittel erhalten; und wenn er Brüder und Schwestern hat, dann soll seine Mutter ein Sechstel erhalten nach (Abzug) aller Vermächtnisse, die er verfügt haben mag, oder aller Schulden (die er aufgenommen haben mag).“",
+      "reference": "Koran 4:11"
+    },
+    {
+      "type": "paragraph",
+      "text": "Wie zu sehen, erben die Eltern jeweils 1/6 des Erbes."
+    },
+    {
+      "type": "heading",
+      "text": "7. Kann man nicht-muslimischen Staaten den Krieg erklären?",
+      "plain": "7. Kann man nicht-muslimischen Staaten den Krieg erklären?",
+      "slug": "7-kann-man-nicht-muslimischen-staaten-den-krieg-erklaeren"
+    },
+    {
+      "type": "paragraph",
+      "text": "<strong>Frage:</strong> Ist es erlaubt, nicht-muslimischen Staaten den Krieg zu erklären, die keinen Angriff begonnen haben?"
+    },
+    {
+      "type": "paragraph",
+      "text": "<strong>Antwort:</strong>"
+    },
+    {
+      "type": "paragraph",
+      "text": "Aus vielen Versen im Koran geht hervor, dass die Erlaubnis zum Kampf nicht gegen Staaten erteilt wird, die keinen Krieg beginnen, seien es Atheisten oder das Volk des Buches (Christen, Juden). Der Koran erlaubt nur den Krieg zur Selbstverteidigung oder als Reaktion auf Angriffe. Wir verstehen dies aus den folgenden Versen:"
+    },
+    {
+      "type": "verse",
+      "text": "„Denjenigen, die bekämpft werden, ist der Kampf erlaubt, weil ihnen Unrecht zugefügt wurde. Erlaubnis (zu kämpfen) ist jenen gegeben, gegen die unrechtmäßig <span class=\"pb\" data-p=\"537\"></span>Krieg geführt wird – und, wahrlich, Gott hat fürwahr die Macht, ihnen beizustehen –:“",
+      "reference": "Koran 22:39"
+    },
+    {
+      "type": "verse",
+      "text": "„Aber wenn sie ihre feierlichen Versprechen brechen, nachdem sie einen Vertrag abgeschlossen haben, und eure Religion schmähen, dann kämpft gegen diese Archetypen der Treulosigkeit, die, siehe, keine (Achtung für ihre eigenen) Versprechen haben, auf dass sie (von der Aggression) ablassen mögen. Würdet ihr etwa nicht gegen Leute kämpfen, die ihre feierlichen Versprechen gebrochen haben und alles, was sie konnten, getan haben, um den Gesandten zu vertreiben, und euch zuerst angegriffen haben? Erweist ihr ihnen Ehrfurcht? Nein, Gott allein ist es, vor dem ihr Ehrfurcht haben solltet, wenn ihr (wahrhaft) Gläubige seid!“",
+      "reference": "Koran 9:12-13"
+    },
+    {
+      "type": "paragraph",
+      "text": "Der Koran erlaubt weder den Krieg, bevor die andere Seite den Krieg erklärt, noch erlaubt er die Fortsetzung des Krieges, wenn die andere Seite, nachdem sie den Krieg begonnen hat, den Krieg aufgibt und Frieden schließt. Wir verstehen dies aus dem folgenden Koranvers:"
+    },
+    {
+      "type": "verse",
+      "text": "„Aber wenn sie dem Frieden zuneigen, neige auch du ihm zu und setze dein Vertrauen auf Gott!“",
+      "reference": "Koran 8:61"
+    },
+    {
+      "type": "heading",
+      "text": "<span class=\"pb\" data-p=\"538\"></span>8. Kann der Staat zum Gebet zwingen?",
+      "plain": "8. Kann der Staat zum Gebet zwingen?",
+      "slug": "8-kann-der-staat-zum-gebet-zwingen"
+    },
+    {
+      "type": "paragraph",
+      "text": "<strong>Frage:</strong> Darf ein „islamischer Staat“ Gebete oder Fasten durch Zwang durchsetzen?"
+    },
+    {
+      "type": "paragraph",
+      "text": "<strong>Antwort:</strong>"
+    },
+    {
+      "type": "paragraph",
+      "text": "Für die Lösung dieser Frage müssen wir uns an den Koran wenden. Obwohl Gebet und Fasten im Koran geboten werden, werden diejenigen, die nicht fasten oder beten, nicht im Diesseits bestraft. Die Rechenschaft über diese Menschen ist für das Jenseits reserviert. Was die Staaten betrifft, die behaupten, „islamische Staaten“ zu sein, so sind sie in Wirklichkeit Staaten von Rechtsschulen und Traditionen. Der Koran sagt, dass es keinen Zwang in der Religion/Lebensweise gibt. Diejenigen, die versuchen, im Namen des Islam Zwang auszuüben, widersprechen dem Islam selbst. Wenn ein solcher Zwang notwendig wäre, warum sagt der Koran dann: „<strong>Absolut keinen Zwang in der Religion/Lebensweise</strong>“?"
+    },
+    {
+      "type": "verse",
+      "text": "„Absolut keinen Zwang in der Religion/Lebensweise.“",
+      "reference": "Koran 2:256"
+    },
+    {
+      "type": "verse",
+      "text": "„Und so ermahne sie; deine Aufgabe ist nur zu ermahnen: du bist kein Despot über sie.“",
+      "reference": "Koran 88:21-22"
+    },
+    {
+      "type": "heading",
+      "text": "9. Ist das gute Benehmen/Ethik ein Teil der Religion?",
+      "plain": "9. Ist das gute Benehmen/Ethik ein Teil der Religion?",
+      "slug": "9-ist-das-gute-benehmen-ethik-ein-teil-der-religion"
+    },
+    {
+      "type": "paragraph",
+      "text": "<strong>Frage:</strong> Ist gute Moral ein Teil der Religion oder etwas Eigenständiges? Wenn sie ein Teil der Religion ist, hat dann zum Beispiel das Einhalten eines Versprechens oder die Wahrung des Anvertrauten etwas mit dem Islam zu tun?"
+    },
+    {
+      "type": "paragraph",
+      "text": "<span class=\"pb\" data-p=\"539\"></span><strong>Antwort:</strong>"
+    },
+    {
+      "type": "paragraph",
+      "text": "Jeder, der den Koran liest, kann verstehen, dass gute Moral ein Element des Islam ist, genau wie Gebet und Fasten. Großzügigkeit, Bescheidenheit, Mut und viele andere Elemente einer guten Moral werden im Koran erwähnt. Der Islam besteht nicht nur aus formalen gottesdienstlichen Handlungen oder Glaubensgrundsätzen. Die im Koran beschriebenen Elemente der guten Sitten sind ebenfalls Teil des islam. Der Koran ist in dieser Angelegenheit, wie in allen Angelegenheiten, die einzige Quelle des islam. Der Prophet Muhammad war das beste Beispiel für die „koranische Moral“. Wir sollten den Koran gründlich lesen, um die Moral zu lernen, die Gott von uns will. Die Traditionen der Gesellschaft werden oft als „religiöse Moral“ dargestellt. Wir müssen uns auf den Koran beziehen, um zwischen der Moral, die Teil des Islam ist, und der Moral, die durch die Tradition und die Bedingungen der Zeit geformt wurde, zu unterscheiden. Die im Koran beschriebene Moral ist Teil der Religion; alles andere ist außerhalb der Religion. Nehmen wir als Beispiel die Frage der Einhaltung eines Versprechens und des Vertrauensschutzes. Wenn wir den Koran aufschlagen und nach einem Vers zu diesem Thema suchen, werden wir viele Verse zu diesem Thema finden; so verstehen wir, dass das Einhalten des eigenen Wortes und der Schutz des eigenen Vertrauens gute moralische Verhaltensweisen sind, die eine Anforderung des Islam sind:"
+    },
+    {
+      "type": "verse",
+      "text": "„Und die dem ihnen Anvertrauten und ihren Versprechen treu sind.“",
+      "reference": "Koran 23:8"
+    },
+    {
+      "type": "verse",
+      "text": "<span class=\"pb\" data-p=\"540\"></span>„Und seid jedem Versprechen treu – denn, wahrlich, ihr werdet (am Gerichtstag) zur Rechenschaft gezogen werden für jedes Versprechen, das ihr gegeben habt!“",
+      "reference": "Koran 17:34"
+    },
+    {
+      "type": "verse",
+      "text": "„… und (wahrhaft fromm sind) diejenigen, die ihre Versprechen halten, wann immer sie etwas versprechen, und geduldig im Missgeschick sind und in Härte und in Zeiten der Gefahr: es sind sie, die sich als wahrhaftig erwiesen haben, und es sind sie, sie, die sich Gottes bewusst sind.“",
+      "reference": "Koran 2:177"
+    },
+    {
+      "type": "heading",
+      "text": "10. Ist das Paradies ewig?",
+      "plain": "10. Ist das Paradies ewig?",
+      "slug": "10-ist-das-paradies-ewig"
+    },
+    {
+      "type": "paragraph",
+      "text": "<strong>Frage:</strong> Ist das Leben im Paradies ewig? Was sagt die Religion dazu?"
+    },
+    {
+      "type": "paragraph",
+      "text": "<strong>Antwort:</strong>"
+    },
+    {
+      "type": "paragraph",
+      "text": "Wie alle islamischen Angelegenheiten lassen sich auch die Fragen zu Paradies und Hölle durch einen Blick in das Buch Gottes verstehen. Jeder Mensch, der den Koran liest, erkennt, dass das Paradies eine ewige Wohnstätte ist und dass es hier keinen Tod gibt:"
+    },
+    {
+      "type": "verse",
+      "text": "„Wir werden diejenigen, die glauben und gute Werke tun, in Paradiesgärten aufnehmen, durch die Ströme fließen und in denen sie ewig verweilen werden.“",
+      "reference": "Koran 4:57"
+    },
+    {
+      "type": "verse",
+      "text": "„Darin bleiben sie auf ewig, ohne weggehen zu wollen.“",
+      "reference": "Koran 18:108"
+    },
+    {
+      "type": "verse",
+      "text": "<span class=\"pb\" data-p=\"541\"></span>„Sag: »Was ist besser – dies oder das Paradies des bleibenden Lebens, das den sich Hütenden als ihr Lohn und ihrer Reise Ende versprochen worden ist – in dem (Paradies) werden sie haben, was immer sie wünschen mögen, darin zu verbleiben – ein Versprechen, gegeben von deinem Erhalter, um das (immer) zu beten ist?«“",
+      "reference": "Koran 25:15-16"
+    },
+    {
+      "type": "paragraph",
+      "text": "In vielen Teilen unseres Buches gibt es Beispiele dafür, wie religiöse Angelegenheiten mit Hilfe des Korans gelöst werden können. In diesem Teil unseres Buches haben wir versucht, dieses Thema mit 10 zusätzlichen Beispielen zu verstärken und zu veranschaulichen, wie islamische Fragen allein mit dem Koran beantwortet werden sollten. Wie man sieht, hat der Koran allein das Monopol auf das religiöse Feld, von den Praktiken bis zu den Perspektiven, von der Kenntnis Gottes bis zu den Informationen über Paradies und Hölle, von der Regierungsführung bis zur Moral."
+    },
+    {
+      "type": "verse",
+      "text": "„Wir haben dieses Buch zu dir herabgesandt als Erklärung aller Dinge, als Wegweiser zur Wahrheit, als Barmherzigkeit und als frohe Botschaft für die sich Hingebenden (<em>Muslime</em>).“",
+      "reference": "Koran 16:89"
+    }
+  ],
+  "footnotes": [
+    {
+      "n": 544,
+      "text": "Arab. „<em>al-hur</em>“ (pl.), bezieht sich sowohl auf männliche wie weibliche Gefährten, da „<em>hur</em>“ der Plural sowohl von „<em>ahwar</em>“ (mask.) = Gefährte wie von „<em>hawra</em>“ (fem.) = Gefärtin ist.“. Max Henning, überarbeitet von Murad Wilfried Hofmann; <em>Der Koran - Das Heilige Buch des Islam</em>, Cagri Verlag, 1998, S. 363, Anmerkung zu 55:72."
+    }
+  ]
+}

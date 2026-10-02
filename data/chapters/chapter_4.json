@@ -1,0 +1,735 @@
+{
+  "number": 4,
+  "title": "Untersuchung der Hadithe",
+  "title_fn": null,
+  "category": {
+    "id": "hadith",
+    "title_de": "Hadith-Widersprüche & Kritik"
+  },
+  "word_count": 7712,
+  "reading_time_min": 43,
+  "subheadings": [
+    "Das Verbot des Propheten, Hadithe aufzuschreiben",
+    "Die numerische Mannigfaltigkeit der Hadithe",
+    "Wären Hadithe eine Quelle des Islam, wäre der Islam unvollständig",
+    "Wie wurden die verbotenen Hadithe zu Büchern zusammengestellt?",
+    "Die Schäden des Irrglaubens an die Unfehlbarkeit der Weggefährten (Sahaba) bei der Hadithüberlieferung",
+    "Die Auswirkungen der sinngemäßen Überlieferung von Hadithen",
+    "Die Überlieferungsketten der Hadithe",
+    "Diese Gedanken sind nicht neu",
+    "Die Offenbarungsanlass-Hadithe (asbab an-nuzul)",
+    "Salman Rushdies Buch „Die satanischen Verse” ist eigentlich „Die satanischen Hadithe”",
+    "Verbreitete Koranexegesen auf dem Markt",
+    "Welchem Hadith glauben sie nach dem Koran?",
+    "Was sollen wir mit den richtigen Hadithen machen?",
+    "Unser Ziel ist es nicht, die Suppe zu verweigern, sondern auf das Haar in der Suppe zu zeigen"
+  ],
+  "proof_images_count": 5,
+  "proof_images": [
+    {
+      "post_id": 1549,
+      "chapter": 4,
+      "post_title": "Kapitel 4: Untersuchung der Hadithe",
+      "slug": "untersuchung-der-hadithe",
+      "url": "assets/images/proofs/quellenscan-sahih-al-buhari-hadithsammlung.webp",
+      "filename": "quellenscan-sahih-al-buhari-hadithsammlung.webp",
+      "caption": "Quellenscan: Sahih al-Buhārī Hadithsammlung",
+      "local_path": "assets/images/proofs/quellenscan-sahih-al-buhari-hadithsammlung.webp",
+      "caption_de": "Quellenscan: Sahih al-Buhārī Hadithsammlung",
+      "post_title_de": "Kapitel 4: Untersuchung der Hadithe",
+      "after_idx": 0,
+      "after_anchor": "Im zweiten Kapitel haben wir anhand der Koranverse gesehen, dass der Koran als e",
+      "placement": "medium",
+      "label": "Sahih al-Buhārī Hadithsammlung"
+    },
+    {
+      "post_id": 1549,
+      "chapter": 4,
+      "post_title": "Kapitel 4: Untersuchung der Hadithe",
+      "slug": "untersuchung-der-hadithe",
+      "url": "assets/images/proofs/kalligraphische-kunst.webp",
+      "filename": "kalligraphische-kunst.webp",
+      "caption": "Kalligraphische Kunst",
+      "local_path": "assets/images/proofs/kalligraphische-kunst.webp",
+      "caption_de": "Kalligraphische Kunst",
+      "post_title_de": "Kapitel 4: Untersuchung der Hadithe",
+      "after_idx": 0,
+      "after_anchor": "Im zweiten Kapitel haben wir anhand der Koranverse gesehen, dass der Koran als e",
+      "placement": "high",
+      "label": "Kalligraphische Kunst"
+    },
+    {
+      "post_id": 1549,
+      "chapter": 4,
+      "post_title": "Kapitel 4: Untersuchung der Hadithe",
+      "slug": "untersuchung-der-hadithe",
+      "url": "assets/images/proofs/dogmatische-fesseln-der-tradition.webp",
+      "filename": "dogmatische-fesseln-der-tradition.webp",
+      "caption": "Dogmatische Fesseln der Tradition",
+      "local_path": "assets/images/proofs/dogmatische-fesseln-der-tradition.webp",
+      "caption_de": "Dogmatische Fesseln der Tradition",
+      "post_title_de": "Kapitel 4: Untersuchung der Hadithe",
+      "after_idx": 26,
+      "after_anchor": "Aufgrund all dieser Probleme sind sich die Hadithgelehrten bei vielen Hadithen n",
+      "placement": "high",
+      "label": "Dogmatische Fesseln der Tradition"
+    },
+    {
+      "post_id": 1549,
+      "chapter": 4,
+      "post_title": "Kapitel 4: Untersuchung der Hadithe",
+      "slug": "untersuchung-der-hadithe",
+      "url": "assets/images/proofs/safahat-dichtung-gegen-religioesen-verfall.webp",
+      "filename": "safahat-dichtung-gegen-religioesen-verfall.webp",
+      "caption": "Safahat: Dichtung gegen religiösen Verfall",
+      "local_path": "assets/images/proofs/safahat-dichtung-gegen-religioesen-verfall.webp",
+      "caption_de": "Safahat: Dichtung gegen religiösen Verfall",
+      "post_title_de": "Kapitel 4: Untersuchung der Hadithe",
+      "after_idx": 50,
+      "after_anchor": "„Als Gott erschaffen wollte, bildete sich aus feinem Wasser Dampf. Der Dampf sti",
+      "placement": "high",
+      "label": "Safahat: Dichtung gegen religiösen Verfall"
+    },
+    {
+      "post_id": 1549,
+      "chapter": 4,
+      "post_title": "Kapitel 4: Untersuchung der Hadithe",
+      "slug": "untersuchung-der-hadithe",
+      "url": "assets/images/proofs/mehmet-akif-ersoy-reformistischer-dichter.webp",
+      "filename": "mehmet-akif-ersoy-reformistischer-dichter.webp",
+      "caption": "Mehmet Akif Ersoy: Reformistischer Dichter",
+      "local_path": "assets/images/proofs/mehmet-akif-ersoy-reformistischer-dichter.webp",
+      "caption_de": "Mehmet Akif Ersoy: Reformistischer Dichter",
+      "post_title_de": "Kapitel 4: Untersuchung der Hadithe",
+      "after_idx": 55,
+      "after_anchor": "Trotz seiner harschen Kritik an solchen Figuren verliert Mehmet Akif niemals die",
+      "placement": "high",
+      "label": "Mehmet Akif Ersoy: Reformistischer Dichter"
+    }
+  ],
+  "pdf_pages": [
+    65,
+    102
+  ],
+  "sections_count": 79,
+  "sections": [
+    {
+      "type": "paragraph",
+      "text": "<span class=\"pb\" data-p=\"65\"></span>Im zweiten Kapitel haben wir anhand der Koranverse gesehen, dass der Koran als einzige islamische Quelle ausreichend ist und keine weiteren Quellen für Fragen bezüglich dem Islam benötigt werden. In diesem Kapitel werden wir die Methoden, die bei der Sammlung der Hadithe verwendet wurden, und die Tatsache, dass der Prophet Muhammad die Niederschrift von Hadithen nicht angeordnet hat, genauer untersuchen. Dadurch werden wir erneut verdeutlichen, warum es neben dem Koran keine zweite religiöse Quelle geben kann. In den Kapiteln 6, 7 und 8 werden wir uns die Widersprüche der Hadithe, die als Verleumdungen gegen den Propheten Muhammad überliefert wurden, sowohl im Vergleich zum Koran als auch zur Logik und in sich selbst ansehen. Am Ende werden wir die Konsequenzen dieser Widersprüche betrachten und erkennen, welches Unheil es bedeutet, nach weiteren Quellen neben dem Koran zu suchen. Das Konzept der „Sunna“ wird im 16. Kapitel gesondert behandelt."
+    },
+    {
+      "type": "heading",
+      "text": "Das Verbot des Propheten, Hadithe aufzuschreiben",
+      "plain": "Das Verbot des Propheten, Hadithe aufzuschreiben",
+      "slug": "das-verbot-des-propheten-hadithe-aufzuschreiben"
+    },
+    {
+      "type": "paragraph",
+      "text": "Wir beginnen, die Hadithe in der Zeit des Propheten Muhammad zu untersuchen, und arbeiten uns schrittweise bis in die heutige Zeit vor. Es wird selbst von den Hadithgelehrten anerkannt, dass der Prophet das Aufschreiben von Hadithen nicht erlaubt und die Aufzeichnung seiner eigenen Worte verboten hat. In zwei der „zuverlässigsten“ Hadithsammlungen, <em>Sahih Muslim</em><sup class=\"fn-ref\"><a href=\"#fn-51\" id=\"fnref-51\">51</a></sup> <span class=\"pb\" data-p=\"66\"></span>und dem <em>Musnad des Ahmad ibn Hanbal</em><sup class=\"fn-ref\"><a href=\"#fn-52\" id=\"fnref-52\">52</a></sup>, dem Begründer der hanbalitischen Rechtsschule, wird ein Hadith überliefert, der bestätigt, dass der Prophet das Schreiben seiner Worte untersagte: „<em>Schreibt nichts von mir auf außer dem Koran. Wer etwas anderes als den Koran von mir aufgeschrieben hat, soll es vernichten.</em>“<sup class=\"fn-ref\"><a href=\"#fn-53\" id=\"fnref-53\">53</a></sup> Ein Hadith bei Darimi<sup class=\"fn-ref\"><a href=\"#fn-54\" id=\"fnref-54\">54</a></sup> lautet: „<em>Die Gefährten baten den Gesandten Gottes um Erlaubnis, seine Worte aufzuschreiben, aber sie erhielten keine Erlaubnis.</em>“<sup class=\"fn-ref\"><a href=\"#fn-55\" id=\"fnref-55\">55</a></sup> Ein weiterer Hadith bei al-Khatib<sup class=\"fn-ref\"><a href=\"#fn-56\" id=\"fnref-56\">56</a></sup> lautet: „<em>Als wir Hadithe schrieben, kam der Prophet zu uns und fragte: ‚Was ist das, was ihr schreibt?’ Wir antworteten: ‚Die Hadithe, die wir von dir gehört haben.’ Der Prophet sagte: ‚Wollt ihr ein anderes Buch als das Buch Gottes? Die früheren Völker sind vom Weg abgekommen, weil sie neben dem Buch Gottes andere Bücher geschrieben haben.’</em>“<sup class=\"fn-ref\"><a href=\"#fn-57\" id=\"fnref-57\">57</a></sup> Auch bei Tirmidhi finden wir:"
+    },
+    {
+      "type": "verse",
+      "text": "„<em>Wir baten den Gesandten Gottes um Erlaubnis, seine Worte aufzuschreiben, aber er gab uns keine Erlaubnis.</em>“.<sup class=\"fn-ref\"><a href=\"#fn-58\" id=\"fnref-58\">58</a></sup>",
+      "reference": null
+    },
+    {
+      "type": "paragraph",
+      "text": "<span class=\"pb\" data-p=\"67\"></span>In den Büchern, die sich mit den Hadithen befassen, sowie in den Büchern, die die Hadithe als Quelle des Islam betrachten, wird berichtet, dass der Prophet Muhammad das Aufschreiben seiner eigenen Worte verboten hat, und es wird argumentiert, dass dies geschehen sei, um eine Vermischung der Hadithe mit dem Koran zu verhindern. Doch diejenigen, die die sunnitischen Rechtsschulen verteidigen, behaupten, dass auch aus den Hadithen, ähnlich wie aus dem Koran, religiöse Vorschriften abgeleitet werden müssen. Das heißt, sie betrachten die Hadithe genauso wie den Koran als Quelle des Islam. Aber wenn die Hadithe eine der islamischen Quellen wäre, wie konnte der Prophet dann das Aufschreiben der Hadithe verbieten? Wäre dies nicht eine Gefahr, dass die Menschen den Islam unvollständig lernen und dass Lügen in seine Worte eingefügt oder seine Worte vergessen würden? Im Koran wird das Schreiben mit dem Stift betont, und es wird geraten, ein Testament oder Schulden aufzuschreiben.<sup class=\"fn-ref\"><a href=\"#fn-59\" id=\"fnref-59\">59</a></sup> Wenn das Schreiben im Koran so wichtig ist und die Hadith-Bücher angeblich die Hauptquelle des Islam sind, wie konnte es dann sein, dass das Aufschreiben der Hadithe nicht erlaubt wurde? Beachten Sie, dass bereits die Tatsache, dass der Prophet Muhammad das Aufschreiben seiner Hadithe nicht förderte, aus der Sicht der Hadithanhänger problematisch ist. Doch in den Überlieferungen heißt es noch viel deutlicher, dass der Prophet Muhammad das Aufschreiben seiner Worte sogar verbot."
+    },
+    {
+      "type": "paragraph",
+      "text": "Wenn der Prophet Muhammad die Aufzeichnung einer angeblich weiteren islamischen Quelle verhindert hat, hätte er dann nicht auch verhindert, dass der Islam vollständig und korrekt vermittelt wird? Wie wir später sehen werden, sind viele Hadithe gefälscht worden. Wenn die Hadithe eine Quelle des Islam wären, <span class=\"pb\" data-p=\"68\"></span>hätte der Prophet sie doch aufschreiben lassen und damit weitgehend verhindert, dass sich zehntausende Lügen in die Hadithe mischen konnten. Der Koran sagt jedoch eindeutig, dass der Koran allein als Quelle des Islam ausreicht und die einzige gültige Quelle ist. Wer könnte das besser verstehen als der Prophet Muhammad selbst? Wie wir sehen, war die Sunna des Propheten – also seine Handlungsweise – nicht, die Hadithe als Ergänzungen zum Koran niederschreiben zu lassen, sondern sie überhaupt nicht schreiben zu lassen. Der Prophet hat nicht nur keine Hadithe aufschreiben lassen, sondern dies sogar ausdrücklich verboten. Als vorausblickender Prophet, der die menschliche Neigung zur Überbetonung von Details, zur Vergötterung von Propheten und zur Spaltung in Sekten erkannte, warnte er vor solchen Handlungen. Die heutige Situation zeigt einmal mehr, wie recht er mit seiner Voraussicht hatte."
+    },
+    {
+      "type": "heading",
+      "text": "Die numerische Mannigfaltigkeit der Hadithe",
+      "plain": "Die numerische Mannigfaltigkeit der Hadithe",
+      "slug": "die-numerische-mannigfaltigkeit-der-hadithe"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ahmed Amin macht eine kluge Beobachtung zur Dimension der Hadith-Fabrikation: „<em>Es ist bemerkenswert, dass die Hadithe, wenn wir sie untersuchen, die Form einer Pyramide haben. Die Spitze der Pyramide stellt die Zeit des Gesandten Gottes dar, und je weiter man nach unten geht, desto breiter wird die Pyramide. Wenn wir an der Basis der Pyramide ankommen, sehen wir, dass die Anzahl der Hadithe in der Zeit des Propheten deutlich geringer war als in späteren Epochen. Vernünftigerweise sollte es jedoch umgekehrt sein. Denn diejenigen, die dem Propheten am nächsten standen, wussten am meisten über die Hadithe (die Aussagen des Propheten). Mit ihrem Tod sollte die Zahl derer, die die Hadithe kannten, abnehmen, und so sollte sich die Pyramide in umgekehrter Form entwickeln. Aber wir stellen fest, dass in der Zeit der Umayyaden die Anzahl der Hadithe weit größer war als in der </em><span class=\"pb\" data-p=\"69\"></span><em>Zeit des Propheten.</em>“<sup class=\"fn-ref\"><a href=\"#fn-60\" id=\"fnref-60\">60</a></sup> Einige Hadith-Gelehrte behaupten, dass es bis zu zwei Millionen Hadithe gibt. Es wird berichtet, dass al-Buchari, der als der „zuverlässigste“ Sammler von Hadithen gilt, seine Sammlung aus 600.000 Hadithen auswählte,<sup class=\"fn-ref\"><a href=\"#fn-61\" id=\"fnref-61\">61</a></sup> während Muslim seine Sammlung aus 300.000 Hadithen zusammenstellte.<sup class=\"fn-ref\"><a href=\"#fn-62\" id=\"fnref-62\">62</a></sup> Abu Dawud soll aus 500.000 Hadithen ausgewählt haben,<sup class=\"fn-ref\"><a href=\"#fn-63\" id=\"fnref-63\">63</a></sup> Malik, der Gründer einer Rechtsschule, soll aus 100.000 Hadithen für sein <em>Muwatta</em> ausgewählt haben,<sup class=\"fn-ref\"><a href=\"#fn-64\" id=\"fnref-64\">64</a></sup> und Ibn Hanbal soll seine Sammlung <em>Musnad</em> aus 750.000 Hadithen zusammengestellt haben.<sup class=\"fn-ref\"><a href=\"#fn-65\" id=\"fnref-65\">65</a></sup> Wenn wir bedenken, dass der Prophet Muhammad etwa 23 Jahre als Prophet tätig war und dies nach dem gregorianischen Kalender berechnen, ergibt sich eine ungefähre Anzahl von 23 x 365 = 8.395 <span class=\"pb\" data-p=\"70\"></span>Tagen als Prophet. Wenn behauptet wird, dass es insgesamt zwei Millionen Hadithe gibt, bedeutet dies, dass dem Propheten für jeden einzelnen Tag seiner Prophezeiung über 200 Hadithe zugeschrieben werden. Wenn wir jemanden bitten würden, die Aussagen und Handlungen der Person, mit der er oder sie im letzten Jahr am meisten Zeit verbracht hat – sei es der Vater, das Kind, der Ehemann oder die Ehefrau – niederzuschreiben, würden wir, selbst nach einem Jahr, feststellen, dass die Anzahl der Aufzeichnungen im Vergleich zu den überlieferten 200 täglichen Hadithen des Propheten in zwei Jahrhunderten nach seinem Tod zeigt, wie viele davon möglicherweise gefälscht sind. Es wird gesagt, dass alle Verfasser der Hadith-Sammlungen all diese Hadithe auswendig kannten und dann die ihrer Meinung nach „zuverlässigsten“ Hadithe auswählten. Damit die Hadith-Gelehrten jedoch genau sagen konnten, wie viele Hadithe sie kannten, hätten sie alle aufschreiben und zählen müssen, denn es ist unmöglich zu behaupten, 600.000 Hadithe auswendig zu kennen. Wenn wir eine Gruppe Deutschsprachiger fragen, mit wie vielen Wörtern sie Deutsch sprechen, werden die meisten nicht in der Lage sein, eine genaue Zahl zu nennen. Wenn die Zahl jedoch auf 600.000 anwächst, wird es unmöglich, sie im Gedächtnis zu zählen."
+    },
+    {
+      "type": "heading",
+      "text": "Wären Hadithe eine Quelle des Islam, wäre der Islam unvollständig",
+      "plain": "Wären Hadithe eine Quelle des Islam, wäre der Islam unvollständig",
+      "slug": "waeren-hadithe-eine-quelle-des-islam-waere-der-islam"
+    },
+    {
+      "type": "paragraph",
+      "text": "Muslim selbst erklärt, dass er nicht jeden Hadith, der als „authentisch“ galt, in sein Buch aufgenommen hat.<sup class=\"fn-ref\"><a href=\"#fn-66\" id=\"fnref-66\">66</a></sup> Gemäß Muslim sind Hadithe eine Quelle des Islam, doch er hat nicht jeden als wahr erachteten Hadith in sein Werk aufgenommen. Das bedeutet nach seiner Logik, dass der Islam unvollständig wäre. Da es keine <span class=\"pb\" data-p=\"71\"></span>Garantie gibt, dass ein Hadith, den Muslim ausgelassen hat, von jemand anderem gesammelt wurde, trägt die traditionelle sunnitische Herangehensweise die Vorstellung einer unvollständigen Religion in sich. Buchari, der ebenfalls die Hadithe als eine Quelle des Islam anerkennt, soll 600.000 Hadithe gekannt und davon 6.000 bis 7.000 – also etwa 1 % – in seine Sammlung aufgenommen haben. Die restlichen 99 % ließ er weg, weil er der Meinung war, dass sie entweder nicht notwendig oder nicht vertrauenswürdig genug seien. Tatsächlich schrieb Buchari selbst, dass die Anzahl der authentischen Hadithe, die er nicht in sein Buch aufnahm, größer sei als die der Hadithe, die er einfügte, einfach weil das Buch nicht zu umfangreich werden sollte. Wenn die Hadithe tatsächlich eine Quelle des Islam wären, dann wären wir vollständig auf Bucharis Urteilsvermögen und Auswahlfähigkeit angewiesen gewesen. Wenn die Hadithe notwendig wären, um den Islam vollständig zu machen, wäre es unmöglich, dass in den ausgelassenen 99 % keine wichtigen Aussagen enthalten wären. Würde man die Hadithe als eine Quelle des Islam betrachten, wäre der Islam unumkehrbar und unheilbar unvollständig. Da Buchari verstorben ist und niemand behaupten kann, die 99 % der Hadithe, die er nicht niederschrieb, zu kennen, wären wir Anhänger einer unvollständigen Religion geworden."
+    },
+    {
+      "type": "paragraph",
+      "text": "Lassen Sie uns auch die Behauptung prüfen, dass Buchari 600.000 Hadithe gekannt habe, und untersuchen, wie verlässlich diese Behauptung ist. Angenommen, Buchari hätte nichts anderes im Leben getan, nicht geschlafen, und hätte für jeden Hadith – um die Glaubwürdigkeit der Überlieferungskette zu prüfen – zwei Stunden verwendet, dann hätte er allein dafür über 130 Jahre gebraucht. Wenn wir zudem bedenken, dass es manchmal Tage dauerte, um die Zuverlässigkeit eines einzigen Gliedes einer Überlieferungskette zu prüfen, dann hätte die Überprüfung all der <span class=\"pb\" data-p=\"72\"></span>Hadithe, die Buchari gekannt haben soll, tausende Jahre gedauert. Kurz gesagt, die Behauptung, dass Buchari und andere Hadith-Gelehrte Hunderttausende von Hadithen kannten und all diese überprüften, um die zuverlässigsten auszuwählen, ist irrational."
+    },
+    {
+      "type": "paragraph",
+      "text": "Der Koran hingegen ist eine Quelle mit einem klaren Anfang und Ende. Doch die Hadith-Überlieferer vervielfältigten die Hadithe nach dem Prinzip „Ich habe einen gehört“ oder „Es gibt noch einen“. Dass die Hadithe so viele Fälschungen enthalten, liegt zu einem großen Teil daran, dass sie keine klar definierte Quelle sind. Gott sei Dank hat Gott uns keine andere Quelle als den Koran auferlegt. Dank dieser Gnade Gottes sind wir Mitglieder einer vollständigen und vollkommenen Religion. Lasst uns diese fabrizierten Hadithe aus dem Weg räumen, die diejenigen, die uns bewusst oder unbewusst als Angehörige einer unvollständigen, zweideutigen und widersprüchlichen Religion hinstellen, unter Berufung auf den letzten Propheten Muhammad zu legitimieren versuchen und vor den Koran stellen. Nur so kann der Koran, die einzige widerspruchsfreie und vollständige Quelle des Islam, uns erleuchten."
+    },
+    {
+      "type": "heading",
+      "text": "Wie wurden die verbotenen Hadithe zu Büchern zusammengestellt?",
+      "plain": "Wie wurden die verbotenen Hadithe zu Büchern zusammengestellt?",
+      "slug": "wie-wurden-die-verbotenen-hadithe-zu-buechern-zusammengestellt"
+    },
+    {
+      "type": "paragraph",
+      "text": "Nachdem der Prophet Muhammad die Niederschrift von Hadithen untersagte, wurde diese Haltung auch von den vier Kalifen nach seinem Tod fortgesetzt – von Abu Bakr, Umar, Uthman und Ali. In Kapitel 11 unseres Buches werden wir detailliert aufzeigen, wie die vier Kalifen Versuche, Hadithe zu schreiben, verhinderten und wie sie bereits geschriebene Hadithe verbrannten. Es mag natürlich und unbedeutend erscheinen, dass Zeitzeugen der Ereignisse aus der Zeit des Propheten Muhammad ihre Erlebnisse weitergaben oder dass Menschen, die mit dem Propheten <span class=\"pb\" data-p=\"73\"></span>sprachen, diese Gespräche anderen erzählten. Doch die Haltung der Gefährten, die von jedem, der behauptete, etwas vom Propheten Muhammad gehört zu haben, Beweise und Zeugen forderten und das Schreiben solcher Berichte untersagten, zeigt die Weitsicht und das Verantwortungsbewusstsein, das auch nach dem Tod des Propheten fortgeführt wurde. Diese Weitsicht ermöglichte es, die potenziellen Verfälschungen des Islam durch Hadithe zu verhindern und zeigte, dass selbst scheinbar harmlose Handlungen langfristig zur Degeneration des Glaubens führen könnten. Die vier Kalifen erlaubten es nicht, Aussagen des Propheten niederzuschreiben, selbst wenn sie wussten, dass diese Aussagen korrekt waren – und das, obwohl diese Aussagen zu diesem Zeitpunkt noch frisch im Gedächtnis waren. Wenn jemand behauptet, dass Hadithe in dieser Zeit doch niedergeschrieben wurden, dann fragt ihn: „Wo sind diese Bücher heute?“ Niemand wird euch etwas vorzeigen können."
+    },
+    {
+      "type": "paragraph",
+      "text": "Al-Harawi<sup class=\"fn-ref\"><a href=\"#fn-67\" id=\"fnref-67\">67</a></sup> sagte: „Weder die Sahaba<sup class=\"fn-ref\"><a href=\"#fn-68\" id=\"fnref-68\">68</a></sup> (die den Propheten gesehen haben) noch die Tabi’un (die den Propheten nicht gesehen, aber die Sahaba gekannt haben) schrieben Hadithe nieder, sondern gaben sie lediglich mündlich weiter. Bis auf ein paar einfache schriftliche Fragmente gab es keine Ausnahmen. Als man befürchtete, dass das Wissen verloren gehen und die Gelehrten aussterben <span class=\"pb\" data-p=\"74\"></span>könnten, befahl Umar ibn Abd al-Aziz<sup class=\"fn-ref\"><a href=\"#fn-69\" id=\"fnref-69\">69</a></sup> Abu Bakr al-Hazm<sup class=\"fn-ref\"><a href=\"#fn-70\" id=\"fnref-70\">70</a></sup> per Brief, Hadithe zu sammeln und niederzuschreiben.“ Als der neue Kalif Yazid ibn Abd al-Malik jedoch an die Macht kam, entließ er Abu Bakr al-Hazm und dessen Mitarbeiter. Der nächste Kalif, Hisham, setzte den Gelehrten Az-Zuhri ein, um die Hadithe zu sammeln. Mahmoud Abu Rayya beschreibt all diese Entwicklungen und weist auf den Druck hin, der damals ausgeübt wurde: „Die Tabi’un, die aufgefordert wurden, die Hadithe zu sammeln, taten dies nur unter Zwang, denn die bisherige Praxis und das Verbot der Sahaba, Hadithe zu sammeln, erschwerte ihnen diesen Schritt erheblich. Az-Zuhri sagte: ‚Wir mochten es nicht, Hadithe aufzuschreiben, aber die Herrscher zwangen uns dazu.’“<sup class=\"fn-ref\"><a href=\"#fn-71\" id=\"fnref-71\">71</a></sup>"
+    },
+    {
+      "type": "paragraph",
+      "text": "Die traditionelle sunnitische Sichtweise sieht die umayyadische Periode nicht einmal als geordnete Phase der Hadithsammlung an. Während dieser Zeit wurden Hadithe, Jurisprudenz, Poesie und Nachrichten<sup class=\"fn-ref\"><a href=\"#fn-72\" id=\"fnref-72\">72</a></sup> unsortiert und ohne Prüfung ihrer Richtigkeit nie<span class=\"pb\" data-p=\"75\"></span>dergeschrieben. Al-Ghazali<sup class=\"fn-ref\"><a href=\"#fn-73\" id=\"fnref-73\">73</a></sup> berichtete, dass die Tabi’un das Aufschreiben von Hadithen missbilligten und stattdessen sagten, dass man die Hadithe auswendig lernen sollte, ebenso wie die nachfolgenden Generationen.<sup class=\"fn-ref\"><a href=\"#fn-74\" id=\"fnref-74\">74</a></sup> Die erste Sammlung von Hadithen in einem eigenständigen Werk fand erst zur Zeit der Abbasiden statt. Das einzige überlieferte Werk dieser Art, das aus der zweiten Hälfte des zweiten Jahrhunderts stammt, ist der <em>Muwatta</em> von Malik, dem Gründer der malikitischen Rechtsschule.<sup class=\"fn-ref\"><a href=\"#fn-75\" id=\"fnref-75\">75</a></sup> Kurz danach erschien der <em>Musnad</em> von Ahmad ibn Hanbal, dem Gründer der hanbalitischen Rechtsschule, der im Jahr 241 (nach der <em>Hidschra</em>, der Auswanderung nach Medina) verstarb. In diesen Werken – sowohl in Maliks <em>Muwatta</em> als auch in Ibn Hanbals <em>Musnad</em> – sehen wir, dass Hadithe ohne Unterscheidung zwischen „authentischen“ und „schwachen“ Hadithen, ohne systematische Prüfung ihrer Richtigkeit, inmitten der Flut von Überlieferungen gesammelt wurden."
+    },
+    {
+      "type": "paragraph",
+      "text": "Vor Buchari, der im dritten Jahrhundert nach der Hidschra lebte, wurde noch nicht einmal der Versuch unternommen, Hadithe nach ihrer Glaubwürdigkeit zu sortieren. Die Trennung in <span class=\"pb\" data-p=\"76\"></span>„authentische“ und „schwache“ Hadithe begann erst mit Buchari. Wenn man sich die Hadithe genauer anschaut, wird klar, dass dieser Versuch nicht den gewünschten Erfolg brachte. Die berühmten sechs Hadith-Sammlungen (<em>Kutub al-Sitta </em>[<em>Die sechs Bücher</em>]) wurden von ihren Autoren in verschiedenen Zeiträumen des dritten Jahrhunderts nach der Hidschra verfasst: Buchari verstarb im Jahr 256, Muslim im Jahr 261, Tirmidhi im Jahr 279, Abu Dawud im Jahr 275, an-Nasa´i im Jahr 303 und Ibn Madscha im Jahr 273. Die schiitischen Hadith-Bücher sind völlig anders, und sowohl Sunniten als auch Schiiten erkennen die Hadith-Sammlungen der jeweils anderen Gruppe nicht an. Die Entstehung der schiitischen Hadith-Sammlungen fällt in eine noch spätere Zeit. Die berühmten schiitischen Hadith-Gelehrten al-Kulaini, Ibn Babawayh und Abu Dschafar at-Tusi<sup class=\"fn-ref\"><a href=\"#fn-76\" id=\"fnref-76\">76</a></sup> verstarben in den Jahren 329, 381 und 460 (nach der Hidschra)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Stellen wir uns vor, eine Aussage des preußischen König Friedrich Wilhelm III. (der 1840 verstarb) wäre in keinem Geschichtsbuch festgehalten worden und wäre nur durch mündliche Überlieferung an uns weitergegeben worden. Wie zuverlässig wäre diese Aussage? Noch dazu, wenn behauptet würde, sie stamme aus einer einzigen Überlieferungskette von Person zu Person bis hin zu König Friedrich Wilhelm III.? Wer würde so etwas glauben? Doch die Zeitspanne zwischen dem Tod von Friedrich Wilhelm III. und heute ist viel kürzer als die Zeitspanne zwischen dem Tod des Propheten und der Niederschrift der <em>Kutub al-Sitta</em>. Die Zeitspanne, in der einige dieser berühmten Hadith-Bücher niedergeschrieben wurden, war sogar doppelt so lang. Aus vielen Gründen, die wir in Kapitel 5 noch näher betrachten werden, waren bereits zehntausende Hadithe gefälscht, als die berühmten Hadith-Gelehrten ihre <span class=\"pb\" data-p=\"77\"></span>Bücher zusammenstellten. Diese Bücher enthalten viele Hadithe, die dem Koran, der Logik und einander widersprechen, und sie widersprechen sich sowohl in ihren Methoden als auch untereinander. Das zeigt deutlich, welches Unglück es bedeutet, eine andere Quelle als den Koran zu suchen. Der bereits erwähnte „Pyramiden-Effekt“ hatte zu diesem Zeitpunkt durch die Vielzahl an Fälschungen eine noch größere Dimension erreicht."
+    },
+    {
+      "type": "heading",
+      "text": "Die Schäden des Irrglaubens an die Unfehlbarkeit der Weggefährten (Sahaba) bei der Hadithüberlieferung",
+      "plain": "Die Schäden des Irrglaubens an die Unfehlbarkeit der Weggefährten (Sahaba) bei der Hadithüberlieferung",
+      "slug": "die-schaeden-des-irrglaubens-an-die-unfehlbarkeit-der"
+    },
+    {
+      "type": "paragraph",
+      "text": "Der Begriff „<em>Sahaba</em>” bezieht sich auf alle Personen, die den Propheten Muhammad zu Lebzeiten gesehen haben, selbst wenn sie nie direkt mit ihm gesprochen haben und auch nur aus der Ferne. Diese Definition stammt von Buchari und ist weithin akzeptiert. In den berühmten Hadith-Büchern wird unter dem Begriff „<em>Dscharh wa Tadil</em>”<sup class=\"fn-ref\"><a href=\"#fn-77\" id=\"fnref-77\">77</a></sup> die Prüfung der Glaubwürdigkeit, des Gedächtnisses und des Glaubens der Überlieferer der Hadithe beschrieben. Allerdings würde niemand lange genug leben, um die Wahrhaftigkeit, das Gedächtnis und die anderen Eigenschaften der Tausenden von „dieser, jener und derjenige“, die in den Hadith-Überlieferungsketten vorkommen, bis zum 3. Jahrhundert nach der Hidschra zu prüfen. Abu Shama<sup class=\"fn-ref\"><a href=\"#fn-78\" id=\"fnref-78\">78</a></sup> sagt dazu: „Die Meinungen über die Hadith-Überlieferer sind so widersprüchlich, dass ein und derselbe Überlieferer von einigen als ‚Fürst der Gläubigen’ und von anderen als ‚der größte Lügner unter den Menschen’ bezeichnet werden konnte.“ Zum Beispiel wird Ikrima<sup class=\"fn-ref\"><a href=\"#fn-79\" id=\"fnref-79\">79</a></sup> von Buchari <span class=\"pb\" data-p=\"78\"></span>und vielen berühmten Hadith-Gelehrten als sehr zuverlässiger Überlieferer betrachtet, während Muslim ihn für einen Lügner hält. Solche Beispiele gibt es viele. Ein besonders bemerkenswertes Beispiel ist, dass Buchari, der Autor des berühmtesten Hadith-Buches, den Gründer der am weitesten verbreiteten Rechtsschule, Abu Hanifa, als „unsicher“<sup class=\"fn-ref\"><a href=\"#fn-80\" id=\"fnref-80\">80</a></sup> bezeichnet und nicht einen einzigen Hadith von ihm überliefert. Aus Sicht des bekanntesten Hadith-Gelehrten gilt der Gründer der größten Rechtsschule als unzuverlässig, während in der traditionellen, blindgläubigen Denkweise beide als „die vertrauenswürdigsten und heiligsten“ Personen betrachtet werden. Die widersprüchlichen Erklärungen zu <em>Dscharh</em> und <em>Tadil</em>, also der Prüfung der Glaubwürdigkeit der Überlieferer, sind mindestens genauso zahlreich wie die Widersprüche in den Hadithen selbst. Da die meisten dieser Diskussionen unnötig und langweilig sind, gehen wir hier nicht weiter darauf ein."
+    },
+    {
+      "type": "paragraph",
+      "text": "Alle Hadithe führen ihre Überlieferungsketten zuerst zu den Weggefährten zurück, bevor behauptet wird, dass diese vom Propheten selbst gehört wurden. Die Personen in den Ketten nach den Weggefährten werden zumindest einer Diskussion unterzogen, selbst wenn es keine klaren Ergebnisse gibt. Sobald jedoch der Name eines Weggefährten genannt wird, wird die Aussage, die angeblich von diesem Weggefährten stammt, ungeprüft als wahr akzeptiert. Nirgendwo im Koran steht, dass jedem, der den Propheten gesehen hat, automatisch zu vertrauen sei. Im Gegenteil: Der Koran kritisiert einige derjenigen, die den Propheten umgaben und sich als Muslime bezeichneten.<sup class=\"fn-ref\"><a href=\"#fn-81\" id=\"fnref-81\">81</a></sup> Im Koran wird auch erwähnt, dass sich Heuchler (arab. <em>munafiqun</em>) unter die Muslime <span class=\"pb\" data-p=\"79\"></span>gemischt haben. In Koran 9:101 steht, dass nicht einmal der Prophet alle Heuchler seiner Zeit kannte. Wie könnten die Hadith-Gelehrten dann wissen, wer diese Heuchler waren? Wie können sie garantieren, dass die Personen, von denen sie die Hadithe überliefert haben, nicht zu diesen Heuchlern gehörten? Oder sollten wir glauben, dass diese Rechtsschulen 200 Jahre nach dem Tod der Heuchler plötzlich wussten, wer sie waren, während der Prophet selbst es nicht wusste? Nach dem Tod des Propheten kämpften einige Weggefährten gegeneinander und beschuldigten sich gegenseitig des Unglaubens.<sup class=\"fn-ref\"><a href=\"#fn-82\" id=\"fnref-82\">82</a></sup> Das zeigt, dass nicht jedem zu trauen ist, der behauptet, ein Weggefährte zu sein. Doch die Mentalität, die die Weggefährten als unfehlbar betrachtet, hat in den Überlieferungsketten zahlreiche falsche und widersprüchliche Beurteilungen vorgenommen, indem sie die Weggefährten kollektiv als glaubwürdig betrachtete und damit einen fundamentalen Fehler <span class=\"pb\" data-p=\"80\"></span>beging. Wie der Forscher G.H.A. Juynboll<sup class=\"fn-ref\"><a href=\"#fn-83\" id=\"fnref-83\">83</a></sup> betonte: „Wenn die Behauptung, dass alle Weggefährten glaubwürdig seien, als falsch erwiesen wird, bricht das gesamte Fundament der Hadith-Überlieferung zusammen.“ Im 12. Kapitel werden wir uns einige Hadith-Fälscher genauer ansehen und dieses Thema detailliert untersuchen."
+    },
+    {
+      "type": "heading",
+      "text": "Die Auswirkungen der sinngemäßen Überlieferung von Hadithen",
+      "plain": "Die Auswirkungen der sinngemäßen Überlieferung von Hadithen",
+      "slug": "die-auswirkungen-der-sinngemaessen-ueberlieferung-von-hadithen"
+    },
+    {
+      "type": "paragraph",
+      "text": "Im Prozess der Überlieferung von Hadithen sollten wir nicht vergessen, dass Hadithe sowohl im Wortlaut als auch in der Überlieferungskette über Jahrhunderte hinweg auswendig gelernt und über Berge, Täler und Wüsten von Mund zu Mund weitergegeben wurden. Selbst wenn wir alle zuvor erwähnten bewussten Fälschungen und den Mangel an Überlieferungsketten bei einigen Hadithen ignorieren und annehmen würden, dass alle Überlieferungsketten korrekt und alle Überlieferer guten Willens waren, könnten wir dennoch nicht behaupten, dass die Hadithe zuverlässig wären."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ein Großteil der Menschen, die nicht genügend Wissen über Hadithe haben, glaubt fälschlicherweise, dass die Hadithe in exakt dem Wortlaut, wie sie vom Propheten Muhammad gesprochen wurden, bis zu uns überliefert worden sind. Dabei behaupten nicht einmal die Hadithgelehrten, dass die Hadithe in genau dem Wortlaut überliefert wurden, wie sie ursprünglich gesprochen wurden. Sowohl Buchari als auch viele andere Hadithgelehrte betonten, dass es ausreichend sei, die Bedeutung des Hadiths zu bewahren, <span class=\"pb\" data-p=\"81\"></span>und dass es nicht zwingend erforderlich sei, den genauen Wortlaut auswendig zu lernen.<sup class=\"fn-ref\"><a href=\"#fn-84\" id=\"fnref-84\">84</a></sup> Dies führte jedoch dazu, dass viele ihre eigenen Ansichten in die Hadithe einbrachten. Menschen, die den Inhalt der Hadithe nicht vollständig verstanden hatten und nicht einmal erkannten, dass sie diesen nicht verstanden hatten, verzerrten den Text und damit auch seine Bedeutung. Jeder Überlieferer, der möglicherweise nicht die Gedächtniskraft hatte, den genauen Wortlaut zu behalten, überlieferte die Hadithe so, wie er sich daran erinnerte. Dies führte zwangsläufig zu Bedeutungsveränderungen im Laufe der Überlieferung. Trotz all dieser Schwachstellen hielten sowohl Buchari als auch die beiden größten sunnitischen Rechtsschulen, Hanafiten und Schafiiten, vertreten durch Abu Hanifa und al-Schafi‘i, die sinngemäße Überlieferung für ausreichend."
+    },
+    {
+      "type": "paragraph",
+      "text": "Die größte Ansprache des Propheten an die größte Versammlung, die sogenannte Abschiedspredigt (<em>al-Khutba al-Wada</em>), wird von den Hadithgelehrten als ein Ereignis betrachtet, bei dem über hunderttausend Menschen anwesend waren. Wenn wir nun sehen, wie die verschiedenen Versionen dieser Predigt in den Hadithen voneinander abweichen, wird deutlich, wie selbst bei diesem als „sichersten“ Hadith Fälschungen durch sinngemäße Überlieferung und Hadithfälschungen eingeflossen sind."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ein weiteres Problem, das zu erheblichen Bedeutungsveränderungen führen kann, ist das Nichthören des Anfangs oder Endes eines Hadiths. Als Abu Huraira<sup class=\"fn-ref\"><a href=\"#fn-85\" id=\"fnref-85\">85</a></sup> beispielsweise den Propheten <span class=\"pb\" data-p=\"82\"></span>mit den Worten zitiert haben soll: „<em>Unglück gibt es in drei Dingen: im Haus, in der Frau und im Pferd</em>”, soll Aischa<sup class=\"fn-ref\"><a href=\"#fn-86\" id=\"fnref-86\">86</a></sup> widersprochen haben: „<em>Ich schwöre bei Gott, dass der Gesandte Gottes so etwas nie gesagt hat. Er sagte: </em>‚<em>Die Leute aus der Zeit der Unwissenheit (Dschahiliyya) pflegten zu sagen: Unglück gibt es in drei Dingen: im Haus, in der Frau und im Pferd.</em>’“ Dies ist ein Beispiel dafür, welche fatalen Folgen die sinngemäße Überlieferung von Hadithen haben kann, wenn man deren Anfang, Ende oder die Umstände nicht übermittelt."
+    },
+    {
+      "type": "paragraph",
+      "text": "Aufgrund all dieser Probleme sind sich die Hadithgelehrten bei vielen Hadithen nicht einig. Buchari betrachtet viele Hadithe von Muslim als falsch, und Muslim hält viele Hadithe von Buchari für fehlerhaft.<sup class=\"fn-ref\"><a href=\"#fn-87\" id=\"fnref-87\">87</a></sup> Besonders die vier Begründer der sunnitischen Rechtsschulen – Abu Hanifa, Schafi‘i, Malik und Hanbal – nahmen keine kategorische Unterscheidung zwischen „<em>sahih</em>” (authentisch), „<em>daif</em>” (schwach) oder „hasan” (<em>gut</em>) vor. Sie bauten ihre Rechtsschulen auf Hadithen, die ihrer Meinung nach <span class=\"pb\" data-p=\"83\"></span>glaubwürdig waren, und berücksichtigten dabei nicht unbedingt die Kriterien der Hadithsammler der <em>Kutub al-Sitta</em> (der sechs anerkannten Hadith-Sammlungen). Besonders Abu Hanifa, der Begründer der größten Rechtsschule, wurde von Hadithgelehrten wie Buchari heftig kritisiert, weil er angeblich schwache Kenntnisse in der Hadithüberlieferung hatte und stattdessen seinen eigenen Ansichten (<em>ar-ray</em>)<sup class=\"fn-ref\"><a href=\"#fn-88\" id=\"fnref-88\">88</a></sup> den Vorzug gab. Er wurde von diesen als eine unzuverlässige Quelle betrachtet."
+    },
+    {
+      "type": "heading",
+      "text": "Die Überlieferungsketten der Hadithe",
+      "plain": "Die Überlieferungsketten der Hadithe",
+      "slug": "die-ueberlieferungsketten-der-hadithe"
+    },
+    {
+      "type": "paragraph",
+      "text": "Wir haben bereits gesehen, dass die Gefährten (<em>Sahaba</em>) des Propheten Muhammad als fehlerlos erklärt wurden und ihnen pauschal Wahrhaftigkeit zugeschrieben wurde. Als die Hadith-Sammlungen geschrieben wurden, lebte weder ein einziger Gefährte noch jemand aus der Generation nach ihnen (<em>Tabiun</em>). Vom Tod des Propheten bis zur Niederschrift der Hadith-Sammlungen waren etwa sechs bis sieben Generationen vergangen, und diese berühmten Hadith-Sammlungen überlieferten die Hadithe mit sogenannten Überlieferungsketten, in denen behauptet wurde, dass sie durch sechs bis sieben Personen hindurch weitergegeben worden seien. Diese Methode wurde erstmals systematisch von Buchari angewendet. Wenn wir bedenken, dass Buchari um das Jahr 200 nach der Hidschra lebte, erscheint es wenig überzeugend, dass vor der Einführung seiner Methode die Überlieferungsketten bereits in einer Form bewahrt wurden, die eine zukünftige, noch nicht existierende Methode berücksichtigen würde. Kassim <span class=\"pb\" data-p=\"84\"></span>Ahmad<sup class=\"fn-ref\"><a href=\"#fn-89\" id=\"fnref-89\">89</a></sup> kritisiert in seinem Buch <em>Hadis: Satu Penilaian Semula (Hadith: A Re-evaluation)</em> ebenfalls diese Art der Überlieferung und führt zwei Beispielketten an:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Zum Zeitpunkt der Überlieferung dieser Hadithe waren selbst die Personen aus der zweiten oder dritten Generation nach dem Propheten längst verstorben. Das bedeutet, dass die Hadith-Gelehrten nicht in der Lage waren, die Wahrhaftigkeit der Überlieferer persönlich zu überprüfen, da diese bereits tot waren.<sup class=\"fn-ref\"><a href=\"#fn-90\" id=\"fnref-90\">90</a></sup> Selbst wenn wir fehlerhaft annehmen würden, dass alle Gefährten vollkommen wahrhaftig waren, ist es für die Generationen nach den Gefährten – die zum Zeitpunkt der Niederschrift der Hadith-Sammlungen bereits größtenteils verstorben waren – unmöglich, deren Wahrhaftigkeit zu überprüfen. Das sogenannte „Wissenschaft der Überprüfung und Bestätigung der Überlieferer“ <span class=\"pb\" data-p=\"85\"></span>(<em>dscharh wa tadil</em>), auf das sich die Hadith-Gelehrten berufen, ist daher in Bezug auf Verstorbene vollkommen wirkungslos."
+    },
+    {
+      "type": "paragraph",
+      "text": "Jeder von uns weiß, wie schwierig es ist, die Wahrhaftigkeit einer Person in einem kurzen Gespräch festzustellen, selbst wenn diese Person noch lebt. Zur Zeit der Niederschrift der Hadith-Bücher waren die Muslime bereits über ein riesiges Gebiet verstreut, und die meisten Autoren dieser Werke lebten zudem nicht einmal in der Region, in der der Prophet gewirkt hatte (Mekka und Medina). Es war praktisch unmöglich, alle lebenden Glieder der Überlieferungsketten zu erreichen, und selbst wenn dies möglich gewesen wäre, hätte man trotzdem nicht sicher feststellen können, ob jemand die Wahrheit sagt oder nicht. Wie soll man durch einen kurzen Besuch das Wesen und die Glaubwürdigkeit eines Menschen vollständig erfassen?<sup class=\"fn-ref\"><a href=\"#fn-91\" id=\"fnref-91\">91</a></sup> Eine Religion, die absolute Gewissheit verlangt, wie kann sie auf so subjektiven Kriterien basieren?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Wie wir sehen können, erscheint der Hadith-Gelehrte in der traditionellen Sichtweise wie ein Superheld. Er ist so eine Art Supermann, der Hunderttausende von Hadithen zusammen mit ihren Überlieferungsketten auswendig kennt und für uns die zuverlässigsten auswählt. Es gibt in der Überlieferungskette sogar Personen, die bereits verstorben waren, als der Hadith-Gelehrte geboren wurde, aber trotzdem weiß er, wer unter ihnen lügt und wer die Wahrheit sagt. Selbst eine Person mit einem Hubschrauber könnte die Überlieferer nicht alle besuchen, doch der Hadith-Gelehrte besuchte sie auf einem Kamel reitend. Und mit nur einem <span class=\"pb\" data-p=\"86\"></span>Besuch konnte er zwischen einem Lügner und einem Wahrhaftigen unterscheiden. Diese außergewöhnlichen Fähigkeiten werden den Hadith-Gelehrten zugeschrieben, um die Authentizität ihrer Sammlungen zu behaupten. Dazu kommen noch die Erzählungen über spirituelle Überlegenheit, die jedoch meist von übertriebenen Schilderungen geprägt sind und die wir hier nicht weiter behandeln werden."
+    },
+    {
+      "type": "heading",
+      "text": "Diese Gedanken sind nicht neu",
+      "plain": "Diese Gedanken sind nicht neu",
+      "slug": "diese-gedanken-sind-nicht-neu"
+    },
+    {
+      "type": "paragraph",
+      "text": "Die Hadith-Gelehrten stützen sich auf sogenannte Überlieferungsketten, die oft in der Form von „Ich hörte es von jenem, der es wiederum von einem anderen hörte, der es wiederum von einem Dritten gehört hat...“ beschrieben werden. Solche Ketten gelten als „<em>sahih</em>“ (authentisch), wenn alle Überlieferer darin als vertrauenswürdig erachtet werden, ohne dass der eigentliche Inhalt der Überlieferung selbst genauer überprüft wird. Diese Art von Überlieferungen nennt man „Ahad-Hadithe“ oder „Ahad-Nachricht“. Die Hadith-Sammlungen von Buchari und Muslim, die als die „authentischsten“ Sammlungen gelten, sowie andere bekannte Hadith-Bücher bestehen alle hauptsächlich aus diesen Ahad-Hadithen."
+    },
+    {
+      "type": "paragraph",
+      "text": "Viele Anhänger des traditionellen Ansatzes greifen gerne zur Waffe der Exkommunikation, um ihre Ansichten, die häufig mit unbewiesenen Berichten durchsetzt sind, durchzusetzen. Sie erklären, dass jeder, der auch nur einen einzigen Hadith aus Buchari oder Muslim leugnet, ein Leugner/ Ungläubiger (<em>kafir</em>) sei. Dabei haben Buchari und Muslim selbst eine Vielzahl von Hadithen des jeweils anderen zurückgewiesen. Laut den Anhängern der Rechtsschulen ist es „Barmherzigkeit“, wenn Gelehrte einander widersprechen, doch wenn wir selbst etwas in Frage stellen, gelten <span class=\"pb\" data-p=\"87\"></span>wir als Ungläubige. Die Schiiten und Sunniten akzeptieren die Hadith-Bücher der jeweils anderen nicht. Auch die Mu’tazila,<sup class=\"fn-ref\"><a href=\"#fn-92\" id=\"fnref-92\">92</a></sup> die Charidschiten<sup class=\"fn-ref\"><a href=\"#fn-93\" id=\"fnref-93\">93</a></sup> und andere Gruppen haben gegen die Niederschrift der Hadithe protestiert und sich dagegen ausgesprochen, dass sie als islamische Quellen gelten. Das zeigen auch Berichte in Büchern, die die Hadithe verteidigen. Doch jene, die eine Koranzentrierte Auffassung des Islam vertreten und Hadithe als Quelle ablehnen, stoßen oft auf die Frage: „Glaubt ihr etwa, ihr seid die Ersten, die diese Idee haben? Warum hat das bisher niemand gesagt?“ Solche Fragen zeigen Unwissenheit darüber, dass Hadithe von Beginn an auf Widerstand stießen und nicht als verbindliche islamische Quelle akzeptiert wurden. Dieser Widerstand wurde jedoch durch den Druck und die Unterdrückung der Zentralmacht zum Schweigen gebracht. Diese Ansichten sind weder neu, noch sind wir die ersten, die sie äußern.<sup class=\"fn-ref\"><a href=\"#fn-94\" id=\"fnref-94\">94</a></sup> Ein Islam, der den Koran als einzige Quelle ansieht, war von Anfang an vorhanden, auch wenn er im Laufe der Zeit zur Minderheitsposition wurde. Hadith-Sammlungen hingegen sind später entstanden und wurden erst nach und nach als religiöse Quellen betrachtet."
+    },
+    {
+      "type": "paragraph",
+      "text": "<span class=\"pb\" data-p=\"88\"></span>Kritiker eines koranbasierten Islam ohne Rechtsschulen sind oft nicht über wichtige Aspekte der Hadith-Problematik informiert – sei es die Überlieferung der Hadithe im Sinne des Wortlauts, die Probleme der Überlieferungsketten, das Verbot des Schreibens von Hadithen oder die Gegensätze unter den Hadith-Gelehrten. Ebenso haben sie oft keine Kenntnis über die historischen Gruppen im Islam, die die Hadithe abgelehnt haben. Natürlich gibt es auch diejenigen, die trotz dieses Wissens aus blindem Sektierertum diese Punkte ignorieren. Dank sei Gott, dass Er uns nicht den in Lügen verwickelten, chaotischen und unlösbaren Hadith- und Rechtsbüchern überlassen hat, sondern uns den in jeder Hinsicht ausreichenden Koran gesandt hat!"
+    },
+    {
+      "type": "heading",
+      "text": "Die Offenbarungsanlass-Hadithe (asbab an-nuzul)",
+      "plain": "Die Offenbarungsanlass-Hadithe (asbab an-nuzul)",
+      "slug": "die-offenbarungsanlass-hadithe-asbab-an-nuzul"
+    },
+    {
+      "type": "paragraph",
+      "text": "Die Hadithe, die den Anlass der Offenbarung von Koranversen beschreiben sollen, werden <em>asbab an-nuzul</em> genannt. Wie bereits in Kapitel 3 erwähnt, ist der Koran ausreichend, detailliert, klar und enthält alle für den Islam relevanten Bestimmungen. Der Koran benötigt keine zusätzliche Hadithe, um seine Offenbarung zu erklären. Daher gibt es auch keine Notwendigkeit für Hadithe, die als <em>asbab an-nuzul</em> bekannt sind und den angeblichen Offenbarungsanlass der Koranverse darstellen. Der Koran erklärt sich selbst. Wenn wir ein Thema verstehen wollen, sollten wir alle Verse des Korans zu diesem Thema zusammen betrachten und daraus lernen. Wenn wir versuchen, den Koran mit tausenden von falschen Hadithen zu verstehen, verwässern wir die Klarheit und Reinheit des Korans mit Lügen und Überflüssigem. Um die Botschaft des Korans klar und ungetrübt zu hören, müssen wir alle anderen „Frequenzen“ abschalten und uns nur auf den Koran konzentrieren."
+    },
+    {
+      "type": "verse",
+      "text": "<span class=\"pb\" data-p=\"89\"></span>„Zu jedem Beispiel, das sie dir vorbringen, bringen wir dir die Wahrheit und die beste Erklärung/ das beste Kommentar (<em>ahsana tafsir)</em>.“",
+      "reference": "Koran 25:33"
+    },
+    {
+      "type": "paragraph",
+      "text": "Gott sagt, dass er die beste Erklärung selbst liefert. Das arabische Wort für „Kommentar/ Erklärung“ in diesem Vers ist „<em>tafsir</em>“. Heute sind die sogenannten <em>asbab an-nuzul</em>-Hadithe meist der zentrale Bestandteil von Koranexegesen (Tafsir-Büchern). Doch Gott sagt, dass er selbst den besten „<em>tafsir</em>“ (Kommentar) gibt; die Religion Gottes ist vollständig und perfekt, auch ohne die von Menschen geschriebenen Exegesen."
+    },
+    {
+      "type": "paragraph",
+      "text": "Darüber hinaus ist unserer Meinung nach der Anteil an Fälschungen unter den Offenbarungsanlass-Hadithen sogar noch höher als bei anderen Hadithen. Manche bekannten Exegese-Autoren haben, ohne eine Unterscheidung zwischen „authentisch“ (<em>sahih</em>) und „schwach“ (<em>da’if</em>) zu treffen, eine Vielzahl von Hadithen in ihre Bücher aufgenommen, die eindeutig jüdisch-christiliche Erzählungen (<em>isra’iliyat</em>) sind.<sup class=\"fn-ref\"><a href=\"#fn-95\" id=\"fnref-95\">95</a></sup> Dieselbe Offenbarung wird oft in einem einzigen Buch mit unterschiedlichen Gründen erklärt, wie „Einige sagen so, andere sagen anders, wieder andere sagen...“, was die Vielzahl an Fälschungen in diesem Bereich zeigt. Selbst Ahmad ibn Hanbal, der Gründer einer der vier großen Rechtsschulen des Sunnitentums und selbst Hadith-Gelehrter, sagte: „<em>Es gibt keinen einzigen richtigen Hadith über die asbab an-nuzul.</em>“<sup class=\"fn-ref\"><a href=\"#fn-96\" id=\"fnref-96\">96</a></sup>"
+    },
+    {
+      "type": "paragraph",
+      "text": "<span class=\"pb\" data-p=\"90\"></span>Eines der größten Probleme ist die geistige Verhaftung an Rechtsschulen. Angesichts der Vielzahl an Fälschungen und irrationalen Erklärungen innerhalb der Rechtsschulen wird das Ausmaß des daraus entstehenden Problems deutlich. Diejenigen, die mit einem rechtsschulischen Ansatz Koran-Kommentare verfasst haben, haben versucht, den Koran im Einklang mit ihren Rechtsschulen zu erklären, was zu unsachgemäßen Interpretationen führte, die mit dem eigentlichen Text des Korans nichts zu tun haben. Die Offenbarungsanlass-Hadithe, die verschiedene Gründe für denselben Vers liefern, bieten den rechtsschulischen Kommentatoren einen breiten Spielraum, um den Koran an ihre persönlichen und konfessionellen Vorstellungen anzupassen. Die meisten dieser Offenbarungsanlass-Hadithe wurden in der Zeit der Hadith-Niederschrift – nach der Entstehung der Rechtsschulen – von jenen erfunden, die den Koran an ihre eigenen oder konfessionellen Ansichten anpassen wollten."
+    },
+    {
+      "type": "paragraph",
+      "text": "Im Vorwort seiner Koranexegese gibt Muhammed Hamdi Yazir<sup class=\"fn-ref\"><a href=\"#fn-97\" id=\"fnref-97\">97</a></sup> eine Vereinbarung mit der offiziellen Autorität zu. In Artikel 5 dieser Vereinbarung verpflichtet er sich, die Exegese im Einklang mit der sunnitischen Auffassung und der hanafitischen Rechtsschule zu verfassen. Laut Prof. Dr. Mehmet Aydın<sup class=\"fn-ref\"><a href=\"#fn-98\" id=\"fnref-98\">98</a></sup> zeigt diese „ideologische Exegese“ oder, wie wir ihn nennen, „rechtsschulische <span class=\"pb\" data-p=\"91\"></span>Exegese“ schon auf den ersten Seiten von Hamdi Yazirs Werk sein wahres Gesicht.<sup class=\"fn-ref\"><a href=\"#fn-99\" id=\"fnref-99\">99</a></sup> Doch egal, wie tief das Wissen eines Menschen ist: Wenn der Geist an ein menschliches Produkt gebunden ist, das Gott nicht legitimiert hat – sei es eine Rechtsschule –, kann eine solche Exegese kaum zutreffend sein. Der Versuch, den Koran durch Hadithe, die als religiöse Quelle angesehen werden, sowie durch andere menschliche Fiktionen zu erklären, führte den Koran in eine Richtung, die mit seiner eigentlichen Bedeutung nichts zu tun hat. Ob diese erdachten Heiligkeiten nun „Rechtsschul-Imam“, „Scheich“, „Hadith“ oder „Asbab an-Nuzul“ heißen – sie dienen alle nur dazu, den Koran zu verwässern."
+    },
+    {
+      "type": "heading",
+      "text": "Salman Rushdies Buch „Die satanischen Verse” ist eigentlich „<em>Die satanischen Hadithe</em>”",
+      "plain": "Salman Rushdies Buch „Die satanischen Verse” ist eigentlich „Die satanischen Hadithe”",
+      "slug": "salman-rushdies-buch-die-satanischen-verse-ist-eigentlich-die"
+    },
+    {
+      "type": "paragraph",
+      "text": "Die Verwendung der Offenbarungsanlass-Hadithe zur angeblichen Erklärung des Koran hat der islamischen Welt zahlreiche Probleme bereitet, unter anderem die Tatsache, dass islamophobe Personen diese Erfindungen als den Islam darstellen und somit Angriffe auf den Islam richten konnten. Ein Beispiel dafür ist das Buch von Salman Rushdie, dessen Grundlage auf solchen Hadithen beruht. Laut diesen erfundenen Hadithen drang eines Tages, während der Prophet den Koran rezitierte, der Teufel in den Körper des Propheten ein und ließ ihn über die damaligen lokalen Götzen Lat, Manat und Uzza lobende Worte sprechen, indem er behauptete, ihre Fürsprache sei zu erhoffen. (Dieser Sachverhalt, bekannt als die „Gharaniq-Erzählung“, wird in vielen als authentisch geltenden Hadith-Quellen der sunnitischen Rechtsschule überliefert.)"
+    },
+    {
+      "type": "paragraph",
+      "text": "<span class=\"pb\" data-p=\"92\"></span>Später soll der Prophet, gemäß diesen angeblichen Quellen voller Ammenmärchen, erklärt haben, dass diese Worte nicht von ihm, sondern vom Teufel stammen. Viele Muslime reagierten darauf, indem sie Rushdie scharf verurteilten. So ging beispielsweise Ayatollah Khomeini so weit, eine <em>fatwa</em><sup class=\"fn-ref\"><a href=\"#fn-100\" id=\"fnref-100\">100</a></sup> zur Ermordung Rushdies zu erlassen, und Rushdies Buch <em>Die Satanischen Verse</em> führte sogar zu internationalen diplomatischen Krise. Doch niemand hat jene verurteilt, die diese erfundenen Hadithe in ihren Büchern als Wahrheit verbreitet haben. Diese Hadithe wurden als religiöse Quellen akzeptiert, und die Menschen, die sie bewahrten und verbreiteten, wurden als „Gelehrte” (<em>alim</em>) verehrt. Die gleiche Überlieferung wurde von Salman Rushdie verwendet, jedoch mit dem Ziel, den Islam anzugreifen, und plötzlich waren sie dann nicht mehr akzeptabel. Wir müssen uns fragen: Wenn wir diese falschen Überlieferungen, die dem Islam zugeschrieben werden, nicht beseitigen, wie können wir dann Leute wie Salman Rushdie, Hamed Abdel-Samad, Michael Stürzenberger, Thilo Sarazzin oder andere kritisieren, die diese Ammenmärchen als Angriffsmaterial benutzen?<sup class=\"fn-ref\"><a href=\"#fn-101\" id=\"fnref-101\">101</a></sup> Menschen, die ein solches verzerrtes religiöses System schaffen und aufrechterhalten, tragen eine Mitverantwortung an den Attacken und Hetzen von Islamophoben, die dieses Zerrbild als Material benutzen."
+    },
+    {
+      "type": "paragraph",
+      "text": "Zusätzlich zu diesen Hadithen, die besagen, dass der Teufel angeblich zeitweise in den Körper des Propheten eingedrungen sei, wird behauptet, Gott habe in Reaktion auf dieses Ereignis die <span class=\"pb\" data-p=\"93\"></span>Verse 22:52 und die folgenden offenbart. Natürlich lässt sich so ein Ereignis aus den Versen nicht herauslesen. Aber dies ist nur ein Beispiel für das Dilemma, in das man gerät, wenn man versucht, den Koran mit Offenbarungsanlass-Hadithen zu verstehen. Leider gibt es viele Beispiele für diesen Sumpf von Verwirrung und Falschheit."
+    },
+    {
+      "type": "heading",
+      "text": "Verbreitete Koranexegesen auf dem Markt",
+      "plain": "Verbreitete Koranexegesen auf dem Markt",
+      "slug": "verbreitete-koranexegesen-auf-dem-markt"
+    },
+    {
+      "type": "paragraph",
+      "text": "Viele der als Koranexegesen auf dem Markt angebotenen Bücher sind mit Offenbarungsanlass-Geschichten gefüllt. Diese Geschichten vermitteln oft den Eindruck, als seien die Koranverse für ein bestimmtes Ereignis offenbart worden, als seien sie nur für eine begrenzte Zeit und einen bestimmten Ort relevant. Diese Herangehensweise untergräbt die Universalität des Korans und seine Botschaft für alle Zeiten. Die Erklärungen des Korans können nicht auf eine Zeitperiode oder eine einzelne Geschichte reduziert werden. Dass der Koran eine „<strong>Ermahnung für alle Welten</strong>”<sup class=\"fn-ref\"><a href=\"#fn-102\" id=\"fnref-102\">102</a></sup> ist, und dass <strong>der Koran zur Rechtleitung aller Menschen gesandt</strong> wurde,<sup class=\"fn-ref\"><a href=\"#fn-103\" id=\"fnref-103\">103</a></sup> widerspricht diesem Verständnis. Gott hat die Gründe für die Offenbarung der Koranverse dann erklärt, wenn er es für notwendig hielt. So heißt es zum Beispiel in den Versen, die mit „<strong>Sie fragen dich, sprich…</strong>“ beginnen, dass bestimmte Fragen durch die Offenbarung von Koranversen beantwortet wurden. Was Gott nicht erklärt hat, ist für uns irrelevant; alles, was wir für den Islam brauchen, ist im Koran enthalten."
+    },
+    {
+      "type": "paragraph",
+      "text": "Leider haben diejenigen, die den Koran als unzureichend betrachteten, auf Ammenmärchen zurückgegriffen und damit die klare Stimme des Korans durch schlechte Frequenzen verfälscht. <span class=\"pb\" data-p=\"94\"></span>Der Koran offenbart uns seine Wunder in vielfältiger Weise: von der „Geoid-Gestalt“ der Erde über die Entwicklung des Embryos im Mutterleib bis hin zum Phänomen, dass sich die Gewässer der Ozeane nicht vermischen.<sup class=\"fn-ref\"><a href=\"#fn-104\" id=\"fnref-104\">104</a></sup> Diese Erklärungen sind von vor 1400 Jahren und bestätigen wissenschaftliche Erkenntnisse, die erst in den letzten Jahrhunderten entdeckt wurden. Jene, die versuchen, den Koran anhand von Hadithen zu kommentieren, geraten jedoch in absurde Situationen, wie zum Beispiel die absurde Erklärung von Ibn Kathir zu den Versen 2:29 und 68:1:"
+    },
+    {
+      "type": "paragraph",
+      "text": "„<em>Als Gott erschaffen wollte, bildete sich aus feinem Wasser Dampf. Der Dampf stieg über dem Wasser empor und das, was aufstieg, wurde als Himmel bezeichnet. Dann verdichtete sich das Wasser und daraus wurde eine einzige Erde erschaffen. Später wurde die Erde geteilt und an zwei Tagen, Sonntag und Montag, in sieben Teile aufgeteilt. Die Erde wurde auf einem Fisch erschaffen, der Fisch ist jener ‚Nun’, der im Vers 68:1 ‘Nun. Beim Schreibrohr…’ erwähnt wird. Der Fisch befindet sich im Wasser, das Wasser ist auf einem Felsen. Der Felsen steht auf einem großen Stein, auf dem keine Pflanzen wachsen. Der Stein ist auf dem Rücken eines Engels, der Engel ist wiederum auch auf einem Felsen und der Felsen ist der Wind. Genau dies ist der Fels, von dem Hadhrat Luqman wie folgt berichtete: „Es gab weder den Himmel noch die Erde, die Fische bewegten sich. Die Bewegung des Fisches brachte die Erde ins Schwanken, und die Berge wurden auf </em><span class=\"pb\" data-p=\"95\"></span><em>der Erde verankert, um sie zu stabilisieren. Deshalb sind die Berge auf die Erde gesetzt worden“.</em>”<sup class=\"fn-ref\"><a href=\"#fn-105\" id=\"fnref-105\">105</a></sup>"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ohne die Autorität von Quellen außerhalb des Korans in islamischen Angelegenheiten abzulehnen, ist es nicht möglich, sich von solchen absurden Vorstellungen wie „die Erde würde auf einem Fisch ruhen“ zu befreien. Mehmet Akif Ersoy, der von diesen Ansichten ebenso angewidert war, drückt seine Kritik in seinen Gedichten aus:"
+    },
+    {
+      "type": "verse",
+      "text": "„<em>Jene, die sich selbst als Prediger bezeichnen, die Narren, schlägt auf das Podium und sagt, einer von ihnen: Hört her, worauf ruht die Welt, o Toren? Unter der Erde ist ein Stier, und unter dem Stier ein Fisch, Und unter dem Fisch ist ein mächtiger Ozean, voller Felsen. Von der Seite ruft ein Kurde: Ist das wirklich wahr, O Hodscha? Was meinst du mit ‘wahr’? Du unwissender Narr! Meine Worte stammen aus alten Büchern, nicht aus irgendeinem Unsinn. Wer daran nicht glaubt, der sei ein roter</em><sup class=\"fn-ref\"><a href=\"#fn-106\" id=\"fnref-106\">106</a></sup><em> Ungläubiger, so wisset es.</em>”<sup class=\"fn-ref\"><a href=\"#fn-107\" id=\"fnref-107\">107</a></sup>",
+      "reference": null
+    },
+    {
+      "type": "paragraph",
+      "text": "In einem anderen Gedicht attackiert Mehmet Akif jenen, den er als „Narr” bezeichnet:"
+    },
+    {
+      "type": "paragraph",
+      "text": "„<em>Du hast tausende Unsinnigkeiten dem Propheten zugeschrieben, </em><span class=\"pb\" data-p=\"96\"></span><em>Du hast die wahre Religion zerstört und eine neue erschaffen.</em>”<sup class=\"fn-ref\"><a href=\"#fn-108\" id=\"fnref-108\">108</a></sup>"
+    },
+    {
+      "type": "paragraph",
+      "text": "Trotz seiner harschen Kritik an solchen Figuren verliert Mehmet Akif niemals die Hoffnung. In den folgenden Versen beschreibt er seine Lösung für diese Fälschungen:"
+    },
+    {
+      "type": "verse",
+      "text": "„<em>Direkt aus dem Koran müssen wir die Inspiration holen, Dem Verstand der Zeit soll die Botschaft des Islam als Ziel gelten.</em>”<sup class=\"fn-ref\"><a href=\"#fn-109\" id=\"fnref-109\">109</a></sup>",
+      "reference": null
+    },
+    {
+      "type": "heading",
+      "text": "Welchem Hadith glauben sie nach dem Koran?",
+      "plain": "Welchem Hadith glauben sie nach dem Koran?",
+      "slug": "welchem-hadith-glauben-sie-nach-dem-koran"
+    },
+    {
+      "type": "paragraph",
+      "text": "Dieser Untertitel stammt aus dem Koranvers 7:185. In den türkischen Übersetzungen des Verses kann man beobachten, dass das Wort <em>Hadith</em> oft durch „Ausspruch” ersetzt wird.<sup class=\"fn-ref\"><a href=\"#fn-110\" id=\"fnref-110\">110</a></sup> Diese Übersetzung ist natürlich korrekt, da das arabische Wort <em>Hadith</em> auf Türkisch „Ausspruch/Rede” bedeutet. Der Gebrauch des Wortes <em>Hadith</em> in diesem und anderen Versen, und die Tatsache, dass die fälschlicherweise als gleichwertige Quellen zum Koran eingeführten Worte ebenfalls „Hadithe“ genannt werden, ist ein Wunder des Koran. Der Koran deutet auf eine grundlegende Problematik des Islam hin, nämlich dass dem Propheten zahlreiche Lügen zugeschrieben und die einzige Quelle des Islam in hunderte Bücher <span class=\"pb\" data-p=\"97\"></span>zerteilt wird. Hätte man für die Worte des Propheten ein anderes arabisches Wort wie <em>aqwal</em> (Ausspüche), <em>achbar</em> (Nachrichten) oder <em>hikam</em> (Weisheiten) verwendet, hätte dies nicht dieselbe Bedeutung getragen. Dass sich die Hadith-Gelehrten in ihren vielfältigen Ansichten auf das Wort <em>Hadith</em> einigen und somit in den Bezug der Koranverse kommen, ist eines der unzähligen Wunder des Korans."
+    },
+    {
+      "type": "verse",
+      "text": "„Dieser Koran ist kein erdichtetes Gerede (<em>Hadith</em>), sondern eine Bestätigung dessen, was vor ihm war, eine Erläuterung aller Dinge; eine Rechtleitung und Barmherzigkeit für die Gläubigen.“",
+      "reference": "Koran 12:111"
+    },
+    {
+      "type": "paragraph",
+      "text": "Gott betont in diesem Vers, dass der Koran „kein erdichtetes/ erfundenes Hadith“ ist, und unterstreicht damit auch eine Tatsache, die aus der perspektivischen Betrachtung der Rechtsschulen oft nicht verstanden wird. Die Anhänger der Rechtsschulen übersehen, dass der Koran detailliert ist, und fügen Traditionen, persönliche Ansichten und Hadithe in den Islam ein, als ob die Details des Korans unzureichend wären. Dabei spielen die Hadithe eine Hauptrolle. Derselbe Vers sagt jedoch, dass der Koran „kein erdichtetes/erfundenes Hadith” ist, und zeigt damit seine Wunderkraft jenen, die verstehen wollen."
+    },
+    {
+      "type": "verse",
+      "text": "„Vielleicht wirst du aus Kummer über sie dich selbst zugrunde richten, wenn sie an diesen Hadith (Ausspruch) nicht glauben.“",
+      "reference": "Koran 18:6"
+    },
+    {
+      "type": "paragraph",
+      "text": "Aus diesem Vers erkennen wir, dass der einzige Hadith (Aussage), den der Prophet Muhammad bedauert, dass die Menschen <span class=\"pb\" data-p=\"98\"></span>nicht daran glauben, der Koran ist. Der Prophet Muhammad hat niemanden zu einem Hadith außerhalb des Korans eingeladen. Er hat auch nie angeordnet, dass seine eigenen Worte niedergeschrieben werden sollen. Wären seine Hadithe eine Quelle des Islam gewesen, hätte er sie niederschreiben lassen und wäre auch traurig gewesen, wenn die Menschen nicht daran geglaubt hätten. Das einzige, wofür der Prophet kämpfte, war der Hadith/ die Aussage des Korans. Der Koran ist der einzige Hadith/ die einzige Aussage, auf den hingewiesen wird, dem wir folgen sollen. Der Koran weist auf keinen anderen Hadith/ keine andere Aussage hin, dem wir folgen sollen. Hätten die persönlichen Worte des Propheten eine religiöse Bedeutung, hätte der Koran dies in vielen Versen erwähnt. Das Fehlen eines solchen Verses und die Verwendung des Wortes <em>Hadith</em> im Koran in der dargestellten Weise beweisen klar, dass das heutige „Hadith-Konzept“ eine spätere Fabrikation ist."
+    },
+    {
+      "type": "verse",
+      "text": "„Das sind die Verse Gottes, die Wir dir der Wahrheit gemäß vortragen. An welche Aussage (<em>Hadith</em>) außer Gott und seinen Versen wollen sie denn glauben?“",
+      "reference": "Koran 45:6"
+    },
+    {
+      "type": "paragraph",
+      "text": "Gott stellt diese Frage im Vers. Die Antwort, die sich aus den Handlungen der Anhänger der sunnitischen und schiitischen Rechtsschulen ergibt, lautet: „Wir glauben an Buchari, Muslim, die Hadithe (Aussagen) der Zwölf Imame, Abu Dawud, Ibn Madscha.“"
+    },
+    {
+      "type": "verse",
+      "text": "„Wessen Hadith (Aussage) ist wahrer als der Gottes?”",
+      "reference": "Koran 4:87"
+    },
+    {
+      "type": "verse",
+      "text": "„Wenn sie wahrhaftig sind, sollen sie doch einen Hadith (Aussage) wie diesen bringen.”",
+      "reference": "Koran 52:34"
+    },
+    {
+      "type": "paragraph",
+      "text": "<span class=\"pb\" data-p=\"99\"></span>Im Gegensatz zu diesen Ausführungen des Korans versucht das berühmte Hadith-Buch von Abu Dawud zu behaupten, dass dem Propheten zusammen mit dem Koran auch gleichwertige Hadithe gegeben wurden, um diese zu rechtfertigen.<sup class=\"fn-ref\"><a href=\"#fn-111\" id=\"fnref-111\">111</a></sup> Doch das reicht nicht aus, um die Hadithe zu rechtfertigen, denn die Hadithe sind nicht nur so umfangreich wie der Koran, sondern sogar weit umfangreicher. Außerdem steht dieser Hadith, der die Denkweise der Rechtsschulen und Hadith-Anhänger zum Ausdruck bringt, im Widerspruch zu dem oben genannten Koranvers 52:34, der besagt, dass es keinen Hadith gibt, der dem Koran gleicht."
+    },
+    {
+      "type": "verse",
+      "text": "„Und unter den Menschen gibt es solche, die leeres Gerede (Hadithe) kaufen, um ohne jegliches Wissen von Gottes Weg abzuirren und ihn zum Spott zu nehmen. Für sie ist eine erniedrigende Strafe bestimmt.“",
+      "reference": "Koran 31:6"
+    },
+    {
+      "type": "paragraph",
+      "text": "Im nächsten Vers (31:7) sehen wir, dass diese Personen sich abwenden, wenn ihnen die Zeichen rezitiert werden. Leider ist es so, dass manche Menschen die Verse des Korans ignorieren, wenn wir ihnen ein Urteil allein auf der Grundlage des Korans darlegen, weil sie in ihrer Rechtsschulenzugehörigkeit befangen sind. Wenn sie jedoch die Verse nicht nur aus klanglichen, sondern auch aus inhaltlichen Gründen lesen, könnten sie das, was wir versuchen zu vermitteln, besser verstehen. Der Begriff <em>Hadith</em> wird im Koran <span class=\"pb\" data-p=\"100\"></span>in Verbindung mit dem Propheten Muhammad nur zweimal verwendet, und zwar in den folgenden Versen:"
+    },
+    {
+      "type": "verse",
+      "text": "„O ihr, die ihr glaubt, betretet nicht die Häuser des Propheten, es sei denn, ihr seid zum Essen eingeladen... Wenn ihr dann gegessen habt, geht auseinander und verfallt nicht in einem Gespräch (<em>Hadith</em>). Solches betrübt den Propheten.“",
+      "reference": "Koran 33:53"
+    },
+    {
+      "type": "verse",
+      "text": "„Und als der Prophet einer seiner Frauen eine geheime Aussage (<em>Hadith</em>) mitteilte und als sie es dann weitergab und Gott es ihm offenbarte, gab er einen Teil davon bekannt und überging einen Teil.“",
+      "reference": "Koran 66:3"
+    },
+    {
+      "type": "paragraph",
+      "text": "Wie man sieht, kommt das Wort <em>Hadith</em> in Verbindung mit dem Propheten nur zweimal vor. Doch hat diese Verwendung nichts mit den Sichtweisen der Sunniten und Schiiten zu den „Hadithen” zu tun. Im obigen Vers 66:3 wird das Wort <em>Hadith</em> nicht in dem Sinne von religiösen Lehren verwendet, wie es Sunniten und Schiiten verwenden, sondern es bezieht sich auf persönliche Worte des Propheten. In beiden Fällen wird der Begriff <em>Hadith</em> in einem negativen Kontext verwendet."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ein weiterer von der islamischen Tradition angeführter Begriff ist „<em>idschma</em>” (Konsens).<sup class=\"fn-ref\"><a href=\"#fn-112\" id=\"fnref-112\">112</a></sup> Die Verwendung dieses Begriffs und <span class=\"pb\" data-p=\"101\"></span>seiner Ableitungen im Koran ist durchweg negativ. Dies zeigt, dass der Koran <em>idschma</em> auf ähnliche Weise verurteilt wie das „Hadith-Konzept“ und dass dies ebenfalls auf wunderbare Weise durch den Koran belegt wird.<sup class=\"fn-ref\"><a href=\"#fn-113\" id=\"fnref-113\">113</a></sup>"
+    },
+    {
+      "type": "heading",
+      "text": "Was sollen wir mit den richtigen Hadithen machen?",
+      "plain": "Was sollen wir mit den richtigen Hadithen machen?",
+      "slug": "was-sollen-wir-mit-den-richtigen-hadithen-machen"
+    },
+    {
+      "type": "paragraph",
+      "text": "Es ist sicher, dass es unter den Hadithen zehntausende gefälschte Überlieferungen gibt. Hadithe, die im Widerspruch zum Koran stehen, zusätzliche islamische Bestimmungen einführen oder der Logik und dem klaren Menschenverstand widersprechen, sind zweifellos falsch. Hadithe, die dem Islam zusätzliche Elemente hinzufügen, müssen ebenfalls abgelehnt werden, da sie im Widerspruch zu den Versen des Koran stehen, die besagen, dass der Koran ein detailliertes, alles erklärendes und vollkommenes Buch ist. Die verbleibenden Hadithe können, sofern sie dem Koran nicht widersprechen, wahr sein. Solange diese Hadithe nicht als Quelle des Islam dargestellt werden, kann es sinnvoll sein, sie in den Bereichen der Prophetengeschichte (as-sira an-nabawiya) und der islamischen Geschichte zu verwenden. So oder so wird es immer Menschen geben, die die Geschichte der Zeit des Propheten und der darauffolgenden Perioden aufschreiben werden. Diese Geschichtsschreibung ist nicht nur unvermeidlich, sondern auch nützlich, um ein Geschichtsbewusstsein zu entwickeln. Es ist jedoch wichtig, dass das dabei verwendete Material durch den Filter des Koran und des gesunden Menschenverstands geprüft wird. Die in diesem Buch dargelegten Argumente zeigen, warum dies von so großer Bedeutung ist."
+    },
+    {
+      "type": "heading",
+      "text": "<span class=\"pb\" data-p=\"102\"></span>Unser Ziel ist es nicht, die Suppe zu verweigern, sondern auf das Haar in der Suppe zu zeigen",
+      "plain": "Unser Ziel ist es nicht, die Suppe zu verweigern, sondern auf das Haar in der Suppe zu zeigen",
+      "slug": "unser-ziel-ist-es-nicht-die-suppe-zu-verweigern-sondern-auf-das"
+    },
+    {
+      "type": "paragraph",
+      "text": "In diesem Kapitel haben wir gesehen, welche Haltung der Prophet gegenüber den Hadithen einnahm. Die Haltung der vier Kalifen gegenüber den Hadithen werden wir im Kapitel 11 besprechen. Wenn eine Suppe zur Hälfte aus Suppe und zur anderen Hälfte aus Gift besteht, können wir dann behaupten, dass ein Teil davon getrunken werden könnte? Die Hadith-Sammlungen sind in ähnlicher Weise mit Wahrheit und Falschheit vermischt, so dass sie schwer voneinander zu unterscheiden sind. Dass wir sagen: „Richtet euch nicht nach den Hadithen als islamische Quelle“, hat nicht den Zweck, die Menschen davon abzuhalten, die „Suppe“ zu trinken, sondern vielmehr, sie davor zu bewahren, „Gift“ zu sich zu nehmen."
+    },
+    {
+      "type": "paragraph",
+      "text": "Wir wissen, dass einige Profiteure/Nutznießer versuchen werden, unsere Haltung in diesem Buch als Ablehnung und Respektlosigkeit gegenüber den Worten des Propheten darzustellen und dies für ihre eigenen Zwecke zu missbrauchen. Die wahre Respektlosigkeit gegenüber dem Propheten besteht jedoch darin, zu behaupten, dass er verzaubert/verhext wurde,<sup class=\"fn-ref\"><a href=\"#fn-114\" id=\"fnref-114\">114</a></sup> unangebrachte Erklärungen über sein Privatleben abzugeben oder zu behaupten, dass die Welt auf einem Ochsen und einem Fisch ruhe – wie es in einigen Hadith-Sammlungen steht – und dies dem Propheten zuzuschreiben. Die Ablehnung der Autorität dieser Hadithe im islamischen Kontext ist ein Ausdruck der Liebe und des Respekts für den Propheten Muhammad, der Widmung/Reinigung der Religion für Gott allein<sup class=\"fn-ref\"><a href=\"#fn-115\" id=\"fnref-115\">115</a></sup> und der Anerkennung des Korans als hinreichend."
+    }
+  ],
+  "footnotes": [
+    {
+      "n": 51,
+      "text": "Anm. d. Übers.: Das <em>Sahih Muslim</em> (zu dt. etwa <em>Sammlung gesunder Überlieferung von Muslim</em>) von Muslim ibn al-Haddschadsch (um 820-875) ist eine wichtige Hadith-Sammlung der Sunniten. Für Sunniten gilt es nach dem <em>Sahih von Buchari</em> als das zuverlässigste Hadithbuch und ist eine der sechs kanonischen sunnitischen Hadithsammlungen. Dessen Kompilator Muslim war ein Schüler von Buchari."
+    },
+    {
+      "n": 52,
+      "text": "Anm. d. Übers.: <em>Musnad des Ahmad ibn Hanbal</em> ist eine Sammlung von Musnad Hadithen, die von dem islamischen Gelehrten Ahmad ibn Hanbal (gest. 855) zusammengestellt wurde, dem der Hanbali Fiqh (Gesetzgebung) zugeschrieben wird. al-Musnad bedeutet „das Überlieferte“."
+    },
+    {
+      "n": 53,
+      "text": "Muslim, <em>Sahih Muslim</em>, Kitab al-Zuhd; Hanbal, <em>Musnad</em>, 3/12, 21, 33."
+    },
+    {
+      "n": 54,
+      "text": "Anm. d. Übers.: Abd Allah ibn Abd al-Rahman al-Darimi (797-869 n. Chr.) war ein sunnitischer Gelehrter und Imam arabischer Abstammung. Sein bekanntestes Werk ist der <em>Sunan al-Darimi</em>, eine Sammlung von Hadithen, die als eines der <em>Neun Bücher</em> (<em>Al-Kutub Al-Tis’ah</em>) gilt."
+    },
+    {
+      "n": 55,
+      "text": "Darimi, <em>Sunan al-Darimi</em>."
+    },
+    {
+      "n": 56,
+      "text": "Anm. d. Übers.: Abu Bakr Ahmad ibn Ali asch-Schafiʿi, bekannt als al-Chatib al-Baghdadi (Der Prediger von Bagdad); (1002-1071), war ein sunnitischer Hadith Sammler und Historiker aus der Schule der Schafiʿiten."
+    },
+    {
+      "n": 57,
+      "text": "al-Chatib, <em>Kitab taqyid al-ilm</em> (<em>Über die Verschriftlichung des Wissens</em>)."
+    },
+    {
+      "n": 58,
+      "text": "Tirmidhi, <em>as-Sunan</em>, Kitab ilm."
+    },
+    {
+      "n": 59,
+      "text": "Anm. d. Übers.: Siehe Koran 2:79; 2:180; 2:282; 31:27; 68:1; 96:4."
+    },
+    {
+      "n": 60,
+      "text": "Ahmad Amin, <em>Duha al-Islam</em> (<em>Der Vormittag des Islam</em>), Kairo, 1933-1936. Zusätzliche Anm. d. Übers.: Ahmad Amin ibn Ibrahim at-Tabbah (1886-1954), geb. in Kairo, war ein ägyptischer Philosoph, Historiker und Schriftsteller. In seiner achtbändigen Reihe <em>Fadschr al-Islam</em> (<em>Der Morgen des Islam</em>) (Kairo 1928), <em>Duha al-Islam</em> (<em>Der Vormittag des Islam</em>) (I-III, Kairo 1933-1936) und <em>Dhuhr al-Islam</em> (<em>Der Mittag des Islam</em>) (I-IV, Kairo 1945-1955) untersuchte er analytisch und kritisch die Geschichte der islamischen Zivilisation und Kultur von ihren Anfängen bis zum X. Jahrhundert n. Chr. und legte in diesen Büchern viele seiner Ansichten zu islamischen und historischen Fragen dar. Siehe: <em>Türkiye Diyanet Vakfı İslâm Ansiklopedisi</em> (Abk. <em>TDVİA</em> oder <em>DİA</em> bzw. kurz: <em>TDV İslâm Ansiklopedisi</em>; dt. <em>Enzyklopädie der Religionsangelegenheiten Stiftung Türkei</em>), Artikel Ahmed Emin, https://islamansiklopedisi.org.tr/ahmed-emin (abgerufen am 28.09.2024)."
+    },
+    {
+      "n": 61,
+      "text": "Anm. d. Übers.: Siehe https://hadithwissenschaften.de/sahih-al-bukhari/ (abgerufen am 29.09.2024)."
+    },
+    {
+      "n": 62,
+      "text": "Anm. d. Übers.: Siehe https://hadithwissenschaften.de/der-%e1%b9%a3a%e1 %b8%a5i%e1%b8%a5-des-imam-muslim/ (abgerufen am 29.09.2024)."
+    },
+    {
+      "n": 63,
+      "text": "Anm. d. Übers.: http://islam-pedia.de/index.php/Abu_Dauud (abgerufen am 29.09.2024)."
+    },
+    {
+      "n": 64,
+      "text": "Anm. d. Übers.: Siehe https://www.islamweb.net/de/article/164639/Im%C3% A2m-M%C3%A2lik-ibn-Anas (abgerufen am 29.09.2024)."
+    },
+    {
+      "n": 65,
+      "text": "Anm. d. Übers.: Siehe https://hadithwissenschaften.de/die-biografie-des-imamahmad-b-hanbal/ (abgerufen am 29.09.2024). Für alle diese Zahlen siehe auch: Hüseyin Hilmi Işık, <em>Die ewige Glückseligkeit – Lehrbuch islamische Grundlagen</em>, Hakikat Verlagshaus, 2024, S. 622. Für die kostenlose PDF: https://www.hakikatkitabevi.net/book.php?bookCode=322 (aufgerufen am 18.12.2024)."
+    },
+    {
+      "n": 66,
+      "text": "<em> Muslim</em>, Band 1."
+    },
+    {
+      "n": 67,
+      "text": "Anm. d. Übers.: Abu Dharr al-Harawi, Abd b. Ahmad b. Muḥammad b. Abd Allah al-Ansari, auch bekannt als Abu Dharr al-Harawi, war ein angesehener Hadith-Spezialist (<em>Muhaddith</em>) der Maliki, ein Mystiker. Er wird häufig als „<em>Muhaddith</em> von <em>Haramayn</em>“ bezeichnet, was so viel bedeutet wie „Hadith-Meister der beiden geschützten Städte, also Mekka und Medina“."
+    },
+    {
+      "n": 68,
+      "text": "Anm. d. Übers.: <em>Sahaba</em> ist der Sammelbegriff für die Gefährten und Begleiter des Propheten Mohammed."
+    },
+    {
+      "n": 69,
+      "text": "Anm. d. Übers.: Auch Umar II. oder Omar Ibn Abdel-Aziz; (ca. 680-720) war der achte Kalif der Umayyaden (717–720)."
+    },
+    {
+      "n": 70,
+      "text": "Anm. d. Übers.: Abu Bakr al-Hazm (gest. 737) war ein sunnitischer Gelehrter aus Madinah aus dem 8. Jahrhundert."
+    },
+    {
+      "n": 71,
+      "text": "Mahmud Abu Rayya, <em>Muhammadi Sunnetin Aydınlatılması</em> (<em>Lichter der muhammedanischen Tradition</em>). Zusätzliche Anm. d. Übers.: Mahmud Abu Rayya (gest. 1390) ist Verfasser des Buches <em>Adwa’ ala al-Sunnah al-Muhammadiyya</em> (<em>Lichter der muhammedanischen Tradition</em>), eine Kritik der prophetischen Überlieferungen in den Werken der <em>Ahl al-Sunna wa al-Dschama`a</em>. Wer dieses Werk liest, kann leicht erkennen, wie Abu Rayya immer wieder die Überzeugungen kritisiert, die nach Ansicht der Sunniten grundlegend sind."
+    },
+    {
+      "n": 72,
+      "text": "Anm. d. Übers.: Im Original <em>khabar</em>. Die am weitesten verbreitete und akzeptierte Definition ist, dass der Begriff „Hadith“ synonym mit dem Begriff „<em>khabar</em> (Nachricht)“ verwendet wird und die Hadithe des Propheten als „Nachrichten“ bezeichnet werden. Andererseits gibt es diejenigen, die „Hadith“ und „Nachricht“ in unterschiedlichen Bedeutungen verwenden: Ihnen zufolge bezieht sich „Hadith“ nur auf die Überlieferungen des Propheten und „Nachricht“ auf andere Überlieferungen als die Hadithe des Propheten. Vgl.: https://sorularlaislamiyet.com/kaynak/haber (abgerufen am 30.10.2024)."
+    },
+    {
+      "n": 73,
+      "text": "Anm. d. Übers.: Abu Hamid Muhammad ibn Muhammad al-Ghazali, kurz Al-Ghaz(z)ali, auch Algazeli, latinisiert Algazelus und Algazel (1055 oder 1056-1111) war ein persischer Theologe, Philosoph und Mystiker. Al-Ghazali zählt zu den bedeutendsten religiösen Denkern des Sunnitentum."
+    },
+    {
+      "n": 74,
+      "text": "Al-Ghazali, <em>Ihya ulum ad-din</em> (<em>Die Wiederbelebung der Wissenschaften von der Religion</em>)."
+    },
+    {
+      "n": 75,
+      "text": "Ibn Farhun (ca. 1358-1397, war ein arabischer Maliki-Rechtsgelehrter (<em>faqih</em>) aus Medina.) berichtet in seinem Buch <em>Ad-Dibaa al-Mudhhab </em>(<em>Das biographische Lexikon der [Maliki] Rechtsschule unter den bekannten namhaften Gelehrten der [Maliki] Rechtsschule</em>), dass Malik etwa zehntausend Hadithe gesammelt und diese jährlich überprüft habe, bis nur noch wenige übrigblieben – und dass er, hätte er länger gelebt, wohl alle Hadithe verworfen hätte."
+    },
+    {
+      "n": 76,
+      "text": "Anm. d. Übers.: Bekannt auch als Schaich Tusi."
+    },
+    {
+      "n": 77,
+      "text": "Anm. d. Übers.: <em>Dscharh</em> (Kritik) <em>wa</em> (und) <em>Tadil</em> (Lob)."
+    },
+    {
+      "n": 78,
+      "text": "Anm. d. Übers.: Abu Shama Shihab al-Din al-Makdisi (1203-1267) war ein arabischer Historiker."
+    },
+    {
+      "n": 79,
+      "text": "Anm. d. Übers.: Ikrima ist der Sohn von Abu Dschahl und war einer der Anführer der Gegner von Prophet Muhammad in Mekka. Erst nach der Befreiung Mekkas nahm er den Islam an. Sein Vater gehörte bis zu seinem Tod zu den größten Feinden der Muslime."
+    },
+    {
+      "n": 80,
+      "text": "<em> ghayr sika</em>."
+    },
+    {
+      "n": 81,
+      "text": "Anm. d. Übers.: Sieh z. B. 49:1-5; 49:11; 49:14; 49:17."
+    },
+    {
+      "n": 82,
+      "text": "Anm. d. Übers.: Diese Konflikte/ Kriege entstanden aufgrund von politischen Differenzen und Spannungen. Es ist schwierig, genaue Zahlen für die Todesopfer dieser Kriege und Konflikte zu nennen, da die historischen Quellen oft variieren und Übertreibungen enthalten können. • Kamelschlacht (656 n. Chr.): Ali ibn Abi Talib gegen Aischa, Talha und Zubair. • Schlacht von Siffin, in der Nähe von ar-Raqqa des heutigen Syriens, (657 n. Chr.): Ali ibn Abi Talib gegen Muawiya ibn Abi Sufyan. In der Kamelschlacht sollen etwa 10.000 Menschen ums Leben gekommen sein. In der Schlacht von Siffin wird die Zahl der Toten ebenfalls auf Zehntausende geschätzt. • Schlacht von Karbala: Diese Schlacht markierte den Tod von Hussein, dem Enkel des Propheten Muhammad, und allen seinen männlichen Anhängern, inkl. seinem jüngsten Sohn und Säugling Ali Asghar, durch die Truppen des tyrannischen Kalifen Yazid. Bei der Schlacht von Karbala wurden Hussein und etwa 70 seiner Familienangehörigen und männlichen Anhänger getötet. Die Frauen und Kinder, die bei Hussein waren, wurden nicht getötet, aber sie wurden nach der Schlacht gefangengenommen und zu Fuß nach Kufa und Damaskus gebracht. Siehe auch Kapitel 13."
+    },
+    {
+      "n": 83,
+      "text": "Anm. d. Übers.: G.H.A. Juynboll (Gualtherüs (Gautier) Hendrik Albert Juynboll) (1935-2010) war ein Islamwissenschaftler, der sich auf Hadithe spezialisiert hat, über die er mehr als zwanzig Artikel veröffentlichte."
+    },
+    {
+      "n": 84,
+      "text": "Anm. d. Übers.: Vgl. al-Chatib al-Baghdadi, <em>al-Kifaya fi mar´ifat usul ilmi ar-Riwaya</em> (<em>Ausreichende Kenntnis der Ursprünge der Überlieferungswissenschaft</em>), S. 207."
+    },
+    {
+      "n": 85,
+      "text": "Anm. d. Übers.: Abu Huraira (gest. ca. 681 n. Chr.) war einer der produktivsten Überlieferer von Hadithen des Propheten Muhammad, bekannt für die Überlieferung einer großen Zahl von Aussprüchen. Er trat dem Islam spät bei, ca. 629 n. Chr., und verbrachte vergleichsweise wenig Zeit in der Nähe des Propheten, was gelegentlich die Authentizität und Zuverlässigkeit seiner Überlieferungen zur Debatte stellt. Dennoch sind seine Berichte für die sunnitische Tradition von erheblicher Bedeutung. Siehe auch Kapitel 12."
+    },
+    {
+      "n": 86,
+      "text": "Anm. d. Übers.: Die Ehefrau von Muhammad und Tochter von Abu Bakr."
+    },
+    {
+      "n": 87,
+      "text": "Anm. d. Übers.: Es gibt etwa 7.563 Hadithe in <em>Sahih al-Buchari</em> (einschließlich Wiederholungen) und ungefähr 7.190 in <em>Sahih Muslim</em>. Von diesen Hadithen stimmen beide Gelehrten in etwa 1.900 Hadithen überein, die als <em>Muttafaqun ‘alayh</em> (wörtlich: darüber wurde Einvernehmen erzielt) bezeichnet werden, was bedeutet, dass beide dieselbe Überlieferung als authentisch anerkannt haben. Die genaue Anzahl der Hadithe, in denen sich Buchari und Muslim nicht einig sind, ist schwer exakt zu bestimmen, da die Sammlungen unterschiedliche Auswahlkriterien und unterschiedliche Überlieferungsketten haben. Schätzungen zufolge gibt es jedoch Tausende von Hadithen, die nur bei einem der beiden Sammler zu finden sind. Jede Sammlung hat viele Hadithe, die der andere Gelehrte nicht aufgenommen hat, sei es aufgrund unterschiedlicher Authentizitätsstandards, persönlicher Beurteilungen der Überlieferer oder anderer Kriterien."
+    },
+    {
+      "n": 88,
+      "text": "Anm. d. Übers.: <em>ar-ray</em> ist ein arabisches Wort, das „die Meinung” oder „die Ansicht” bedeutet und in der sunnitischen Theologie und Rechtswissenschaft (<em>Fiqh</em>) eine wichtige Rolle spielt. Der Begriff wird insbesondere in Bezug auf die Praxis der Rechtsfindung und der Interpretation von religiösen Texten verwendet. Der Prophet Muhammad Umar ibn al-KhattabAischa Ibn WakkasUrwa ibn Zubayr Ibn Ibrahim al-TaimiIbn Schihab Yahya ibn Sa’id al-AnsariUqail SufyanAl-Baith Abdullah ibn ZubayrYahya ibn Bukhair Buchari"
+    },
+    {
+      "n": 89,
+      "text": "Anm. d. Übers.: Kassim Ahmad (1933–2017) war ein malaysischer Reformdenker. Er stellte die Bedeutung der Hadithe in Frage und betonte den Koran als einzige religiöse Quelle."
+    },
+    {
+      "n": 90,
+      "text": "Anm. d. Übers.: Kassim Ahmad, <em>Hadis: Satu Penilaian Semula (Hadith: A Re-evaluation)</em>, Übersetzt von Syed Akbar Ali im Jahr 1997, Chapter IV Critism of the Hadith, 1986."
+    },
+    {
+      "n": 91,
+      "text": "Anm. d. Übers.: Die angeblichen Reisen der Hadithsammler, um authentische Überlieferungen zu sammeln, werden von einigen Historikern als übertrieben betrachtet. Es wird argumentiert, dass die Distanzen und die Anzahl der besuchten Überlieferer in der verfügbaren Zeit unrealistisch gewesen sein könnten und dass die Berichte möglicherweise später ausgeschmückt wurden, um die Glaubwürdigkeit der Hadith-Sammlungen zu erhöhen."
+    },
+    {
+      "n": 92,
+      "text": "Anm. d. Übers.: Die Mu’tazila war eine theologische Schule, die Vernunft und freien Willen betonte. Sie lehrte die Einheit und Gerechtigkeit Gottes, den Koran als geschaffenes Wort und die Verantwortung des Menschen für seine Taten. Ihr rationalistischer Ansatz beeinflusste die islamische Theologie stark, verlor jedoch nach dem 9. Jahrhundert an Bedeutung."
+    },
+    {
+      "n": 93,
+      "text": "Anm. d. Übers.: Die Charidschiten waren eine frühmuslimische Bewegung, die sich während der Herrschaft von Kalif Ali (656–661) abspaltete. Sie betonten die strikte Gleichheit aller Muslime und die Verpflichtung zum Widerstand gegen jede als unrecht empfundene Herrschaft. Für sie konnte jeder fromme Muslim Führer der Gemeinschaft sein, unabhängig von Abstammung. Die Charidschiten waren für ihre Radikalität bekannt und sahen den Glaubensabfall (Kufr) als Grund für legitime Rebellion, auch gegen muslimische Herrscher."
+    },
+    {
+      "n": 94,
+      "text": "Anm. d. Übers.: Für eine detaillierte Ausarbeitung siehe: Prof. Dr. Zeki Bayraktar, <em>In Bezug auf sein Sendschreiben über die „Prädestination“ Hasan Al-Basris Sunnah-Verständnis und Inquisition in der muslimischen Geschichte</em>, tredition, 2024."
+    },
+    {
+      "n": 95,
+      "text": "Anm. d. Übers.: <em>isra’iliyat</em> sind Erzählungen aus jüdischen und christlichen Traditionen, die in die sunnitische und schiitische Literatur aufgenommen wurden, um Hintergründe zu Propheten und Ereignissen im Koran zu ergänzen. Ihre Authentizität ist umstritten. Siehe auch Kapitel 12."
+    },
+    {
+      "n": 96,
+      "text": "Anm. d. Übers.: Ahmad ibn Hanbal, der Begründer der hanbalitischen Rechtsschule, äußerte sich kritisch über die Zuverlässigkeit vieler Überlieferungen zu den <em>asbab al-nuzul</em> (Anlässe der Offenbarung). Diese Meinung findet sich in den Aussagen, die von späteren Gelehrten über ihn berichtet wurden, aber es gibt keine spezifische Erwähnung in seinen Hauptwerken, wie dem <em>Musnad</em>."
+    },
+    {
+      "n": 97,
+      "text": "Anm. d. Übers.: Muhammed Hamdi Yazir, auch bekannt als Elmalılı Hamdi Yazır und Elmalılı (1878-1942), war ein türkischer Theologe, Logiker, Koranübersetzer, Koranexeget, sunnitischer Rechtsgelehrter, Philosoph und Enzyklopädist. Muhammed Hamdi Yazir, <em>Hak Dīni Kur’an Dili Tefsiri</em> (<em>Exegese - Die Wahrheit [Gottes] Religion und Sprache des Koran</em>), 1935."
+    },
+    {
+      "n": 98,
+      "text": "Anm. d. Übers.: Mehmet Aydın (geb. am 20. März 1943) ist ein türkischer Theologe, der später auch der Politiker war. Er war Abgeordneter und Staatsminister der Regierung zwischen 2002 und 2011."
+    },
+    {
+      "n": 99,
+      "text": "Wir möchten hier anmerken, dass es in dieser Exegese durchaus wertvolle Erklärungen zu vielen Begriffen gibt."
+    },
+    {
+      "n": 100,
+      "text": "Anm. d. Übers.: Eine <em>fatwa</em> ist eine rechtsgelehrte Stellungnahme eines islamischen Gelehrten zu einer bestimmten religiösen oder rechtlichen Frage, basierend auf dem islamischen Recht (Scharia). Sie ist nicht bindend, sondern dient als Beratung für den Fragenden."
+    },
+    {
+      "n": 101,
+      "text": "Anm. d. Übers.: Im Original werden Namen aus der türkischen Gesellschaft erwähnt, die verständlicherweise mit bekannten Namen aus der deutschen Gesellschaft ersetzt wurden. Hier wird keineswegs Gewalt befürwortet, siehe Kapitel 3."
+    },
+    {
+      "n": 102,
+      "text": "Koran 81:27."
+    },
+    {
+      "n": 103,
+      "text": "Koran 2:185."
+    },
+    {
+      "n": 104,
+      "text": "Siehe auch: Caner Taslaman, <em>Warum ich Muslim bin - Argumente für den islamischen Glauben, Antwort auf den Deismus</em>, tredition, 2023. Kapitel 3.3: Die Form der Erde, Kapitel 4.4: Ein Tropfen eines flüssigen Gemischs, Kapitel 4.5: Das Einnisten/Anhängen an der Gebärmutterwand, Kapitel 4.6: Die Ab- und Zunahme im Mutterleib; Kapitel 3.6: Meere, die die Grenzen nicht überschreiten, und die Finsternisse der Tiefsee."
+    },
+    {
+      "n": 105,
+      "text": "Ibn Kathir, <em>Tafsir Ibn Kathir</em>."
+    },
+    {
+      "n": 106,
+      "text": "Anm. d. Über.: Synonym für Kommunist, das als Schimpfwort benutzt wird."
+    },
+    {
+      "n": 107,
+      "text": "Mehmet Akif Ersoy, <em>Safahat (Phasen)</em>, Istanbul, 1933. Zu Mehmet Akif Ersoy siehe auch die Anmerkung am Anfang des Kapitel 3: Keine Reform, sondern Rückkehr zum Koran."
+    },
+    {
+      "n": 108,
+      "text": "<em> Ebd.</em>"
+    },
+    {
+      "n": 109,
+      "text": "<em> Ebd.</em>"
+    },
+    {
+      "n": 110,
+      "text": "Anm. d. Übers.: Im Türkischen „söz“. Seltsamerweise wird es sogar in einigen deutschen Übersetzungen nicht als Wort, sondern als „Aussage, Botschaft, Kunde, Verkündigung“ übersetzt. Frank Bubenheim und Dr. Nadeem Elyas, <em>Der edle Koran</em>, „Aussage”. Max Henning und Murad Wilfried Hofmann, <em>Der Koran - Das heilige Buch des Islam</em>, Cagri Verlag, 1998, „Botschaft”. Muhammad Asad, <em>Die Botschaft des Koran - Übersetzung und Kommentar</em>, Patmos Verlag, 2009, „Kunde”. Muhammad Ibn Ahmad Ibn Rassoul, <em>Tafsir al-Qur´an al-Karim</em>, Arcelmedia, 2003, „Verkündigung“."
+    },
+    {
+      "n": 111,
+      "text": "Anm. d. Übers.: Abu Dawud, <em>as-Sunan</em>, Hadith Nr. 4604: „<em>Mir wurde ja der Koran und mit ihm etwas Ähnliches gegeben. Schon bald werden Leute mit satten Bäuchen auf ihrem Liegestätte sitzend sagen: ‚Haltet an diesem Koran fest! Was ihr in ihm an Erlaubtem (halal) findet, erachtet für erlaubt, und was ihr in ihm an Verbotenem (haram) findet, erklärt für verboten!</em>”; vgl. auch https://hadithwissenschaften.de/der-stellenwert-der-Sunna/ (abgerufen am 04.10.2024)."
+    },
+    {
+      "n": 112,
+      "text": "Anm. d. Übers.: <em>idschma</em> ist der Konsens der sunnitischen Gelehrten über eine religiöse oder rechtliche Frage. Es gilt in der sunnitischen Rechtswissenschaft als dritte Quelle des islamischen Rechts nach dem Koran und den Hadithen und dient dazu, die Einheit und Beständigkeit der islamischen Normen zu gewährleisten. Je nachdem, ob es als Übereinstimmung der muslimischen Weltgemeinschaft (<em>ummah</em>) oder Konsens des Klerus angegeben wird, erfolgt die Bezeichnung „idschma alummah” (Konsens der muslimischen Weltgemeinschaft) oder „idschma al-ulama” (Konsens des Klerus)."
+    },
+    {
+      "n": 113,
+      "text": "Für das Wort <em>idschma</em> und seine Ableitungen, siehe: Koran 20:60; 70:18; 104:2; 3:173; 3:157; 10:58; 43:32; 26:38; 12:19; 10:71; 20:64; 17:88; 22:73; 54:45; 28:78; 7:48; 26:39; 26:56; 54:44."
+    },
+    {
+      "n": 114,
+      "text": "Anm. d. Übers.: al-Buchari, vom Beginn der Schöpfung 11, Medizin 47; Ibn Madscha, Medizin 45; Ahmad ibn Hanbal, <em>Musnad</em>, VI, 57, 63."
+    },
+    {
+      "n": 115,
+      "text": "Anm. d. Übers.: Im Original wird der arabische Begriff <em>chalis</em>, der auch im Türkischen bekannt ist, benutzt. Für das Koranische Konzept, siehe Koran 39:1-3, 11-14; 40:13-15, 65-66; 98:5; 7:28-30; 10:22-23; 29:65-68; 31:31-32."
+    }
+  ]
+}

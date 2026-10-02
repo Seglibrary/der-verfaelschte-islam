@@ -1,0 +1,1273 @@
+{
+  "number": 36,
+  "title": "Glaube, Gebet, Fasten, Pilgerfahrt und Almosen im Koran",
+  "title_fn": null,
+  "category": {
+    "id": "koran",
+    "title_de": "Der Islam gemäß dem Koran"
+  },
+  "word_count": 19446,
+  "reading_time_min": 108,
+  "subheadings": [
+    "Glaubensangelegenheiten",
+    "Der Versuch, Hunderte von Widersprüchen durch das Thema Gebet zu überspielen",
+    "Die Gebetswaschung (wudu) und die Ganzkörperwaschung",
+    "1. Wann sind beide Waschungen (ghusl und wudu) notwendig?",
+    "2. Wann ist die Ganzkörperwaschung (ghusl) erforderlich?",
+    "3. Wann ist Gebetswaschung (wudu) erforderlich?",
+    "4. Wie wird die Ganzkörperwaschung (ghusl) vollzogen?",
+    "5. Wie wird die Gebetswaschung (wudu) vollzogen?",
+    "6. Was tun, wenn kein Wasser vorhanden ist?",
+    "Kleidung und Reinheit beim Gebet",
+    "Die Ausrichtung der Gebetsrichtung (Qibla)",
+    "Lautstärke im Gebet",
+    "Der Gebetsruf (Adhan)",
+    "Ein bekannter Gottesdienst: Das Gebet",
+    "Was das Gebet umfasst",
+    "Die Anzahl der Gebetseinheiten (Rak´a)",
+    "Die Gebetszeiten",
+    "Das Freitagsgebet / Das Versammlungs-Gebet",
+    "Das Gebet im Krieg",
+    "Gebet bei Furcht",
+    "Das Totengebet",
+    "Das Fasten im Koran",
+    "Die Pflichtabgabe (Zakat) im Koran",
+    "Die Pilgerfahrt (Hadsch) im Koran",
+    "1. Bedeutung und Verpflichtung der Pilgerfahrt",
+    "2. Die historische Verankerung der Pilgerfahrt",
+    "3. Der Zeitraum der Pilgerfahrt",
+    "4. Benimmregel im Weihezustand",
+    "5. Jagdverbot im Weihezustand",
+    "6. Die kleine Pilgerfahrt (Umrah)",
+    "7. Die Opfergabe und Reinigung",
+    "8. Maschar al-Haram bzw. Muzdalifa",
+    "9. Um Vergebung bitten",
+    "10. Gottes Gedenken (dhikr)",
+    "11. Gezählte Tage",
+    "12. Der Besuch von Safa und Marwa",
+    "14. Der schwarze Stein, Frauen, Stellvertreter Pilgerfahrt, Kleidung, Zamzam"
+  ],
+  "proof_images_count": 8,
+  "proof_images": [
+    {
+      "post_id": 602,
+      "chapter": 36,
+      "post_title": "Kapitel 36: Glaube, Gebet, Fasten, Pilgerfahrt und Almosen im Koran",
+      "slug": "glaube-gebet-fasten-pilgerfahrt-und-almosen-im-koran",
+      "url": "assets/images/proofs/sultan-ahmed-moschee-blaue-moschee.webp",
+      "filename": "sultan-ahmed-moschee-blaue-moschee.webp",
+      "caption": "Sultan-Ahmed-Moschee (Blaue Moschee)",
+      "local_path": "assets/images/proofs/sultan-ahmed-moschee-blaue-moschee.webp",
+      "caption_de": "Sultan-Ahmed-Moschee (Blaue Moschee)",
+      "post_title_de": "Kapitel 36: Glaube, Gebet, Fasten, Pilgerfahrt und Almosen im Koran",
+      "after_idx": 0,
+      "after_anchor": "In diesem Abschnitt unseres Buches werden wir zunächst die Glaubensfragen im Kor",
+      "placement": "low",
+      "label": "Sultan-Ahmed-Moschee (Blaue Moschee)"
+    },
+    {
+      "post_id": 602,
+      "chapter": 36,
+      "post_title": "Kapitel 36: Glaube, Gebet, Fasten, Pilgerfahrt und Almosen im Koran",
+      "slug": "glaube-gebet-fasten-pilgerfahrt-und-almosen-im-koran",
+      "url": "assets/images/proofs/das-bittgebet-dua-direkt-zu-gott-ohne-vermittler.webp",
+      "filename": "das-bittgebet-dua-direkt-zu-gott-ohne-vermittler.webp",
+      "caption": "Das Bittgebet (Dua) direkt zu Gott ohne Vermittler",
+      "local_path": "assets/images/proofs/das-bittgebet-dua-direkt-zu-gott-ohne-vermittler.webp",
+      "caption_de": "Das Bittgebet (Dua) direkt zu Gott ohne Vermittler",
+      "post_title_de": "Kapitel 36: Glaube, Gebet, Fasten, Pilgerfahrt und Almosen im Koran",
+      "after_idx": 0,
+      "after_anchor": "In diesem Abschnitt unseres Buches werden wir zunächst die Glaubensfragen im Kor",
+      "placement": "medium",
+      "label": "Das Bittgebet (Dua) direkt zu Gott ohne Vermittler"
+    },
+    {
+      "post_id": 602,
+      "chapter": 36,
+      "post_title": "Kapitel 36: Glaube, Gebet, Fasten, Pilgerfahrt und Almosen im Koran",
+      "slug": "glaube-gebet-fasten-pilgerfahrt-und-almosen-im-koran",
+      "url": "assets/images/proofs/zwang-im-glauben-ist-verboten-koran-2-256.webp",
+      "filename": "zwang-im-glauben-ist-verboten-koran-2-256.webp",
+      "caption": "Das rituelle Gebet (Salat) im Koran",
+      "local_path": "assets/images/proofs/zwang-im-glauben-ist-verboten-koran-2-256.webp",
+      "caption_de": "Das rituelle Gebet (Salat) im Koran",
+      "post_title_de": "Kapitel 36: Glaube, Gebet, Fasten, Pilgerfahrt und Almosen im Koran",
+      "after_idx": 8,
+      "after_anchor": "Zwischen dem Koran, dem sunnitischen Islam und dem Schiitentum besteht kein Unte",
+      "placement": "high",
+      "label": "Das rituelle Gebet (Salat) im Koran"
+    },
+    {
+      "post_id": 602,
+      "chapter": 36,
+      "post_title": "Kapitel 36: Glaube, Gebet, Fasten, Pilgerfahrt und Almosen im Koran",
+      "slug": "glaube-gebet-fasten-pilgerfahrt-und-almosen-im-koran",
+      "url": "assets/images/proofs/moscheenarchitektur.webp",
+      "filename": "moscheenarchitektur.webp",
+      "caption": "Moscheenarchitektur",
+      "local_path": "assets/images/proofs/moscheenarchitektur.webp",
+      "caption_de": "Moscheenarchitektur",
+      "post_title_de": "Kapitel 36: Glaube, Gebet, Fasten, Pilgerfahrt und Almosen im Koran",
+      "after_idx": 10,
+      "after_anchor": "Einige Personen, die trotz der offensichtlichen Tatsache, dass eine auf den Kora",
+      "placement": "high",
+      "label": "Moscheenarchitektur"
+    },
+    {
+      "post_id": 602,
+      "chapter": 36,
+      "post_title": "Kapitel 36: Glaube, Gebet, Fasten, Pilgerfahrt und Almosen im Koran",
+      "slug": "glaube-gebet-fasten-pilgerfahrt-und-almosen-im-koran",
+      "url": "assets/images/proofs/die-rituelle-waschung-wudu-im-koran.webp",
+      "filename": "die-rituelle-waschung-wudu-im-koran.webp",
+      "caption": "Die rituelle Waschung (Wudu) im Koran",
+      "local_path": "assets/images/proofs/die-rituelle-waschung-wudu-im-koran.webp",
+      "caption_de": "Die rituelle Waschung (Wudu) im Koran",
+      "post_title_de": "Kapitel 36: Glaube, Gebet, Fasten, Pilgerfahrt und Almosen im Koran",
+      "after_idx": 11,
+      "after_anchor": "Wie bereits erwähnt, finden sich in den Rechtsschulen- und Hadith zentrierten An",
+      "placement": "high",
+      "label": "Die rituelle Waschung (Wudu) im Koran"
+    },
+    {
+      "post_id": 602,
+      "chapter": 36,
+      "post_title": "Kapitel 36: Glaube, Gebet, Fasten, Pilgerfahrt und Almosen im Koran",
+      "slug": "glaube-gebet-fasten-pilgerfahrt-und-almosen-im-koran",
+      "url": "assets/images/proofs/moderne-theologische-architektur.webp",
+      "filename": "moderne-theologische-architektur.webp",
+      "caption": "Moderne theologische Architektur",
+      "local_path": "assets/images/proofs/moderne-theologische-architektur.webp",
+      "caption_de": "Moderne theologische Architektur",
+      "post_title_de": "Kapitel 36: Glaube, Gebet, Fasten, Pilgerfahrt und Almosen im Koran",
+      "after_idx": 32,
+      "after_anchor": "Die Aussagen am Ende beider Verse über Gottes Barmherzigkeit, Vergebung, und das",
+      "placement": "high",
+      "label": "Moderne theologische Architektur"
+    },
+    {
+      "post_id": 602,
+      "chapter": 36,
+      "post_title": "Kapitel 36: Glaube, Gebet, Fasten, Pilgerfahrt und Almosen im Koran",
+      "slug": "glaube-gebet-fasten-pilgerfahrt-und-almosen-im-koran",
+      "url": "assets/images/proofs/die-kaaba-in-mekka.webp",
+      "filename": "die-kaaba-in-mekka.webp",
+      "caption": "Die Kaaba in Mekka",
+      "local_path": "assets/images/proofs/die-kaaba-in-mekka.webp",
+      "caption_de": "Die Kaaba in Mekka",
+      "post_title_de": "Kapitel 36: Glaube, Gebet, Fasten, Pilgerfahrt und Almosen im Koran",
+      "after_idx": 35,
+      "after_anchor": "Die Verse 2:125 und 22:26 unterstreichen die Bedeutung der Reinigung und Sauberk",
+      "placement": "high",
+      "label": "Die Kaaba in Mekka"
+    },
+    {
+      "post_id": 602,
+      "chapter": 36,
+      "post_title": "Kapitel 36: Glaube, Gebet, Fasten, Pilgerfahrt und Almosen im Koran",
+      "slug": "glaube-gebet-fasten-pilgerfahrt-und-almosen-im-koran",
+      "url": "assets/images/proofs/der-gebetsruf-adhan.webp",
+      "filename": "der-gebetsruf-adhan.webp",
+      "caption": "Der Gebetsruf (Adhan)",
+      "local_path": "assets/images/proofs/der-gebetsruf-adhan.webp",
+      "caption_de": "Der Gebetsruf (Adhan)",
+      "post_title_de": "Kapitel 36: Glaube, Gebet, Fasten, Pilgerfahrt und Almosen im Koran",
+      "after_idx": 42,
+      "after_anchor": "Aus diesem Vers wird deutlich, dass das Gebet weder laut schreiend noch vollkomm",
+      "placement": "high",
+      "label": "Der Gebetsruf (Adhan)"
+    }
+  ],
+  "pdf_pages": [
+    543,
+    628
+  ],
+  "sections_count": 200,
+  "sections": [
+    {
+      "type": "paragraph",
+      "text": "<span class=\"pb\" data-p=\"543\"></span>In diesem Abschnitt unseres Buches werden wir zunächst die Glaubensfragen im Koran untersuchen. Aus islamischer Perspektive sind der Glaube an Gott und an das Jenseits die grundlegendsten Themen. Da jedoch die im Namen des Islam erfundenen Praktiken sich eher in der Anwendung zeigen, werden wir dieses wichtige Thema nur kurz ansprechen. Anschließend widmen wir uns dem Gebet, das vielleicht das am meisten diskutierte Thema ist, sowie den Themen Fasten, Pilgerfahrt und Almosen und nehmen eine Bewertung vor. Dabei werden wir versuchen, auch einige unterschiedliche Meinungen zu diesen Themen einzubeziehen. Das Gebet, das Fasten, die Pilgerfahrt und die Almosen waren in der Region, in der der Prophet Muhammad die Offenbarung empfing, seit der Zeit Abrahams bekannt. Als er diese Begriffe verwendete, verstanden seine Zuhörer die damit gemeinten gottesdienstlichen Handlungen. Drei dieser Handlungen – das Gebet, das Fasten und die Pilgerfahrt – wurden gemeinschaftlich ausgeführt und erlebten durch gesellschaftliche Teilnahme eine kollektive Dimension. Dies machte es unmöglich, misszuverstehen, was mit diesen Begriffen gemeint war. Um diese Gottesdienste durchzuführen, ist es nicht erforderlich, Hadith- oder Rechtsbücher (<em>fiqh</em>) zu konsultieren, um sie zu erlernen. Einige Aspekte, die diese Handlungen betreffen, sowie notwendige Korrekturen bei ihrer Ausführung, basierend auf dem Koran, werden im Folgenden erläutert."
+    },
+    {
+      "type": "heading",
+      "text": "<span class=\"pb\" data-p=\"544\"></span>Glaubensangelegenheiten",
+      "plain": "Glaubensangelegenheiten",
+      "slug": "glaubensangelegenheiten"
+    },
+    {
+      "type": "paragraph",
+      "text": "In grundlegenden und zentralen Themen wie der Existenz Gottes, seiner Einheit, Barmherzigkeit, unendlichen Macht, Gerichtsbarkeit sowie der Erschaffung des Jenseits mit Paradies und Hölle steht der im Koran dargestellte Islam nicht im Widerspruch zu den bekannten großen Rechtsschulen. Dass die grundlegenden Glaubensinhalte des Islams gemeinsam bewahrt wurden, ist trotz aller negativen Auswirkungen von Erfindungen im Namen des Islam eine erfreuliche Tatsache. Es gab jedoch einige extreme Rechtsschulen, die beispielsweise Ali vergöttlichten oder behaupteten, Gott sei in ihren Scheich eingetreten. Doch diese Gruppen waren eine verschwindend kleine Minderheit."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ein erheblicher Unterschied zwischen des im Koran beschriebenen Islam und den Rechtsschulen zeigt sich jedoch in der Frage, ob „nur Gott als Gesetzgeber“ anzuerkennen ist. Nach dem Koran ist allein Gott der Gesetzgeber. Der Koran, in dem Gottes Gesetze zusammengetragen sind, bildet die vollständige Grundlage der göttlichen Religion. Die Rechtsschulen hingegen stellten zunächst den Propheten so dar, als sei er neben Gott ein zusätzlicher Gesetzgeber, später die Gefährten des Propheten, danach die Imame ihrer Rechtsschulen und schließlich einige Scheichs und angebliche Kleriker, die sie nahezu als Quellen des Islam betrachteten. Indem sie auf diese Autoritäten bei Verboten, Pflichten und Belohnungen Bezug nahmen, schufen sie eine Religion, die über den Koran hinausgeht. Diese Praxis stellt nicht nur ein Problem im Bereich der Anwendung, sondern auch in Glaubensfragen dar. Ergebnisse, die aus den Interpretationen mancher Rechtsschul-Imame hervorgingen, wurden als verpflichtend oder verboten erklärt und diesen Entscheidungen die gleiche Bedeutung beigemessen wie den im Koran festgelegten Geboten und Verboten. Gott hat beispielsweise <span class=\"pb\" data-p=\"545\"></span>den Verzehr von Schweinefleisch, Ehebruch und Mord im Koran verboten, während die Rechtsschul-Imame aufgrund ihrer Meinungen und Hadith-Interpretationen Muscheln, Bildhauerei und das Tragen von Gold durch Männer verboten erklärten. (Einige dieser Entscheidungen wurden unter Verwendung von Hadithen getroffen. Jedoch waren es die Imame der Rechtsschulen, die die abschließenden Urteile fällten, obwohl es auch Hadithe gab, die zu gegenteiligen Ansichten führten.) So wurde die alleinige Autorität Gottes, Verbote auszusprechen, auf andere übertragen. Auch wenn diejenigen, die dies taten, möglicherweise in gutem Glauben handelten und annahmen, sie erfüllten damit Gottes Willen, ist das entstandene Bild dennoch problematisch. Die Vorstellung, dass die Meinung irgendeines Menschen (wer auch immer es sein mag) mit universellen islamischen Geboten gleichgesetzt wird, muss korrigiert werden. Diejenigen, die eine solche Ansicht vertreten, sollten bereuen (<em>tauba</em>)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ein großes Problem in Glaubensfragen zeigte sich bei der Diskussion, ob der Koran geschaffen sei oder von Ewigkeit her existiere. Diese Kontroverse führte zu einer Spaltung: Eine Gruppe behauptete, der Koran sei geschaffen (<em>mahluq</em>), während die andere Gruppe das Gegenteil behauptete. Beide Gruppen warfen sich gegenseitig Unglauben vor. Die Auseinandersetzungen und Rechtfertigungen, die darauf abzielten, die Gegenseite als Ungläubige zu verurteilen und ihre Ermordung zu fordern, machten diese Kontroverse zu einer der größten Konflikte in der islamischen Geschichte. Die größte Rechtsschule, der Sunnismus, der die vier Haupt Rechtsschulen umfasst, kam zu dem Ergebnis, dass der Koran unerschaffen sei. Anhänger der Muʿtazila und die Schiiten widersetzten sich dieser Ansicht entschieden. Interessanterweise wurde in der sunnitischen Tradition (<em>Ahl al-Sunna</em>), die den Koran oft nur als eine von vielen religiösen Quellen behandelte – und <span class=\"pb\" data-p=\"546\"></span>sogar behauptete, eine Ziege habe einige Verse aufgefressen und so Teile des Korans aufgehoben –, dem Koran eine göttliche Eigenschaft wie die Ewigkeit zugeschrieben, die eigentlich nur Gott selbst zukommt."
+    },
+    {
+      "type": "paragraph",
+      "text": "Zusätze in Glaubensangelegenheiten und überflüssige Erklärungen, die darauf abzielen, die von Gott vollendete Religion – den Islam – zu ergänzen, haben zahlreiche unnötige Auseinandersetzungen und Konflikte verursacht. Der Koran beschreibt Gott als vergebend und barmherzig. Eine beispielhafte, unnötige Diskussion ist die Frage, ob Eigenschaften wie Gottes Barmherzigkeit und Vergebungsbereitschaft von Ewigkeit existierten oder erst später entstanden sind. Solche Debatten sind aus unserer Sicht überflüssig, und diejenigen, die versuchen, diese philosophischen Überlegungen zu zentralen Glaubensinhalten zu erheben, begehen einen Fehler. Wären solche Erklärungen notwendig gewesen, hätte Gott sie im Koran offenbart. Ähnliche unnötige Erklärungen finden sich in der Diskussion um die „Prädestination“ (<em>qadar</em>).<sup class=\"fn-ref\"><a href=\"#fn-545\" id=\"fnref-545\">545</a></sup> Wir sind der Ansicht, dass diese Diskussionen darauf beruhen, Gott, den Schöpfer der Zeit, so zu betrachten, als wäre er an die Zeit gebunden, und das Konzept der „Prädestination“ und viele andere Themen auf diese falsche Herangehensweise zu lösen. Das Ergebnis, persönliche Ansichten als „universelle religiöse Wahrheiten“ zu präsentieren, ist ein Fehlschlag."
+    },
+    {
+      "type": "paragraph",
+      "text": "Hadithe, die Gottes Allmacht beeinträchtigen, wurden von den Rechtsschulen durch verschiedene Interpretationen <span class=\"pb\" data-p=\"547\"></span>entschärft. Ein Großteil der Anhänger dieser Schulen hat von solchen Hadithen jedoch keine Kenntnis. Beispiele hierfür sind die Hadithe in al-Buchari, in denen der Prophet angeblich die Kühle von Gottes Finger auf seinem Rücken spürte oder Gott seinen Schenkel enthüllte und damit das Paradies erleuchtete. Solche Aussagen, die in dem als „authentischsten Hadith-Buch“ bezeichneten Werk enthalten sind, stehen im Widerspruch zum im Koran beschriebenen Islam und liefern Material für Islamophoben."
+    },
+    {
+      "type": "paragraph",
+      "text": "Die Einführung der im Koran nicht erwähnten „Strafe im Grab“ in die Religion sowie die Annahme von Darstellungen von Paradies und Hölle außerhalb des Korans als Bestandteil des Glaubens stellen Abweichungen in der Lehre vom Jenseits dar. Obwohl der Koran in Hunderten von Versen das Jenseits beschreibt, wurde die Vorstellung von Befragungen, Strafen und Belohnungen im Grab eingeführt, wobei sie nicht ein einziges Mal erwähnt werden. Darüber hinaus widersprechen die koranischen Beschreibungen des Jenseits, einschließlich der direkten Einleitung des jenseitigen Lebens nach dem Tod, und die Aussagen über den Gedanken, dass nur noch sehr wenig Zeit auf der Welt bleibt, den Erklärungen, dass es im Grab Verhör, Qual oder Belohnung geben soll. Demgegenüber behaupten diejenigen, die an ein Leben im Grab glauben, dass in den Versen 40:45-46, in denen vom Volk des Pharaos gesprochen wird, das „morgens und abends“ dem Feuer ausgesetzt wird, deutlich gemacht werde, dass es im Jenseits kein „Abend“ gebe und diese Verse somit das Konzept eines „Leben im Grab“ unterstützen würde. In diesen Versen ist jedoch nicht vom Leben im Grab die Rede, und in Vers 19:62, in dem eindeutig vom Leben im Jenseits die Rede ist, wird betont, dass der Lebensunterhalt im Jenseits „morgens und abends“ gegeben wird. Wir sind der Ansicht, dass diejenigen, die den relativen Charakter der Zeit nicht begreifen und Schwierigkeiten haben, und „Probleme“ <span class=\"pb\" data-p=\"548\"></span>damit haben, dass früh verstorbene Menschen Tausende von Jahren warten müssen, solche Erfindungen über ein angebliches Leben im Grab hervorgebracht haben."
+    },
+    {
+      "type": "paragraph",
+      "text": "Zwischen dem Koran, dem sunnitischen Islam und dem Schiitentum besteht kein Unterschied in der Anerkennung der Existenz von Paradies und Hölle sowie der Unerschöpflichkeit der dortigen Gaben, was eine erfreuliche Übereinstimmung darstellt. Dennoch müssen außerkoranische Beschreibungen des Jenseits und Ammenmärchen über die Grabesstrafe verworfen werden, weshalb wir die Wahrheit im Koran suchen müssen. Denn wie wir sehen, haben alle Versuche, den im Koran beschriebenen Islam – also Gottes Religion – durch persönliche Ansichten, Rechtsschulen oder Hadithe zu erweitern, stets in einem Fiasko geendet."
+    },
+    {
+      "type": "heading",
+      "text": "Der Versuch, Hunderte von Widersprüchen durch das Thema Gebet zu überspielen",
+      "plain": "Der Versuch, Hunderte von Widersprüchen durch das Thema Gebet zu überspielen",
+      "slug": "der-versuch-hunderte-von-widerspruechen-durch-das-thema-gebet"
+    },
+    {
+      "type": "paragraph",
+      "text": "Einige Personen, die trotz der offensichtlichen Tatsache, dass eine auf den Koran basierende religiöse Auffassung in Hunderten von Punkten konsistenter, logischer und praktikabler ist, weiterhin hartnäckig ihre Rechtsschulen orientierte und Hadith basierte Sichtweise verteidigen wollen, suchen „Rettung“ darin, das Thema Gebet zu einem Problem ohne Hadithe und Rechtsschulen zu erklären. Sie argumentieren: „Wenn wir die Religion nur aus dem Koran verstehen, wie sollen wir dann das Gebet verrichten? Allein mit dem Koran können wir das Gebet nicht praktizieren. Also brauchen wir außer-koranische Quellen.“ Auf diese Weise versuchen sie, ihre Rechtsschulen und Hadithe zu rechtfertigen. Im Folgenden werden wir sehen, dass es aus der Perspektive eines Koran basierten Ansatzes kein Problem gibt, das Thema Gebet zu verstehen. Auch wenn unterschiedliche Meinungen geäußert <span class=\"pb\" data-p=\"549\"></span>wurden, lassen sich diese Meinungen ohne Verweis auf Rechtsschulen und Hadithe nachvollziehen."
+    },
+    {
+      "type": "paragraph",
+      "text": "Wie bereits erwähnt, finden sich in den Rechtsschulen- und Hadith zentrierten Ansätzen viele Erklärungen, die sowohl dem Koran als auch der Logik widersprechen: von der Behauptung, dass Gott im Paradies sein Schienbein enthüllt, oder die Welt stehe auf einem Fisch und ein Erdbeben entstehe, wenn dieser seinen Schwanz bewege, bis hin zur Erklärung, dass ein Vers des Korans von einer Ziege gefressen und damit aufgehoben worden sei, oder dass jemand, der nicht betet, getötet werden müsse. Mit diesen Quellen ist es unmöglich, ein gesundes Religionsverständnis für diese Gemeinschaft zu entwickeln. Die genannten gottesdienstlichen Handlungen sind ohne Verweis auf Rechtsschulen und Hadithe verständlich. Doch nehmen wir einen Moment an, die Behauptung der Rechtsschulen- und Hadith zentrierten Ansätze sei korrekt und ohne diese Quellen könnten einige Aspekte dieser Handlungen nicht verstanden werden. Um zu beweisen, dass eine Ansicht richtig ist, reicht es nicht aus, Schwachstellen in der gegnerischen Position aufzuzeigen. Vielmehr muss man belegen, dass die eigene Ansicht korrekter ist und die aufgeworfenen Kritikpunkte besser beantwortet werden können als durch die Antworten der Gegenseite. Die Vertreter der Rechtsschulen- und Hadith zentrierten Ansätze glauben, dass sie auf die zahlreichen gegen sie gerichteten Kritiken mit dem Argument reagieren können, es gäbe Unklarheiten beim Thema Gebet. Genauer gesagt, sie meinen, dass sie durch das Aufwerfen des Themas Gebet die gegen sie gerichteten Hunderten von Fragen unbeantwortet lassen und zeigen könnten, dass sie erfolgreicher als Koran zentrierte Ansätze seien. Doch wie in diesem Buch deutlich gemacht wird, ist es unmöglich, den Kritiken an den Rechtsschulen- und Hadith zentrierten Ansätzen zu entkommen. Es ist offensichtlich, dass diese <span class=\"pb\" data-p=\"550\"></span>Gemeinschaft keine andere verlässliche Quelle außer dem Koran hat. Darüber hinaus werden wir unten sehen, dass es kein Problem gibt, Gebet, Fasten, Pilgerfahrt und Almosen ohne Rückgriff auf Rechtsschulen und Hadithe zu verstehen. Diese gottesdienstlichen Handlungen sind seit der Zeit Abrahams bekannt und durch gemeinschaftliche Praktiken verständlich. Bevor wir uns mit diesen Handlungen beschäftigen, zeigen wir zunächst die Bedingungen auf, die erfüllt sein müssen, bevor mit dem Gebet begonnen wird, und wie diese aus dem Koran abgeleitet werden können."
+    },
+    {
+      "type": "heading",
+      "text": "Die Gebetswaschung (wudu) und die Ganzkörperwaschung",
+      "plain": "Die Gebetswaschung (wudu) und die Ganzkörperwaschung",
+      "slug": "die-gebetswaschung-wudu-und-die-ganzkoerperwaschung"
+    },
+    {
+      "type": "paragraph",
+      "text": "<strong>(</strong><em>ghusl</em><strong>)</strong>"
+    },
+    {
+      "type": "paragraph",
+      "text": "Im Koran werden die Ganzkörperwaschung (<em>ghusl</em>) und die Gebetswaschung (<em>wudu</em>) ausschließlich als Voraussetzungen für das Gebet erwähnt. Es gibt keine islamische Verpflichtung, eine oder beide dieser Waschungen für andere Anlässe wie den Eintritt in eine Moschee, das Lesen des Korans oder andere gottesdienstliche Handlungen zu vollziehen. Im Koran finden sich lediglich zwei Verse, die sich auf beide Waschungen beziehen. Außer diesen beiden Versen gibt es keine weiteren Verse zu diesen Themen. Aus diesen beiden Versen lassen sich alle relevanten Details ableiten: Wann und warum diese Waschungen notwendig sind, sowie was zu tun ist, wenn kein Wasser verfügbar ist."
+    },
+    {
+      "type": "verse",
+      "text": "„O ihr, die ihr glaubt! Wenn ihr euch zum Gebet aufstellt, dann wascht eure Gesichter und eure Hände bis zu den Ellenbogen, streicht mit euren Händen über eure Köpfe und eure Füße bis zu den Knöcheln. Wenn ihr im Zustand der Unreinheit (<em>dschunub</em>) seid, dann reinigt euch. Wenn ihr krank seid oder auf Reisen, oder wenn einer von euch von der Toilette kommt oder ihr Frauen berührt habt und <span class=\"pb\" data-p=\"551\"></span>kein Wasser findet, dann vollzieht die Trockenreinigung (<em>tayammum</em>) mit reiner Erde und streicht damit über euer Gesicht und eure Hände. Gott will euch keine Härte auferlegen, sondern euch reinigen und euch seine Gnade vollenden, auf dass ihr dankbar seid.“",
+      "reference": "Koran 5:6"
+    },
+    {
+      "type": "verse",
+      "text": "„O ihr, die ihr glaubt! Nähert euch dem Gebet nicht, während ihr berauscht seid, bis ihr wisst, was ihr sagt, noch im Zustand der Unreinheit, es sei denn, ihr seid auf Reisen, bis ihr euch gewaschen habt. Wenn ihr krank seid oder auf Reisen, oder wenn einer von euch von der Toilette kommt oder ihr Frauen berührt habt und kein Wasser findet, dann sucht reine Erde und streicht damit über euer Gesicht und eure Hände (<em>tayammum</em>). Gott ist vergebend und barmherzig.“",
+      "reference": "Koran 4:43"
+    },
+    {
+      "type": "paragraph",
+      "text": "Fragen und Antworten zu den Versen:"
+    },
+    {
+      "type": "heading",
+      "text": "1. Wann sind beide Waschungen (<em>ghusl</em> und <em>wudu</em>) notwendig?",
+      "plain": "1. Wann sind beide Waschungen (ghusl und wudu) notwendig?",
+      "slug": "1-wann-sind-beide-waschungen-ghusl-und-wudu-notwendig"
+    },
+    {
+      "type": "paragraph",
+      "text": "Beide Verse machen deutlich, dass beide Waschungen nur für das Gebet notwendig sind. In 5:6 wird ausdrücklich am Anfang des Verses erwähnt, dass die Gebetswaschung für das Gebet erforderlich ist, und in 4:43 wird betont, dass eine unreine Person (<em>dschunub</em>) ohne Waschung nicht beten darf."
+    },
+    {
+      "type": "heading",
+      "text": "<span class=\"pb\" data-p=\"552\"></span>2. Wann ist die Ganzkörperwaschung (ghusl) erforderlich?",
+      "plain": "2. Wann ist die Ganzkörperwaschung (ghusl) erforderlich?",
+      "slug": "2-wann-ist-die-ganzkoerperwaschung-ghusl-erforderlich"
+    },
+    {
+      "type": "paragraph",
+      "text": "Der Begriff „<em>dschunub</em>“ im Koran bezeichnet den Zustand der rituellen Unreinheit, der nach Geschlechtsverkehr eintritt. In beiden Versen wird dies durch die Formulierung „<strong>Frauen berühren</strong>“ ausgedrückt, eine idiomatische Wendung im Arabischen, die „Geschlechtsverkehr“ bedeutet. Die Ganzkörperwaschung (<em>ghusl</em>) ist somit nach dem Geschlechtsverkehr erforderlich."
+    },
+    {
+      "type": "heading",
+      "text": "3. Wann ist Gebetswaschung (wudu) erforderlich?",
+      "plain": "3. Wann ist Gebetswaschung (wudu) erforderlich?",
+      "slug": "3-wann-ist-gebetswaschung-wudu-erforderlich"
+    },
+    {
+      "type": "paragraph",
+      "text": "Die beiden Verse zu diesem Thema erklären, was zu tun ist, wenn wir Wasser brauchen, es aber nicht finden können. Auch wird erklärt, was die Waschung zunichte macht. Die Formulierung, die wir hier mit „von der Toilette kommend“ übersetzen, zeigt uns, dass die Gebetswaschung (<em>wudu</em>) durchgeführt werden sollte, wenn man von der „Toilette“ kommt. Das arabische Wort, das mit „Toilette“ übersetzt wird, ist „<em>al-gha´it</em>“. Dieses arabische Wort bedeutet „Graben“ und entspricht den Worten „Toilettengang, Austreten“. Mit anderen Worten, die Gebetswaschung (<em>wudu</em>) sollte nach der Benutzung der Grubenlatrinen durchgeführt werden. Die Gebetswaschung (<em>wudu</em>) wird durch nichts anderes als das ungültig, weder durch das Fließen von Blut noch durch den Verzehr von Kamelfleisch. Aus dem Vers geht klar hervor, was die Gebetswaschung (<em>wudu</em>) ungültig macht. Was auch immer eine Person in einer Grubenlatriene oder in der Toilette tut, mach somit die Gebetswaschung (<em>wudu</em>) ungültig."
+    },
+    {
+      "type": "heading",
+      "text": "4. Wie wird die Ganzkörperwaschung (ghusl) vollzogen?",
+      "plain": "4. Wie wird die Ganzkörperwaschung (ghusl) vollzogen?",
+      "slug": "4-wie-wird-die-ganzkoerperwaschung-ghusl-vollzogen"
+    },
+    {
+      "type": "paragraph",
+      "text": "<span class=\"pb\" data-p=\"553\"></span>Wir haben bereits erwähnt, dass die Waschung während der rituellen Unreinheit (<em>dschunub</em>) vollzogen wird. Was wir tun sollen, während wir <em>dschunub</em> sind, wird in zwei Worten erklärt. In 5:6 bedeutet das Wort „<em>taharah</em>“ „Reinigung“ und in 4:43 bedeutet das Verb „<em>ghasala</em>“ „waschen“. Es wird nicht gefordert, dass der Körper auf eine bestimmte Weise gewaschen wird, wie es in späteren Rechtsbüchern beschrieben wird (z. B. dass kein trockener Fleck, so groß wie ein Stecknadelkopf, zurückbleiben darf). Wenn eine Mutter zu ihrem fünfjährigen Kind sagt: „Wasch dich“, versteht das Kind das und wäscht sich. Einer erwachsenen Person wird jedoch gesagt: „Wasche dich“, und stellt sich paradoxerweise an wie z. B.: „<em>Wie soll ich mich waschen? Was passiert, wenn ein trockener Fleck so groß wie ein Stecknadelkopf ist? Auf welche Schulter soll ich zuerst Wasser gießen?...</em>“, und wenn sie auf diese Fragen keine Antwort finden, denken sie, dass der Koran unzureichend sei. Darüber hinaus erkennen sie nicht, dass dieses Unverständnis darauf zurückzuführen ist, dass sie nicht versuchen, eine einfache und klare Erklärung zu verstehen. Die Verse machen deutlich, dass die Ganzkörperwaschung (<em>ghusl</em>) einfach das Waschen und Reinigen umfasst."
+    },
+    {
+      "type": "heading",
+      "text": "5. Wie wird die Gebetswaschung (wudu) vollzogen?",
+      "plain": "5. Wie wird die Gebetswaschung (wudu) vollzogen?",
+      "slug": "5-wie-wird-die-gebetswaschung-wudu-vollzogen"
+    },
+    {
+      "type": "paragraph",
+      "text": "Im Koranvers 5:6 wird der Ablauf der Gebetswaschung präzise beschrieben:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Wascht eure Gesichter und eure Hände bis zu den Ellenbogen."
+    },
+    {
+      "type": "paragraph",
+      "text": "Streicht über eure Köpfe und eure Füße bis zu den Knöcheln. <span class=\"pb\" data-p=\"554\"></span>Interessanterweise gibt es Meinungsverschiedenheiten darüber, ob die Füße gewaschen oder nur gestrichen werden sollen. Der Vers legt nahe, dass das Streichen ausreicht, da das entsprechende Verb „streicht“ näher bei den Füßen steht als das Verb „wascht“. Wenn jemand zu Ihnen sagt: „Bad und Küche waschen; Wohn- und Schlafzimmer wischen“, was verstehen Sie dann, dass das Schlafzimmer gewaschen oder gewischt werden soll? Sie würden wahrscheinlich verstehen, dass das Schlafzimmer abgewischt werden sollte. Die meisten sunnitischen Rechtsschulen vertreten jedoch die Auffassung, dass die Füße gewaschen werden sollten. Dabei assoziieren sie die Füße mit dem bereits vorher erwähnten Verb „waschen“. Es scheint jedoch korrekter zu sein, die Füße nicht mit dem weit entfernten Verb zu assoziieren, wenn es ein Verb gibt, das nahe ist. (Die sunnitische Hanbali-Rechtsschule hat ebenfalls erklärt, dass sowohl „streichen“ als auch „waschen“ möglich sind). Es ist auch nicht möglich zu behaupten, dass der Vers sagt, was von oben nach unten geschehen soll, wobei das „Streichen“ nur eine Zwischenerklärung sei und dass somit nur der Kopf „gestrichen“ werden soll. Der Grund dafür ist, dass der Vers zuerst das Gesicht und die Hände erwähnt, dann zum Kopf hinaufgeht und dann zu den Füßen hinunter. Daher scheint es nicht kohärenter zu sein, sich bei den Füßen auf das Verb „waschen“ zu beziehen. Prof. Süleyman Ates erklärt, nachdem er festgestellt hat, dass viele der Gefährten sich damit begnügten, ihre Füße zu streichen, was aus dem Arabischen des Verses wie folgt zu verstehen ist: „<em>Gott, der Allmächtige, hat die Waschung der beiden Hauptteile des Körpers bei der Waschung angeordnet: das Gesicht und die Arme. Er hat auch angeordnet, </em><span class=\"pb\" data-p=\"555\"></span><em>dass die beiden Gliedmaßen gestrichen werden sollen, nämlich der Kopf und die Füße. Nach dem Verb „waschen“ hat er zwei Ergänzungen eingeführt. Diese sind das Gesicht und die Hände. Das Gesicht und die Hände sollen also gewaschen werden. Nach dem Verb „streichen“ hat er ebenfalls zwei Ergänzungen gebracht, den Kopf und die Füße. Das heißt, das sind die Gliedmaßen, die gestrichen werden sollen. Es gibt einen subtilen Punkt in dem Vers, der diese Bedeutung immens verstärkt. Im Koran ist jedes Wort äußerst harmonisch und kohärent miteinander. Beide Verben beziehen sich zunächst auf ein Glied und danach auf zwei Glieder; die ersten erwähnten Glieder beider Verben sind Gesicht und Kopf. Die folgenden Glieder, wovon Menschen normalerweise je 2 haben, sind Hände und Füße.</em>“<sup class=\"fn-ref\"><a href=\"#fn-546\" id=\"fnref-546\">546</a></sup> Kurz gesagt, bei der Gebetswaschung (<em>wudu</em>) werden das Gesicht und die Hände bis zu den Ellenbogen gewaschen; der Kopf und die Füße bis zu den Knöcheln gestrichen, und mehr ist nicht erforderlich. Man darf sich Mund und Nase spülen, den Nacken mit drei Fingern reiben, die Füße waschen und nach dem Waschen jedes Körperteils arabische Gebete sprechen. Aber das sind nicht die Pflichten der Gebetswaschung (<em>wudu</em>). Die Waschung wird im Koran erklärt, und die zuletzt Erwähnten sind nicht in den koranischen Erklärungen enthalten."
+    },
+    {
+      "type": "heading",
+      "text": "6. Was tun, wenn kein Wasser vorhanden ist?",
+      "plain": "6. Was tun, wenn kein Wasser vorhanden ist?",
+      "slug": "6-was-tun-wenn-kein-wasser-vorhanden-ist"
+    },
+    {
+      "type": "paragraph",
+      "text": "Normalerweise ist die Wahrscheinlichkeit, dass ein Mensch kein Wasser findet, sehr gering. Die Erklärung des Koran selbst für diese seltene Situation ist ein Beweis dafür, wie <span class=\"pb\" data-p=\"556\"></span>der Koran alle Einzelheiten angibt, wenn es nötig ist. In diesem Fall kann die Person den Wassermangel ausgleichen, indem sie die Trockenwaschung (<em>tayammum</em>) vollzieht; es steht nicht zur Debatte, das Gebet nicht zu verrichten. Die Hände werden an der sauberen Erde gerieben und das Gesicht und die Hände, die nicht gewaschen werden können, werden abgetupft. Auf diese Weise kann man sich auf das Gebet vorbereiten, auch wenn kein Wasser vorhanden ist."
+    },
+    {
+      "type": "paragraph",
+      "text": "Die Aussagen am Ende beider Verse über Gottes Barmherzigkeit, Vergebung, und dass Er uns keine Schwierigkeiten bereiten will, sollten von denen, die die Ganzkörperwaschung (<em>ghusl</em>) und die Gebetswaschung (<em>wudu</em>) mit vielen unnötigen Details belasten, und von denen, die separate Bücher geschrieben haben, um das in den beiden Versen erläuterte Thema nochmals zu „erklären“, erneut gelesen werden."
+    },
+    {
+      "type": "heading",
+      "text": "Kleidung und Reinheit beim Gebet",
+      "plain": "Kleidung und Reinheit beim Gebet",
+      "slug": "kleidung-und-reinheit-beim-gebet"
+    },
+    {
+      "type": "paragraph",
+      "text": "Im Koran wird keine spezielle Kleidung für das Gebet vorgeschrieben. Wer alleine betet, kann dies in jeder gewünschten Kleidung tun. Für diejenigen, die an gemeinschaftlichen Gebeten teilnehmen, wird es jedoch als angemessen angesehen, in sauberer und ordentlicher Kleidung zu erscheinen, wie in Koran 7:31 erwähnt wird. Im Vers 7:26 wird darauf hingewiesen, dass Kleidung nicht nur dazu dient, den Schambereich zu bedecken, sondern auch zur Schönheit und Zierde beiträgt. Fünf Verse später, in 7:31, wird dazu aufgefordert, sich beim Betreten von Moscheen oder Gebetsstätten zu schmücken. Dies deutet darauf hin, dass im Koran zwar keine spezielle Gebetskleidung vorgeschrieben ist, dass jedoch das <span class=\"pb\" data-p=\"557\"></span>Erscheinen in angemessener Kleidung bei gemeinschaftlichen Gebeten empfohlen wird."
+    },
+    {
+      "type": "paragraph",
+      "text": "Die Verse 2:125 und 22:26 unterstreichen die Bedeutung der Reinigung und Sauberkeit von Gebetsstätten. Darüber hinaus wird in den Versen 74:3-4 die Wichtigkeit betont, Kleidung rein zu halten und sich von Unreinheiten fernzuhalten. Diese Prinzipien, die auch außerhalb des Gebets gelten, sind selbstverständlich auch für das Gebet von Bedeutung."
+    },
+    {
+      "type": "heading",
+      "text": "Die Ausrichtung der Gebetsrichtung (Qibla)",
+      "plain": "Die Ausrichtung der Gebetsrichtung (Qibla)",
+      "slug": "die-ausrichtung-der-gebetsrichtung-qibla"
+    },
+    {
+      "type": "paragraph",
+      "text": "In den Versen 2:144 und 149-150 wird den Muslimen geboten, sich beim Gebet überall auf der Welt in Richtung der geschützten Gebetsstätte (<em>Masdschid al-Haram</em>) zu wenden, also in die Richtung der Kaaba in Mekka. Diese Vorschrift gibt dem Gebet eine klare Ordnung und Struktur, insbesondere bei gemeinschaftlichen Gebeten, die so geordneter und einheitlicher stattfinden können. Im Vers 2:115 wird jedoch hervorgehoben, dass Gott überall ist, egal wohin man sich wendet. Damit wird verhindert, dass der Kaaba eine übertriebene Bedeutung beigemessen oder die geschützte Gebetsstätte und ihre Umgebung vergöttert werden. Auf Grundlage dieses Verses sind die heutigen Moscheen so ausgerichtet, dass sie zur Kaaba zeigen. Muslime verrichten ihr Gebet in Richtung der <em>Qibla</em>, also der Richtung zur Kaaba. Wenn Muslime die Gebetsrichtung kennen, wenden sie sich dorthin, um zu beten. Falls jedoch die genaue Richtung nicht bestimmt werden kann, wird in 2:115 darauf hingewiesen, dass Gott überall ist. In diesem Fall kann in jede beliebige Richtung gebetet werden, und die Gültigkeit des Gebets bleibt davon unberührt.<sup class=\"fn-ref\"><a href=\"#fn-547\" id=\"fnref-547\">547</a></sup>"
+    },
+    {
+      "type": "paragraph",
+      "text": "<span class=\"pb\" data-p=\"558\"></span>Bevor ein Befehl im Koran über die Gebetsrichtung gegeben wurde, orientierten sich die Muslime offenbar an der Gebetsrichtung der Schriftbesitzer (Juden und Christen). Dies lässt sich aus Vers 2:142 ableiten, in dem gefragt wird: „<strong>Was hat sie von ihrer bisherigen Gebetsrichtung (</strong><em>Qibla</em><strong>) abgewandt?</strong>“ Dieser Vers zeigt, dass es Einwände und Diskussionen über die Änderung der Gebetsrichtung gab. Nach der Offenbarung der Verse, die das Wenden zur Kaaba vorschrieben, begannen die Muslime, sich beim Gebet in diese Richtung zu wenden. Vor dieser Änderung richteten sie sich nach Jerusalem, jedoch gibt es keine koranischen Verse, die eine Ausrichtung in diese Richtung anordneten. Dies deutet darauf hin, dass die Muslime bereits vor der Offenbarung über die Gebetsrichtung eine Vorstellung davon hatten, wie das Gebet zu verrichten ist.<sup class=\"fn-ref\"><a href=\"#fn-548\" id=\"fnref-548\">548</a></sup> Vor der Offenbarung des Korans wandten sie sich also nach Jerusalem. Aber mit der Offenbarung des Korans wurde dies geändert und sie wandten sich der Ka’bah zu."
+    },
+    {
+      "type": "heading",
+      "text": "Lautstärke im Gebet",
+      "plain": "Lautstärke im Gebet",
+      "slug": "lautstaerke-im-gebet"
+    },
+    {
+      "type": "paragraph",
+      "text": "Die Regelung zur Lautstärke im Gebet wird im folgenden Vers gegeben:"
+    },
+    {
+      "type": "verse",
+      "text": "„Erhebe deine Stimme nicht im Gebet, aber senke sie auch nicht zu sehr, sondern finde einen Mittelweg dazwischen.“",
+      "reference": "Koran 17:110"
+    },
+    {
+      "type": "paragraph",
+      "text": "Aus diesem Vers wird deutlich, dass das Gebet weder laut schreiend noch vollkommen still, also rein innerlich, verrichtet werden sollte. Stattdessen sollte die Lautstärke moderat und <span class=\"pb\" data-p=\"559\"></span>ausgewogen sein. Dies sorgt für eine bewusste Rezitation der Gebetstexte und hilft gleichzeitig, Ablenkungen zu vermeiden."
+    },
+    {
+      "type": "heading",
+      "text": "Der Gebetsruf (Adhan)",
+      "plain": "Der Gebetsruf (Adhan)",
+      "slug": "der-gebetsruf-adhan"
+    },
+    {
+      "type": "paragraph",
+      "text": "Im Koran wird darauf hingewiesen, dass es einen Ruf zum Gebet gibt, und dass die Ungläubigen diesen Ruf ins Lächerliche ziehen (Koran 5:58). Ziel des Gebetsrufs ist es, die Gläubigen für das Gebet zusammenzurufen. Insbesondere beim Freitagsgebet, das ausdrücklich als gemeinschaftliches Gebet vorgeschrieben ist, wird ein solcher Ruf erforderlich (Koran 62:9)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Was den Gebetsruf in einer bestimmten Form betrifft, so sagen die Hadithe nicht aus, dass der gegenwärtige Gebetsruf das Ergebnis einer Offenbarung oder eines Befehls des Propheten war. Den Hadithen zufolge beklagten sich diejenigen, die früh zum Gebet kamen, dass sie mit ihrer Arbeit im Rückstand waren, und diejenigen, die zu spät kamen, dass sie das Gebet verpassten. Daraufhin wurden verschiedene Meinungen darüber vertreten, wie man zum Gebet rufen sollte. Schließlich wurde aufgrund eines Traums beschlossen, den Gebetsruf zu verwenden, der mit der menschlichen Stimme gesprochen wird, wie es auch heute noch geschieht.<sup class=\"fn-ref\"><a href=\"#fn-549\" id=\"fnref-549\">549</a></sup> Den Hadithen zufolge sagte der Prophet über diesen Traum: „<em>So Gott will (in scha Allah), war es ein wahrer Traum</em>“. Den Hadithen zufolge fügte Bilal den Satz „<em>As-salatu chayrun min an-nawm</em>“ (Das Gebet ist besser als der Schlaf) aus eigenem Antrieb in das Morgengebet ein. Wie man sieht, würde ein unvoreingenommener Leser der Hadithe zu dem Schluss kommen, dass zur Zeit des Propheten die bestehende Form des Gebetsruf in Übereinstimmung mit den Bedürfnissen der Ummah akzeptiert wurde. Den Hadithen <span class=\"pb\" data-p=\"560\"></span>zufolge hat der Prophet nicht befohlen: „So und so muss es sein, das ist die Art und Weise, zum Gebet zu rufen.“ Wenn der gegenwärtige Text des Adhan das Ergebnis eines Befehls wäre, wäre es für Bilal undenkbar gewesen, einen Satz hinzuzufügen. Wenn es Bilal möglich ist, dem Gebetsruf nach eigenem Ermessen einen Satz hinzuzufügen, d. h. den Gebetsruf zu ändern, sollten wir dann nicht denken, dass die derzeitige Form des Gebetsrufes keine Pflicht ist, sondern eine etablierte und schöne Tradition (<em>Sunna</em>) dieser Gemeinschaft (<em>Ummah</em>)?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Die einheitliche und Koran konformen Worte des Gebetsruf, die überall in gleicher Weise rezitiert werden, schaffen ein Gefühl der Einheit unter den Muslimen, und jeder, der diesen Ruf hört, erhält die Botschaft, dass es Zeit für das Gebet ist und dass das Gebet an einem bestimmten Ort gemeinsam verrichtet wird. Diese Praxis schafft nicht nur ein Gefühl der Einheit, sondern hat auch eine wichtige Funktion für die Ordnung. Es ist notwendig, den Gebetsruf, der überall in der islamischen Welt auf die gleiche Weise rezitiert wird, zu bewahren und diese „gemeinsame Tradition (<em>Sunna</em>) der islamischen Gemeinschaft (<em>Umma</em>)“ nicht zu verändern."
+    },
+    {
+      "type": "heading",
+      "text": "Ein bekannter Gottesdienst: Das Gebet",
+      "plain": "Ein bekannter Gottesdienst: Das Gebet",
+      "slug": "ein-bekannter-gottesdienst-das-gebet"
+    },
+    {
+      "type": "paragraph",
+      "text": "Wie bereits hervorgehoben, war zur Zeit des Propheten klar, was mit „dem“ Gebet (<em>al-salah</em>) gemeint war. Der Prophet Muhammad begann seine prophetische Mission in Mekka, wo die Kaaba von Abraham erbaut worden war. Im Koran wird dem Propheten befohlen, der Glaubensgemeinschaft Abrahams zu folgen. Einige Korankommentatoren interpretieren das Wort „<em>Milla</em>“ (Glaubensrichtung) auch als „Religion“:"
+    },
+    {
+      "type": "verse",
+      "text": "<span class=\"pb\" data-p=\"561\"></span>„Und Wir haben dir offenbart: Folge der Glaubensrichtung (<em>milla</em>) Abrahams, als Anhänger des monotheistischen Glaubens. Und gehöre nicht zu denen, die Gott Gefährten zur Seite stellen.“",
+      "reference": "Koran 16:123"
+    },
+    {
+      "type": "paragraph",
+      "text": "Der Koran zeigt, dass der Prophet Muhammad das letzte Glied in der Kette der Propheten ist. Zwischen Muhammad und Abraham scheint dabei eine besondere Beziehung zu bestehen. Sowohl Juden, Christen als auch selbst die Götzendiener, die in Mekka lebten oder die Kaaba besuchten, respektierten Abraham und betrachteten sich als seine Nachfolger. Dennoch heißt es im Koran:"
+    },
+    {
+      "type": "verse",
+      "text": "„Wahrlich, die Menschen, die Abraham am nächsten stehen, sind diejenigen, die ihm gefolgt sind, und dieser Prophet (Muhammad) sowie die Gläubigen (die Muhammad gehorchen).“",
+      "reference": "Koran 3:68"
+    },
+    {
+      "type": "paragraph",
+      "text": "Aus dem Koran wird ersichtlich, dass Abraham einen Teil seiner Familie in Mekka ansiedelte. Einer der Hauptgründe dafür war, dass sie das Gebet ordentlich verrichten sollten:"
+    },
+    {
+      "type": "verse",
+      "text": "„(Abraham sagte:) O unser Herr! Siehe, ich habe einige von meinen Nachkommen in einem Tal angesiedelt, in dem es kein Ackerland gibt, nahe Deinem Geschützten Haus (der Kaaba), auf dass, o unser Herr, sie sich dem Gebet widmen mögen; …“",
+      "reference": "Koran 14:37"
+    },
+    {
+      "type": "verse",
+      "text": "<span class=\"pb\" data-p=\"562\"></span>„(darum,) o mein Herr, lasse mich und (einige) von meinen Nachkommen weiterhin beständig das Gebet verrichten! Und, o unser Erhalter, nimm dieses mein Gebet an“",
+      "reference": null
+    },
+    {
+      "type": "verse_ref",
+      "text": "Koran 14:40"
+    },
+    {
+      "type": "paragraph",
+      "text": "Auch Ismael, der zusammen mit Abraham die Kaaba errichtete, sowie seine Gemeinschaft verrichteten das Gebet:"
+    },
+    {
+      "type": "verse",
+      "text": "„Und erwähne im Buch Ismael. Wahrlich, er war wahrhaftig in seinem Versprechen und er war ein Gesandter, ein Prophet, der seinen Leuten das Gebet und die Almosen zu gebieten pflegte. Er war Seinem Herrn wohlgefällig.“",
+      "reference": "Koran 19:54-55"
+    },
+    {
+      "type": "paragraph",
+      "text": "Die Verpflichtung zum Gebet war nicht auf Abraham und seine Nachfolger beschränkt. Der Koran zeigt, dass auch Juden und Christen zum Gebet verpflichtet wurden. Tatsächlich lassen sich in einigen Strömungen des heutigen Judentums und Christentums Spuren von zeitlich festgelegten Gebeten erkennen. Diese Gebete beinhalten das Gedenken Gottes, das Stehen (<em>Qiyam</em>), das Verbeugen (<em>Ruku</em>) und das Niederwerfen (<em>Sudschud</em>), auch wenn Zeiten und Formen je nach Glaubensrichtung variieren. Der Koran stellt jedoch fest, dass diese Gemeinschaften das Gebet vernachlässigten, indem sie ihren Begierden folgten.<sup class=\"fn-ref\"><a href=\"#fn-550\" id=\"fnref-550\">550</a></sup> In einigen Strömungen des Judentums und Christentums wird das Gebet heute vor allem von Geistlichen verrichtet, während nur ein kleiner Teil der Laien diese Praxis regelmäßig ausführt. Dennoch wird im Koran deutlich, dass das Gebet ein Teil ihrer religiösen Praxis war:"
+    },
+    {
+      "type": "verse",
+      "text": "<span class=\"pb\" data-p=\"563\"></span>„Und Wir offenbarten Moses und seinem Bruder: ‚Bereitet für euer Volk Häuser in Ägypten und macht eure Häuser zu Gebetsstätten und verrichtet das Gebet. Und verkünde den Gläubigen frohe Botschaft.‘“",
+      "reference": "Koran 10:87"
+    },
+    {
+      "type": "verse",
+      "text": "„(Jesus sagte:) Und Er hat mich gesegnet, wo immer ich bin, und hat mir das Gebet und die Abgabe der Almosen geboten, solange ich lebe.“",
+      "reference": "Koran 19:31"
+    },
+    {
+      "type": "verse",
+      "text": "„Und ihnen (, den Leuten der Schrift,) wurde nichts anderes befohlen, als Gott aufrichtig im monotheistischen Glauben zu dienen, das Gebet zu verrichten und die Abgabe der Almosen zu leisten. ...“",
+      "reference": "Koran 98:5"
+    },
+    {
+      "type": "paragraph",
+      "text": "Als der Prophet Muhammad und seine Gefährten den Befehl „<strong>Verrichtet das Gebet</strong>“ erhielten, wussten sie bereits, was das Gebet war. Sie kannten diese Praxis aus den Traditionen der Schriftbesitzer. Dies wird auch durch die Verwendung des bestimmten Artikels „<em>al-</em>“<sup class=\"fn-ref\"><a href=\"#fn-551\" id=\"fnref-551\">551</a></sup> in Ausdrücken wie „das Gebet verrichten“ im Koran deutlich:"
+    },
+    {
+      "type": "verse",
+      "text": "<span class=\"pb\" data-p=\"564\"></span>„Und verrichtet das Gebet und gebt die Abgabe.“",
+      "reference": "Koran 24:56"
+    },
+    {
+      "type": "paragraph",
+      "text": "Die Verwendung des bestimmten Artikels zeigt, dass das Gebet eine bekannte Praxis war. Dies zeigt, dass dem Propheten Muhammad und seinen Gefährten ein Gebet befohlen wurde, das bereits bekannt und anerkannt war. Als der Prophet und seine Gefährten den Befehl erhielten, „das Gebet zu verrichten“, begannen sie, das Gebet zu verrichten, das sie bereits kannten, und da dieser bekannte Gottesdienst auch kollektiv verrichtet wurde, lernten alle Beteiligten, was dieser Gottesdienst war, indem sie an den gemeinsamen Gebeten teilnahmen. Kurz gesagt, niemand brauchte ein anderes Buch als den Koran, um das Gebet zu verrichten; dieser Punkt wird durch die folgenden Erläuterungen besser verstanden."
+    },
+    {
+      "type": "heading",
+      "text": "Was das Gebet umfasst",
+      "plain": "Was das Gebet umfasst",
+      "slug": "was-das-gebet-umfasst"
+    },
+    {
+      "type": "paragraph",
+      "text": "Obwohl mit dem Gebot „<strong>Verrichtet das Gebet!</strong>“ eine bereits bekannte gottesdienstliche Handlung angeordnet wird, wird im Koran auf die essenziellen Bestandteile des Gebets hingewiesen. In besonderen Umständen, wie bei Angst oder Gefahr, können bestimmte Elemente des Gebets weggelassen werden, etwa die Verbeugung oder Niederwerfung. Die grundlegendste Anforderung an das Gebet, die in jedem Fall erfüllt werden muss, ist jedoch das Gedenken (<em>dhikr</em>) an Gott :"
+    },
+    {
+      "type": "verse",
+      "text": "<span class=\"pb\" data-p=\"565\"></span>„Wahrlich, Ich, Ich bin Gott! Absolut keine Gottheit außer Mir. So diene Mir und verrichte das Gebet, um Meiner zu gedenken (<em>dhikr</em>).“",
+      "reference": "Koran 20:14"
+    },
+    {
+      "type": "paragraph",
+      "text": "Aus obigen Vers 20:14 verstehen wir, dass der Zweck des Gebets darin besteht, sich an Gott zu erinnern. Aus dem Koran geht auch hervor, dass eines der Attribute des Korans „<em>dhikr</em>“ ist, d. h. „Erinnern, Ermahnung“. Während des Gebets wird diese Erinnerung durch Koranrezitation, Bittgebete und Lobpreisungen Gottes realisiert. So erfahren wir aus dem Koran zum Beispiel von Gottes Vergebung, Seiner Barmherzigkeit, Seiner Erschaffung von allem, Seinem Paradies, Seiner Hölle, der Größe Seines Wissens und Seiner Macht. Im Gebet wissen wir, dass wir uns in der Gegenwart eines barmherzigen und vergebenden Gottes befinden, und wir gedenken Gottes entsprechend und wenden uns Ihm entsprechend zu. Es ist nicht notwendig, dass Personen, die kein Arabisch sprechen, im Gebet auf Arabisch rezitieren. Wenn sie dennoch Arabisch rezitieren, sollten sie die Bedeutung der Verse kennen. Besonders die <em>Sura al-Fatiha</em> („die Eröffnende“ und damit der erste Kapitel im Koran), die häufig im Gebet verwendet wird, sollte verstanden werden, damit sie bewusst und mit Sinnhaftigkeit gesprochen wird. Selbstverständlich ist es für diejenigen, die Arabisch können, gut, den Koran in der Originalsprache zu lesen, in der er offenbart wurde, aber viele von denen, die kein Arabisch können, verfälschen die arabischen Bedeutungen, wenn sie den Koran auf Arabisch lesen und beten, ohne zu wissen, was sie sagen. Selbst in einer Rechtsschule wie dem Hanafismus, der als eine sunnitische Rechtsschule gilt, ist man flexibel, wenn es darum geht, denjenigen, die kein Arabisch können, das Lesen von Koranübersetzungen zu ermöglichen, und obwohl bekannt ist, dass Salman <span class=\"pb\" data-p=\"566\"></span>al-Farisi die <em>Sura al-Fatiha</em> ins Persische übersetzt hat und dass Perser diese Übersetzung während der Gebete lesen, wurden die Ansichten über die Flexibilität in dieser Frage vor der Öffentlichkeit verborgen. Gott wollte, dass auch diejenigen, die nicht betrunken waren, beten, aber Er stellte ihnen eine Bedingung: „<strong>Nähert euch nicht dem Gebet, bevor ihr nicht wisst, was ihr sagt</strong>“ (Koran 4:43). Gott hat also erklärt, dass Er nicht will, dass Betrunkene/Berauschte beten, weil sie nicht wissen, was sie sagen. Aber ist die Situation derjenigen, die zwar nüchtern aus dem Koran Verse lesen, jedoch deren Bedeutung nicht kennen und nicht wissen, was sie sagen, nicht ähnlich wie die der Betrunkenen? Ist nicht das Element, das sie in ihren Gebeten nicht erfüllen, nämlich „zu wissen, was sie sagen“, dasselbe wie das Element, das die Betrunkenen nicht erfüllen? Sich dessen bewusst zu sein, was man im Gebet sagt, sollte nicht als Freibrief oder Bequemlichkeit betrachtet werden. Sich bewusst zu machen, was man im Gebet sagt, ist eine wichtige Voraussetzung, um die notwendige Verbindung mit seinem Schöpfer herzustellen. Im Koran wird in Vers 2:45 erwähnt, dass man Gott mit Geduld und Gebet um Hilfe bitten soll. Wenn jemand die Bedeutung dessen, was er im Gebet sagt, nicht kennt, wie kann er dann seine privaten Gefühle über sein privates Problem ausdrücken und Gott um Hilfe bitten?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Im Koran wird darauf hingewiesen, dass beim richtigen Gebet die folgenden Elemente erfüllt sein müssen:"
+    },
+    {
+      "type": "list",
+      "items": [
+        {
+          "label": "1.",
+          "text": "Man muss an Gott denken und sich dessen bewusst sein, was man sagt (Koran 20:14)."
+        },
+        {
+          "label": "2.",
+          "text": "Im Gebet muss Ehrfurcht/Demut (<em>khuschu</em>) herrschen. „Ehrfurcht“ bedeutet ein tiefes Zittern des Herzens, tiefen Respekt (Koran 23:2)."
+        },
+        {
+          "label": "3.",
+          "text": "<span class=\"pb\" data-p=\"567\"></span> Das Gebet sollte einen von hässlichem Verhalten und Handlungen fernhalten (Koran 29:45)."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Das Gebet ist eine gottesdienstliche Handlung, um Gott zu gedenken. Im Gegensatz zu anderen Formen des Gedenkens an Gott ist es jedoch zu dynamischen Zeiten verpflichtend, muss mit der Gebetswaschung „<em>wudu</em>“ verrichtet werden und weist einige zusätzliche Merkmale auf, wie z. B. die Einbeziehung bestimmter Bewegungen. Da es sich bereits um eine vorher bekannte gottesdienstliche Handlung handelt, finden wir im Koran keinen Vers, der die Handlungen des Gebets beschreibt und sagt: „Dies ist das Gebet; verrichte das Gebet auf diese Weise“, aber aus den Beschreibungen im Koran können wir verstehen, welche Handlungen zum Gebet gehören. Im Koranvers 4:102 zum Beispiel, der zeigt, dass das Gebet eine wichtige gottesdienstliche Handlung ist, die auch im Kriegszustand nicht aufgegeben werden darf, sehen wir, dass im Kriegszustand eine Gruppe betet, während die andere Gruppe Wache hält. Nach der Niederwerfung nimmt die andere Gruppe den Platz der ersten Gruppe ein und betet. Es wird auch deutlich, dass das Gebet mit der Niederwerfung endet. Aus diesem Vers geht hervor, dass selbst in einer Situation, in der Kriegsgefahr besteht, das Gebet verrichtet wird, einschließlich der Niederwerfung (die Niederwerfung ist der schutzloseste Zustand des Menschen), aber es wird in Abwechslung verrichtet, ohne die Waffen abzulegen, ohne dem Feind eine Gelegenheit zu geben. Wenn das Pflichtgebet auch im Krieg auf diese Weise verrichtet wird, versteht man besser, wie wichtig es ist, das Gebet in normalen Zeiten mit Stand „<em>qiyam</em>“, Verbeugung „<em>ruku</em>“ und Niederwerfung „<em>sudschud</em>“ zu verrichten."
+    },
+    {
+      "type": "paragraph",
+      "text": "<span class=\"pb\" data-p=\"568\"></span>Aus dem Koran (14:40) erfahren wir, dass das Gebet eine Form der Anbetung ist, die seit der Zeit Abrahams existiert. Es gibt drei Wörter im Koran, die den dynamische Gottesdienst bezeichnen. Diese sind „<em>qiyam</em>“ (Stehen), „<em>ruku</em>“ (Verbeugung) und „<em>sudschud</em>“ (Niederwerfung). Im Koran wird erwähnt, dass die Stätte des Propheten Abraham „<em>maqami ibrahiym</em>“ zu einem Ort des Gebets gemacht wurde und das Haus rein gehalten wurde (Koran 2:125). In Vers 22:26 wird befohlen, das Haus für diejenigen sauber zu halten, die Stand „<em>qiyam</em>“, Verbeugung „<em>ruku</em>“ und Niederwerfung „<em>sudschud</em>“ verrichten, was die drei Bewegungen des Gebets zeigt."
+    },
+    {
+      "type": "verse",
+      "text": "„Und gedenke, als Wir Abraham den Ort des Hauses (Kaaba) gezeigt haben (und sprachen): ‚Setze Mir nichts zur Seite und reinige Mein Haus für diejenigen, die es umschreiten, stehen, sich verbeugen und sich niederwerfen.‘“",
+      "reference": "Koran 22:26"
+    },
+    {
+      "type": "paragraph",
+      "text": "Neben diesen Versen gibt es weitere Verse, die die Aufmerksamkeit auf die Bewegungen des Gebets lenken, nämlich Stand, Verbeugung und Niederwerfung. Die Formulierung „<em>Subhana Rabbiya al-Azim</em>“ (Gepriesen sei mein Herr, der Erhabene) bei der Verbeugung „<em>ruku</em>“ und die Formulierung „<em>Subhana Rabbiya al-Ala</em>“ (Gepriesen sei mein Herr, der Allerhöchste) bei der Niederwerfung „<em>sudschud</em>“ entsprechen den Formulierungen in den Versen 56:96 und 87:1. Es gibt jedoch keine Beschränkung für das, was bei der Verbeugung und der Niederwerfung gesagt werden kann. Jeder Koranvers kann zu diesen Zeiten rezitiert werden, oder man kann sich an Gott wenden und beten, danken oder um Gottes Hilfe für die Probleme bitten, mit denen wir konfrontiert sind, wie es in Vers 2:45 heißt. Laut einigen Hadithen soll der Prophet <span class=\"pb\" data-p=\"569\"></span>sehr kurze Gebete, aber auch sehr lange Gebete mit langen Verbeugungen und langen Niederwerfungen verrichtet haben. Einigen Hadithen zu diesem Thema zufolge soll der Prophet manchmal so lange in der Verbeugung und in der Niederwerfung geblieben sein, dass man gedacht haben soll, er würde niemals aufstehen. Wahrscheinlich würde niemand auf die Idee kommen, dass dies einer Zeitspanne entspricht, in der die oben genannten beiden Formulierungen jeweils dreimal gesagt wurden. In einigen Büchern über das Gebet gibt es jedoch Erklärungen, die das, was Gott frei gelassen hat, unnötig einschränken, indem sie die Verbeugung auf drei „<em>Subhana Rabbiya al-Azim</em>“ (Gepriesen sei mein Herr, der Erhabene) und die Niederwerfung auf drei „<em>Subhana Rabbiya al-Ala</em>“ (Gepriesen sei mein Herr, der Allerhöchste) beschränken. Diese Ausdrücke stehen im Einklang mit dem Geist des Korans und sind passende Ausdrücke für die Verherrlichung Gottes durch Seine Diener. Um die Ordnung in den Gebeten aufrechtzuerhalten, kann eine Praxis, die die Vorbeter anweist, die Zeit, die für das dreimalige Sprechen dieser Sätze benötigt wird, nicht zu überschreiten, als Ordnung in den Gebeten angesehen werden. Unserer Meinung nach wurden solche Formen aus dieser Sorge heraus eingeführt, um zu verhindern, dass die Vorbeter die Gebete in die Länge ziehen und damit den Wünschen einiger Gemeindemitglieder zuwiderhandeln. Allerdings sollte auch der Schaden bedacht werden, der durch die Wiederholung der gleichen Phrasen in den Gebeten entsteht, da viele Menschen ermutigt werden, sie automatisch zu sagen, ohne über die Bedeutung dieser sehr bedeutungsvollen Worte nachzudenken. Normalerweise müssen wir bei der Verbeugung und der Niederwerfung nicht nur die vorgeschriebenen Phrasen sagen. Wie lange wir in „<em>qiyam</em>“ (Stehen), „<em>ruku</em>“ (Verbeugung) und „<em>sudschud</em>“ (Niederwerfung) im Gebet stehen sollten, liegt in unserem persönlichen Ermessen. Einige haben mit <span class=\"pb\" data-p=\"570\"></span>ihren eigenen Festlegungen einen Freiraum eingefroren. Einiges davon war zwar hilfreich, um Ordnung zu schaffen, aber viele von ihnen haben zu übermäßigem Formalismus im Gebet und zu einer Abkehr von seiner Bedeutung geführt."
+    },
+    {
+      "type": "paragraph",
+      "text": "Die Menschen werden mit unnötigen Details über das Gebet überschüttet. Es gibt jedoch ernsthafte Probleme mit den wichtigsten Elementen des Gebets, wie z. B. das Bewusstsein für das, was man sagt, und die Ehrfurcht (<em>khuschu</em>). Unnötige Diskussionen wurden über viele Details geführt, wie z. B. die Haltung der Hände beim Stehen, die Neigung des Rückens bei der Verbeugung und das Aufsetzen der Stirn und dann der Nase auf den Boden bei der Niederwerfung. In der Tat gab es unter den Rechtsschulen unnötige Debatten darüber, ob die Hände beim Stehen gebunden werden sollten oder wie weit die Füße auseinander sein sollten. Wenn du irgendjemandem sagst, er solle „stehen“ (<em>qiyam</em>), wird er diesen Befehl leicht verstehen und dir keine Fragen stellen wie „Was soll ich mit meinen Händen machen, wie viele Zentimeter zwischen meinen Füßen“. Kurz gesagt, wenn man einmal verstanden hat, dass „<em>qiyam</em>“ (Stehen), „<em>ruku</em>“ (Verbeugung) und „<em>sudschud</em>“ (Niederwerfung) die Bewegungen beim Gebet sind, erübrigen sich Fragen zu solchen Details."
+    },
+    {
+      "type": "paragraph",
+      "text": "Der Koran sagt auch, dass man nach der Niederwerfung (Koran 50:40) und nach dem Ende des Gebets (Koran 4:103) an Gott denken soll. Aus Vers 4:103 geht hervor, dass dieses Gedenken im Stehen, Sitzen und auf der Seite liegend erfolgen kann. Das Sitzen im Gebet erfüllt das Gebot dieser Verse. Wir sehen, dass die Hauptsache bei dieser Sitzposition das Gedenken an Gott ist, und es liegt an dem Einzelnen zu entscheiden, welche Worte er oder sie ausspricht, um dieses Gedenken zu erfüllen."
+    },
+    {
+      "type": "verse",
+      "text": "<span class=\"pb\" data-p=\"571\"></span>„Wenn ihr das Gebet beendet habt, dann gedenkt Gottes stehend, sitzend oder liegend.“",
+      "reference": "Koran 4:103"
+    },
+    {
+      "type": "paragraph",
+      "text": "Darüber hinaus sollte gemäß Vers 72:18 niemand außer Gott an den Gebetsstätten angerufen werden. Es ist für einen Muslim unwürdig, Propheten, vermeintliche Heilige oder Tote um Hilfe zu bitten."
+    },
+    {
+      "type": "paragraph",
+      "text": "Im Übrigen halten wir es für sinnvoll, eine sehr irrige Auffassung über diese Handlungen im Gebet zu korrigieren. Das koranische Wort „<em>al-salah</em>“, das „Gebet“ bedeutet, bedeutet auch „Unterstützung, Kommunikation, Bittgebet“. In der Tat scheinen diese Bedeutungen miteinander verwandt zu sein: Muslime kommunizieren mit Gott, beten und unterstützen ihre Religion durch ihre Gebete. In jeder Sprache gibt es Wörter, die mehr als eine Bedeutung haben, zum Beispiel hat das Wort „Schloss“ im Deutschen ganz unterschiedliche Bedeutungen wie „ein Gebäude“ und „ein Verschlussmechanismus“ und „Fahrradschloss“ und „Maschinenteil“, aber kein deutscher Sprecher hat Probleme, die Bedeutung dieses Wortes je nach dem Kontext, an dem es vorkommt, zu bestimmen. Das Gleiche gilt für die Verwendung des Wortes „<em>al-salah</em>“ im Koran, mit der Ausnahme, dass das Wort „<em>al-salah</em>“ keine derart unzusammenhängenden Bedeutungen hat und seine Bedeutung entsprechend seinem Vorkommen im Koran angegeben werden sollte. Einige haben behauptet, dass das Wort „<em>al-salah</em>“ im Koran nie im Sinne von „Gebet“, sondern immer im Sinne von „Unterstützung“ verwendet würde. Wer den Koran ein wenig aufmerksam liest, wird den Irrtum dieser Behauptung sofort erkennen. Zunächst einmal führt diese Behauptung dazu, dass die Ausdrücke Stehen (<em>qiyam</em>), Verbeugung (<em>ruku</em>) und Niederwerfung (<em>sudschud</em>) sinnbildlich und nicht wortgetreu genommen werden, <span class=\"pb\" data-p=\"572\"></span>was keineswegs vernünftig erscheint. In einigen Versen wird die Widersprüchlichkeit dieser Behauptung gut veranschaulicht. In Vers 4:102 sehen wir zum Beispiel, dass, wenn eine Gefahr durch den Feind zu befürchten war, eine Gruppe Wache hielt und eine andere Gruppe in der Zwischenzeit mit Gesten wie der Niederwerfung betete, und dann kam die andere Gruppe, die nicht gebetet hatte, und betete. Wenn man den Ausdruck „<em>al-salah</em>“ hier als nicht-bewegliche Unterstützung versteht, findet man viele unlogische Punkte; bei einer nicht-beweglichen Unterstützung wäre es unlogisch, dass eine Gruppe hinter einer anderen Gruppe Wache hält und diese Gruppe sich in der Zwischenzeit „im übertragenen Sinne niederwirft“ und dann die andere Gruppe kommt und sie „unterstützt“. Außerdem ist das Gebet, wie es in Vers 4:103 heißt, für die Menschen zu bestimmten Zeiten verpflichtend, während die Unterstützung der Religion Gottes eine Handlung ist, die jederzeit getan werden kann, ohne dass man auf bestimmte Zeiten warten muss."
+    },
+    {
+      "type": "paragraph",
+      "text": "Als diejenigen, die behaupten, dass das Gebet mit Bewegung nicht verpflichtend sei, erkannten, wie sehr die koranische Beschreibung einer bewegten Vorbereitung auf das Gebet, wie die Gebetswaschung, ihrem Ansatz widerspricht, mussten sie sogar so weit gehen, dem klaren Arabisch der Verse eine weit hergeholte, unzusammenhängende Bedeutung zu geben (um die Idee des bewegten Gebets zu vermeiden), indem sie behaupteten, dass die Ausdrücke im Koran über die Gebetswaschung für das Gebet, die wir oben erläutert haben, nicht Waschen bedeuten würde, sondern sinnbildliche Bedeutungen haben soll. Im Übrigen gibt es in dem Vers über die Gebetswaschung Ausdrücke wie „<strong>Hände bis zu den Ellenbogen</strong>“, die auf die zu waschenden Stellen hinweisen, und Ausdrücke wie „<strong>wenn man von der Toilette kommt</strong>“ <span class=\"pb\" data-p=\"573\"></span>und „<strong>Streichen mit sauberer Erde, wenn es kein Wasser gibt</strong>“, so dass diejenigen, die versuchen, die Gebetswaschung als eine metaphorische Praxis ohne Bewegung und als Voraussetzung für eine unbewegliche Stütze zu verstehen, in absurde Interpretationen verfallen, die angesichts solcher Ausdrücke nicht erwähnenswert sind. Eigentlich hielten wir es für unnötig, auf solch absurde Ansichten einzugehen. Doch aufgrund der Fragen, die nach der Erstveröffentlichung dieses Buches aufkamen, entschieden wir uns, diese Erklärung hinzuzufügen. Wie ersichtlich, ist eine der wesentlichen Voraussetzungen, den Islam korrekt zu verstehen, eine ehrliche, unverzerrte und kohärente Herangehensweise an den Koran. Es ist wichtig, nicht zu versuchen, dem Koran eigene Vorstellungen aufzuzwingen oder ihn in eine Richtung zu interpretieren, die den eigenen Wünschen und Begierden entspricht."
+    },
+    {
+      "type": "heading",
+      "text": "Die Anzahl der Gebetseinheiten (Rak´a)",
+      "plain": "Die Anzahl der Gebetseinheiten (Rak´a)",
+      "slug": "die-anzahl-der-gebetseinheiten-rak-a"
+    },
+    {
+      "type": "paragraph",
+      "text": "Wie bereits erwähnt, sind die Bewegungen des Stehens, Verbeugens und Niederwerfens zentrale Bestandteile des Gebets, wie es im Koran beschrieben wird. Eine häufig gestellte Frage lautet, wie oft diese Bewegungen wiederholt werden sollen, oder allgemein: „Wie viele Gebetseinheiten hat ein Gebet?“ Diese Frage wurde ohne Bezugnahme auf Hadithe auf zwei verschiedene Weisen beantwortet. Beide Ansätze stimmen darin überein, dass die derzeit in den Moscheen praktizierte Anzahl der Gebetseinheiten korrekt ist. Unterschiede bestehen jedoch in der Interpretation des Begriffs „Gebetseinheit (<em>rak´a</em>)“. Nachfolgend werden diese beiden Ansätze, mit dem Gebet in seiner gegenwärtigen Form, vorgestellt, um sie zu bewerten.<sup class=\"fn-ref\"><a href=\"#fn-552\" id=\"fnref-552\">552</a></sup>"
+    },
+    {
+      "type": "paragraph",
+      "text": "<span class=\"pb\" data-p=\"574\"></span>Die Befürworter des ersten Ansatzes weisen zunächst darauf hin, wie wir bereits erwähnt haben, dass das Gebet seit der Zeit Abrahams in der Region, in der der Prophet lebte, eine bekannte Praxis ist und dass es auch in anderen Völkern, zu denen das Buch gesandt wurde, obligatorisch war (wir empfehlen, die oben zitierten Verse noch einmal zu lesen). Sie weisen auch darauf hin, dass der Ausdruck „das Gebet“ (<em>al-salah</em>) im Koran den bestimmten Artikel „<em>al</em>“ verwendet, was darauf hindeutet, dass es sich um eine bekannte und festgelegte Praxis handelt – einschließlich der Anzahl der Gebetseinheiten. Darüber hinaus haben die Muslime die Anzahl der Gebetseinheiten gesehen, indem sie an der kollektiven Verrichtung der Gebete teilgenommen haben, und da sie alle die Anzahl der Gebetseinheiten in den Gebeten gesehen haben, verstehen sie, wenn „das Gebet“ (<em>al-salah</em>) gesagt wird, die Gebete mit einer bestimmten Anzahl von Gebetseinheiten. Das Gebet ist, im Gegensatz zu allen anderen gottesdienstlichen Handlungen, eine gottesdienstliche Handlung, die regelmäßig jeden Tag verrichtet wird und „zeitlich verpflichtend“ ist, und obwohl es nicht verpflichtend ist, die Gebete in der Gemeinde zu verrichten, mit Ausnahme des Freitagsgebets. Da das Gebet jeden Tag in der Gemeinde verrichtet wird, kann jeder die Anzahl der Gebetseinheiten in dieser gemeinschaftlichen Praxis ohne jeden Zweifel erkennen. In der Tat sind sich die sunnitischen und schiitischen Rechtsschulen, die sich in fast allen Fragen voneinander unterscheiden, über die Anzahl der Gebetseinheiten einig. Kurz gesagt, die Gebetseinheiten werden durch die Teilnahme an der kollektiven Praxis gesehen, so dass <span class=\"pb\" data-p=\"575\"></span>es keine Notwendigkeit für einen separaten Hadith oder ein Katechismus/Handbuch außer dem Koran gibt, um die Anzahl der Gebetseinheiten zu lernen, und jede Person, die den koranischen Befehl erhält, „das Gebet“ (<em>as-salah</em>) zu verrichten und am kollektiven Gebet teilnimmt, versteht, mit wie vielen Einheiten jedes Gebet zu verrichten ist. Der folgende Vers wird ebenfalls als Beweis für diese Ansicht angeführt:"
+    },
+    {
+      "type": "verse",
+      "text": "„Verrichtet das Gebet, gebt die Abgabe und verbeugt euch (vollzieht den <em>ruku</em>) mit den sich Verbeugenden (<em>Ruku</em>vollziehenden).“",
+      "reference": "Koran 2:43"
+    },
+    {
+      "type": "paragraph",
+      "text": "Übrigens sei daran erinnert, dass das Wort „<em>raka</em>“ (Gebetseinheit) mit „<em>ruku</em>“ (Verbeugung) verwandt ist. Wir haben im vorigen Kapitel gesehen, dass die Verbeugung eine der Bewegungen des Gebets ist. Derjenige, der sich mit denen verbeugt, die sich verbeugen, wird natürlich das Gebet entsprechend der Anzahl der Gebetseinheiten verrichten, die in der Praxis zur Verfügung stehen. Wie wir gesehen haben, ist es die kollektive Praxis und nicht irgendein außerkoranischer Text (Hadith oder Katechismus/Handbuch), der die Adresse für das Verständnis der Gebetseinheiten ist. Es hat in der islamischen Geschichte nie eine Zeit gegeben, in der die Gebete unterbrochen wurden. Selbst in den ersten Jahrhunderten, als es noch keine Hand- und Hadithbücher gab, verrichteten die Muslime ihre Gebete, indem sie an der Praxis teilnahmen, d. h. indem sie sich „<strong>mit den sich Verbeugenden verbeugten</strong>“, und sie empfanden keinen Mangel."
+    },
+    {
+      "type": "paragraph",
+      "text": "Darüber hinaus haben diejenigen, die diese Ansicht vertreten, die Aussage in Vers 4:101, dass das Gebet bei Gefahr durch Feinde <span class=\"pb\" data-p=\"576\"></span>verkürzt werden kann, so interpretiert, dass eine bestimmte Länge des Gebets (die Anzahl der Gebetseinheiten) bekannt ist und dass das Gebet in Zeiten der Gefahr kürzer als diese bekannte Länge sein kann. Zeki Bayraktar, der diese Ansicht verteidigt und besonders auf Vers 2:43 hinweist, erklärt: „<em>Könnte es einen Unterschied in der Anzahl der Gebetseinheiten zwischen unseren Gebeten und den Gebeten einer Person geben, die unserem Vorschlag folgt? Besteht zum Beispiel die Möglichkeit, dass diese Person 2 Gebetseinheiten oder 4 Gebetseinheiten des Abendgebetes anstelle von 3 Gebetseinheiten beten würde? Oder kann er 2 Gebetseinheiten des Mittagsgebets anstelle von 4 Gebetseinheiten beten? Natürlich kann er das nicht. Die Anzahl der Gebetseinheiten der Gemeinde, der er folgt (wie viele Gebetseinheiten sie verrichten), wird die Anzahl der Gebetseinheiten sein, die er verrichten wird. Auf der Grundlage welcher Informationen hat diese Person also die Anzahl der Gebetseinheiten gelernt und verrichtet ihre Gebete genau wie wir vom ersten Moment an? Durch einen Blick in die Katechismen/Handbücher? Durch die Hadithe? Oder nur durch den Befehl (die Formel) des Korans?... Dieses visuelle Material sind die Bilder und Bewegungen der Gläubigen, die seit Jahrhunderten fünfmal am Tag gemeinsam beten. Der Koran knüpft an diese Praxis der Gläubigen an, sozusagen für die Art und Weise, wie die Gebete verrichtet werden, und sagt, dass ihr die Art und Weise, wie die Gebete verrichtet werden, von dieser Praxis lernen sollt</em>“<sup class=\"fn-ref\"><a href=\"#fn-553\" id=\"fnref-553\">553</a></sup>"
+    },
+    {
+      "type": "paragraph",
+      "text": "Es gibt auch ein interessantes historisches Dokument, das diese Ansicht stützt. Zunächst sei noch einmal daran erinnert, dass der Koran feststellt, dass die Gemeinschaften, die den durch <span class=\"pb\" data-p=\"577\"></span>die Propheten vor dem Propheten Muhammad überlieferten religiösen Vorschriften unterworfen waren, ebenfalls beteten (siehe zum Beispiel: Koran 10:87, 11:87, 19:31, 31:17, 98:5). Nach dem oben erwähnten Dokument beteten die rabbinischen Juden, ein Zweig der Juden, 2 Gebetseinheiten am Morgen, 4 Gebetseinheiten am Nachmittag, 4 Gebetseinheiten am Mittag, 3 Gebetseinheiten am Abend und 1 Gebetseinheiten in der Nacht.<sup class=\"fn-ref\"><a href=\"#fn-554\" id=\"fnref-554\">554</a></sup> Darüber hinaus haben auch einige der christlichen Konfessionen (heutzutage meist nur noch von einigen Geistlichen praktiziert) die Tradition, die Gebetszeiten von verschiedenen Gebetseinheiten abhängig zu machen. Natürlich sind wir nicht in der Lage, die Richtigkeit der Informationen zu überprüfen, die das oben erwähnte historische Dokument über das rabbinische Judentum vermittelt; wenn jedoch dieses Dokument korrekt ist, ist es möglich, dass der Unterschied im Nachtgebet das Ergebnis einer falschen Überlieferung ist, aber auch das lässt sich nicht beweisen. Diejenigen, die dieses historische Dokument als ergänzenden Beweis betrachten, glauben, dass die Praxis des Gebets in seiner heutigen Form, basierend auf die Gebetseinheiten, die zur Zeit der ersten Offenbarungen an den Propheten praktiziert wurde, anerkannt wurde, als es „das Gebet“ (<em>al-salah</em>) genannt wurde, und dass die Muslime begannen, das Gebet in dieser Form mit dem Befehl „verrichte das Gebet“ zu verrichten, und dass später diejenigen, die an dieser täglichen Praxis mit dem Propheten teilnahmen (indem sie sich mit denen verbeugten, die sich verbeugten), diese gottesdienstliche Handlung sahen und sie ununterbrochen bis zum heutigen Tag fortführten."
+    },
+    {
+      "type": "paragraph",
+      "text": "Die Befürworter des zweiten Ansatzes vertreten die Auffassung, dass die koranischen Handlungen Stehen (<em>qiyam</em>), <span class=\"pb\" data-p=\"578\"></span>Verbeugung (<em>ruku</em>) und Niederwerfung (<em>sudschud</em>) bei jedem Gebet verpflichtend sind, dass aber die Anzahl der Handlungen, die verrichtet werden müssen, eine Praxis ist, die sich zur Regulierung der Gebete entwickelt hat. Mit anderen Worten, es ist nicht verpflichtend, eine bestimmte Anzahl von Gebetseinheiten zu verrichten, aber die aktuelle Anzahl der Gebetseinheiten, ist eine Tradition (<em>Sunna</em>) der Gemeinschaft (<em>Umma</em>), insbesondere für die Organisation der Gemeinschaftsgebete.<sup class=\"fn-ref\"><a href=\"#fn-555\" id=\"fnref-555\">555</a></sup> Die „<em>Sunna der Ummah</em>“ bezieht sich auf die Praktiken der muslimischen Gemeinschaft, die, obwohl sie nicht den im Koran festgelegten universellen Regeln und Prinzipien entsprechen, jedoch diesen dienen. So ist es kein allgemeiner Grundsatz des Korans, dass die Gebete eine bestimmte Anzahl von Gebetseinheiten haben müssen. Eine bestimmte Anzahl von Gebetseinheiten ist jedoch eine Praxis, die den gemeinsamen Gebeten der Muslime Ordnung verleiht. In dieser Hinsicht ist das Verrichten von Gebeten mit einer bestimmten Anzahl von Gebetseinheiten, auch wenn es nicht verpflichtend ist, eine Praxis, die der Einheit der Muslime, die ein universelles Prinzip aus der Sicht des Korans ist, und der Ordnung in den Gebeten, die sie gemeinsam verrichten, dient. Diesem Ansatz zufolge ist es zwar falsch zu sagen, dass es ein universelles koranisches Prinzip ist, dass die Gebete eine bestimmte Anzahl von Gebetseinheiten haben sollten, d. h. dass es verpflichtend ist, aber diese Praxis sollte beibehalten werden, weil sie einem universellen koranischen Prinzip dient. Die Tatsache, dass der Koran die Anzahl der Gebetseinheiten nicht erwähnt, wird als Beweis für diese Ansicht angesehen."
+    },
+    {
+      "type": "paragraph",
+      "text": "Die Befürworter dieser zweiten Ansicht verstehen auch die Aussage in Vers 4:101 so, dass die Gebete bei Gefahr durch Feinde verkürzt werden dürfen, als eine zeitliche Abkürzung, d. h. ein <span class=\"pb\" data-p=\"579\"></span>kürzeres Gebet als in solchen Fällen üblich, und nicht als eine Verkürzung der Gebete in Form von Gebetseinheiten. Die Formulierung „<em>la dschunahun</em>“ in Vers 4:102, die mit „<strong>Es ist keine Sünde für euch</strong>“ übersetzt wird, wird im Koran manchmal verwendet, um die Bedenken der Muslime zu zerstreuen. So wird beispielsweise in Vers 2:158 der Ausdruck „<em>la dschunahun</em>“ verwendet, um darauf hinzuweisen, dass diejenigen, die auf die große und kleine Pilgerfahrt (Hadsch und Umrah) gehen, die beiden Hügel Safa und Marwa besuchen dürfen. Auch ohne diesen Vers würde nichts die Muslime daran hindern, dieses Gebiet zu besuchen. Aber offensichtlich wurde der Ausdruck „<em>la dschunahun</em>“ verwendet, um die Sorgen der Muslime zu zerstreuen. Auch die Aussage, dass nichts dagegen spricht, wenn die Muslime das Gebet (<em>la dschunahun</em>) verkürzen, ist nach dieser Auffassung nicht deshalb falsch, weil das Gebet eine bestimmte Länge hat. Es gibt keinen solchen Vers, der die Länge festlegt. Es wurde jedoch gesagt, dass es nicht schadet, das Gebet im Kriegsfall zu verkürzen, denn im Falle einer Gefahr im Krieg könnten Muslime, die schnell beten, besorgt sein: „Haben wir das Gebet von Anfang an verworfen?“ Es wird gesagt, dass es nicht schadet, das Gebet im Kriegsfall zu verkürzen."
+    },
+    {
+      "type": "paragraph",
+      "text": "Selbst wenn dieser zweite Ansatz als richtig akzeptiert wird, sind wir der Meinung, dass solche Praktiken, die Ordnung in das Gebet bringen, beibehalten werden sollten, insbesondere bei gemeinsamen Gebeten, und dass die Regelungen bezüglich der Gebetseinheiten nicht zu einem Gegenstand unnötiger Diskussionen gemacht werden sollten.<sup class=\"fn-ref\"><a href=\"#fn-556\" id=\"fnref-556\">556</a></sup> Unabhängig davon, welche dieser <span class=\"pb\" data-p=\"580\"></span>beiden Ansichten akzeptiert wird, zeigt sich, dass die Art und Weise, wie die Gebete verrichtet werden, verstanden werden kann, ohne auf andere Quellen, wie Hadith- oder Handbücher als den Koran zurückzugreifen, und dass es falsch ist, dem Koran zahllose Buchbänden über die Gebete voranzustellen."
+    },
+    {
+      "type": "heading",
+      "text": "Die Gebetszeiten",
+      "plain": "Die Gebetszeiten",
+      "slug": "die-gebetszeiten"
+    },
+    {
+      "type": "paragraph",
+      "text": "Im Koran wird das Gebet als eine Pflicht mit festgelegten Zeiten beschrieben (Koran 4:103). Die Einhaltung der vorgeschriebenen Gebetszeiten ist essenziell. Vers 4:103 legt nahe, dass jedes Gebet innerhalb seiner bestimmten Zeit verrichtet werden muss. Wie in Vers 4:103 dargelegt, besteht die Erfüllung der Gebete als „rechtzeitige Verpflichtung“ nicht darin, die Gebete, die zu verschiedenen Zeiten verrichtet werden müssen, zu einem einzigen zusammenzufassen, sondern darin, diese Verpflichtung zu jeder Zeit zu erfüllen. Das Zusammenlegen von Gebeten (als „<em>al-dscham</em>“ bekannt), bei dem zwei Gebete in einer Gebetszeit zusammengelegt werden, findet im Koran keine Erwähnung oder Genehmigung. Ebenso gibt es im Koran keinen Begriff wie „Nachholgebet“ (<em>alqada</em>). Wenn Gott gewollt hätte, dass verpasste Gebete nachgeholt werden, hätte Er dies ähnlich wie bei den Fastentagen (Koran 2:184) angeordnet. Deshalb sollte niemand Menschen, die mit dem Beten beginnen wollen, in die Irre führen, indem er sagt: „Ihr müsst … so viele Gebete aus der Vergangenheit nachholen“. Eine Person, die ein Gebet absichtlich oder aus Nachlässigkeit versäumt, begeht eine Sünde und sollte aufrichtig bereuen. Die Gebetszeit darf nicht ohne triftigen Grund ungenutzt verstreichen. Selbst in Gefahrensituationen wird das Gebet nicht ausgelassen, <span class=\"pb\" data-p=\"581\"></span>wie in den Versen 4:101–103 beschrieben wird. In solchen Fällen betet eine Gruppe, während die andere Wache hält, und das Gebet wird verkürzt. Diese Verse zeigen die Wichtigkeit des Gebets innerhalb seiner vorgeschriebenen Zeit. Es ist eine klare Aussage des Korans, dass das Gebet zur rechten Zeit verrichtet werden muss."
+    },
+    {
+      "type": "paragraph",
+      "text": "Es gibt Meinungsverschiedenheiten darüber, ob die Gebetszeiten ohne Rückgriff auf Hadithe oder Rechtsbücher vollständig aus dem Koran abgeleitet werden können. Wenn die Aufmerksamkeit auf die Hunderte von Problemen gelenkt wird, die sich ergeben, wenn man versucht, die grundlegenden Gebote und Verbote des Islams mit Hilfe von Hadithen zu verstehen, denken einige Leute, dass sie durch die Erwähnung eines einzigen Themas, nämlich des Gebets, Tausende von Problemen in der Hadith-Literatur, die dem Koran und der Vernunft widersprechen, beseitigen würden und dass sie die Notwendigkeit beseitigen würden, ein koranzentriertes Verständnis des Islams anzunehmen. Während diejenigen, die ein Rechtsschulen- und Hadith-Verständnis annehmen, versuchen zu zeigen, dass der Koran unzureichend sei, indem sie angebliche aufzeigen, wie man bestimmte Fragen mit dem Koran nicht beantworten könnte, denken sie nie daran, dass sie sich zunächst an ihre eigene Nase fassen und die Hadithe selbstkritisch analysieren müssen. Wie wir bereits oben gesehen haben, musste kein Hadith- oder Handbuch konsultiert werden, um zu verstehen, wie die Gebete zu verrichten sind. In gleicher Weise werden wir zeigen, dass kein Hadith oder Handbuch erforderlich ist, um die Gebetszeiten zu verstehen. Damit wollen wir nicht bestreiten, dass diejenigen, die ein Koran-orientiertes Verständnis haben, unterschiedliche Ansichten über den Zeitpunkt der Gebete haben. Die Tatsache, dass es unterschiedliche Ansätze und Ansichten zu diesem Thema gibt, ändert nichts an der Tatsache, dass die <span class=\"pb\" data-p=\"582\"></span>Gebetszeiten ohne Bezugnahme auf Hadithe oder Handbücher verstanden werden können."
+    },
+    {
+      "type": "paragraph",
+      "text": "Außerdem scheinen diejenigen, die sagen, dass das Gebet aus den Hadithen und Handbüchern verstanden werden kann, sich der Widersprüche in den Hadithen und Handbüchern nicht bewusst zu sein. Zum Beispiel ist in einem Hadith Kamelfleisch die Gebetswaschung ungültig machen würde, und in einem anderen nicht; in einem Hadith ist es obligatorisch, die Hände beim Gebet zu binden, in einem anderen ist es obligatorisch, sie zu lösen. Das Rezitieren der <em>Sura al-Fatiha</em> (der erste Kapitel des Korans „die Eröffnende“) im Gebet, das in einer Rechtsschule als obligatorisch gilt, ist in einer anderen Rechtsschule nicht obligatorisch. Darüber hinaus gibt es solche Hadithe, die, wenn man sie akzeptiert, nicht sagen können, dass das Gebet fünfmal am Tag obligatorisch ist. Einem Hadith in <em>Abu Dawud</em>, einem der 6 Hadith Bücher <em>Kutub al-Sitta</em>, zufolge hätte Fudala zum Propheten gesagt, dass er beschäftigt sei und hätte um einen Ersatz für die fünf täglichen Gebete gebeten, und der Prophet hätte ihm gesagt, er solle das Morgen- und Mittagsgebet (<em>Fadschr</em> und <em>Asr</em>) verrichten.<sup class=\"fn-ref\"><a href=\"#fn-557\" id=\"fnref-557\">557</a></sup> Aber wie ist es möglich, dass der Prophet etwas aufhebt, das Gott zur Pflicht gemacht hat? Wer diesen Hadith liest, könnte denken, dass der Prophet Gebete, die freiwillig sind, ausfallen lassen kann, und dass deshalb die fünf täglichen Gebete freiwillig seien und zwei tägliche Gebete ausreichen würden. Wären die Hadithe die Quelle der Rechtsfindung und nicht der Koran, wäre eine solche Interpretation plausibler als die, dass der Prophet einzelne Gebete annulliert. Einem anderen Hadith zufolge betete Safwan bin Muattal, einer der Gefährten, das Morgengebet (<em>Fadschr</em>) nicht zur rechten Zeit, sondern immer dann, wenn er aufwachte. Als der Prophet dies <span class=\"pb\" data-p=\"583\"></span>erfuhr, hätte er angeblich gesagt: „<em>Bete es, wenn du aufwachst</em>“.<sup class=\"fn-ref\"><a href=\"#fn-558\" id=\"fnref-558\">558</a></sup> Eine solche Erlaubnis widerspricht jedoch sowohl dem Vers 4:103, der besagt, dass das Gebet zur rechten Zeit verpflichtend ist, als auch den Koranversen, die es anordnen, da es sich um eine Gebetszeit handelt, die durch den Namen Morgengebet (<em>Fadschr</em>) für verpflichtend erklärt wurde. Kurz gesagt, es gibt viele Aussagen in den Hadithen, die sowohl der gängigen Praxis der Ummah als auch dem Koran widersprechen."
+    },
+    {
+      "type": "paragraph",
+      "text": "Trotz zahlloser Meinungsverschiedenheiten zwischen den Rechtsschulen versuchen diejenigen, die sich an ein rechtsschulerischen Hadith-Verständnis klammern, der Botschaft des Korans zu entkommen, indem sie die viel geringeren Meinungsverschiedenheiten derjenigen vorzeigen, die einen koranzentrierten Ansatz verfolgen. Allerdings sind die Hadithe, wie wir bisher an vielen Beispielen gesehen haben, so vermischt, dass Wahrheit und Lüge nicht zu unterscheiden sind, und die Hadithbücher sind voll von reichlichen Hadithen, die dem Koran und der Vernunft widersprechen. Kurz gesagt, es ist nicht möglich, mit einem hadithzentrierten Ansatz Ergebnisse zu erzielen. Das Auftauchen einiger Unstimmigkeiten in Koran-orientierten Ansätzen sollte als ungenaue Interpretationen einiger derjenigen angesehen werden, die diesen Ansatz verfolgen. Die Abhilfe besteht darin, zwischen den verschiedenen Interpretationen zu wählen, die bei koran-zentrierten Ansätzen entstehen, und nicht darin, koran-zentrierte Ansätze aufzugeben. Da aus dem bisher Gesagten klar hervorgeht, dass es im Islam keine andere Rechtsquelle als den Koran gibt und dass die übrigen Quellen nicht zuverlässig sind, wenn es darum geht, universelle islamische Regeln zu bestimmen, können einige Verständnisunterschiede, die sich zwischen koranzentrierten Auffassungen <span class=\"pb\" data-p=\"584\"></span>ergeben können, keine Entschuldigung dafür sein, ein hadithzentriertes Verständnis des „Islam“ anzunehmen. Das koranzentrierte Verständnis des Islam ist das einzig mögliche Verständnis, da die einzige verlässliche Quelle der Koran ist. Obwohl es diejenigen gibt, die zu falschen Interpretationen kommen, indem sie den Koran als Ausgangspunkt nehmen, ist die Ausgangsquelle derjenigen, die zu diesen falschen Interpretationen kommen, immer noch richtig, lediglich ihre Interpretationen sind falsch. Das Hauptproblem bei dem Hadith-orientierten Ansatz ist die Unzuverlässigkeit der Urteilsquelle, die nicht behoben werden kann. Kurz gesagt, obwohl es ein wichtiger Schritt für ein koranzentriertes Verständnis ist, die Quelle des Urteils korrekt zu identifizieren, garantiert dieser Schritt nicht, dass jede Interpretation des Korans korrekt ist. Im Folgenden werden wir erklären, wie diejenigen mit einem Koranzentrierten Verständnis, ohne Bezugnahme auf Hadithe und Handbücher, die Gebetszeiten mit zwei verschiedenen Ansätzen verstehen. Wir werden auch die Unterschiede zwischen denjenigen erwähnen, die den zweiten dieser Ansätze akzeptieren. Die Bewertung dieser Ansätze überlassen wir Ihnen."
+    },
+    {
+      "type": "paragraph",
+      "text": "Nach dem ersten Ansatz haben die Muslime, denen befohlen wurde, „das Gebet“ (<em>al-salah</em>) zu verrichten, verstanden, was mit „dem Gebet“ gemeint war, einschließlich der Zeiten der Gebete. Das Gebet wurde in der Region Mekka seit der Zeit Abrahams praktiziert, und wie wir im Koran gesehen haben, wurde auch Juden und Christen das Gebet befohlen. Die frühen Muslime in Mekka und Medina wussten, was das Gebet ist, weil sie mit ihnen zu tun hatten. Diejenigen, die diesen Ansatz vertreten, erklären, dass sowohl die Anzahl der Gebetseinheiten und als auch die Zeiten der Gebete in der Bedeutung von „das Gebet“ enthalten sind. Ein zusätzlicher historischer Beweis dafür ist die Praxis der rabbinischen Juden, auf die wir bereits hingewiesen haben, die fünfmal <span class=\"pb\" data-p=\"585\"></span>am Tag beten; und zwar am Morgen, Mittag, Nachmittag, Abend und in der Nacht.<sup class=\"fn-ref\"><a href=\"#fn-559\" id=\"fnref-559\">559</a></sup> Außerdem wurde der Vers „<strong>verbeugt euch mit den sich Verbeugenden</strong>“ (Koran 2:43) als Beweis für diese Ansicht angeführt. Demnach lernen die Muslime die Gebetszeiten, indem sie mit denen beten, die bereits beten. Die Adresse für das Erlernen der Gebetszeiten sind nicht die Hadith oder Handbücher, sondern die täglichen Gebete, die in der Gemeinde verrichtet werden. Schon in den ersten Jahrhunderten, als es noch keine Hadith- und Handbücher gab, lernten die Menschen die Form der Gebete und die Anzahl der Gebetszeiten nach dieser Formel. Es gibt keine andere Praxis im Islam wie das Gebet, das jeden Tag als eine kollektive Praxis verrichtet wird, und diejenigen, die an dieser Praxis teilnehmen, lernen sowohl die Gebetszeiten als auch die Gebetseinheiten. Kurz gesagt, die Argumente für den obligatorischen Charakter der Gebetseinheiten in der gegenwärtigen gemeinsamen Praxis basieren auf der gleichen logischen Grundlage wie die Argumente für den obligatorischen Charakter der fünf Gebetszeiten in der gegenwärtigen gemeinsamen Praxis. Wenn Sie diese Ansicht über die Gebetseinheiten noch einmal untersuchen, wird es Ihnen helfen, die Ansicht, dass das Gebet in fünf Zeiten verpflichtend ist, besser zu verstehen."
+    },
+    {
+      "type": "paragraph",
+      "text": "Gemäß dem zweiten Ansatz erklären die Verse im Koran die Anzahl der Gebete. Unter denen, die diesen Ansatz verfolgen, gibt es jedoch unterschiedliche Meinungen über die Anzahl der Zeiten, die aus dem Koran zu verstehen sind. Es gibt diejenigen, die sagen, dass die Koranverse die Gebete als fünfmal beschreiben, und es gibt diejenigen, die sagen, dass die Koranverse die Gebete als drei oder zwei Mal beschreiben. Natürlich können nicht alle drei dieser <span class=\"pb\" data-p=\"586\"></span>Ansätze richtig sein. Aber in jedem Fall können die Gebetszeiten verstanden werden, ohne auf Hadithe und Handbücher zurückzugreifen; und was getan werden sollte, ist, die vorgebrachten Behauptungen aufrichtig zu bewerten, und ein Streit, der hier entstanden ist, kann nicht als Beweis dafür angeführt werden, dass es für die Gebetszeiten andere Quellen als den Koran benötigt. In ähnlicher Weise wurden in den Koran Kommentaren derjenigen, die ein rechtsschulisches Hadith-Verständnis der Bedeutung der strittigen Verse annehmen, unterschiedliche Ansichten geäußert. Wir werden diese Frage hier nicht im Detail untersuchen, aber um Sie zu informieren, werden wir die Aufmerksamkeit auf die Punkte lenken, in denen die Streitigkeiten verwickelt sind, und Sie auffordern, für die Bewertung der Frage zu recherchieren.<sup class=\"fn-ref\"><a href=\"#fn-560\" id=\"fnref-560\">560</a></sup> Die Verse, an denen sich die Kontroversen am meisten entzünden, sind die folgenden:"
+    },
+    {
+      "type": "verse",
+      "text": "„Haltet die Gebete ein. Und auch das <em>wusta</em> (mittlere/beste) Gebet.“",
+      "reference": "Koran 2:238"
+    },
+    {
+      "type": "verse",
+      "text": "„Verrichte das Gebet an beiden Enden des Tages und nahe (<em>zulafan</em>) der Nacht. Die Schönheiten beseitigen die Hässlichkeiten.“",
+      "reference": "Koran 11:114"
+    },
+    {
+      "type": "verse",
+      "text": "„Verrichte das Gebet beim Neigen der Sonne bis zur Dunkelheit der Nacht. Und bei der Bündelung (<em>koranan</em>) des <span class=\"pb\" data-p=\"587\"></span>Morgens (<em>fadschr</em>). Die Bündelung (<em>koranan</em>) zur Zeit des Morgens (<em>fadschr</em>) kann bezeugt werden.“",
+      "reference": "Koran 17:78"
+    },
+    {
+      "type": "verse",
+      "text": "„O ihr, die ihr glaubt! Lasst diejenigen, die unter eurer Autorität stehen, und diejenigen, die noch nicht das Alter der Pubertät erreicht haben, dreimal um eure Erlaubnis bitten. Vor dem Morgengebet (<em>fadschr</em>), am Mittag, wenn ihr euch auszieht, und nach dem Abendgebet (<em>ischa</em>). Das sind drei (Zeiten, in denen die) Blößen von euch (sichtbar sein könnten).“",
+      "reference": "Koran 24:58"
+    },
+    {
+      "type": "paragraph",
+      "text": "Diejenigen, die aus dem Koran verstehen, dass es 5 tägliche Gebete gibt, haben den Vers 11:114 wie folgt interpretiert: Die Aussage „<strong>an beiden Enden des Tages</strong>“ bedeutet die Gebete in den beiden Teilen des Tages, und durch das „<strong>und</strong>“ im Vers, müssen noch mindestens drei Gebete in der Nacht hinzukommen. Dies liegt daran, dass der Ausdruck „<em>zulafan</em>“ die Mehrzahl von mindestens drei ausdrückt (es sei daran erinnert, dass es im Arabischen für die Dualität, genauso wie für die Einzahl, spezielle Ausdrücke gibt). Diejenigen, die diese Ansicht vertreten, verstehen den Ausdruck „<strong>beim Neigen der Sonne</strong>“ (<em>li-duliki al-schamsi</em>) in 17:78 im Allgemeinen so, dass er die Bewegung der Sonne von ihrem Zenit am Mittag nach Westen meint, d. h. den Beginn des Mittagsgebets, wie es heute üblich ist. Nach diesem Ansatz wird der Ausdruck „<strong>beim Neigen der Sonne</strong>“ als Beginn des ersten Gebets zu beiden Seiten des Tages verstanden, und das Gebet „<strong>an beiden Enden des Tages</strong>“ muss in der Zeit bis zum Abendgebet verrichtet werden. Der arabische Ausdruck „<strong>Nacht</strong>“ (<em>lail</em>) bezieht sich auf die Zeit, in der es keine Sonne gibt. Somit sind die anderen drei Zeiten das Morgengebet vor Sonnenaufgang, das Abendgebet <span class=\"pb\" data-p=\"588\"></span>nach Sonnenuntergang und das Nachtgebet während des Rests der Nacht. In Vers 2:238 wird das „<em>wusta</em>“ (mittlere) Gebet als das Nachmittagsgebet und das „<em>ischa</em>“ in 24:58 als das Nachtgebet aufgefasst. Die Befürworter dieser Ansicht stützen ihre Argumentation darauf, dass, wenn der Ausdruck des Verses „<strong>verbeugt euch mit den sich Verbeugenden</strong>“ angewendet wird, diese fünf Mal verrichtet werden."
+    },
+    {
+      "type": "paragraph",
+      "text": "Diejenigen, die der Ansicht sind, dass aus dem Koran hervorgehe, dass drei Gebetszeiten verpflichtend seien, interpretieren Vers 11:114 wie folgt: Der Ausdruck „<strong>an beiden Enden des Tages</strong>“ bezieht sich auf die beiden äußeren Enden des Tages, das heißt, es ist von den Gebeten am Morgen und am Abend die Rede. Das „<strong>und</strong>“ im Vers wird als eine Erklärung des vorangegangenen Ausdrucks verstanden. (Im Koran wird die Konjunktion „und (<em>wa</em>)“ häufig verwendet, um eine vorhergehende Aussage zu erklären, ohne dass sie einen zusätzlichen Punkt hinzufügt – eine bekannte Eigenschaft der arabischen Sprache.) Demnach bezieht sich der Ausdruck „<strong>nahe der Nacht</strong>“ auf diese beiden Gebetszeiten in den Abschnitten des Tages, die an die Nacht angrenzen, also wieder auf das Morgen- und Abendgebet. Durch Vers 2:238, der das „mittlere Gebet“ erwähnt, kommt eine dritte Gebetszeit hinzu, sodass die Gesamtanzahl der Gebetszeiten auf drei festgelegt wird. In Vers 17:78 wird der Ausdruck „<strong>beim Neigen der Sonne</strong>“ als Beginn des mittleren Gebets verstanden, das bis zum Eintritt des Abendgebets andauert. Das Ende des Abendgebets wird im selben Vers durch die Worte „<strong>bis zur Dunkelheit der Nacht</strong>“ (<em>ila ghasak al-lail</em>) verstanden. Der Ausdruck „<strong>bei der Bündelung (</strong><em>koranan</em><strong>) des Morgens (</strong><em>fadschr</em><strong>)</strong>“ in 17:78 bezeichnet den Zeitpunkt, an dem das Licht am Horizont erscheint und das Gebet beginnt. Dieses Zeitfenster endet mit dem Sonnenaufgang, was die Zeit für das Morgen-Gebet ist. (Es ist bemerkenswert, dass das Wort „<em>Koran</em>“ <span class=\"pb\" data-p=\"589\"></span>hier als „Bündelung“ interpretiert wird, eine der möglichen Bedeutungen des Begriffs.) Gemäß dieser Interpretation ergeben sich aus Vers 11:114 zwei Gebetszeiten, und eine dritte wird durch Vers 2:238 hinzugefügt. Vers 17:78 gibt die Zeitfenster für diese drei Gebete an. Diejenigen, die diese Sichtweise vertreten, führen zusätzlich an, dass im Koran drei spezifische Gebetsbezeichnungen erwähnt werden: das Morgen-Gebet (<em>salat al-fadschr</em>) und das Abend-Gebet (<em>salat al-ischa</em>) in Vers 24:58. (Der Begriff „isha“ bezeichnet im klassischen Arabisch die frühen Nachtstunden direkt nach Sonnenuntergang, welche die Zeit des Abendgebets (Maghrib) einschließen. In der heutigen Praxis wird „<em>salat al-ischa</em>“ jedoch oft nur als das Nachtgebet verstanden. Diese Unterscheidung bleibt eine der strittigen Fragen in dieser Diskussion.) Die Anhänger dieser Ansicht sehen die Praxis der Schiiten, die fünf Gebete in drei Gebetszeiten zusammenzulegen (<em>dscham</em>), sowie die Zulässigkeit in einigen sunnitischen Rechtsschulen, Gebete bei besonderen Umständen wie Regen zusammenzulegen, als Überreste der ursprünglichen Drei-Gebetszeiten-Praxis. Sie betonen, dass der Koran zwar die zeitliche Pflicht der Gebete hervorhebt, jedoch nirgendwo erlaubt, die Gebete eines Zeitfensters in einem anderen nachzuholen oder zusammenzulegen (<em>dscham</em>)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Diejenigen, die der Ansicht sind, dass aus dem Koran hervorgehe, dass zwei Gebetszeiten verpflichtend seien, stimmen mit denjenigen überein, die drei Gebetszeiten als verpflichtend ansehen, wenn sie Vers 11:114 dahingehend interpretieren, dass das Morgen- und Abendgebet verpflichtend ist. Im Unterschied zu ihnen verstehen sie jedoch den Ausdruck „<strong>beim Neigen der Sonne</strong>“ (<em>li-duluki al-schamsi</em>) in Vers 17:78 als das Sinken der Sonne unter den Horizont, was den Beginn des Abendgebets markiert. Das Ende des Abendgebets leiten sie aus demselben Vers ab, wo es heißt „<strong>bis zur Dunkelheit der Nacht</strong>“ (<em>ila ghasaki al-lail</em>). <span class=\"pb\" data-p=\"590\"></span>Der Ausdruck „<strong>bei der Bündelung (</strong><em>koranan</em><strong>) des Morgens (</strong><em>fadschr</em><strong>)</strong>“ bezieht sich ihrer Meinung nach auf den Zeitpunkt, an dem das Licht am Horizont erscheint und das Morgen-Gebet beginnt. Dieses Zeitfenster endet mit dem Sonnenaufgang. Nach dieser Ansicht beschreibt Vers 17:78 die Zeitrahmen der beiden in Vers 11:114 genannten Gebete, nämlich des Morgen- und des Abendgebets. Ein Punkt, in dem sich diese Sichtweise von den anderen unterscheidet, betrifft den Ausdruck „<em>wusta</em>“ (mittlere/beste) im Vers 2:238. Die Verfechter dieser Ansicht sind der Meinung, dass „<em>wusta</em>“ keinen bestimmten Gebetszeitpunkt bezeichnet, sondern vielmehr das Beten als „beste Methode“ charakterisiert. (Diejenigen, die „<em>wusta</em>“ als einen spezifischen Gebetszeitpunkt interpretieren, sind sich darüber uneinig, welche Gebetszeit genau gemeint ist.) Ein Einwand gegen diese Ansicht ist, dass der Ausdruck „die Gebete“ (<em>al-salawat</em>) in „<strong>haltet die Gebete ein</strong>“ (Koran 2:238) auf mindestens drei Gebete hinweist (es sei daran erinnert, dass im Arabischen spezielle Ausdrücke für die Dualität existieren). Daher kann es nicht nur zwei Gebetszeiten geben. Die Befürworter der Zwei-Gebete-Theorie entgegnen diesem Einwand, dass der Ausdruck „die Gebete“ (<em>al-salawat</em>) allgemein das Verrichten von Gebeten beschreibt und sich nicht speziell auf die Anzahl der Gebetszeiten innerhalb eines einzigen Tages bezieht."
+    },
+    {
+      "type": "paragraph",
+      "text": "Einige dieser Ansätze sind zweifellos falsch, doch im Kontext dieses Buches ist es vorrangig von Bedeutung, dass ersichtlich wird, wie das Gebet ohne Rückgriff auf Hadith- oder Handbücher verstanden und praktiziert werden kann. Wir sind der Meinung, dass eine ernsthafte Reflexion erforderlich ist, um zu ermitteln, welcher Ansatz der richtige ist. Um Ihnen eine Grundlage für diese Bewertung zu bieten, haben wir diese unterschiedlichen Auffassungen kurz zusammengefasst. Unserer Einschätzung nach sollte für das gemeinschaftliche Gebet in den Moscheen der Gebetsruf <span class=\"pb\" data-p=\"591\"></span>(<em>adhan</em>) fünfmal täglich erfolgen, und die fünf täglichen Gebete sollten in den Moscheen in der derzeit praktizierten Anzahl der Gebetseinheiten verrichtet werden. Keine der in den Diskussionen aufgeworfenen Punkte deutet darauf hin, dass es ein Problem mit der aktuellen Praxis des Gebets gäbe. Einige der vorgeschlagenen Ansichten betrachten bestimmte Elemente als verpflichtend, während andere dieselben Aspekte als Tradition der Gemeinschaft (<em>Sunna der Ummah</em>) ansehen. Selbst wenn sie nicht verpflichtend sind, stellen sie dennoch eine von der Ummah entwickelte Praxis dar, die dazu dient, die von Gott im Koran festgelegten Ziele zu erreichen und Ordnung zu schaffen. Die Bewertung, welche Bestandteile verpflichtend sind und welche als Tradition der Gemeinschaft gelten, überlassen wir Ihnen. Es ist jedoch wichtig, darauf hinzuweisen, dass durch die derzeitige Praxis der fünf täglichen Gebete die in den folgenden Koranversen erwähnte Anweisung, Gott zu bestimmten Zeiten zu gedenken, in Form des Gebets erfüllt wird:"
+    },
+    {
+      "type": "verse",
+      "text": "„So lobpreise Gott, wenn ihr den Abend erreicht und wenn ihr den Morgen erreicht. Ihm gebührt die Verherrlichung in den Himmeln und auf der Erde, am Ende des Tages, und wenn ihr den Mittag erreicht.“",
+      "reference": "Koran 30:17-18"
+    },
+    {
+      "type": "verse",
+      "text": "„So ertrage standhaft, was sie sagen, und verherrliche deinen Herrn mit Lobpreisung vor dem Aufgang und Untergang der Sonne.“",
+      "reference": "Koran 50:39"
+    },
+    {
+      "type": "verse",
+      "text": "„Und in (einem Teil) der Nacht, da wirf dich vor Ihm nieder und verherrliche Ihn lange Zeit.“",
+      "reference": "Koran 76:26"
+    },
+    {
+      "type": "paragraph",
+      "text": "<span class=\"pb\" data-p=\"592\"></span>Durch das Verrichten der fünf Gebete werden somit auch die in diesen Versen erwähnten Zeiten der Verherrlichung (<em>tasbih</em>) und Lobpreisung (<em>hamd</em>) erfüllt. Wie bei allen Themen sollte es der Gemeinschaft frei stehen, über die verpflichtenden Aspekte des Gebets zu diskutieren. Jedoch sollte klar sein, dass die in den rechtsschulerisch- und hadithzentrierten Ansätzen vorhandenen zahllosen Widersprüche zum Koran und zur Vernunft nicht durch Verweis auf die Frage der Gebetspraxis verschleiert werden können. Diese Methode ist mittlerweile überholt. Die hier dargelegten Ausführungen zeigen, wie das Gebet ohne Rückgriff auf Hadith- oder Handbücher verstanden werden kann, indem verschiedene Sichtweisen präsentiert werden. Die Gemeinschaft hat in Bezug auf das Gebet keine Probleme, aber wir glauben, dass diejenigen, die den Koran sowie die Hadith- und Rechtsschulbücher aufrichtig lesen, erkennen werden, wo die tatsächlichen Probleme liegen."
+    },
+    {
+      "type": "heading",
+      "text": "Das Freitagsgebet / Das Versammlungs-Gebet",
+      "plain": "Das Freitagsgebet / Das Versammlungs-Gebet",
+      "slug": "das-freitagsgebet-das-versammlungs-gebet"
+    },
+    {
+      "type": "paragraph",
+      "text": "Das Gebet am Freitag (Versammlung) wird im Koran 62:9-11 wie folgt beschrieben:"
+    },
+    {
+      "type": "verse",
+      "text": "„Ihr, die ihr glaubt! Wenn am Freitag (Versammlungstag) zum Gebet gerufen wird, dann eilt zum Gedenken an Gott (<em>dhikr</em>) und lasst den Handel ruhen. Das ist besser für euch, wenn ihr es nur wüsstet. Und wenn das Gebet beendet ist, dann zerstreut euch im Land, sucht nach Gottes Huld und gedenkt Gottes viel, auf dass ihr Erfolg habt. <span class=\"pb\" data-p=\"593\"></span>Wenn sie jedoch einen Handel oder eine Unterhaltung sehen, laufen sie dorthin und lassen dich stehen. Sprich: Das, was bei Gott ist, ist besser als Unterhaltung und Handel. Und Gott ist der beste Versorger.“",
+      "reference": "Koran 62:9–11"
+    },
+    {
+      "type": "paragraph",
+      "text": "Aus diesen Versen lassen sich folgende Punkte ableiten:"
+    },
+    {
+      "type": "list",
+      "items": [
+        {
+          "label": "1.",
+          "text": "Am Freitag (<em>dschumu´a</em> ist sowohl die besondere Bezeichnung eines Wochentages als auch der Ausdruck für das Zusammenkommen) soll bei der Einladung zum Gebet die Arbeit niedergelegt und die Teilnahme am Gebet priorisiert werden."
+        },
+        {
+          "label": "2.",
+          "text": "Aus Vers 62:10 wird deutlich, dass die Menschen nach dem Gebet wieder ihren Beschäftigungen nachgehen können. Daraus lässt sich schließen, dass der Freitag nicht zwangsläufig ein Ruhetag sein muss. Es bleibt jedoch jedem überlassen, diesen Tag als Feiertag zu bestimmen."
+        },
+        {
+          "label": "3.",
+          "text": "Der Koran zeigt, dass auch andere Gebete in Gemeinschaft verrichtet werden können. Das Freitagsgebet ist jedoch das einzige Gebet, bei dem die gemeinsame Verrichtung verpflichtend ist."
+        },
+        {
+          "label": "4.",
+          "text": "Für die Teilnahme am Freitagsgebet gibt es keine geschlechtsspezifische Einschränkung. Selbst in zahlreichen Hadithen wird berichtet, dass Männer und Frauen zur Zeit des Propheten und der ersten vier Kalifen gemeinsam das Freitagsgebet verrichteten. Die späteren Behauptungen, das Freitagsgebet sei nur für Männer verpflichtend, sind Erfindungen späterer Epochen."
+        },
+        {
+          "label": "5.",
+          "text": "Der Vers 62:9 besagt, dass zu Gottes Gedenken versammelt wird, wenn zum Gebet gerufen wird. Die Ausführungen <span class=\"pb\" data-p=\"594\"></span>während der Versammlung sollten im Einklang mit den Lehren des Koran stehen und frei von Aberglauben, politischen Agenden oder Themen sein, die von der Erinnerung an Gott ablenken."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Das Gebet im Krieg",
+      "plain": "Das Gebet im Krieg",
+      "slug": "das-gebet-im-krieg"
+    },
+    {
+      "type": "paragraph",
+      "text": "In den Versen 4:101-103 wird das Gebet im Kriegszustand erklärt. Wenn die Gefahr besteht, dass die Ungläubigen den Muslimen Schaden zufügen, ist es nach diesen Versen nicht schlimm, ein kurzes Gebet zu verrichten. Bei einer solchen Gefahr verrichtet die eine Gruppe das Gebet und die andere wartet ab. Dann kommt die andere Gruppe und betet, während die erste Gruppe wartet. Diejenigen, die das Gebet verrichten, legen ihre Waffen nicht nieder und verschaffen den Ungläubigen keinen Vorteil (die Waffen können bei Regen, Krankheit, Verletzung usw. niedergelegt werden). Wenn das Gebet beendet ist, wird Gottes gedacht. In normalen Zeiten gibt es keine Notwendigkeit für solche Dinge (Abwechseln, keine Waffen niederlegen) und das Gebet wird ordnungsgemäß verrichtet. Die Tatsache, dass der Koran eine Erklärung für das „Gebet im Krieg“ liefert, ist ein wichtiger Beweis dafür, dass der Koran Erklärungen liefert, wenn es nötig ist, selbst in Situationen, die im Leben selten vorkommen."
+    },
+    {
+      "type": "heading",
+      "text": "Gebet bei Furcht",
+      "plain": "Gebet bei Furcht",
+      "slug": "gebet-bei-furcht"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ein weiterer Beleg dafür, dass der Koran die notwendigen Einzelheiten über das Gebet enthält, ist, dass er sogar erklärt, wie wir das Gebet in „Situationen der Angst“ verrichten sollen. Der Koran gibt sogar Einzelheiten darüber an, was in solchen Situationen zu tun ist, mit denen ein sehr kleiner Prozentsatz der muslimischen Bevölkerung in einer sehr begrenzten Anzahl von Fällen in ihrem <span class=\"pb\" data-p=\"595\"></span>Leben konfrontiert wird. Was bei Furcht oder Angst zu tun ist, wird im Koran wie folgt beschrieben:"
+    },
+    {
+      "type": "verse",
+      "text": "Wenn ihr Angst habt, betet im Gehen oder im Reiten. Und wenn ihr wieder in Sicherheit seid, dann gedenkt Gott, wie Er euch gelehrt hat, was ihr nicht wusstet.",
+      "reference": "Koran 2:239"
+    },
+    {
+      "type": "paragraph",
+      "text": "Wie man sieht, verlangt der Koran, dass die Gebete selbst in schwierigen Situationen pünktlich verrichtet werden sollen. Wäre es nicht notwendig, die Gebete pünktlich zu verrichten, könnte man die Gebete nachholen, nachdem die beängstigende Situation vorüber ist, und es wäre nicht nötig, auf solche Situationen einzugehen. Wenn kein Wasser zur Verfügung steht, sollte man die Trockungwaschung mit Erde durchführen, die die gesamte Erdoberfläche bedeckt; wenn man Angst hat, sollte man sich auf einem Gefährt oder zu Fuß an Gott gedenken. In diesem Fall kann man, auch wenn die Gebetsbewegungen nicht exakt ausgeführt werden können, das Gebet mit Bewegungen verrichten, die diesen Bewegungen nahe kommen. Aber das Gebet wird nicht aufgegeben. Der Koran stellt das Gebet als eine gottesdienstliche Handlung dar, die niemals aufgegeben werden kann, und indem er Vorkehrungen für entschuldigte Umstände trifft, stellt er sicher, dass das Gebet auch in diesen Situationen fortgesetzt wird und somit die Beständigkeit des Gedenken an Gott (<em>dhikr</em>), das die Grundlage des Gebets ist."
+    },
+    {
+      "type": "heading",
+      "text": "Das Totengebet",
+      "plain": "Das Totengebet",
+      "slug": "das-totengebet"
+    },
+    {
+      "type": "paragraph",
+      "text": "Im Koran findet sich keine direkte Aufforderung wie „Verrichtet das Totengebet“. Dennoch gibt es in Sure 9:84 eine Anweisung, <span class=\"pb\" data-p=\"596\"></span>dass kein Totengebet für diejenigen verrichtet werden soll, die dem Propheten und dem Islam gegenüber Verrat begangen haben. Ebenso wird erwähnt, dass man nicht an deren Gräbern verweilen oder sie durch Rituale unterstützen soll. Daraus ergibt sich, dass für Muslime, die keinen Verrat begangen haben, ein Totengebet verrichtet werden kann und dass es erlaubt ist, ihre Gräber zu besuchen und eine Gedenkfeier abzuhalten. Es ist im Einklang mit dem Geist des Islam, den Verstorbenen durch Gebete, das Verrichten von Gottesdiensten, das Lesen des Korans und das Sprechen von Bittgebeten zu ehren und sie würdevoll zu bestatten. Solche tief verwurzelten und etablierten islamischen Traditionen fortzuführen, ist zweifellos schön. Jedoch sollten Praktiken, die auf unkorrekten Konzepten wie „Befragung im Grab“, „Strafe im Grab“ oder „Belohnungen im Grab“ basieren, aus den Trauerritualen entfernt werden. Diese Konzepte haben keine Grundlage im Koran. Ebenso sollte die Praxis, dem Verstorbenen nach seinem Tod Belehrungen oder sogenannte „t<em>alqin</em>“ zu geben, um ihm bei einer hypothetischen Befragung im Grab zu helfen, aufgegeben werden.<sup class=\"fn-ref\"><a href=\"#fn-561\" id=\"fnref-561\">561</a></sup> Solche Rituale widersprechen den Prinzipien des Koran. Es sei angemerkt, dass auch innerhalb der sunnitischen Tradition Kritik an der Praxis des „<em>talqin</em>“ geäußert wurde, auch wenn diese weit verbreitet ist."
+    },
+    {
+      "type": "paragraph",
+      "text": "Es ist essenziell, dass Praktiken, die den Koran widerspiegeln und im Einklang mit seinem Geist stehen, beibehalten werden. Aspekte, die dem Koran oder seinem Geist widersprechen, sollten hingegen aufgegeben und korrigiert werden. Pflichten, die im <span class=\"pb\" data-p=\"597\"></span>Koran vorgeschrieben sind, sollten mit äußerster Sorgfalt ausgeführt werden, damit diese oft betonte gottesdienstliche Handlung in der besten Weise vollzogen wird. Nicht verpflichtende Praktiken, die das Ziel fördern, Gott häufig zu gedenken und Gottesdienste der Muslime geordnet und ohne Verwirrung durchzuführen, können weiterhin als „Sitte der Gemeinschaft“ (Sunna der Ummah) bewahrt werden – jedoch ohne sie als verpflichtend darzustellen."
+    },
+    {
+      "type": "heading",
+      "text": "Das Fasten im Koran",
+      "plain": "Das Fasten im Koran",
+      "slug": "das-fasten-im-koran"
+    },
+    {
+      "type": "paragraph",
+      "text": "Zur Zeit des Propheten war klar, was mit „Fasten/Abstinenz“ gemeint war, als der Begriff verwendet wurde.<sup class=\"fn-ref\"><a href=\"#fn-562\" id=\"fnref-562\">562</a></sup> Dies geht aus Vers 2:183 hervor: „<strong>Das Fasten ist euch vorgeschrieben, wie es denen vor euch vorgeschrieben war.</strong>“ Gleichzeitig liefert der Koran in den folgenden vier Versen alle notwendigen Details zum Fasten. Jeder, der diese Verse liest, wird alle wesentlichen Informationen zum Fasten finden. Die Verse lauten: <strong>„O ihr, die ihr glaubt! Das Fasten ist euch vorgeschrieben, wie es denen vor euch vorgeschrieben war, auf dass ihr euch hütet. Während einer bestimmten Anzahl von Tagen. Doch wer von euch krank ist oder sich auf einer Reise befindet, soll eine entsprechende Anzahl anderer Tage fasten. </strong><span class=\"pb\" data-p=\"598\"></span><strong>Diejenigen, die es bewältigen können, müssen einen Bedürftigen speisen als Ersatz. Wer aus freien Stücken Gutes tut, für den ist es besser. Und dass ihr fastet, ist besser für euch, wenn ihr es nur wüsstet. Der Monat Ramadan ist es, in dem der Koran als Rechtleitung für die Menschen herabgesandt worden ist und als eine klare Botschaft und Unterscheidungsmerkmal. Darum, wer immer von euch diesen Monat erlebt, soll in ihm fasten. Wer aber krank ist oder sich auf einer Reise befindet, soll eine entsprechende Anzahl anderer Tage fasten. Gott will für euch Erleichterung, und keine Erschwernis. Er will, dass ihr die Anzahl der Tage vollendet und Ihn als Größten preist, da Er euch rechtgeleitet hat; auf dass ihr dankbar sein möget. … Es ist euch erlaubt, euch euren Frauen in den Nächten des Fastens zu nähern. Sie sind euch ein Kleid, und ihr seid ihnen ein Kleid. Gott weiß, dass ihr euch selbst Unrecht tut. Er wandte sich euch gnädig zu und vergab euch. Verkehrt also mit ihnen und trachtet nach dem, was Gott für euch bestimmt hat. Esst und trinkt, bis sich der weiße Faden vom schwarzen Faden für euch zu unterscheiden ist. Dann fastet bis zur Nacht. …“ </strong><em>Koran 183-185 und 187</em>"
+    },
+    {
+      "type": "paragraph",
+      "text": "Aus diesen vier Versen lernen wir das Fasten. Wenn wir diese Verse analysieren, verstehen wir alle Informationen über das Fasten im Ramadan. Im Lichte dieser Verse kann das Fasten wie folgt erklärt werden:"
+    },
+    {
+      "type": "list",
+      "items": [
+        {
+          "label": "1.",
+          "text": "Das Fasten ist ein Gebot des Koran und eine Verpflichtung, die uns auferlegt wurde (2:183)."
+        },
+        {
+          "label": "2.",
+          "text": "<span class=\"pb\" data-p=\"599\"></span> Das Fasten wird im Monat Ramadan eingehalten (2:185). Der Ramadan ist der Monat, in dem der Koran offenbart wurde, und das Fasten findet in den Tagen dieses Monats statt. Der Ramadan ist ein Monat des Mondkalenders und richtet sich nach den Bewegungen des Mondes. Der Beginn dieses Monats, der mit dem Erscheinen des Mondes beginnt, kann mit astronomischen Berechnungen Monate oder sogar Jahre im Voraus bestimmt werden. Heutzutage wissen wir den Beginn dieses Monats durch Kalender bereits lange im Voraus und müssen den Mond nicht mehr beobachten. Sogar viel kritischere Himmelsereignisse wie Mond- und Sonnenfinsternisse können heute Jahre im Voraus vorhergesagt werden, einschließlich des besten Beobachtungsortes. Wie alle Monate des Mondkalenders dauert der Ramadan entweder 29 oder 30 Tage.<sup class=\"fn-ref\"><a href=\"#fn-563\" id=\"fnref-563\">563</a></sup>"
+        },
+        {
+          "label": "3.",
+          "text": "<span class=\"pb\" data-p=\"600\"></span> Diejenigen, die aufgrund von Krankheit oder Reisen nicht fasten können, müssen an anderen Tagen fasten, die der Anzahl der Tage entsprechen, an denen sie nicht fasten können (2:184). Andererseits ist die Vorstellung, dass jemand, der sein Fasten absichtlich bricht, 61 Tage hintereinander fasten müsse, eine Erklärung von erfundenen Hadithen und Rechtsschulen; eine solche Erklärung wird im Koran nicht erwähnt. Im Koran wird das Fasten als Wiedergutmachung für einige Versäumnisse im Zusammenhang mit der Pilgerfahrt (Koran 2:196), das Fasten für zwei Monate ohne Unterbrechung für diejenigen, die unschuldig einen Tod verursachen, wenn sie die Verpflichtung zur Befreiung von Sklaven nicht erfüllen können (Koran 4:92), das Fasten als Sühne für diejenigen, die Eide brechen (Koran 5:89), das Fasten als Sühne für diejenigen, die gegen das Jagdverbot während der Pilgerfahrt verstoßen (Koran 5:95), und das zweimonatige ununterbrochene Fasten für diejenigen, die der Verpflichtung zur Befreiung von Sklaven nicht nachkommen können, als Strafe dafür, dass sie sich von ihren Frauen scheiden ließen und sie zu nahen Verwandten wie ihre Mütter erklärten, wie es in der Vorislamischen Zeit (<em>Dschahiliyya</em>) üblich war (Koran 58:4). Wie man sieht, sagt der Koran, dass das Fasten als Strafe für einige Vergehen als Belohnung für das Vergehen im Diesseits <span class=\"pb\" data-p=\"601\"></span>gehalten werden sollte. Würde Gott, Der all diese Angaben gemacht hat, nicht auch erklären, ob es eine Strafe für das absichtliche Brechen des Fastens gibt, z. B. zwei Monate lang ununterbrochen zu fasten? Wenn nicht, dann gibt es keine solche Strafe. Wenn wir die oben genannten Vergehen untersuchen, ist die Wahrscheinlichkeit, dass einige dieser Vergehen auftreten, geringer als eins zu tausend. Ist es möglich, dass Gott, der Dinge offenbart hat, die eine so geringe Eintrittswahrscheinlichkeit im menschlichen Leben haben, sie nicht offenbart hätte, wenn es eine solche Strafe für etwas gäbe, das eine viel höhere Eintrittswahrscheinlichkeit hat, wie z. B. Menschen, die absichtlich das Fasten brechen?"
+        },
+        {
+          "label": "4.",
+          "text": "Diejenigen, die trotz der Fähigkeit nicht fasten, müssen eine Sühne leisten, indem sie eine bedürftige Person mit einer Mahlzeit versorgen (2:184). Dabei sollte jeder berücksichtigen, was in 2:186 erwähnt wird: dass Gott uns nahe ist. Diese Nähe Gottes sollte ein wesentlicher Faktor bei der eigenen Einschätzung und Entscheidung sein. Zudem sollte die Aussage am Ende von 2:185 – „<strong>Und dass ihr fa-</strong> stet, ist besser für euch, wenn ihr es nur wüsstet“ – bei der Überlegung, ob gefastet wird, berücksichtigt werden."
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        {
+          "label": "5.",
+          "text": "Die Zeit des Fastens beginnt mit dem Morgengrauen. In diesem Zusammenhang wird die im Vers 2:187 erwähnte Trennung zwischen einem schwarzen und einem weißen Faden erläutert. Einige führen aus, dass das Morgengrauen aufgrund des weißen Lichtstreifens, der sich horizontal am Horizont erstreckt und wie ein Faden erscheint, als „<em>hayt</em>“ (Faden) bezeichnet wird. Andere interpretieren die Aussage dahingehend, dass sich die Dunkelheit der Nacht so <span class=\"pb\" data-p=\"602\"></span>weit auflöst, dass ein schwarzer Faden von einem weißen Faden unterschieden werden kann, was im Vers gemeint sei. In Vers 2:187 wird der Ausdruck „<strong>für euch</strong>“ verwendet, was darauf hinweist, dass der Beginn des Fastens nicht mit dem ersten Erscheinen des Lichts am Horizont beginnt, sondern mit einem späteren Zeitpunkt, wenn die Dunkelheit weiter zurückgegangen ist. Dies legt nahe, dass es gemäß den meisten heute verwendeten Kalendern beim Beginn des Fastens eine gewisse Flexibilität geben könnte.<sup class=\"fn-ref\"><a href=\"#fn-564\" id=\"fnref-564\">564</a></sup> Die Dauer des Fastens reicht bis zum Einbruch der Nacht. Im Koran wird der Tag in zwei Teile unterteilt: Nacht und Tag. Das Ende des Fastens ist der Beginn der Nacht, also das Ende des Tages (2:187)."
+        },
+        {
+          "label": "6.",
+          "text": "Während der Fastennächte ist es erlaubt, mit dem Ehepartner intim zu sein (2:187). Der Ausdruck „<strong>sich nähern</strong>“ wird hier in einem übertragenen Sinn verwendet und meint Geschlechtsverkehr. Die Erwähnung in diesem Vers könnte darauf hindeuten, dass es zuvor Unsicherheiten oder Missverständnisse darüber gab, ob Intimität während der Fastennächte erlaubt ist. Mit dieser Aussage im Vers wird diese Angelegenheit geklärt."
+        },
+        {
+          "label": "7.",
+          "text": "<span class=\"pb\" data-p=\"603\"></span> Der Vers 2:187 erlaubt es auch, bis zum Beginn der Fastenzeit zu essen und zu trinken. Die drei wesentlichen Elemente des Fastens – Verzicht auf Nahrung, Getränke und Geschlechtsverkehr – definieren das Fasten und gelten nur während der Fastenzeit. Nach dem Einbruch der Nacht, dem Ende der Fastenzeit, sind diese Aktivitäten wieder erlaubt. Behauptungen, dass Blutspenden, Erbrechen, Fluchen oder Streiten das Fasten brechen, sind unbegründet. Das Fasten wird ausschließlich durch Essen, Trinken und Geschlechtsverkehr beeinflusst. Alles andere hat keinen Einfluss darauf."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Die Pflichtabgabe (Zakat) im Koran",
+      "plain": "Die Pflichtabgabe (Zakat) im Koran",
+      "slug": "die-pflichtabgabe-zakat-im-koran"
+    },
+    {
+      "type": "paragraph",
+      "text": "Im Koran wird die Verwendung von Besitz und materiellen Gütern im Wege Gottes mit Begriffen wie „<em>zakat</em>“, „<em>sadaqa</em>“ und „<em>infaq</em>“ beschrieben, sowie durch Ausdrücke wie „Speist die Bedürftigen“ (z. B. im Koranvers 74:44) oder durch Hinweise, wie man sich mit Besitz für den Weg Gottes bemühen soll (z. B. im Koran 4:95). Diese Praxis, die in zahlreichen Versen des Korans betont wird, gehört zu den grundlegenden Pflichten im Islam."
+    },
+    {
+      "type": "paragraph",
+      "text": "Das Wort „<em>infaq</em>“, das im Koran verwendet wird, bedeutet im Deutschen „ausgeben“ oder „von seinen Besitztümern geben“. Ähnlich wie das deutsche Wort „ausgeben“ umfasst „<em>infaq</em>“ sowohl Ausgaben auf dem Wege Gottes als auch andere Ausgaben. Allerdings wird dieser Begriff im Koran meist im Sinne von Ausgaben auf dem Wege Gottes verwendet. In einigen Fällen wird er auch für Ausgaben verwendet, die darauf abzielen, vom Wege Gottes abzuhalten (siehe Koran 8:36). Der Begriff „<em>sadaqa</em>“ hingegen wird ausschließlich für Ausgaben auf dem Wege Gottes verwendet. Das Wort „<em>sadaqa</em>“ leitet sich vom arabischen <span class=\"pb\" data-p=\"604\"></span>„Bestätigung“ ab. Es könnte darauf hinweisen, dass Ausgaben auf dem Wege Gottes ein Beweis für den Glauben an die Gebote Gottes und deren Bestätigung sind. Der Begriff „<em>zakat</em>“ hingegen bedeutet „Reinigung“. Im Koran wird das Wort „<em>zakat</em>“ im Sinne von „Reinigung durch das Geben von Besitz“ verwendet. So zeigt der Vers 9:103, dass das Geben von <em>sadaqa</em> eine Form von „<em>zakat</em>“, also Reinigung, darstellt. Der „<em>zakat</em>“ kann als umfassender Begriff verstanden werden, der „<em>sadaqa</em>“ einschließt. Nach dieser Auffassung umfasst „<em>zakat</em>“ die Reinigung durch das Geben aus allen verfügbaren Ressourcen. Neben dem Geben von materiellen Gütern könnte man seine Pflicht zur „<em>zakat</em>“ auch dadurch erfüllen, dass man sein Wissen mit anderen teilt. Der Koran gibt klare Anweisungen, an wen man aus seinen Besitztümern und materiellen Werten geben soll:"
+    },
+    {
+      "type": "verse",
+      "text": "„geben an die Nächsten, die Waisen, die Bedürftigen, die Reisenden, die sich um ihre Freiheit bemühen ...“",
+      "reference": "Koran 2:177"
+    },
+    {
+      "type": "verse",
+      "text": "„Sie fragen dich, was sie ausgeben sollen. Sprich: Das, was ihr an Gutem ausgebt, ist für die Eltern, die Nächsten, die Waisen, die Bedürftigen und die Reisenden. Und was immer ihr an Gutem tut, so weiß ich darüber Bescheid.“",
+      "reference": "Koran 2:215"
+    },
+    {
+      "type": "verse",
+      "text": "„Für die Armen, die sich dem Weg Gottes widmen, die nicht in der Lage sind, auf der Erde zu wandeln. Aus ihrer Zurückhaltung heraus glauben die Unwissenden, sie seien reich. Doch du erkennst sie an ihren Gesichtern. Sie verlangen nicht aufdringlich von den Menschen. Und was immer ihr an Gutem ausgebt, in der Tat, Gott weiß darüber Bescheid.“",
+      "reference": "Koran 2:273"
+    },
+    {
+      "type": "verse",
+      "text": "<span class=\"pb\" data-p=\"605\"></span>„Die Almosen (<em>sadaqa</em>) sind für die Armen, die Bedürftigen, die sie einsammeln, die, deren Herzen gewonnen werden sollen, für diejenigen, die ihre Freiheit verloren haben, die Verschuldeten, für den Weg Gottes und für die Reisenden, als Verpflichtung von Gott. Gott ist Allwissend und Allweise.“",
+      "reference": "Koran 9:60"
+    },
+    {
+      "type": "paragraph",
+      "text": "Wie wir aus den Versen erkennen können, wird deutlich, an wen die Ausgaben, die wir im Namen Gottes tätigen, gehen sollten. Die Frage, wie viel man geben soll, wird im Koran folgendermaßen beantwortet:"
+    },
+    {
+      "type": "verse",
+      "text": "„Sie fragen dich, was sie ausgeben sollen. Sprich: ‚Das, was ihr entbehrt (wörtlich vergibt).‘ So macht Gott euch die Zeichen klar, auf dass ihr nachdenkt.“",
+      "reference": "Koran 2:219"
+    },
+    {
+      "type": "paragraph",
+      "text": "Wie ersichtlich, beantwortet der Koran die Frage, was ausgegeben werden soll. Diese Antwort ist weder „ein Vierzigstel“ noch ein anderer zahlenmäßiger Prozentsatz. Betrachtet man die Betonung im Koran auf das Vermeiden von Anhäufung von Reichtum und auf die Großzügigkeit, so kann man sagen, dass die Abgabe eines Vierzigstels des Vermögens weit hinter dem Ideal des Korans zurückbleibt. Im Koran wurden viele bedeutende islamische Gebote, wie das „Häufige Gedenken an Gott“ und das „Vermeiden von Verschwendung“, ohne konkrete Zahlen als verpflichtend festgelegt. So gibt es beispielsweise keine Formulierungen wie „Es ist verpflichtend, Gott 500 Mal am Tag zu gedenken“ oder „Die <span class=\"pb\" data-p=\"606\"></span>Verwendung von mehr als einem halben Liter Wasser für die rituelle Waschung ist Verschwendung“. Ebenso kann gesagt werden, dass dies auch für die Pflichtabgabe (<em>zakat</em>) gilt."
+    },
+    {
+      "type": "paragraph",
+      "text": "Wenn viele Menschen die Übersetzungen des Korans untersuchen, stoßen sie darauf, dass das, was wir als „<strong>Das, was ihr entbehrt (wörtlich vergibt)</strong>“ übersetzt haben, in anderen Übersetzungen als „das, was übrig bleibt“ wiedergegeben wird. Das Wort, das wir als „<strong>entbehrt (wörtlich vergibt)</strong>“ übersetzt haben und das in anderen Übersetzungen als „das, was übrig bleibt“ übersetzt wurde, lautet „<em>al-afw</em>“. Wer möchte, kann die Verse untersuchen, in denen dieses Wort vorkommt: Koran 2:187; 3:152, 155; 5:95, 101; 9:43; 42:40; 64:14. In den Übersetzungen werden Sie feststellen, dass dieses Wort in denselben Versen mit „verzeihen“ und „vergeben“ übersetzt wird. Aus dem Vers ergibt sich, dass wir „das, was uns von Herzen gegeben wird, das, was wir freiwillig bereitstellen“, geben sollen. Dieser Vers zeigt, dass die Ausgaben aus freien Stücken gemacht werden sollten. Daher ist es ein Irrtum zu glauben, dass jemand durch wirtschaftliche Verpflichtungen wie Steuern oder Mehrwertsteuer abgibt, auch seinen „<em>infaq</em>/<em>sadaqa</em>/<em>zakat</em>“ leisten würde. Der Großteil dieser Zahlungen wird vom Staat im Austausch für die von ihm erbrachten Dienstleistungen erhoben; der Staat bietet dafür Straßen, Sicherheit und ähnliche Dienstleistungen an. Geld, das auf diese Weise gezahlt wird, unterscheidet sich nicht von Geld, das für eine Jacke, Käse oder Hausverwaltungskosten ausgegeben wird. Ausgaben auf dem Weg Gottes hingegen sind das Ergebnis freiwilliger Zustimmung und keine Gegenleistung für eine Dienstleistung. Wirtschaftliche Verpflichtungen, Zwangsabgaben und Zahlungen für Dienstleistungen können hier nicht eingeschlossen werden. Aus Vers 9:60 erkennen wir, dass die Pflichtabgabe <em>Zakat</em> auch an „die Verantwortlichen“ gezahlt werden kann. Dieser Ausdruck zeigt, dass die <span class=\"pb\" data-p=\"607\"></span>Pflichtabgabe an Personen gezahlt werden kann, die von Einrichtungen wie Stiftungen, Vereinen oder dem Staat beauftragt wurden. Doch die an „die Verantwortlichen“ gezahlte Pflichtabgabe muss an die im Koran genannten Empfänger weitergegeben werden. Gelder, die von Verantwortlichen für Ausgaben eines Vereins für Seeotter oder eines Staates für das Elektrizitätsnetz gesammelt werden, gelten nicht als Pflichtabgabe. Der Koran enthält viele Verse, die uns auffordern, aus unseren Besitztümern und den uns von Gott gegebenen Gaben zu spenden. Im Koran wird Geiz verurteilt und betont, dass wir aus den Gaben Gottes im Sinne Gottes verwenden sollen. Der Koran erlaubt Privateigentum, verlangt aber von den Gläubigen, mit dem Bewusstsein, dass alle Gaben letztlich Gott gehören, durch ihre Spenden soziale Gerechtigkeit herzustellen."
+    },
+    {
+      "type": "paragraph",
+      "text": "In den Rechtsschulen wurden neben den im Koran nicht erwähnten Maßstäben für die Pflichtabgabe auch Vorschriften geäußert, wie beispielsweise: „Wenn ein Vermögen mindestens ein Jahr bei einer Person bleibt, muss <em>Zakat</em> gezahlt werden.“ In einigen Rechtsschulen, die sich als sunnitisch bezeichnen, wurde so weit gegangen, dass jemand, der kurz vor Ablauf eines Jahres sein Geld seiner Ehefrau schenkt (um es später zurückzunehmen), von der Pflicht, <em>Zakat</em> zu zahlen, befreit sein soll, und dass es zulässig sei, die Verpflichtung zur Zahlung der <em>Zakat</em> jedes Jahr durch eine solche Transaktion zu umgehen. Heutzutage halten viele Inhaber großer Konzerne ihr Geld jedoch nicht ein Jahr lang an einem Ort, sondern verwenden es ständig als Kapital in ihren Geschäften. Betrachtet man Prinzipien wie „Ein Schuldner zahlt keine <em>Zakat</em>“ oder „Von Produktionsmitteln wird keine <em>Zakat</em> erhoben“, die nicht im Koran stehen, ergibt sich folgendes Bild: Kreditfinanzierte Unternehmer oder Fabrikanten, deren Produktionsmittel ihre Fabriken sind, würden nahezu keine <em>Zakat</em> zahlen, während <span class=\"pb\" data-p=\"608\"></span>ein Landwirt bei der Ernte seiner Produkte ein Zehntel als <em>Zakat</em> geben müsste. Laut einer weiteren Auslegung der Rechtsschulen wird für ein Fahrzeug keine <em>Zakat</em> erhoben. Dies bedeutet, dass jemand mit einem Luxusfahrzeug im Wert von Millionen keine <em>Zakat</em> zahlen würde, während jemand, der zehn Kilogramm Tomaten erntet, davon ein Kilogramm abgeben müsste. Die Beseitigung der Flexibilität, die der Koran bietet, ist ebenso wenig akzeptabel wie Auslegungen, die dazu führen, dass eine Pflicht des Korans durch verfälschte Erläuterungen ignoriert wird. Auch die sogenannten „hila al-schar’iyya“ (rechtliche List / gesetzliche Umgehung), die darauf abzielen, die <em>Zakat</em> Pflicht zu umgehen, können nicht toleriert werden. Die verheerenden Folgen solcher Praktiken sind offensichtlich. Der Koran hat, wie bei anderen Themen, auch klar und vollständig erklärt, wie wir unser Vermögen verwenden und wem wir helfen sollen. Der Koran lehrt uns, dass die Armen ein Recht an unserem Vermögen haben (Koran 70:24-25), und erklärt, dass wir durch Almosen (<em>Sadaqa</em>) dieses Recht den Armen zukommen lassen und uns dadurch reinigen (<em>Zakat</em> leisten). Wer sein Vermögen im Sinne Gottes verwendet, wird nicht vergessen, dass Gott der wahre Besitzer des Vermögens ist. Er wird alle entsprechenden Verse des Korans berücksichtigen und diese vom Islam stark betonte Pflicht erfüllen. Die Anhäufung von Geld durch Gier, die zu einer Ungleichheit der sozialen Gerechtigkeit führt, wird vom Islam keineswegs positiv bewertet."
+    },
+    {
+      "type": "verse",
+      "text": "„Ihr Gläubigen! Viele der Rabbiner und Mönchen verzehren das Vermögen der Menschen auf betrügerische Weise und halten sie vom Weg Gottes ab.“",
+      "reference": "Koran 9:34"
+    },
+    {
+      "type": "paragraph",
+      "text": "<span class=\"pb\" data-p=\"609\"></span>Unter Berücksichtigung der Aussage im obigen Vers 9:34 sollten wir darauf achten, dass unsere Pflichtabgabe nicht an betrügerische Geistliche gelangt und nicht ihren Täuschungen zum Opfer fällt. Diese Pflicht sollte jeder gemäß seinen eigenen finanziellen Möglichkeiten erfüllen:"
+    },
+    {
+      "type": "verse",
+      "text": "„Wer über reichliche Mittel verfügt, soll davon spenden. Und wem der Unterhalt eingeschränkt wurde, der gebe nur soviel, was Gott ihm gewährt hat.“",
+      "reference": "Koran 65:7"
+    },
+    {
+      "type": "paragraph",
+      "text": "Dass Reichtum nur unter einer begrenzten Anzahl von Menschen zirkuliert und nicht zu den Armen gelangt, ist die Ursache für viele Übel und Probleme auf der Welt und steht im Widerspruch zu den Idealen des Korans:"
+    },
+    {
+      "type": "verse",
+      "text": "„... damit diese Güter nicht ausschließlich unter den Reichen von euch zirkulieren. …“",
+      "reference": "Koran 59:7"
+    },
+    {
+      "type": "paragraph",
+      "text": "Eine Person sollte sowohl in guten als auch in schlechten Zeiten spenden:"
+    },
+    {
+      "type": "verse",
+      "text": "„diejenigen, die sowohl in Zeiten des Überflusses als auch in Zeiten der Not ausgeben...“",
+      "reference": "Koran 3:134"
+    },
+    {
+      "type": "paragraph",
+      "text": "Aus folgendem Vers verstehen wir, dass der geeignetste Zeitpunkt für die Pflichtabgabe der ist, wenn die Ernte eingeholt wird:"
+    },
+    {
+      "type": "verse",
+      "text": "<span class=\"pb\" data-p=\"610\"></span>„... Esst von ihren Früchten, wenn sie Früchte tragen, und gebt zum Zeitpunkt der Ernte ihren Pflichtanteil ...“",
+      "reference": "Koran 6:141"
+    },
+    {
+      "type": "paragraph",
+      "text": "Gott erklärt, dass unsere Ausgaben, die wir für Seine Zufriedenheit tätigen, sowohl offen als auch verborgen erfolgen können, wobei er die verborgene Gabe bevorzugt:"
+    },
+    {
+      "type": "verse",
+      "text": "„... und von dem, was Wir ihnen als Versorgung gegeben haben, spenden sie im Verborgenen und im Offenkundigen ...“",
+      "reference": "Koran 13:22"
+    },
+    {
+      "type": "verse",
+      "text": "„Wenn ihr die Almosen (<em>sadaqa</em>) öffentlich gebt, so ist das gut, doch wenn ihr sie den Armen heimlich gebt, so ist das besser für euch.“",
+      "reference": "Koran 2:271"
+    },
+    {
+      "type": "paragraph",
+      "text": "Im Koran wird betont, dass Ausgaben für die Zufriedenheit Gottes nicht aus anderen Motiven wie Angeberei erfolgen und die Gebergabe nicht mit Vorwürfen oder Belästigungen verbunden sein sollte:"
+    },
+    {
+      "type": "verse",
+      "text": "„Diejenigen, die ihren Besitz auf Gottes Weg ausgeben und hierauf dem, was sie ausgegeben haben, weder Vorwürfe noch Kränkungen nachfolgen lassen, die haben ihren Lohn bei ihrem Herrn. Keine Furcht soll über sie kommen, noch sollen sie traurig sein. Ein freundliches Wort und Vergebung sind besser als ein Almosen, dem Kränkung folgt. Gott ist reichlich gebend und nachsichtig. <span class=\"pb\" data-p=\"611\"></span>O ihr Gläubigen! Macht eure Almosen nicht durch Vorwürfe und Kränkungen zunichte, wie es derjenige tut, der aus Augendienerei vor den Menschen und ohne an Gott und den Jüngsten Tag zu glauben, seinen Besitz ausgibt. …“",
+      "reference": "Koran 2:262–264"
+    },
+    {
+      "type": "paragraph",
+      "text": "Zusätzlich im Vers 2:267 wird verdeutlicht, dass nur von gutem Besitz gespendet werden soll, während es verpönt ist, Abstoßendes zu geben. Der Koran lehrt die Wohlhabenden, dass in ihrem Besitz ein Recht der Armen liegt und der wahre Eigentümer des Reichtums Gott ist:"
+    },
+    {
+      "type": "verse",
+      "text": "„Ihr werdet niemals die Güte erlangen, solange ihr nicht von dem ausgibt, was ihr liebt. Und was immer ihr ausgibt, Gott weiß es gewiss.“",
+      "reference": "Koran 3:92"
+    },
+    {
+      "type": "paragraph",
+      "text": "Das Ausgeben des eigenen Besitzes auf Gottes Wegen und die Fürsorge für die Bedürftigen sind wiederholt betonte und essentielle Akte des Gottesdienstes, die auch in früheren Offenbarungen vorkamen. Der Koran fordert die Gläubigen auf, bevor der Tod naht und Reue ohne Rückkehr bleibt, auf Gottes Wegen zu spenden:"
+    },
+    {
+      "type": "verse",
+      "text": "„Und gebt von dem, was Wir euch an Versorgung gegeben haben, bevor der Tod zu einem von euch kommt und ihr sagt: ‚Mein Herr, würdest Du mir doch Aufschub gewähren, damit ich Almosen gebe und zu den Rechtschaffenen gehöre!‘“",
+      "reference": "Koran 63:10"
+    },
+    {
+      "type": "heading",
+      "text": "<span class=\"pb\" data-p=\"612\"></span>Die Pilgerfahrt (Hadsch) im Koran",
+      "plain": "Die Pilgerfahrt (Hadsch) im Koran",
+      "slug": "die-pilgerfahrt-hadsch-im-koran"
+    },
+    {
+      "type": "paragraph",
+      "text": "Die Pilgerfahrt (<em>Hadsch</em>) wird im Koran in den Versen 2:158, 2:189, 2:196, 2:198–200, 2:203, 3:97, 5:1–2, 5:95–97, 9:3 und 22:25–29 beschrieben. Mekka, wo der Prophet Muhammad den Koran erstmals verkündete, ist der zentrale Ort der Pilgerfahrt, da hier die Kaaba, das bedeutendste Merkmal, steht. Die Kaaba genoss bei Juden, Christen und selbst bei Götzendienern gleichermaßen Respekt. Mekka war ein zentraler Treffpunkt der unterschiedlichen Völker für die Pilgerfahrt (<em>Hadsch</em>), den Handel, kulturellen Austausch und Diskussionen. In dieser Umgebung war der Begriff „<em>Hadsch</em>“ allgemein bekannt und die erwähnte Verwendung des bestimmten Artikels „<em>al-Hadsch</em>“ im Koran zeigt, dass es sich um ein bekanntes Ritual handelte. Obwohl die Pilgerfahrt keine tägliche Praxis wie das Gebet ist, handelt es sich wie beim Gebet um eine gemeinschaftlich durchgeführte Handlung, die durch Teilnahme und Beobachtung erlernt werden kann. Der Koran verdeutlicht diese religiöse Pflicht vollständig, ohne dass hierfür zusätzliche Erklärungen aus anderen Quellen erforderlich wären. Sollten Missverständnisse bezüglich der Pilgerfahrt bestehen, so sollten diese anhand des Korans korrigiert werden. Im Lichte der Koranverse lässt sich die Pilgerfahrt wie folgt zusammenfassen:"
+    },
+    {
+      "type": "heading",
+      "text": "1. Bedeutung und Verpflichtung der Pilgerfahrt",
+      "plain": "1. Bedeutung und Verpflichtung der Pilgerfahrt",
+      "slug": "1-bedeutung-und-verpflichtung-der-pilgerfahrt"
+    },
+    {
+      "type": "paragraph",
+      "text": "Das Wort „<em>Hadsch</em>“ bedeutet wörtlich „beabsichtigen, disputieren, argumentieren“. Im Kontext des Koran beschreibt es einen Besuch der Kaaba in einem bestimmten Zeitrahmen und unter bestimmten Bedingungen. In Vers 3:97 wird erläutert, dass die Pilgerfahrt eine Verpflichtung (wörtl. Gottes Recht) für jene ist, die dazu in der Lage sind. Die Definition von „Fähigkeit“ wurde von den <span class=\"pb\" data-p=\"613\"></span>Rechtsschulen eingeschränkt interpretiert, doch im Koran wird dies offengelassen, um den individuellen Umständen gerecht zu werden. Diese Fähigkeit kann körperlicher, finanzieller oder logistischer Natur sein. Jeder Gläubige soll im Wissen um Gottes Allwissenheit selbstbewusst und gewissenhaft beurteilen, ob er die Voraussetzungen für die Pilgerfahrt erfüllt."
+    },
+    {
+      "type": "heading",
+      "text": "2. Die historische Verankerung der Pilgerfahrt",
+      "plain": "2. Die historische Verankerung der Pilgerfahrt",
+      "slug": "2-die-historische-verankerung-der-pilgerfahrt"
+    },
+    {
+      "type": "paragraph",
+      "text": "Die Pilgerfahrt reicht bis in die Zeit des Propheten Abraham zurück (Koran 22:26–27). Bei der Kaaba ist die Stätte Abraham´s und liegen klare Zeichen Gottes (Koran 3:97). Die Menschen Mekkas, die die Kaaba hüteten, kannten die <em>Hadsch</em> und ihre Bedeutung. Der Koran korrigierte die entstellten Praktiken der Polytheisten und stellte die monotheistische Natur der Pilgerfahrt gemäß der Tradition Abrahams wieder her."
+    },
+    {
+      "type": "heading",
+      "text": "3. Der Zeitraum der Pilgerfahrt",
+      "plain": "3. Der Zeitraum der Pilgerfahrt",
+      "slug": "3-der-zeitraum-der-pilgerfahrt"
+    },
+    {
+      "type": "paragraph",
+      "text": "In Vers 2:197 wird beschrieben, dass die Pilgerfahrt in den „bekannten Monaten“ stattfindet. Die Verwendung des arabischen Plurals „Monate“ (im Gegensatz zum Dual) zeigt, dass die <em>Hadsch</em> über einen Zeitraum von mindestens drei Monaten möglich ist. Derzeit wird die Pilgerfahrt jedoch auf einen kurzen Zeitraum beschränkt (das Aufzwingen des Aufenthalts am Berg Arafat an einem einzigen Tag), was zu großen Menschenmassen, gefährlichen Gedrängen und vielen Todesfällen führt."
+    },
+    {
+      "type": "paragraph",
+      "text": "Darüber hinaus gibt es eine große Zahl von Menschen, die sich als Pilger bewerben, in Warteschlangen stehen und <span class=\"pb\" data-p=\"614\"></span>ihre Pilgerfahrt nicht antreten können. In Anbetracht der Tatsache, dass die Transportmöglichkeiten einfacher geworden sind und die Zahl der Muslime in der Welt zugenommen hat, ist es verständlich, dass viele Menschen nicht in der Lage sein werden, diesen obligatorischen Gottesdienst zu verrichten, auch wenn sie sich in den kommenden Jahren bewerben. Eine Erweiterung der <em>Hadsch</em> auf mehrere Monate, wie es der Koran nahelegt, würde diese Probleme lösen, was aber im Gegensatz zu den Rechtsschulen steht. Gott hat diese Flexibilität vorgesehen und keine unzumutbare Pflicht auferlegt. Das Ignorieren dieser Möglichkeit führt dazu, dass viele Gläubige die Pilgerfahrt entweder nicht durchführen können oder dabei unnötigem Leid ausgesetzt werden."
+    },
+    {
+      "type": "paragraph",
+      "text": "Seit der Zeit Abrahams findet die Pilgerfahrt in den „bekannten Monaten“ statt, wie es in Vers 2:197 des Korans erwähnt wird. Ähnlich wie beim Begriff „Frühling“, der allgemein die Monate März, April und Mai umfasst, wurden die Monate der Pilgerfahrt zur Zeit der Offenbarung des Korans eindeutig verstanden. Doch auch dieses Thema blieb nicht von Verzerrungen der Rechtsschulen verschont. Heutzutage herrscht leider Unklarheit darüber, welche Monate konkret gemeint sind. Nach der Mehrheit der Rechtsschulen beziehen sich die „Monate der Pilgerfahrt“ auf die arabischen Monate Schawwal, Dhu l-Qaʿda und die ersten zehn Tage des Dhu l-Hiddscha. Einige interpretieren dies jedoch als die vollständigen drei Monate. Der Korankommentator Muhammad Izzat Darwaza hingegen argumentiert, dass die drei heiligen Monate – Dhu l-Qaʿda, Dhu l-Hiddscha und Muharram – die Monate der Pilgerfahrt darstellen. Diejenigen, die die Pilgerfahrt auf wenige <span class=\"pb\" data-p=\"615\"></span>Tage beschränken, akzeptieren zwar, dass das Eintreten in den Weihezustand (<em>Ichram</em>, wie in Punkt 6 erläutert) auch in den vorangehenden Monaten möglich ist, behaupten jedoch, dass die Pilgerfahrt in diesen Monaten nicht abgeschlossen werden kann. Diese Sichtweise widerspricht jedoch der koranischen Beschreibung, dass die Pilgerfahrt in „bekannten Monaten“ stattfindet. Zudem widerspricht die von den meisten Rechtsschulen vertretene Dauer von „zwei Monaten und zehn Tagen“ der Tatsache, dass die heiligen Monate mindestens drei umfassen, wie im Koran beschrieben. Interessanterweise erwähnt der Koran in 2:234, in der auch die „bekannten Monate“ der Pilgerfahrt erwähnt werden, dass die Trauerzeit für verwitwete Frauen „vier Monate und zehn Tage“ beträgt. Die ausdrückliche Erwähnung von „zehn Tagen“ zeigt, dass der Koran bei Bedarf genaue Zeitangaben macht. Während die koranische Beschreibung der Pilgerfahrt mindestens drei Monate umfasst, erscheint es als offensichtlicher Fehler, diese Dauer auf „zwei Monate und zehn Tage“ zu reduzieren."
+    },
+    {
+      "type": "paragraph",
+      "text": "Um dieses Problem zu lösen, ist es wichtig, die Aussagen des Koran zu den „geschützten Monaten“ gemeinsam zu betrachten.<sup class=\"fn-ref\"><a href=\"#fn-565\" id=\"fnref-565\">565</a></sup> Die bekannten Monate der Pilgerfahrt fallen mit den geschützten Monaten zusammen, in denen Krieg verboten ist. Dieses Verbot erleichtert die Durchführung der Pilgerfahrt. Die Völker um die Kaaba herum respektierten das Kriegsverbot in den geschützten Monaten und ermöglichten so die Pilgerfahrt. Obwohl spätere Generationen von Polytheisten unter den Nachkommen Abrahams die Tradition der geschützten Monate manipulierten, hiel<span class=\"pb\" data-p=\"616\"></span>ten sie an diesem Verbot fest, da es auch ihren Handelsinteressen diente. Die Pilgerfahrt war daher nicht nur eine religiöse, sondern auch eine soziale und wirtschaftliche Institution, die durch die Beachtung der geschützten Monate unterstützt wurde. (Dies wird auch in den Versen 8:34–35 deutlich, die beschreiben, wie die Polytheisten sich als Erben der Kaaba sahen.)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Aus Vers 2:194, der über die geschützten Monate spricht, sowie aus der Erwähnung der Pilgerfahrt zwei Verse später, lässt sich eine Verbindung zwischen den geschützten Monaten und der Pilgerfahrt herstellen. Auch die Hervorhebung in Vers 2:217, dass das Kämpfen in den geschützten Monaten eine schwere Sünde ist, und die Erwähnung von Hindernissen, die den Zugang zur „geschützten Gebetsstätte“ (<em>Masdschid al-Haram</em>) verhindern, zeigen diesen Zusammenhang.<sup class=\"fn-ref\"><a href=\"#fn-566\" id=\"fnref-566\">566</a></sup> In Vers 5:2 werden ebenfalls die geschützten Monate und der Weihezustand (<em>Ichram</em>) der Pilgerfahrt gemeinsam genannt. Ähnlich verbindet Vers 5:97 die geschützten Monate mit der Kaaba, die während der Pilgerfahrt besucht wird. Aus diesen Versen wird deutlich, dass die bekannten Monate der Pilgerfahrt mit den geschützten Monaten identisch sind. Die Unverletzlichkeit dieser Monate steht also in direktem Zusammenhang mit der Pilgerfahrt."
+    },
+    {
+      "type": "paragraph",
+      "text": "Es erscheint widersprüchlich, dass in vielen Schriften die Verbindung der geschützten Monate mit der Pilgerfahrt erwähnt wird, die geschützten Monate jedoch nicht mit den Pilgerfahrt Monaten gleichgesetzt werden. Wenn die <span class=\"pb\" data-p=\"617\"></span>geschützten Monate die Durchführung der Pilgerfahrt erleichtern sollen, warum sollten diese Monate dann nicht gleichzeitig die Pilgerfahrt Monate sein? In den meisten Quellen werden die Monate Dhu l-Qaʿda, Dhu l-Hiddscha, Muharram und Radschab als geschützte Monate genannt. Während die ersten drei Monate zusammenhängend sind, steht der Monat Radschab isoliert da. Nach unserer Einschätzung kann der Monat Radschab kein geschützter Monat sein. Aus den folgenden Versen wird deutlich, dass die geschützten Monate zusammenhängend sind. Vers 9:2 gewährt den Polytheisten eine Frist von „vier Monaten“, und Vers 9:5 fordert, nach Ablauf dieser „geschützten Monate“ entsprechend zu handeln. Schon allein diese Verse verdeutlichen, dass die geschützten Monate zusammenhängende vier Monate sind. In Vers 9:37 wird die Manipulation der geschützten Monate als schwere Verfehlung dargestellt. Leider wurde diese Warnung missachtet, und die geschützten Monate, die im Koran klar zusammenhängend beschrieben werden, sind – wie viele andere Themen – verfälscht worden."
+    },
+    {
+      "type": "paragraph",
+      "text": "Im Vers 9:3 wird darauf hingewiesen, dass diese Ankündigung am „Tag der großen Pilgerfahrt“ gemacht wurde. Wenn ab diesem Tag vier Monate vergehen sollen, deutet dies darauf hin, dass dieser Tag der Beginn der geschützten Monate ist. Etwas weiter im Vers 9:36 wird erklärt, dass vier der zwölf Monate geschützt sind. Aus Vers 2:189 wird ersichtlich, dass diese vier Monate nach dem Mondkalender bemessen werden. Da diese Monate vollständige Mondmonate sind, kann daraus geschlossen werden, dass der „Tag der großen Pilgerfahrt“ der erste Tag dieser vier Monate und somit auch der erste Tag eines Monats ist. Der „Tag <span class=\"pb\" data-p=\"618\"></span>der großen Pilgerfahrt“ ist somit der Beginn der geschützten Monate und gleichzeitig der Beginn der Pilgerfahrt. Dass diese Monate geschützten sind, hängt direkt mit der Möglichkeit zusammen, die Pilgerfahrt ungestört durchführen zu können, da das Kämpfen in diesen Monaten verboten ist. Daraus folgt, dass die Pilgerfahrt innerhalb dieser Monate stattfindet. Die Annahme, dass der „Tag der großen Pilgerfahrt“ der einzige relevante Tag für die Pilgerfahrt sei, sowie die Beschränkung der Pilgerfahrt auf einen einzigen Tag, etwa den Aufenthalt am Berg Arafat, ist eine Fehlinterpretation. Diese Sichtweise widerspricht der Beschreibung im Koran und sollte entsprechend korrigiert werden."
+    },
+    {
+      "type": "paragraph",
+      "text": "Somit findet die Pilgerfahrt in den geschützten Monaten statt. Es gibt jedoch unterschiedliche Meinungen darüber, welche Monate dies genau sind. Nach unseren Recherchen möchten wir drei Ansichten vorstellen, die zur weiteren Untersuchung anregen sollen:"
+    },
+    {
+      "type": "paragraph",
+      "text": "A. Dies sind die Monate Schawwal, Dhū l-Qaʿda und Dhū l-Hiddscha, die bereits als Pilgerfahrt Monate bekannt sind. Die geschützten Monate umfassen in diesem Fall diese drei Monate, ergänzt durch den Monat Muharram, der direkt an Dhū l-Hiddscha anschließt. Der Monat Radschab, der in einigen Quellen ebenfalls als geschützter Monat genannt wird, ist hier ausgeschlossen, da er nicht zusammenhängend mit den anderen Monaten ist. Stattdessen wird Schawwal als einer der geschützten Monate betrachtet. Nach dieser Ansicht gehört der Monat Muharram nicht zu den Pilgerfahrt Monaten, sondern wurde als <span class=\"pb\" data-p=\"619\"></span>geschützter Monat definiert, um den Rückweg der Pilger zu erleichtern. Diese Perspektive deutet darauf hin, dass die Tradition, die Pilgerfahrt auf wenige Tage zu beschränken, nicht mit dem Koran im Einklang steht. Die geschützten Monate sollten als Zeitraum für die Pilgerfahrt anerkannt werden, was eine flexiblere und harmonischere Durchführung ermöglichen würde."
+    },
+    {
+      "type": "paragraph",
+      "text": "B. Nach der zweiten Ansicht werden zu den Monaten, die derzeit als Pilgerfahrt Monate akzeptiert sind und aufeinander folgen (Schawwal, Dhu l-Qaʿda und Dhu l-Hiddscha), der Monat „Muharram“ hinzugefügt, sodass vier Pilgerfahrt Monate entstehen, die gleichzeitig die geschützten Monate sind. Der Unterschied zur ersten Ansicht besteht darin, dass hier Pilgerfahrt Monate und geschützten Monate identisch betrachtet werden. Tatsächlich bewertete auch al-Zuhri die im Vers 9:4 erwähnten zusammenhängenden vier Monate als „Schawwal, Dhu l-Qaʿda, Dhu l-Hiddscha und Muharram“.<sup class=\"fn-ref\"><a href=\"#fn-567\" id=\"fnref-567\">567</a></sup> Von diesen Monaten überschneiden sich „Dhu l-Qaʿda“ und „Dhu l-Hiddscha“ mit den als geschützten Monate bezeichneten, während „Muharram“, was wörtlich „der geschützte Monat“ bedeutet, durch Hinzufügen die vier Monate vervollständigt. Gleichzeitig wird der Monat „Radschab“, der in einigen Traditionen als geschützter Monat gilt, ausgeschlossen, da er nicht an diese Monate anschließt. Auf diese Weise entstehen durch die Zusammenführung der als Pilgerfahrt Monate <span class=\"pb\" data-p=\"620\"></span>und geschützten Monate bekannten Zeiträume vier Monate: „Schawwal, Dhu l-Qaʿda, Dhu l-Hiddscha und Muharram“."
+    },
+    {
+      "type": "paragraph",
+      "text": "C. Die dritte Ansicht, die wir ebenfalls bevorzugen, lautet wie folgt:: Wie der erste Tag dieser Monate als „Tag der großen Pilgerfahrt“ bezeichnet wird, ist es plausibel, dass der erste dieser Monate „Dhul-Hiddscha“ ist, was übersetzt „Monat der Pilgerfahrt“ bedeutet. Daraus folgt, dass die Pilgerfahrt in den Monaten „Dhul-Hiddscha, Muharram, Safar und Rabiul-Awwal“ stattfindet. Diese Ansicht wird durch die Bedeutung des Monatsnamens „Muharram“ (geschützter Monat) gestützt, der die Zugehörigkeit zu diesen vier Monaten bestätigt. Ein weiterer Hinweis ist die Bedeutung des Monatsnamens „Rabiul-Awwal“. Dieser zusammengesetzte Begriff bedeutet „Erster Vierter“ und könnte darauf hindeuten, dass „Rabiul-Awwal“ der vierte und letzte Monat der geschützten Monate ist. Der darauf folgende Monat heißt „Rabiul-Achir“ (letzterer Vierter), was seine Position als vierter Monat im Mondkalender widerspiegelt. Diese Benennung unterstützt die Interpretation, dass die geschützten Monate mit „Dhul-Hiddscha“ beginnen und mit „Rabiul-Awwal“ enden. Einige Korankommentartoren wie at-Tabari, al-Dahhak ibn Muzahim, Qatada ibn Diama, as-Suddi und andere vertreten ebenfalls die Ansicht, dass die in Vers 9:2 erwähnten vier Monate mit dem „10. Dhul-Hiddscha“ beginnen, nach „Muharram“ und „Safar“, mit dem „10. Rabiul-Awwal“ enden. Wenn wir die Korrektur vornehmen, dass die geschützten Monate die vier <span class=\"pb\" data-p=\"621\"></span>vollen Monate sein sollten, die hier gemeint sind, d. h. vom Beginn von „Dhul-Hiddscha“ bis zum Ende von „Rabiul-Awwal“, und den Fehler von 10 Tagen korrigieren, unterstützen diese vier zusammenhängenden Monate die dritte Ansicht, die wir zitiert haben."
+    },
+    {
+      "type": "paragraph",
+      "text": "Die Praxis, die Pilgerfahrt auf wenige Tage zu begrenzen, widerspricht dem Koran und führt zu chaotischen Szenen, bei denen Menschen gedrängt werden und es zu Todesfällen kommt. Diese künstliche Einschränkung der Pilgerfahrt auf einen engen Zeitraum sollte überdacht werden, um den ursprünglichen Geist des Korans zu wahren. Der Koran gibt klare Hinweise darauf, dass die Pilgerfahrt über mehrere Monate hinweg durchgeführt werden kann, wodurch sie harmonischer und sicherer gestaltet werden könnte."
+    },
+    {
+      "type": "paragraph",
+      "text": "Während der Offenbarungszeit des Korans war die zeitliche Ausdehnung der Pilger Monate allgemein bekannt. Doch durch später erfolgte Verzerrungen wurde die Durchführung der Pilgerfahrt auf wenige Tage beschränkt, was zu Gedränge und tragischen Todesfällen geführt hat. Diese Einschränkung der Pilgerfahrt auf wenige Tage wurde durch verschiedene Rechtsschulen als verpflichtend erklärt. Die Beschränkung basiert auf der Annahme, dass der Prophet Mohammad (einige Biografie-Experten berichten, dass er bereits vor seiner Auswanderung nach Medina an der Pilgerfahrt teilnahm) diese rituelle Handlung ebenfalls innerhalb eines kurzen Zeitraums vollzog. Doch selbst wenn diese Annahme korrekt sein sollte, kann daraus nicht abgeleitet werden, dass die Pilgerfahrt ausschließlich an diesen Tagen erfolgen darf. Diese Logik ist vergleichbar mit der Annahme, dass das Morgengebet nur exakt zehn Minuten nach dem Beginn der festgelegten <span class=\"pb\" data-p=\"622\"></span>Zeit verrichtet werden könnte, nur weil eine Überlieferung berichtet, dass der Prophet zu diesem Zeitpunkt betete. Daraus zu schließen, dass das Gebet weder früher noch später möglich sei, wäre offensichtlich falsch. Genauso verhält es sich mit der zeitlichen Einschränkung der Pilgerfahrt. Der Koran gibt vielmehr Raum für eine flexiblere Handhabung, die den ursprünglichen Geist und die Praktikabilität der Pilgerfahrt wahrt."
+    },
+    {
+      "type": "heading",
+      "text": "4. Benimmregel im Weihezustand",
+      "plain": "4. Benimmregel im Weihezustand",
+      "slug": "4-benimmregel-im-weihezustand"
+    },
+    {
+      "type": "paragraph",
+      "text": "Die Pilgerfahrt ist eine Form des Gottesdienstes, bei der die Menschen auf ihre Handlungen besonders achten und in Gemeinschaft zusammenkommen. Während der Pilgerfahrt gibt es weder Streit noch sündhaftes Verhalten, und ehelicher Geschlechtsverkehr ist untersagt (Koran 2:197). Der Pilger macht dabei einige ihm normalerweise erlaubte Dinge (wie Geschlechtsverkehr) für sich selbst unzulässig. Dieses Einhalten bestimmter Regeln wird als Weihezustand (<em>Ichram</em>) bezeichnet. Der Weihezustand des Pilgers bedeutet, diese spezifischen Vorschriften während der Pilgerfahrt einzuhalten. Eine weitere im Weihezustand verbotene Handlung ist die Jagd (Koran 5:95-96). Der Koran macht sogar deutlich, dass dies nur die Jagd an Land betrifft, während das Essen und das Fischen von Meerestieren erlaubt ist. Solche Details der Pilgerfahrt finden sich ebenfalls in den Koranversen."
+    },
+    {
+      "type": "heading",
+      "text": "5. Jagdverbot im Weihezustand",
+      "plain": "5. Jagdverbot im Weihezustand",
+      "slug": "5-jagdverbot-im-weihezustand"
+    },
+    {
+      "type": "paragraph",
+      "text": "Wer das Jagdverbot im Weihezustand absichtlich bricht, muss als Strafe äquivalent dem getöteten Tier ein entsprechendes Opfer bringen, das zur Kaaba gebracht wird. Zwei <span class=\"pb\" data-p=\"623\"></span>gerechte Personen bestimmen das entsprechende Opfertier. Alternativ kann der Übeltäter Bedürftige speisen oder eine Anzahl von Fastentagen absolvieren, um seine Sünde zu sühnen (Koran 5:95)."
+    },
+    {
+      "type": "heading",
+      "text": "6. Die kleine Pilgerfahrt (Umrah)",
+      "plain": "6. Die kleine Pilgerfahrt (Umrah)",
+      "slug": "6-die-kleine-pilgerfahrt-umrah"
+    },
+    {
+      "type": "paragraph",
+      "text": "Die <em>Umrah</em> bedeutet „Besuch“ und stellt im Gegensatz zur <em>Hadsch</em>, die zu einer bestimmten Zeit durchgeführt wird, eine jederzeit mögliche Pilgerfahrt dar. Sowohl die <em>Hadsch</em> als auch die <em>Umrah</em> müssen für Gott vollzogen werden (Koran 2:196). Politische Propaganda, persönliche Interessen oder Täuschungen des Volkes haben bei diesen Ritualen keinen Platz. Das Ziel muss immer das Wohlgefallen Gottes sein. Wer daran gehindert wird, diese Riten durchzuführen, muss ein Opfer darbringen. Bis dieses Opfer seinen Bestimmungsort erreicht, dürfen die Haare nicht geschnitten werden. Kranke oder Personen mit Kopfproblemen können durch Fasten, Almosen oder ein weiteres Opfer Ersatz leisten. Wer während der Sicherheit die <em>Umrah</em> vor der <em>Hadsch</em> durchführen möchte, muss ein leichtes Opfer bringen. Wer dazu nicht in der Lage ist, fastet insgesamt zehn Tage: drei während der <em>Hadsch</em> und sieben nach der Rückkehr. Dies gilt jedoch nicht für Personen, die in der Nähe der Kaaba wohnen. Alle diese Regelungen finden sich im Koran 2:196."
+    },
+    {
+      "type": "heading",
+      "text": "7. Die Opfergabe und Reinigung",
+      "plain": "7. Die Opfergabe und Reinigung",
+      "slug": "7-die-opfergabe-und-reinigung"
+    },
+    {
+      "type": "paragraph",
+      "text": "Die Opfergaben werden im Namen Gottes dargebracht. Ein Teil davon wird an Bedürftige verteilt, der Rest kann <span class=\"pb\" data-p=\"624\"></span>verzehrt werden (Koran 22:28).<sup class=\"fn-ref\"><a href=\"#fn-568\" id=\"fnref-568\">568</a></sup> Während der Pilgerfahrt sollen rituelle Verunreinigungen abgelegt und Gelübde erfüllt werden (Koran 22:29). Da „sich reinigen“ eine allgemeine Aufforderung ist, sollte während der Pilgerfahrt, die viele Menschen zusammenbringt, auf umfassende Hygiene geachtet werden. Der Koran erwähnt zudem, dass man mit geschnittenem oder rasiertem Haar die geschützte Gebetsstätte (Masdschid al-Haram) betritt (Koran 48:27). Dies dient dazu, die Umrundung (<em>Tawaf</em>) um die Kaaba in einem sauberen Zustand durchzuführen (Koran 22:29). Auch die Reinhaltung der Kaaba und ihrer Umgebung wird im Koran hervorgehoben (Koran 22:26)."
+    },
+    {
+      "type": "heading",
+      "text": "8. Maschar al-Haram bzw. Muzdalifa",
+      "plain": "8. Maschar al-Haram bzw. Muzdalifa",
+      "slug": "8-maschar-al-haram-bzw-muzdalifa"
+    },
+    {
+      "type": "paragraph",
+      "text": "Nach dem Verlassen von Arafat sollte man sich in Maschar al-Haram bzw. Muzdalifa aufhalten und Gott gedenken. Dieses Gedenken (<em>dhikr</em>) soll in der Art erfolgen, wie Gott es uns lehrt (Koran 2:198). Da Gott uns im Koran lehrt, wie wir Seiner gedenken sollen, muss auch dieses Gedenken mit den Lehren des Koran übereinstimmen."
+    },
+    {
+      "type": "heading",
+      "text": "<span class=\"pb\" data-p=\"625\"></span>9. Um Vergebung bitten",
+      "plain": "9. Um Vergebung bitten",
+      "slug": "9-um-vergebung-bitten"
+    },
+    {
+      "type": "paragraph",
+      "text": "Danach sollte man vom Sammelplatz der Menschen aufbrechen und Gott um Vergebung bitten (Koran 2:199)."
+    },
+    {
+      "type": "heading",
+      "text": "10. Gottes Gedenken (dhikr)",
+      "plain": "10. Gottes Gedenken (dhikr)",
+      "slug": "10-gottes-gedenken-dhikr"
+    },
+    {
+      "type": "paragraph",
+      "text": "Nach Abschluss der rituellen Handlungen soll man weiterhin kraftvoll Gottes gedenken (Koran 2:200)."
+    },
+    {
+      "type": "heading",
+      "text": "11. Gezählte Tage",
+      "plain": "11. Gezählte Tage",
+      "slug": "11-gezaehlte-tage"
+    },
+    {
+      "type": "paragraph",
+      "text": "Während der „gezählten Tage“ (<em>ayyam al-ma´dudat</em>) soll Gott gedacht werden. Diejenigen, die es wünschen, können ihren Gottesdienst in zwei Tagen vollenden, und diejenigen, die es wünschen, können sie über einen längeren Zeitraum verteilen (Koran 2:203). In Bezug auf die Pilgerfahrt kann man sich fragen, wie die Ausdrücke „gezählte Tage“ (<em>ayyam al-ma´dudat</em>) in Vers 22:28 und „gezählte Tage“ (<em>ayyam al-ma´dudat</em>) in Vers 2:203 zu verstehen sind. In Vers 2:184 wird derselbe Ausdruck „gezählten Tage“ (<em>ayyam al-ma´dudat</em>) erwähnt, was so verstanden wurde, dass das Fasten während der Tage des Mondmonats Ramadan eingehalten werden soll (der Mondmonat dauert 29 oder 30 Tage). In gleicher Weise bedeutet der Ausdruck bezüglich der Pilgerfahrt, dass es obligatorisch ist, im Weihezustand (<em>Ichram</em>) zu sein und diese Anbetung innerhalb der Tage des Mondmonats, der für die Pilgerfahrt bestimmt ist, zu verrichten. Es ist jedoch nicht verpflichtend, die Pilgerfahrt während all dieser Monate zu verrichten; sie kann, wie in 2:203 erwähnt, in zwei Tagen vollzogen werden."
+    },
+    {
+      "type": "heading",
+      "text": "<span class=\"pb\" data-p=\"626\"></span>12. Der Besuch von Safa und Marwa",
+      "plain": "12. Der Besuch von Safa und Marwa",
+      "slug": "12-der-besuch-von-safa-und-marwa"
+    },
+    {
+      "type": "paragraph",
+      "text": "Der Besuch der beiden kleinen Hügel Safa und Marwa wird in Koran 2:158 erwähnt, wobei betont wird, dass es keine Sünde darstellt, sie nicht zu besuchen. Da Safa und Marwa als „Zeichen Gottes“ (<em>scha´air Allah</em>) bezeichnet werden, wird der Besuch positiv bewertet. Es wäre jedoch falsch, diese Praxis als Pflicht zu deklarieren, da sie lediglich als „nicht sündhaft“ beschrieben wird. Obwohl es einige gibt, wie Sufyan ath-Thauri, die sagen, dass diese Praxis nicht „verpflichtend“ ist, und andere, wie die Hanafis, die sie nicht als verpflichtend betrachten (im Hanafismus ist diese Praxis notwendig (<em>wadschib</em>)), haben viele Leute diese Praxis als „verpflichtend“ bezeichnet.<sup class=\"fn-ref\"><a href=\"#fn-569\" id=\"fnref-569\">569</a></sup>"
+    },
+    {
+      "type": "list",
+      "items": [
+        {
+          "label": "13.",
+          "text": "<strong>Symbolische Steinigung des Teufel (al-Dschamarat) </strong>Der Brauch der „symbolischen Steinigung des Teufels“ wird im Koran nicht erwähnt. Diese Praxis, bei der sich die meisten Unfälle und Todesfälle ereignen, ist kein Bestandteil der <em>Hadsch</em>. Die hanafitische Schule betrachtet diese Handlung nicht als Pflicht (<em>fard</em>), sondern als notwendig (<em>wadschib</em>). Daher gilt die Pilgerfahrt auch ohne diese Handlung als gültig. Einige behaupten, dass, als damals von „Pilgerfahrt“ die Rede war, auch die Praxis der <span class=\"pb\" data-p=\"627\"></span>„symbolischen Steinigung des Teufels“ verstanden wurde, sodass diese Praxis in den Gottesdienst der Pilgerfahrt eingeschlossen werden sollte und dass sie nur symbolisch sei. Zunächst einmal, wenn wir uns die Beschreibungen des Teufels im Koran ansehen, sehen wir, dass es nicht möglich ist, den Teufel als ein Wesen zu verstehen, der irgendwo steht und darauf wartet, gesteinigt zu werden. Da im Koran der Besuch der Kaaba, Arafat, Maschar al-Haram und sogar der Besuch von Safa und Marwa, die nicht verpflichtend sind, erwähnt wird, hätte eine Pflicht- oder empfohlene Handlung, wie das „symbolische Steinigung des Teufels“ ebenfalls Erwähnung finden müssen. Daher können wir sagen, dass diese Praxis nicht Teil des <em>Hadsch</em>-Gottesdienstes ist."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "14. Der schwarze Stein, Frauen, Stellvertreter Pilgerfahrt, Kleidung, Zamzam",
+      "plain": "14. Der schwarze Stein, Frauen, Stellvertreter Pilgerfahrt, Kleidung, Zamzam",
+      "slug": "14-der-schwarze-stein-frauen-stellvertreter-pilgerfahrt"
+    },
+    {
+      "type": "paragraph",
+      "text": "Rituale um den Schwarzen Stein (<em>Hadschar al-Aswad</em>), bei denen Menschen sich gegenseitig bedrängen, widersprechen dem Geist des Korans. Behauptungen, Frauen dürften nicht alleine zur Pilgerfahrt reisen, basieren auf unbegründeten Einschränkungen, die mit dem Islam nichts zu tun haben. Auch das Konzept, stellvertretend die Pilgerfahrt für andere durchzuführen, findet im Koran keine Grundlage. Verbote wie das Tragen von genähter Kleidung oder das Auftragen von Düften während der Pilgerfahrt sind ebenfalls nicht gemäß dem Koran. Vorstellungen, dass Gegenstände wie Düfte, Kappen, Gebetsteppiche oder das Zamzam-Wasser, die vom Hadsch oder von anderswo kommen, besondere Belohnungen und Segnungen bringen oder heilig wären, sind allesamt erfunden. <span class=\"pb\" data-p=\"628\"></span>In diesem Kapitel haben wir erläutert, wie die im Koran vorgeschriebenen Gebete, das Fasten, die Pflichtabgabe und die Pilgerfahrt zu verstehen sind. Es wurde deutlich, dass diese Rituale ohne Rückgriff auf Hadith- oder Handbücher nachvollziehbar sind. Diese Riten, die in der Gemeinschaft praktiziert werden, waren zur Zeit Abrahams bekannt und werden im Koran ausreichend erläutert. Der Koran dient auch als Korrektiv für bestehende Missverständnisse. Die Richtigkeit unserer Erklärungen misst sich an ihrer Übereinstimmung mit dem Koran. Möge Gott uns rechtleiten, denn Gott allein weiß alles am besten."
+    }
+  ],
+  "footnotes": [
+    {
+      "n": 545,
+      "text": "Anm. d. Übers.: Prädestination bezeichnet die Vorstellung, dass Gott alles im Voraus bestimmt hat, einschließlich des Schicksals jedes Einzelnen. Die Diskussion über Prädestination und freien Willen führte zu theologischen Spannungen; siehe auch: Zeki Bayraktar, <em>In Bezug auf sein Sendschreiben über die „Prädestination” Hasan Al-Basris: Sunnah-Verständnis und Inquisition in der muslimischen Geschichte</em>, tredition, 2024."
+    },
+    {
+      "n": 546,
+      "text": "Süleyman Ates, <em>Koran-Enzyklopädie</em>, Band 1, Waschung."
+    },
+    {
+      "n": 547,
+      "text": "Anm. d. Übers.: Bei der ersten Auflage dieses Buches im Jahre 2000 waren die Mobiltelefone noch nicht so entwickelt wie heute. Heute gibt es viele nützliche Applikationen, die bei der Findung der Gebetsrichtung unterstützen können."
+    },
+    {
+      "n": 548,
+      "text": "Hierauf wird weiter unten näher eingegangen."
+    },
+    {
+      "n": 549,
+      "text": "<em> Abu Dawud</em>."
+    },
+    {
+      "n": 550,
+      "text": "Koran 19:59."
+    },
+    {
+      "n": 551,
+      "text": "Anm. d. Übers.: Der bestimmte Artikel ist ein grammatikalisches Mittel, um ein Substantiv als bekannt, eindeutig oder spezifisch zu markieren. Er weist darauf hin, dass sich das Substantiv auf etwas bereits Erwähntes oder Vertrautes bezieht. Im Arabischen gibt es den bestimmten Artikel „<em>al-</em>“, der wie im Deutschen dazu dient, ein Substantiv zu bestimmen (z. B. <em>al-kitab</em> = „das Buch“). Anders als im Deutschen gibt es jedoch keine Anpassung des Artikels an Geschlecht, Fall oder Anzahl. Während im Deutschen Artikel wie „der“, „die“ und „das“ entsprechend dem Genus und Kasus des Substantivs variieren, bleibt „<em>al-</em>“ im Arabischen immer unverändert. Dies macht die Verwendung des bestimmten Artikels im Arabischen grammatikalisch einfacher, aber erfordert bei der Übersetzung ins Deutsche Anpassungen."
+    },
+    {
+      "n": 552,
+      "text": "Anm. d. Übers.: Ein weiterer Ansatz zur Ermittlung der Gebetseinheiten basiert auf den Koranversen 4:101–103, die die Verkürzung des Gebets bei Lebensgefahr erläutern. Die Verkürzung der Muslime bei Lebensgefahr auf je 1 Gebetseinheit deutet darauf hin, dass der Prophet als Vorbeter mit 2 Gebetseinheiten das Gebet vollständig verrichtet hat. Dieser Ansatz ist jedoch nicht weit verbreitet. Jedoch scheint es mir persönlich momentan der vernünftigste Ansatz zu sein. Und Gott weiß es sicherlich am besten!"
+    },
+    {
+      "n": 553,
+      "text": "Zeki Bayraktar, <em>Kuran ve Sünnet Ama Hangi Sünnet: Nebinin Sünneti Mi Resulun Sünneti Mi</em> (<em>Koran und Sunna, aber welche Sunna: Sunna des Propheten oder Sunna des Gesandten</em>), Veröffentlichungen der Süleymaniye Stiftung, 2015."
+    },
+    {
+      "n": 554,
+      "text": "Ben Abrahamson, <em>Tracing the Derivation of Prayer Positions from Torah, to Temple Times, to Modern Practice</em>; Vedat Yılmaz, Das Gebet, das jeder kennt, Zeitschrift Buch und Weisheit, Jahr: 2, Ausgabe: 4."
+    },
+    {
+      "n": 555,
+      "text": "Siehe Kapitel 16 zum Konzept der „<em>Sunna der Ummah</em>“."
+    },
+    {
+      "n": 556,
+      "text": "Anm. d. Übers.: Mit der Anmerkung am Anfang dieses Unterkapitels, wo ich einen weiteren Ansatz mit 2 Gebetseinheiten für alle Gebete vorgestellt hatte, würde ein solches Problem erst gar nicht entstehen. Denn andernfalls würden die beiden im Text vorgestellten Ansätze die in den vorherigen Kapiteln belegte Aussage vom “detaillierten Koran” nicht stützen. Somit müsste ausgegangen werden, dass keine Gebetseinheit im Koran erwähnt sei. Gott weiß es am besten!"
+    },
+    {
+      "n": 557,
+      "text": "<em> Abu Dawud</em>, al-Salah (Das Gebet)."
+    },
+    {
+      "n": 558,
+      "text": "<em> Ibn Hanbal</em>; <em>Abu Dawud</em>; <em>Hakim</em>; <em>Ibn al-Baihaqi</em>. al-Hākim al-Naysaburi, al-Baihaqi."
+    },
+    {
+      "n": 559,
+      "text": "Ben Abrahamson, <em>Tracing the Derivation of Prayer Positions from Torah, to Temple Times, to Modern Practice</em>; Vedat Yılmaz, Das Gebet, das jeder kennt, Zeitschrift Buch und Weisheit, Jahr: 2, Ausgabe: 4."
+    },
+    {
+      "n": 560,
+      "text": "Anm. d. Übers.: Als Übersetzer dieses Buches möchte ich anmerken, dass ich persönlich den hier erwähnten zweiten Ansatz mit fünf Gebetszeiten unterstütze. Ergänzend zu den im weiteren Text herangezogenen Verse 2:238; 11:114; 17:78 ist der Vers 20:130 ebenfalls bei diesem Thema hilfreich. Durch die genaue Analyse dieser vier Verse, einschließlich ihrer Semantik, erhalte ich das Ergebnis mit den 5 täglichen Gebetszeiten."
+    },
+    {
+      "n": 561,
+      "text": "Anm. d. Übers.: <em>Talqin</em> oder auch <em>talqiyn</em> (<em>talqiyn al-mayyit</em>, dt. Unterweisung der Leiche) ist auf gut Deutsch ein Betrugsversuch für den Verstorbenen bei der Beisetzung gegenüber Gottes Befragung. Wesentlicher Bestandteil dieses Aberglaubens ist das Glaubensbekenntnis. Idealerweise wird bereits der Sterbende dazu veranlasst die Aussage „<em>la ilaaha illa Allah</em>“ (Absolut keine Gottheit außer Gott) zu sagen."
+    },
+    {
+      "n": 562,
+      "text": "Anm. d. Übers.: Der Begriff <em>al-siyam</em> im Koran wird häufig als „Fasten“ übersetzt, obwohl seine eigentliche Bedeutung „Abstinenz“ oder „Enthaltsamkeit“ ist. Diese umfasst nicht nur den Verzicht auf Nahrung und Trinken, sondern auch auf Geschlechtsverkehr. Die geläufige Gleichsetzung mit „Fasten“ verengt den umfassenden spirituellen und disziplinarischen Charakter, da Fasten allein eher eine Diät darstellt und den ganzheitlichen Ansatz von <em>al-siyam</em> nicht vollständig widerspiegelt."
+    },
+    {
+      "n": 563,
+      "text": "Anm. d. Übers.: Den Hinweis zum Berechnen finden wir im Koranvers 55:5 „Die Sonne und der Mond sind mit einer Berechnung“. Selbst heute wird noch, anhand einem Hadith in <em>Buchari</em>, behauptet, dass der Mond gesichtet werden müsste. Dieser Hadith lautet wie folgt: „<em>Ibn Umar, Gottes Wohlgefallen auf beiden, berichtete, dass er den Gesandten Gottes, Gottes Segen und Heil auf ihm, folgendes sagen hörte: „Wenn ihr ihn (den Neumond) seht, dann fastet, und wenn ihr ihn wieder seht, dann beendet euer Fasten, und wenn seine Sichtung nicht möglich ist, so schätzt die Zeit dafür. ...</em>“ (Quelle: <em>Buchari</em>, Das Buch des Fastens (Kapitel 28), Hadith Nr. 1900, siehe auch: https://islamische-datenbank.de/sahih-al-buchari?action=viewh adith&amp;chapterno=28&amp;min=0&amp;show=10 ). Ein weiterer Hadith lautet „<em>Abdallah Ibn Umar, Gottes Wohlgefallen auf beiden berichtete, dass der Gesandte Gottes, Gottes Segen und Heil auf ihm, sagte: „Der (Mond-) Monat hat neunundzwanzig Nächte, so beginnt das Fasten nicht, bis ihr ihn (den Neumond) gesichtet habt. Und wenn die Sichtung nicht möglich ist, so vollendet die Zahl dreißig Tage.</em>“ (Quelle: <em>Buchari</em>, Das Buch des Fastens (Kapitel 28), Hadith Nr. 1907, siehe auch: https:// islamische-datenbank.de/sahih-al-buchari?action=viewhadith&amp;chapterno=28&amp;m in=10&amp;show=10). Dies ist auch zugleich ein weiterer Beleg, dass die Hadithe dem Koran widersprechen. Zusätzlich ist es ebenfalls ein Beleg dafür, dass die Hadithe sich untereinander widersprechen und dass eigene Sichten von Klerikern den Menschen vorgetragen und andere Sichten verheimlicht werden. Denn nur etwas weiter in demselben Kapitel desselben Buches steht folgender Hadith: „<em>Wir sind ein unkundiges Volk, weder schreiben noch rechnen wir. Der Monat ist so und so lang, also einmal neunundzwanzig und einmal dreißig Tage.</em>“ (<em>Buchari</em>, Bd. 1, Das Buch des Fastens, Hüner Verlag, Konya (Türkei), 2003, S.461-463). Merkwürdigerweise erscheint dieser Hadith weder in der oben erwähnten noch in weiteren Internetquellen (aufgerufen am 02.01.2024). Jedoch sind alle 3 Hadithe in der Veröffentlichung des Hüner Verlags vorhanden. Dies sorgt auch in Deutschland dafür, dass unterschiedliche Anfänge und Feste in den einzelnen Gruppierungen ausgeübt werden."
+    },
+    {
+      "n": 564,
+      "text": "Anm. d. Übers.: Eine Klärung ist notwendig, da Muslime oft die bürgerliche Dämmerung (beginnend mit sichtbarem Sonnenlicht am Horizont) mit der astronomischen Dämmerung (wenn die Sonne 18 Grad unter dem Horizont steht) verwechseln. Diese Unterscheidung ist wichtig für die genauen Zeiten des Fastenbeginns und der Gebete. Die Süleymaniye Vakfı (Stiftung) hat eine methodische Herangehensweise entwickelt, die auf präzisen astronomischen Berechnungen basiert, und bietet eine wissenschaftlich fundierte Lösung, die für eine korrekte Einhaltung der Gebets- und Fastenzeiten empfohlen werden kann. Siehe folgenden Artikel: <em>Gebets- und Fastenzeiten vom Äquator bis zu den Polen </em>https://www.suleymaniyevakfi. org/arastirmalar/fikih-arastirmalari/ramazan-ve-oruc/ekvatordan-kutuplara-namaz-ve-oruc-vakitleri.html (abgerufen am 03.01.2025)."
+    },
+    {
+      "n": 565,
+      "text": "Anm. d. Übers.: Auch bekannt als „die heiligen Monate“ oder „die <em>haram</em>-Monate”. Eine der Bedeutungen von <em>haram</em> ist “unverletzlich”."
+    },
+    {
+      "n": 566,
+      "text": "Anm. d. Übers.: Mit <em>Masdchid al-Haram</em>, der geschützten Gebetsstätte, ist die Kaaba."
+    },
+    {
+      "n": 567,
+      "text": "Vgl. Elmalılı Hamdi Yazır, <em>Tafsir</em> (<em>Koranexegese</em>) zu 9:2; at-Tabari, <em>Tafsir</em> (<em>Koranexegese</em>) zu 9:2."
+    },
+    {
+      "n": 568,
+      "text": "Anm. d. Übers.: Das Opfern von Tieren im Islam hat eine starke soziale und wohltätige Dimension. Ein Großteil des Fleischs wird an Bedürftige verteilt. In einer Welt, in der viele Menschen keinen regelmäßigen Zugang zu Fleisch haben, bietet diese Praxis eine wichtige Unterstützung für unterprivilegierte Gemeinschaften und verdeutlicht den islamischen Fokus auf Solidarität und Teilen. Gemäß der World Vision Deutschland e.V. haben Weltweit 2,4 Milliarden Menschen keinen regelmäßigen Zugang zu Nahrungsmitteln, was etwa 30 % der Weltbevölkerung entspricht. Davon sind schätzungsweise 900 Millionen Menschen von schwerer Ernährungsunsicherheit betroffen (abgerufen am 07.01.2024). Diese Zahlen verdeutlichen, dass ein erheblicher Teil der globalen Bevölkerung keinen verlässlichen Zugang zu ausreichender und nahrhafter Nahrung hat, einschließlich proteinreicher Lebensmittel wie Fleisch."
+    },
+    {
+      "n": 569,
+      "text": "Anm. d. Übers.: Die detaillierten Kategorisierungen von Pflichten und Empfehlungen wie <em>fard</em>, <em>wadschib</em>, <em>Sunna</em> usw., die von den Rechtsschulen eingeführt wurden, stehen oft im Widerspruch zum Geist des Korans, der klare Anweisungen ohne solche komplexen Differenzierungen gibt. Zudem widersprechen sie sich teilweise selbst, wie z. B. die Unterscheidung zwischen <em>fard</em> (absolut verpflichtend) und <em>wadschib</em> („notwendig, aber weniger strikt“, jedoch wörtlich „erforderlich, verbindlich, obligatorisch, verpflichtend usw.“), die in einigen Rechtsschulen gemacht wird, während andere diese Kategorien gleichsetzen. Diese Begriffe schaffen zusätzliche Komplexität und können zur Verwirrung führen, da sie nicht direkt aus dem Koran stammen, sondern spätere juristische Konstruktionen sind. Zu den Rechtsschulen siehe auch Kapitel 14."
+    }
+  ]
+}

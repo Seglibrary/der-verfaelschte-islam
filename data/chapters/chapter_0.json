@@ -1,0 +1,70 @@
+{
+  "number": 0,
+  "title": "Geleitwort & Über die Gruppe",
+  "title_fn": null,
+  "category": {
+    "id": "intro",
+    "title_de": "Einleitung"
+  },
+  "word_count": 343,
+  "reading_time_min": 2,
+  "subheadings": [
+    "Geleitwort des Übersetzers",
+    "Über die Gruppe für Koran-Forschungen Istanbul"
+  ],
+  "proof_images_count": 0,
+  "proof_images": [],
+  "pdf_pages": [
+    5,
+    7
+  ],
+  "sections_count": 10,
+  "sections": [
+    {
+      "type": "verse",
+      "text": "<span class=\"pb\" data-p=\"5\"></span>“Gott überschüttet diejenigen mit Unrat, die ihren Verstand nicht gebrauchen.”",
+      "reference": "Koran 10:100"
+    },
+    {
+      "type": "heading",
+      "text": "<span class=\"pb\" data-p=\"6\"></span>Geleitwort des Übersetzers",
+      "plain": "Geleitwort des Übersetzers",
+      "slug": "geleitwort-des-uebersetzers"
+    },
+    {
+      "type": "paragraph",
+      "text": "Diese Übersetzung ist all jenen gewidmet, die unter der Last eines falsch interpretierten, menschlich fabrizierten und verfälschten “Islam” gelitten haben, weiterhin leiden und noch leiden werden. Es ist ein Ruf zurück zur einzigen wahren Quelle – dem Koran – und eine Erinnerung daran, dass der wahre Islam, wie er im Koran offenbart wurde, auf Vernunft, Barmherzigkeit und Gerechtigkeit basiert."
+    },
+    {
+      "type": "paragraph",
+      "text": "In der Hoffnung, dass dieses Buch all denen Hoffnung und Klarheit schenken wird, die nach der Wahrheit suchen, und möge es ein Licht sein für diejenigen, die durch die Schatten des Fanatismus gegangen sind oder noch gehen werden. Diese Arbeit ist für alle Opfer, deren Leben durch die verzerrten Ansichten eines falschen Glaubens gezeichnet wurde: Kinder, Frauen, Männer, unschuldige Menschen. Möge ihr Leiden nicht vergeblich gewesen sein und möge die wahre Botschaft des Islam den Frieden und die Erleuchtung bringen, die sie verdienen."
+    },
+    {
+      "type": "paragraph",
+      "text": "Hoffentlich wird dieses Buch dazu beitragen, den wahren Islam des Korans zu erkennen, der einzig und allein Gott ins Zentrum stellt und keine andere Quelle neben Ihm erhöht."
+    },
+    {
+      "type": "paragraph",
+      "text": "Möge Gott, unser Herr und Erzieher, der Schöpfer aller Dinge, unsere Bemühungen annehmen!"
+    },
+    {
+      "type": "heading",
+      "text": "<span class=\"pb\" data-p=\"7\"></span>Über die Gruppe für Koran-Forschungen Istanbul",
+      "plain": "Über die Gruppe für Koran-Forschungen Istanbul",
+      "slug": "ueber-die-gruppe-fuer-koran-forschungen-istanbul"
+    },
+    {
+      "type": "paragraph",
+      "text": "Die Gruppe für Koran-Forschungen Istanbul hat sich zum Ziel gesetzt, zu beweisen, dass der Koran die von Gott an die Menschheit gesandte Botschaft ist, ihn bestmöglich zu verstehen, zu erklären und seine Umsetzung zu fördern. Dabei sieht sie es als ihre Aufgabe an, auf Zweifel einzugehen, die in Bezug auf den Koran aufgeworfen werden, und unrechtmäßige, den Koran widersprechende Praktiken, die in den Islam eingeführt wurden, zu identifizieren."
+    },
+    {
+      "type": "paragraph",
+      "text": "Diese Gruppe besteht aus Akademikern und Intellektuellen aus verschiedenen Fachbereichen wie Theologie, Soziologie, Philosophie und Ingenieurwissenschaften. Sie ist mit keiner religiösen Gemeinschaft oder Gruppe verbunden und setzt sich für Frieden, Toleranz und Einheit unter allen Muslimen ein, unabhängig von konfessionellen (Rechtsschulen) oder gruppenbezogenen Unterschieden."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ihre Ansichten verbreitet die Gruppe durch Bücher, Artikel, Internetseiten und soziale Medien. Ein zentrales Prinzip ihrer Arbeit ist es, weder materiellen noch immateriellen Nutzen aus diesen Aktivitäten zu ziehen."
+    }
+  ],
+  "footnotes": []
+}
